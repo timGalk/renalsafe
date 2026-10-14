@@ -26,3 +26,7 @@ Human clinical items belong to Phase 2: regulatory applicability, source currenc
 ## Offline smoke
 
 `example-request.json`: synthetic adult, age 70, actual weight 72 kg, creatinine 2.8 mg/dL. CG=25 mL/min; CKD-EPI 2021=23.53527009785177 mL/min/1.73m2. The pending-only clinical snapshot yields `MANUAL_REVIEW_REQUIRED / NO_APPROVED_RULE` with no action or dose. Journal validation reports one verified event. This demonstrates fail-safe eligibility rather than a clinical recommendation.
+
+## Installed repository verification
+
+After copying to `/home/apollo/Pwr/RenalSafe`, all 30 top-level tests passed again with race detection, `go vet ./...` passed and normal `go build` succeeded with VCS metadata enabled. Local repository initialized and implementation committed; hosted CI has not run.

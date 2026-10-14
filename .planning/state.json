@@ -1,7 +1,7 @@
 {
   "contract": "1.0.0",
   "flavor": "core",
-  "milestone": "v0.1 — verifiable core before application",
+  "milestone": "v0.1 \u2014 verifiable core before application",
   "phases": [
     {
       "number": "1",
@@ -30,9 +30,9 @@
     }
   ],
   "next": {
-    "command": "/gsd:progress --next",
-    "label": "Advance to the next step",
-    "reason": "Phase 02 of 5 · executing"
+    "command": "$gsd-execute-phase 2",
+    "label": "Prepare sources and obtain clinical review",
+    "reason": "Phase 1 software verified; Phase 2 clinical approval pending"
   },
-  "updated_at": "2026-10-14T10:37:12.885Z"
+  "updated_at": "2026-10-14T10:40:34.706135+00:00"
 }
