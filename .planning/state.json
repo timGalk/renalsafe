@@ -1,0 +1,38 @@
+{
+  "contract": "1.0.0",
+  "flavor": "core",
+  "milestone": "v0.1 — verifiable core before application",
+  "phases": [
+    {
+      "number": "1",
+      "name": "Decision engine",
+      "status": "complete"
+    },
+    {
+      "number": "2",
+      "name": "Clinical knowledge base",
+      "status": "pending"
+    },
+    {
+      "number": "3",
+      "name": "Persisted API",
+      "status": "pending"
+    },
+    {
+      "number": "4",
+      "name": "Ingestion and review",
+      "status": "pending"
+    },
+    {
+      "number": "5",
+      "name": "Retrieval and evaluation",
+      "status": "pending"
+    }
+  ],
+  "next": {
+    "command": "/gsd:progress --next",
+    "label": "Advance to the next step",
+    "reason": "Phase 02 of 5 · executing"
+  },
+  "updated_at": "2026-10-14T10:37:12.885Z"
+}

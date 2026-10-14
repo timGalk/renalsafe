@@ -1,0 +1,7 @@
+# Clinical review backlog
+
+No approved clinical rules. One source-grounded PENDING contraindication candidate, no dose schedule. SmPC retrieved directly from EMA on 2026-10-14, PDF SHA256 6fdebd4ffab4d65c0f88f2d9fedf86e816358c723b5b8edac8e90f1c47487499; content-addressed retrieval version, not an invented revision date. The full combined product information contains multiple strengths, adult and paediatric formulations: this candidate is restricted to the first 75 mg hard-capsule product, adult primary VTE prevention. Section 4.3, physical PDF page 6; the renal metric is explicitly Cockcroft–Gault in section 4.2. Quote occurrence and file identity checked mechanically. Full context, indication spelling/mapping, formulation scope and completeness require a pharmacist. No conclusion is made above or at 30 mL/min; no normal-dose rule inferred.
+
+Review checklist for a human: confirm regulatory applicability in Poland and current ChPL; inspect full §§4.1–4.5; verify exact range inclusivity and age restrictions; review all competing conditions; record reviewer identity, time and content digest only after approval; construct independent expected cases. KB JSON is a trusted administrative artifact, not an approval API. Role strings/digests detect omissions and edits but do not authenticate identity: Phase 3 must supply RBAC and approval signatures.
+
+Other products named in architecture are a proposed dataset, not a source of dose rules. Their candidates remain absent until official sources and clinical validation are available.

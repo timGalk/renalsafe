@@ -1,0 +1,3 @@
+# Accepted context
+
+User explicitly authorizes plan and implementation, prioritizes engine, forbids fabricated clinical rules. Architecture revision 3 fixes Go core. Exact drug product, formulation, route and indication required; metric is attached to each rule. Adults with stable renal function only. AKI, dialysis, uncertain creatinine validity or body composition block automated advice. Engineering plausibility and freshness limits are explicitly versioned prototype policy, not prescribing guidance. No CG weight imputation or eGFR de-indexing. Clinical records remain PENDING. Synthetic approved fixtures live only in tests.
