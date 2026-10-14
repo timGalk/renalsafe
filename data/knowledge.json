@@ -1,0 +1,47 @@
+{
+  "version": "candidate-pradaxa-2026-10-14",
+  "synthetic": false,
+  "sources": [
+    {
+      "id": "ema-pradaxa-2026-10-14",
+      "url": "https://www.ema.europa.eu/en/documents/product-information/pradaxa-epar-product-information_en.pdf",
+      "version": "retrieved-2026-10-14-sha256-6fdebd4ffab4d65c0f88f2d9fedf86e816358c723b5b8edac8e90f1c47487499",
+      "retrieved_at": "2026-10-14T10:22:10.772073+00:00",
+      "document_file": "sources/pradaxa-ema-2026-10-14.pdf",
+      "document_sha256": "6fdebd4ffab4d65c0f88f2d9fedf86e816358c723b5b8edac8e90f1c47487499",
+      "text_file": "sources/pradaxa-ema-2026-10-14.txt",
+      "text_sha256": "3b8c704d15771c24708a2b11dfc1469d807d5600e02200403f1c965ed0ce1b70",
+      "synthetic": false
+    }
+  ],
+  "rules": [
+    {
+      "id": "pradaxa-75-adult-renal-contraindication",
+      "version": "candidate-1",
+      "context": {
+        "product": "Pradaxa 75 mg",
+        "route": "oral",
+        "form": "hard capsule",
+        "indication": "primary VTE prevention after elective hip or knee replacement"
+      },
+      "metric": "CRCL_CG",
+      "unit": "mL/min",
+      "range": {
+        "lower": 0,
+        "upper": 30,
+        "lower_inclusive": true,
+        "upper_inclusive": false
+      },
+      "action": "AVOID",
+      "citation": {
+        "source_id": "ema-pradaxa-2026-10-14",
+        "section": "4.3",
+        "page": 6,
+        "quote": "Severe renal impairment (CrCL < 30 mL/min) in adult patients",
+        "document_sha256": "6fdebd4ffab4d65c0f88f2d9fedf86e816358c723b5b8edac8e90f1c47487499",
+        "source_version": "retrieved-2026-10-14-sha256-6fdebd4ffab4d65c0f88f2d9fedf86e816358c723b5b8edac8e90f1c47487499"
+      },
+      "status": "PENDING"
+    }
+  ]
+}
