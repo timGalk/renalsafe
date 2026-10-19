@@ -31,3 +31,7 @@ Phase 1 plans 01-01/02/03; Phase 3 plans 03-01/02; Phase 4 plan 04-01; Phase 5 p
 ADR-002 allows software infrastructure alongside clinical Phase 2 without activating candidates. Embedded plain browser client and Poppler implement the current slice. RAG is extractive; local embeddings optional. No real embedding-quality result or generative model run claimed. All approvals in tests use synthetic fixtures in a disposable database.
 
 GSD planning, plan check, execution and verification performed inline using the skill adapter fallback. No independent agent review claimed. Database-owner bypass, production identity, external audit anchoring and disaster recovery remain documented deployment limits.
+
+## Presentation update — 2026-10-19
+
+The full browser interface, accessibility labels, client messages and numeric formatting now use English. English browser smoke covers assessment, evidence, review, document upload controls and mobile layout. Clinical sources and decision semantics are unchanged. See docs/demo-guide.md for a short English walkthrough.

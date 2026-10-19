@@ -11,7 +11,7 @@ python3 scripts/bootstrap-local.py
 docker compose up -d --build
 ```
 
-Open **http://127.0.0.1:8080**. Open `.local/tokens.json` locally and copy the `physician` key into the login field. Choose “Заполнить синтетический пример”, select a product and calculate. Use the `pharmacist` key for document/rule review and `admin` for administration. The browser keeps the key only in memory, never localStorage, cookies or URLs.
+Open **http://127.0.0.1:8080**. Open `.local/tokens.json` locally and copy the `physician` key into the login field. Choose “Load synthetic example”, select a product and calculate. Use the `pharmacist` key for document/rule review and `admin` for administration. The browser keeps the key only in memory, never localStorage, cookies or URLs.
 
 The seeded real-source candidate remains **PENDING**: the example returns manual review without an automated action or dose. Do not approve clinical records merely to make the demonstration return a recommendation. Approved fixtures exist only in isolated tests.
 
