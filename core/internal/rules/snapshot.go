@@ -26,19 +26,9 @@ func (s Snapshot) Knowledge() domain.Knowledge {
 	return k
 }
 func mustJSON(v any) []byte { b, _ := json.Marshal(v); return b }
+
+// Load validates files pinned by an offline knowledge bundle.
 func Load(b []byte, root string, allowSynthetic bool) (Snapshot, error) {
-	var k domain.Knowledge
-	if e := domain.Decode(b, &k); e != nil {
-		return Snapshot{}, e
-	}
-	if k.Version == "" || k.Sources == nil || k.Rules == nil {
-		return Snapshot{}, fmt.Errorf("version, sources and rules required")
-	}
-	if k.Synthetic && !allowSynthetic {
-		return Snapshot{}, fmt.Errorf("synthetic KB prohibited")
-	}
-	sources := map[string]domain.Source{}
-	texts := map[string]string{}
 	read := func(path, hash string) ([]byte, error) {
 		if path == "" || filepath.IsAbs(path) {
 			return nil, fmt.Errorf("relative source path required")
@@ -68,6 +58,37 @@ func Load(b []byte, root string, allowSynthetic bool) (Snapshot, error) {
 		}
 		return v, nil
 	}
+	return load(b, read, allowSynthetic)
+}
+
+// LoadWithFiles applies the same validation to immutable documents read from storage.
+func LoadWithFiles(b []byte, files map[string][]byte, allowSynthetic bool) (Snapshot, error) {
+	read := func(path, hash string) ([]byte, error) {
+		clean := filepath.Clean(path)
+		if path == "" || filepath.IsAbs(path) || clean == ".." || strings.HasPrefix(clean, ".."+string(filepath.Separator)) {
+			return nil, fmt.Errorf("invalid source path")
+		}
+		v, ok := files[path]
+		if !ok || domain.BytesDigest(v) != hash {
+			return nil, fmt.Errorf("source missing or changed: %s", path)
+		}
+		return v, nil
+	}
+	return load(b, read, allowSynthetic)
+}
+func load(b []byte, read func(string, string) ([]byte, error), allowSynthetic bool) (Snapshot, error) {
+	var k domain.Knowledge
+	if e := domain.Decode(b, &k); e != nil {
+		return Snapshot{}, e
+	}
+	if k.Version == "" || k.Sources == nil || k.Rules == nil {
+		return Snapshot{}, fmt.Errorf("version, sources and rules required")
+	}
+	if k.Synthetic && !allowSynthetic {
+		return Snapshot{}, fmt.Errorf("synthetic KB prohibited")
+	}
+	sources := map[string]domain.Source{}
+	texts := map[string]string{}
 	for _, s := range k.Sources {
 		u, e := url.Parse(s.URL)
 		if s.ID == "" || s.Version == "" || s.RetrievedAt.IsZero() || e != nil || u.Scheme != "https" || u.Host == "" {
@@ -116,6 +137,25 @@ func Load(b []byte, root string, allowSynthetic bool) (Snapshot, error) {
 		for _, token := range regexp.MustCompile(`[0-9]+(?:\.[0-9]+)?`).FindAllString(r.Citation.Quote, -1) {
 			v, _ := strconv.ParseFloat(token, 64)
 			nums[v] = true
+		}
+		if c := r.Conditions; c != nil {
+			for _, rg := range []*domain.Interval{c.AgeYears, c.WeightKG} {
+				if rg == nil {
+					continue
+				}
+				if !rg.Valid() || rg.Lower != 0 && !nums[rg.Lower] || rg.Upper != nil && !nums[*rg.Upper] {
+					return Snapshot{}, fmt.Errorf("unsupported condition range or absent source number")
+				}
+			}
+			if r.Status == "APPROVED" && len(c.Unmodeled) > 0 {
+				return Snapshot{}, fmt.Errorf("unmodeled clinical conditions require manual review")
+			}
+		}
+		if cap := r.RegimenLimit; cap != nil {
+			validUnit := cap.MaxSingleDose.Unit == "mg" || cap.MaxSingleDose.Unit == "g" || cap.MaxSingleDose.Unit == "microgram" || cap.MaxSingleDose.Unit == "IU"
+			if !validUnit || !domain.Finite(cap.MaxSingleDose.Value) || cap.MaxSingleDose.Value <= 0 || !domain.Finite(cap.MinIntervalHours) || cap.MinIntervalHours <= 0 || !nums[cap.MaxSingleDose.Value] || !nums[cap.MinIntervalHours] || r.Action == "AVOID" {
+				return Snapshot{}, fmt.Errorf("invalid or ungrounded structured regimen")
+			}
 		}
 		if r.Range.Lower != 0 && !nums[r.Range.Lower] {
 			return Snapshot{}, fmt.Errorf("lower threshold absent from quote")

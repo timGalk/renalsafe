@@ -8,17 +8,21 @@ import (
 	"renalsafe/core/internal/rules"
 )
 
-const Version = "0.1.0"
+const Version = "0.2.0"
 
 func Assess(req domain.Request, kb rules.Snapshot) domain.Assessment {
 	k := kb.Knowledge()
 	a := domain.Assessment{EngineVersion: Version, PolicyVersion: renal.PolicyVersion, KnowledgeVersion: k.Version, KnowledgeDigest: kb.Digest(), Request: req, Renal: renal.Calculate(req.Patient, req.At), Results: []domain.Result{}}
-	for _, ctx := range req.Medications {
+	for medicationIndex, ctx := range req.Medications {
 		r := domain.Result{Context: ctx, Status: "MANUAL_REVIEW_REQUIRED", Reasons: []string{}}
 		fail := func(reason string) {
 			r.Reasons = append(r.Reasons, reason)
 			r.Explanation = "Manual review required: " + reason + ". No automated action or dose is provided."
 			a.Results = append(a.Results, r)
+		}
+		if domain.ValidatePrescriptionInputs(req) != nil {
+			fail("INVALID_PRESCRIPTION_INPUT")
+			continue
 		}
 		if !ctx.Valid() {
 			fail("MEDICATION_CONTEXT_REQUIRED")
@@ -71,6 +75,26 @@ func Assess(req domain.Request, kb rules.Snapshot) domain.Assessment {
 			fail("APPROVAL_NOT_YET_EFFECTIVE")
 			continue
 		}
+		if c := rule.Conditions; c != nil {
+			reason := ""
+			if len(c.Unmodeled) > 0 {
+				reason = "UNMODELED_CLINICAL_CONDITIONS"
+			}
+			if c.AgeYears != nil && !c.AgeYears.Contains(float64(req.Patient.Age)) {
+				reason = "AGE_CONDITION_NOT_MET"
+			}
+			if c.WeightKG != nil {
+				if req.Patient.Weight == nil || req.Patient.Weight.Unit != "kg" {
+					reason = "CONDITION_INPUT_MISSING"
+				} else if !c.WeightKG.Contains(req.Patient.Weight.Value) {
+					reason = "WEIGHT_CONDITION_NOT_MET"
+				}
+			}
+			if reason != "" {
+				fail(reason)
+				continue
+			}
+		}
 		if !rule.Range.Covers(estimate.Low, estimate.High) {
 			fail("UNCERTAINTY_CROSSES_RULE_BOUNDARY")
 			continue
@@ -91,7 +115,42 @@ func Assess(req domain.Request, kb rules.Snapshot) domain.Assessment {
 		if rule.DoseText != "" {
 			r.Explanation += " Instructions: " + rule.DoseText
 		}
+		for _, rx := range req.Prescriptions {
+			if rx.MedicationIndex == medicationIndex {
+				r.PrescriptionCheck = comparePrescription(rx, rule)
+			}
+		}
 		a.Results = append(a.Results, r)
 	}
 	return a
+}
+
+// Compare only explicit source-backed limits. No unit conversion or dosing inference.
+func comparePrescription(rx domain.Prescription, r domain.Rule) *domain.PrescriptionCheck {
+	out := &domain.PrescriptionCheck{Status: "MANUAL_REVIEW_REQUIRED", Reasons: []string{}}
+	if r.Action == "AVOID" {
+		out.Status = "OUTSIDE_RULE_LIMITS"
+		out.Reasons = append(out.Reasons, "MATCHED_RULE_AVOIDS_USE")
+		return out
+	}
+	if r.RegimenLimit == nil {
+		out.Reasons = append(out.Reasons, "NO_STRUCTURED_REGIMEN_LIMIT")
+		return out
+	}
+	cap := r.RegimenLimit
+	if rx.Dose.Unit != cap.MaxSingleDose.Unit {
+		out.Reasons = append(out.Reasons, "REGIMEN_UNIT_MISMATCH")
+		return out
+	}
+	out.Status = "WITHIN_RULE_LIMITS"
+	if rx.Dose.Value > cap.MaxSingleDose.Value {
+		out.Reasons = append(out.Reasons, "SINGLE_DOSE_EXCEEDS_SOURCE_LIMIT")
+	}
+	if rx.IntervalHours < cap.MinIntervalHours {
+		out.Reasons = append(out.Reasons, "INTERVAL_SHORTER_THAN_SOURCE_LIMIT")
+	}
+	if len(out.Reasons) > 0 {
+		out.Status = "OUTSIDE_RULE_LIMITS"
+	}
+	return out
 }

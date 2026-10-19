@@ -2,3 +2,11 @@ core/renalsafe
 *.audit.jsonl
 *.lock
 coverage.out
+.local/
+.env
+work/
+outputs/
+core/renalsafe-server
+
+__pycache__/
+*.pyc

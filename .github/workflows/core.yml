@@ -8,5 +8,9 @@ jobs:
       - uses: actions/setup-go@v5
         with:
           go-version: '1.25.1'
-      - run: go vet ./... && go test -race -cover ./...
+      - run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - run: go vet ./...
+        working-directory: core
+      - run: python3 scripts/test-integration.py
+      - run: go run ./cmd/renalsafe-openapi > /tmp/renalsafe-openapi.json && diff ../api/openapi.json /tmp/renalsafe-openapi.json
         working-directory: core

@@ -80,3 +80,13 @@ func TestApprovalBoundToSourceVersion(t *testing.T) {
 		t.Fatal("approval survived replacement of source")
 	}
 }
+
+func TestUnmodeledConditionsCannotBeApproved(t *testing.T) {
+	k, root := testkit.Fixture(t)
+	k.Rules[0].Conditions = &domain.RuleConditions{Unmodeled: []string{"SYNTHETIC condition not supported"}}
+	testkit.Sign(&k.Rules[0])
+	b, _ := json.Marshal(k)
+	if _, e := rules.Load(b, root, true); e == nil {
+		t.Fatal("unmodeled conditions approved")
+	}
+}

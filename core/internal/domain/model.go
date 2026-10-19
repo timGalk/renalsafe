@@ -84,9 +84,10 @@ type Patient struct {
 	ActualWeightConfirmed  *bool     `json:"actual_weight_confirmed"`
 }
 type Request struct {
-	At          time.Time `json:"assessment_at"`
-	Patient     Patient   `json:"patient"`
-	Medications []Context `json:"medications"`
+	At            time.Time      `json:"assessment_at"`
+	Patient       Patient        `json:"patient"`
+	Medications   []Context      `json:"medications"`
+	Prescriptions []Prescription `json:"prescriptions,omitempty"`
 }
 type Interval struct {
 	Lower          float64  `json:"lower"`
@@ -137,18 +138,41 @@ type Approval struct {
 	At            time.Time `json:"at"`
 	ContentDigest string    `json:"content_digest"`
 }
+
+// RuleConditions are deliberately limited to directly checkable source-backed ranges.
+// Conditions that cannot be represented here must remain unmodeled and block approval.
+type RuleConditions struct {
+	AgeYears  *Interval `json:"age_years,omitempty"`
+	WeightKG  *Interval `json:"weight_kg,omitempty"`
+	Unmodeled []string  `json:"unmodeled,omitempty"`
+}
+type RegimenLimit struct {
+	MaxSingleDose    Quantity `json:"max_single_dose"`
+	MinIntervalHours float64  `json:"min_interval_hours"`
+}
+type Prescription struct {
+	MedicationIndex int      `json:"medication_index"`
+	Dose            Quantity `json:"dose"`
+	IntervalHours   float64  `json:"interval_hours"`
+}
+type PrescriptionCheck struct {
+	Status  string   `json:"status"`
+	Reasons []string `json:"reasons"`
+}
 type Rule struct {
-	ID       string    `json:"id"`
-	Version  string    `json:"version"`
-	Context  Context   `json:"context"`
-	Metric   Metric    `json:"metric"`
-	Unit     string    `json:"unit"`
-	Range    Interval  `json:"range"`
-	Action   string    `json:"action"`
-	DoseText string    `json:"dose_text,omitempty"`
-	Citation Citation  `json:"citation"`
-	Status   string    `json:"status"`
-	Approval *Approval `json:"approval,omitempty"`
+	Conditions   *RuleConditions `json:"conditions,omitempty"`
+	RegimenLimit *RegimenLimit   `json:"regimen_limit,omitempty"`
+	ID           string          `json:"id"`
+	Version      string          `json:"version"`
+	Context      Context         `json:"context"`
+	Metric       Metric          `json:"metric"`
+	Unit         string          `json:"unit"`
+	Range        Interval        `json:"range"`
+	Action       string          `json:"action"`
+	DoseText     string          `json:"dose_text,omitempty"`
+	Citation     Citation        `json:"citation"`
+	Status       string          `json:"status"`
+	Approval     *Approval       `json:"approval,omitempty"`
 }
 
 func (r Rule) ContentDigest() string { r.Approval = nil; r.Status = ""; return Digest(r) }
@@ -172,15 +196,16 @@ type RenalResult struct {
 	Warnings  []string   `json:"warnings"`
 }
 type Result struct {
-	Context     Context   `json:"context"`
-	Status      string    `json:"status"`
-	Reasons     []string  `json:"reasons"`
-	Action      string    `json:"action,omitempty"`
-	DoseText    string    `json:"dose_text,omitempty"`
-	Rule        *Rule     `json:"rule,omitempty"`
-	Source      *Source   `json:"source,omitempty"`
-	Selected    *Estimate `json:"selected,omitempty"`
-	Explanation string    `json:"explanation"`
+	PrescriptionCheck *PrescriptionCheck `json:"prescription_check,omitempty"`
+	Context           Context            `json:"context"`
+	Status            string             `json:"status"`
+	Reasons           []string           `json:"reasons"`
+	Action            string             `json:"action,omitempty"`
+	DoseText          string             `json:"dose_text,omitempty"`
+	Rule              *Rule              `json:"rule,omitempty"`
+	Source            *Source            `json:"source,omitempty"`
+	Selected          *Estimate          `json:"selected,omitempty"`
+	Explanation       string             `json:"explanation"`
 }
 type Assessment struct {
 	EngineVersion    string      `json:"engine_version"`
@@ -239,4 +264,15 @@ func rejectDuplicateKeys(b []byte) error {
 		return e
 	}
 	return walk(0)
+}
+
+func ValidatePrescriptionInputs(req Request) error {
+	seen := map[int]bool{}
+	for _, p := range req.Prescriptions {
+		if p.MedicationIndex < 0 || p.MedicationIndex >= len(req.Medications) || seen[p.MedicationIndex] || !Finite(p.Dose.Value) || p.Dose.Value <= 0 || p.Dose.Unit == "" || !Finite(p.IntervalHours) || p.IntervalHours <= 0 {
+			return fmt.Errorf("invalid or duplicated prescription")
+		}
+		seen[p.MedicationIndex] = true
+	}
+	return nil
 }

@@ -23,7 +23,7 @@ func Request() domain.Request {
 func Fixture(t *testing.T) (domain.Knowledge, string) {
 	t.Helper()
 	root := t.TempDir()
-	text := []byte("Synthetic software fixture only. 30 boundary. Not clinical evidence.")
+	text := []byte("Synthetic software fixture only. Renal boundary 30; age 18 to 120; weight 20 to 100; dose 10 mg every 24 hours. Not clinical evidence.")
 	if e := os.WriteFile(filepath.Join(root, "source.txt"), text, 0600); e != nil {
 		t.Fatal(e)
 	}

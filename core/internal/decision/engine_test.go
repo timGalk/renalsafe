@@ -145,3 +145,34 @@ func TestFutureApprovalNotEffective(t *testing.T) {
 	}
 	manual(t, Assess(testkit.Request(), testkit.Load(t, k, root)).Results[0])
 }
+
+func TestSourceBackedConditionsAndRegimenComparison(t *testing.T) {
+	k, root := testkit.Fixture(t)
+	req := testkit.Request()
+	k.Rules[1].Conditions = &domain.RuleConditions{AgeYears: &domain.Interval{Lower: 18, Upper: testkit.Float(120), LowerInclusive: true, UpperInclusive: true}, WeightKG: &domain.Interval{Lower: 20, Upper: testkit.Float(100), LowerInclusive: true, UpperInclusive: true}}
+	k.Rules[1].RegimenLimit = &domain.RegimenLimit{MaxSingleDose: domain.Quantity{Value: 10, Unit: "mg"}, MinIntervalHours: 24}
+	testkit.Sign(&k.Rules[1])
+	s := testkit.Load(t, k, root)
+	for _, c := range []struct {
+		dose, interval float64
+		unit, status   string
+	}{{10, 24, "mg", "WITHIN_RULE_LIMITS"}, {11, 12, "mg", "OUTSIDE_RULE_LIMITS"}, {1, 24, "g", "MANUAL_REVIEW_REQUIRED"}} {
+		req.Prescriptions = []domain.Prescription{{MedicationIndex: 0, Dose: domain.Quantity{Value: c.dose, Unit: c.unit}, IntervalHours: c.interval}}
+		r := Assess(req, s).Results[0]
+		if r.PrescriptionCheck == nil || r.PrescriptionCheck.Status != c.status {
+			t.Fatalf("%+v %+v", c, r)
+		}
+	}
+	k.Rules[1].Conditions.AgeYears.Upper = testkit.Float(30)
+	testkit.Sign(&k.Rules[1])
+	manual(t, Assess(req, testkit.Load(t, k, root)).Results[0])
+	k.Rules[1].Conditions = nil
+	k.Rules[1].RegimenLimit = nil
+	testkit.Sign(&k.Rules[1])
+	r := Assess(req, testkit.Load(t, k, root)).Results[0]
+	if r.PrescriptionCheck.Status != "MANUAL_REVIEW_REQUIRED" {
+		t.Fatal("invented regimen limit")
+	}
+	req.Prescriptions = append(req.Prescriptions, req.Prescriptions[0])
+	manual(t, Assess(req, testkit.Load(t, k, root)).Results[0])
+}

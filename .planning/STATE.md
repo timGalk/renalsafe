@@ -1,34 +1,33 @@
 ---
 gsd_state_version: "1.0"
 milestone: v0.1
-milestone_name: verifiable core before application
+milestone_name: verifiable core and main system
 progress:
   total_phases: 5
-  completed_phases: 1
-  total_plans: 7
-  completed_plans: 3
+  completed_phases: 2
+  total_plans: 10
+  completed_plans: 7
 current_phase: 2
 current_phase_name: clinical-kb
 status: ready-for-clinical-review
-last_updated: 2026-10-14
+last_updated: 2026-10-19
 ---
 # State
 
-Phase: 2 of 5 (Clinical knowledge base)
-Plan: 1 of 1
-Status: Phase 1 complete (software verified), Phase 2 partially prepared.
-Last activity: 2026-10-14 - core implemented and verified; official EMA source and one PENDING candidate prepared.
+Phase 2 clinical review is the next human dependency. Phases 1 and 3 software verified; manual Phase 4 and retrieval Phase 5 slices implemented in parallel under ADR-002. Phase 4/5 overall goals remain open.
 
 ## Completed
 
-GSD Phase 1: plans 01-01, 01-02, 01-03 summarized. Verification passed. 30 top-level tests with race detection, vet, built-binary smoke and audit verification pass. No activated clinical rule. Source-bound approval digests and strict defaults prevent candidates becoming recommendations.
+Phase 1 plans 01-01/02/03; Phase 3 plans 03-01/02; Phase 4 plan 04-01; Phase 5 plan 05-01. Go engine 0.2.0, PostgreSQL+pgvector, transactional audit and replay, role-bound review, PDF ingestion, browser, OpenAPI and evidence-only retrieval. 56 top-level tests pass with race detection against disposable real PostgreSQL; vet and browser smoke pass. See docs/system-verification.md.
 
-## Next action
+## Next actions
 
-Resume Phase 2 plan 02-01: acquire current product-specific SmPC/ChPL for five medicines, resolve regulatory applicability and clinical conditions, obtain pharmacist review and independent gold cases. The existing Pradaxa 75 mg adult contraindication candidate remains PENDING. No reviewer approval invented.
+1. Phase 2 / 02-01: current Polish ChPL applicability, five exact products, independent pharmacist review and gold cases. The real EMA candidate stays PENDING.
+2. Phase 4 / 04-02: table-aware splitting, optional pending-only AI extraction and difficult PDF/OCR evaluation.
+3. Phase 5 / 05-02: deploy a pinned local embedding model; compare lexical/hybrid on independently reviewed queries; complete clinical gold set and thesis experiments before considering guarded generation.
 
-## Decisions and limitations
+## Decisions and limits
 
-Architecture revision 3: Go core; no automatic approval. No existing project code or GSD plans found initially. GSD research, planning, plan check, execution and verification performed inline under skill fallback. GSD runtime verified as @opengsd/gsd-core 1.13.0; phase completion command used after passed verification. Clinical validation is a distinct open phase; no full application or completed thesis claimed.
+ADR-002 allows software infrastructure alongside clinical Phase 2 without activating candidates. Embedded plain browser client and Poppler implement the current slice. RAG is extractive; local embeddings optional. No real embedding-quality result or generative model run claimed. All approvals in tests use synthetic fixtures in a disposable database.
 
-Engineering policy and local audit limitations are documented in README.md. Clinical eligibility and golden cases need human review. API/database/RBAC/ingestion/UI/RAG/evaluation remain phases 3–5. Official Go SDK downloaded into this chat's work directory for reproducible local checks.
+GSD planning, plan check, execution and verification performed inline using the skill adapter fallback. No independent agent review claimed. Database-owner bypass, production identity, external audit anchoring and disaster recovery remain documented deployment limits.

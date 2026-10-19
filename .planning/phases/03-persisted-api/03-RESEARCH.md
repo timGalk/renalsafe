@@ -1,0 +1,7 @@
+# Technical research
+
+Sources checked 2026-10-19: pgx official https://github.com/jackc/pgx and pgxpool docs; PostgreSQL transactional advisory locks https://www.postgresql.org/docs/current/explicit-locking.html; pgvector https://github.com/pgvector/pgvector (cosine distance and hybrid RRF). Local provider contract https://github.com/ollama/ollama/blob/main/docs/api.md (embed).
+
+Use pgx transactions with a shared transaction-scoped advisory lock to serialize KB mutations and audit append. DB exclusion constraint protects APPROVED overlaps by exact product/route/form/indication/metric, including concurrent approvals. Audit and assessment commit together. Historical snapshots remain independent of later document/rule status. Auth uses locally provisioned high-entropy bearer credentials; role and reviewer identity come from server-side credential bindings, not submitted JSON. Do not put credentials in logs, URLs or browser storage.
+
+Evidence restricts exact product context and active document versions before ranking; preserve page/section/span and table text. Numeric presence and verbatim grounding are necessary, not proof of clinical semantics. Lexical baseline uses PostgreSQL simple-config full text (no incorrect claim of Polish stemming/BM25). Optional 1024-dimensional local embeddings, model identity checks and RRF; missing embeddings/provider degrade explicitly to lexical. Tests must assert evidence cannot activate rules or change assessment actions. No RAG quality claim without independent gold cases.

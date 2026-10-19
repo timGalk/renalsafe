@@ -58,6 +58,9 @@ func run(args []string, in io.Reader, out io.Writer) error {
 	if e = domain.Decode(b, &req); e != nil {
 		return e
 	}
+	if e = domain.ValidatePrescriptionInputs(req); e != nil {
+		return e
+	}
 	if len(req.Medications) == 0 || len(req.Medications) > 100 {
 		return fmt.Errorf("1–100 medication contexts required")
 	}
