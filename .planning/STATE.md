@@ -10,7 +10,7 @@ progress:
 current_phase: 2
 current_phase_name: clinical-kb
 status: ready-for-clinical-review
-last_updated: 2026-10-19
+last_updated: 2026-10-23
 ---
 # State
 
@@ -35,3 +35,7 @@ GSD planning, plan check, execution and verification performed inline using the 
 ## Presentation update — 2026-10-19
 
 The full browser interface, accessibility labels, client messages and numeric formatting now use English. English browser smoke covers assessment, evidence, review, document upload controls and mobile layout. Clinical sources and decision semantics are unchanged. See docs/demo-guide.md for a short English walkthrough.
+
+## Polish sources acquired — 2026-10-23
+
+Two official Polish RPL ChPLs downloaded and pinned: Meronem (500 mg/1 g, RPL 4282, 14 pages) and Ceftazidime Kabi (1000 mg, RPL 24542, 16 pages). UTF-8 extraction and actual Go section/page/byte provenance checks pass with race detection. Acquisition manifest and report: data/sources/pl-2026-10-23/manifest.json and docs/polish-chpl-acquisition.md. This adds source evidence for Phase 2; no new rules or approvals, database import or clinical validation claimed. KB-01 remains partial and KB-02 remains open.

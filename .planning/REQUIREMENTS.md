@@ -24,7 +24,7 @@
 | ENG-05 | Phase 1 | Complete |
 | ENG-06 | Phase 1 | Complete |
 | ENG-07 | Phase 1 | Complete |
-| KB-01 | Phase 2 | Partial: one pinned source/candidate of five products |
+| KB-01 | Phase 2 | Partial: EMA source/pending candidate plus two Polish RPL sources; five-product reviewed scope unfinished |
 | KB-02 | Phase 2 | Pending human clinical review |
 | API-01 | Phase 3 | Complete (software) |
 | ING-01 | Phase 4 | Manual slice complete; assisted extraction/harder PDF evaluation open |

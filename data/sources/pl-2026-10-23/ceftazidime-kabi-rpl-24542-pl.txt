@@ -1,0 +1,949 @@
+                    CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Ceftazidime Kabi, 1000 mg, proszek do sporządzania roztworu do wstrzykiwań
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Każda fiolka zawiera 1000 mg ceftazydymu (Ceftazidimum) w postaci ceftazydymu pięciowodnego.
+
+Substancja pomocnicza o znanym działaniu:
+Ten produkt leczniczy zawiera 2,3 mmol (52 mg) sodu.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Proszek do sporządzania roztworu do wstrzykiwań
+Proszek o barwie białej do żółtawej
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Ceftazydym jest wskazany w leczeniu wymienionych poniżej zakażeń u pacjentów dorosłych
+i dzieci, w tym u noworodków (od urodzenia).
+
+­     Szpitalne zapalenie płuc.
+­     Zakażenia dolnych dróg oddechowych u pacjentów z mukowiscydozą.
+­     Bakteryjne zapalenie opon mózgowo-rdzeniowych.
+­     Przewlekłe ropne zapalenie ucha środkowego.
+­     Złośliwe zapalenie ucha zewnętrznego.
+­     Powikłane zakażenia dróg moczowych.
+­     Powikłane zakażenia skóry i tkanek miękkich.
+­     Powikłane zakażenia wewnątrzbrzuszne.
+­     Zakażenia kości i stawów.
+­     Zapalenie otrzewnej związane z dializami u pacjentów poddawanych ciągłej ambulatoryjnej
+      dializie otrzewnowej (CAPD, ang. continuous ambulatory peritoneal dialysis).
+
+Leczenie pacjentów z bakteriemią, której związek z którymkolwiek z wymienionych wyżej zakażeń
+jest stwierdzony lub prawdopodobny.
+
+Ceftazydym można stosować w leczeniu pacjentów z neutropenią i gorączką, przypuszczalnie
+wywołaną zakażeniem bakteryjnym.
+
+Ceftazydym można stosować w okołooperacyjnej profilaktyce zakażeń dróg moczowych u pacjentów
+poddanych przezcewkowej resekcji gruczołu krokowego (TURP, ang. trans-urethral resection of the
+prostate).
+
+Wybierając ceftazydym należy wziąć pod uwagę spektrum jego działania przeciwbakteryjnego,
+obejmujące głównie tlenowe bakterie Gram-ujemne (patrz punkty 4.4 i 5.1).
+Ceftazydym należy stosować w skojarzeniu z innymi lekami przeciwbakteryjnymi zawsze, gdy tylko
+rodzaj bakterii wywołujących zakażenie mógłby wykraczać poza zakres działania ceftazydymu.
+
+Należy uwzględnić oficjalne wytyczne dotyczące właściwego stosowania leków przeciwbakteryjnych.
+
+4.2     Dawkowanie i sposób podawania
+
+Dawkowanie
+
+Tabela 1. Pacjenci dorośli i dzieci o masie ciała ≥40 kg
+                                           Podawanie przerywane
+                      Zakażenie                                         Dawka do podania
+ Zakażenia dolnych dróg oddechowych u pacjentów 100 do 150 mg/kg mc./dobę co 8 godzin, do 9 g na
+ z mukowiscydozą                                       dobę1
+ Gorączka neutropeniczna
+ Szpitalne zapalenie płuc
+                                                       2 g co 8 godzin
+ Bakteryjne zapalenie opon mózgowo-rdzeniowych
+ Bakteriemia*
+ Zakażenia kości i stawów
+ Powikłane zakażenia skóry i tkanek miękkich
+ Powikłane zakażenia wewnątrzbrzuszne                  1 do 2 g co 8 godzin
+ Zapalenie otrzewnej związane z dializą u pacjentów
+ poddawanych CAPD
+ Powikłane zakażenia dróg moczowych                    1 do 2 g co 8 lub 12 godzin
+ Okołooperacyjne zapobieganie zakażeniom dróg
+ moczowych u pacjentów poddanych                       1 g podczas wprowadzenia do znieczulenia i druga
+ przezcewkowej resekcji gruczołu krokowego             dawka podczas wyjmowania cewnika
+ (TURP)
+ Przewlekłe ropne zapalenie ucha środkowego
+                                                       1 g do 2 g co 8 godzin
+ Złośliwe zapalenie ucha zewnętrznego
+                                         Podawanie w ciągłej infuzji
+                       Zakażenie                                        Dawka do podania
+ Gorączka neutropeniczna
+ Szpitalne zapalenie płuc
+ Zakażenia dolnych dróg oddechowych u pacjentów
+ z mukowiscydozą
+ Bakteryjne zapalenie opon mózgowo-rdzeniowych
+                                                       Dawka nasycająca 2 g, a następnie ciągła infuzja
+ Bakteriemia*
+                                                       4 do 6 g co 24 godziny1
+ Zakażenia kości i stawów
+ Powikłane zakażenia skóry i tkanek miękkich
+ Powikłane zakażenia wewnątrzbrzuszne
+ Zapalenie otrzewnej związane z dializą
+ u pacjentów poddawanych CAPD
+ 1
+   U pacjentów dorosłych z prawidłową czynnością nerek stosowano dawkę 9 g/dobę bez wystąpienia
+   działań niepożądanych.
+ * Jeśli stwierdzono lub podejrzewa się związek z którymkolwiek z zakażeń wymienionych w punkcie 4.1.
+
+
+
+
+PT/H/0186/002/IA/032                                                                                 2
+Tabela 2. Dzieci o masie ciała <40 kg
+   Niemowlęta w wieku
+                                            Zakażenie                    Dawka zazwyczaj stosowana
+>2 miesięcy i dzieci <40 kg
+                                          Podawanie przerywane
+                               Powikłane zakażenia dróg moczowych
+                               Przewlekłe ropne zapalenie ucha          100 do 150 mg/kg mc./dobę
+                               środkowego                               w trzech dawkach podzielonych,
+                               Złośliwe zapalenie ucha zewnętrznego     nie więcej niż 6 g/dobę
+                               Neutropenia u dzieci
+                               Zakażenia dolnych dróg oddechowych
+                               u pacjentów z mukowiscydozą              150 mg/kg mc./dobę w trzech
+                                                                        dawkach podzielonych, nie więcej
+                               Bakteryjne zapalenie opon mózgowo-       niż 6 g/dobę
+                               rdzeniowych
+                               Bakteriemia*
+                               Zakażenia kości i stawów
+                               Powikłane zakażenia skóry i tkanek
+                                                                        100 do 150 mg/kg mc./dobę
+                               miękkich
+                                                                        w trzech dawkach podzielonych,
+                               Powikłane zakażenia wewnątrzbrzuszne
+                                                                        nie więcej niż 6 g/dobę
+                               Zapalenie otrzewnej związane z dializą
+                               u pacjentów poddawanych CAPD
+                                        Podawanie w ciągłej infuzji
+                               Gorączka neutropeniczna
+                               Szpitalne zapalenie płuc
+                               Zakażenia dolnych dróg oddechowych
+                               u pacjentów z mukowiscydozą
+                               Bakteryjne zapalenie opon mózgowo-       Dawka nasycająca 60 do
+                               rdzeniowych                              100 mg/kg mc., a następnie ciągła
+                               Bakteriemia*                             infuzja w dawce 100 do
+                               Zakażenia kości i stawów                 200 mg/kg mc./dobę, nie więcej
+                               Powikłane zakażenia skóry i tkanek       niż 6 g/dobę
+                               miękkich
+                               Powikłane zakażenia wewnątrzbrzuszne
+                               Zapalenie otrzewnej związane z dializą
+                               u pacjentów poddawanych CAPD
+   Noworodki i niemowlęta
+                                             Zakażenie                    Dawka zazwyczaj stosowana
+    w wieku ≤2 miesięcy
+                                          Podawanie przerywane
+                                                                        25 do 60 mg/kg mc./dobę w dwóch
+                               Większość zakażeń
+                                                                        dawkach podzielonych1
+  1
+    U noworodków i niemowląt w wieku ≤2 miesięcy, okres półtrwania ceftazydymu w surowicy może być
+    trzy- do czterokrotnie dłuższy niż u dorosłych pacjentów.
+  * Jeśli stwierdzono lub podejrzewa się związek z którymkolwiek z zakażeń wymienionych w punkcie 4.1.
+
+Dzieci
+Nie określono bezpieczeństwa stosowania i skuteczności ceftazydymu podawanego w ciągłej infuzji
+u noworodków i niemowląt w wieku ≤2 miesięcy.
+
+Pacjenci w podeszłym wieku
+Ze względu na związany z wiekiem, zmniejszony klirens ceftazydymu u pacjentów w podeszłym
+wieku, dobowa dawka u pacjentów w wieku powyżej 80 lat nie powinna zazwyczaj przekraczać 3 g.
+
+
+
+PT/H/0186/002/IA/032                                                                                   3
+Zaburzenia czynności wątroby
+Dostępne dane nie wskazują na potrzebę zmiany dawkowania w łagodnych lub umiarkowanych
+zaburzeniach czynności wątroby. Brak danych z badań dotyczących pacjentów z ciężkimi
+zaburzeniami czynności wątroby (patrz także punkt 5.2).
+Zalecana jest ścisła obserwacja kliniczna bezpieczeństwa i skuteczności stosowania produktu
+leczniczego.
+
+Zaburzenia czynności nerek
+Ceftazydym jest wydalany przez nerki w postaci niezmienionej. Dlatego u pacjentów z zaburzeniami
+czynności nerek należy zmniejszyć jego dawkę (patrz także punkt 4.4).
+
+Należy podać początkową dawkę nasycającą 1 g ceftazydymu. Dawki podtrzymujące należy
+dostosować do klirensu kreatyniny.
+
+Tabela 3. Zalecane dawki podtrzymujące ceftazydymu u pacjentów z zaburzeniami czynności nerek –
+infuzja przerywana
+
+Pacjenci dorośli i dzieci o masie ciała ≥40 kg
+                               Przybliżone stężenie     Zalecana pojedyncza
+     Klirens kreatyniny                                                           Częstość dawkowania
+                              kreatyniny w surowicy     dawka ceftazydymu
+          (ml/min.)                                                                  (w godzinach)
+                                  µmol/l (mg/dl)                (g)
+                                     150-200
+              50-31                                              1,0                          12
+                                     (1,7-2,3)
+                                     200-350
+              30-16                                              1,0                          24
+                                     (2,3-4,0)
+                                     350-500
+               15-6                                              0,5                          24
+                                     (4,0-5,6)
+                                       >500
+                <5                                               0,5                          48
+                                      (>5,6)
+
+U pacjentów z ciężkimi zakażeniami, należy zwiększyć pojedynczą dawkę produktu leczniczego
+o 50% lub zwiększyć częstość dawkowania.
+U dzieci klirens kreatyniny należy obliczać uwzględniając powierzchnię ciała lub beztłuszczową masę
+ciała.
+
+Dzieci o masie ciała <40 kg
+                             Przybliżone stężenie
+                                                       Zalecana pojedyncza
+     Klirens kreatyniny           kreatyniny                                    Częstość dawkowania
+                                                        dawka ceftazydymu
+        (ml/min.)**              w surowicy*                                       (w godzinach)
+                                                           (mg/kg mc.)
+                                µmol/l (mg/dl)
+                                   150-200
+          50-31                                                   25                     12
+                                   (1,7-2,3)
+                                   200-350
+          30-16                                                   25                     24
+                                   (2,3-4,0)
+                                   350-500
+           15-6                                                  12,5                    24
+                                   (4,0-5,6)
+                                     >500
+            <5                                                   12,5                    48
+                                    (>5,6)
+* Wartości stężenia kreatyniny w surowicy są wartościami wskaźnikowymi, które mogą nie wskazywać
+   tego samego stopnia zmniejszenia czynności nerek u pacjentów ze zmniejszoną czynnością nerek.
+** Oszacowany na podstawie powierzchni ciała lub zmierzony.
+
+Zalecana jest ścisła obserwacja kliniczna bezpieczeństwa stosowania i skuteczności produktu
+leczniczego.
+
+PT/H/0186/002/IA/032                                                                                  4
+Tabela 4. Zalecane dawki podtrzymujące ceftazydymu u pacjentów z zaburzeniami czynności nerek -
+ciągła infuzja
+
+Pacjenci dorośli i dzieci o masie ciała ≥40 kg
+
+      Klirens kreatyniny        Przybliżone stężenie kreatyniny
+                                                                      Częstość dawkowania (w godzinach)
+           (ml/min.)              w surowicy µmol/l (mg/dl)
+
+                                           150-200                  Dawka nasycająca 2 g, a następnie 1 g do
+               50-31
+                                           (1,7-2,3)                          3 g na 24 godziny
+                                         200-350                Dawka nasycająca 2 g, a następnie 1 g na
+               30-16
+                                         (2,3-4,0)                            24 godziny
+                                           >350
+            ≤15                                                              Nieokreślona
+                                          (>4,0)
+Należy zachować staranność w dobieraniu dawek. Zalecana jest ścisła obserwacja kliniczna
+bezpieczeństwa stosowania i skuteczności produktu leczniczego.
+
+Dzieci o masie ciała <40 kg
+Bezpieczeństwo stosowania i skuteczność ceftazydymu podawanego w ciągłej infuzji u dzieci
+z zaburzeniami czynności nerek, o masie ciała <40 kg, nie zostały określone. Zalecana jest ścisła
+obserwacja kliniczna bezpieczeństwa stosowania i skuteczności produktu leczniczego.
+
+Jeśli u dzieci z zaburzeniami czynności nerek stosuje się ciągłą infuzję, klirens kreatyniny należy
+obliczać uwzględniając powierzchnię ciała lub beztłuszczową masę ciała.
+
+Hemodializa
+Okres półtrwania ceftazydymu w surowicy podczas hemodializy wynosi od 3 do 5 godzin.
+
+Po zakończeniu każdej hemodializy zaleca się podanie dawki podtrzymującej ceftazydymu według
+poniższej tabeli.
+
+Dializa otrzewnowa
+Ceftazydym można stosować u pacjentów poddawanych dializie otrzewnowej i w ciągłej
+ambulatoryjnej dializie otrzewnowej (CAPD).
+
+Oprócz podawania ceftazydymu dożylnie można go podawać również w płynie dializacyjnym (zwykle
+125 do 250 mg na 2 litry płynu do dializy).
+
+Pacjentom z niewydolnością nerek poddawanym ciągłej tętniczo-żylnej hemodializie lub
+wysokoprzepływowej hemofiltracji na oddziałach intensywnej terapii: 1 g ceftazydymu na dobę
+w dawce jednorazowej lub w dawkach podzielonych. U pacjentów poddawanych niskoprzepływowej
+hemofiltracji dawkowanie jest takie, jak zalecane w zaburzeniach czynności nerek.
+
+Pacjentom poddawanym żylno-żylnej hemofiltracji i żylno-żylnej hemodializie należy podawać dawki
+zgodnie z zaleceniami zamieszczonymi w tabeli poniżej.
+
+Tabela 5. Zalecane dawki podczas ciągłej żylno-żylnej hemofiltracji
+Resztkowa czynność nerek Dawka podtrzymująca (mg) w zależności od szybkości ultrafiltracji (ml/min.)1
+    (klirens kreatyniny
+                                 5                 16,7             33,3                    50
+         w ml/min.)
+              0                 250                250              500                    500
+              5                 250                250              500                    500
+             10                 250                500              500                    750
+             15                 250                500              500                    750
+             20                 500                500              500                    750
+1
+  Dawkę podtrzymującą należy podawać co 12 godzin.
+
+PT/H/0186/002/IA/032                                                                                     5
+Tabela 6. Zalecane dawki podczas ciągłej żylno-żylnej hemodializy
+
+                           Dawka podtrzymująca (mg) w zależności od szybkości wprowadzanego
+      Resztkowa                                             dializatu1
+   czynność nerek
+                                1,0 litr/godz.                               2,0 litry/godz.
+ (klirens kreatyniny
+                      Szybkość ultrafiltracji (litry/godz.)         Szybkość ultrafiltracji (litry/godz.)
+      w ml/min.)
+                        0,5           1,0             2,0          0,5           1,0                 2,0
+         0              500          500              500          500           500                 750
+         5              500          500              750          500           500                 750
+         10             500          500              750          500           750                1000
+         15             500          750              750          750           750                1000
+         20             750          750             1000          750           750                1000
+1
+  Dawkę podtrzymującą należy podawać co 12 godzin.
+
+Sposób podawania
+
+Ceftazydym podaje się we wstrzyknięciu albo infuzji dożylnej lub głębokim wstrzyknięciu
+domięśniowym. Zalecane miejsca podania domięśniowego to górny, zewnętrzny kwadrant mięśnia
+pośladkowego większego lub boczna część uda. Roztwory ceftazydymu można podawać bezpośrednio
+do żyły lub przez zestaw do infuzji, jeżeli pacjent otrzymuje płyny pozajelitowo.
+
+Podstawową zalecaną drogą podania jest wstrzyknięcie dożylne lub ciągła infuzja dożylna. Podanie
+domięśniowe należy rozważyć jedynie, gdy podanie dożylne nie jest możliwe lub jest mniej właściwe
+dla pacjenta.
+
+Dawka zależy od ciężkości zakażenia, wrażliwości drobnoustrojów, miejsca i rodzaju zakażenia oraz
+od wieku i czynności nerek pacjenta.
+
+Instrukcja dotycząca rekonstytucji produktu leczniczego przed podaniem, patrz punkt 6.6.
+
+4.3     Przeciwwskazania
+
+Nadwrażliwość na ceftazydym lub na inne antybiotyki cefalosporynowe, lub na którąkolwiek
+substancję pomocniczą wymienioną w punkcie 6.1.
+
+Ciężka nadwrażliwość (np. reakcja anafilaktyczna) w wywiadzie na inny rodzaj antybiotyku beta-
+laktamowego (penicyliny, monobaktamy, karbapenemy).
+
+4.4     Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Reakcje nadwrażliwości
+Podobnie jak w przypadku wszystkich antybiotyków beta-laktamowych, obserwowano występowanie
+ciężkich reakcji nadwrażliwości, niekiedy zakończonych zgonem. W razie wystąpienia ciężkich
+reakcji nadwrażliwości, należy natychmiast przerwać leczenie ceftazydymem i wdrożyć odpowiednie
+postępowanie ratunkowe.
+
+Przed wdrożeniem leczenia, należy przeprowadzić szczegółowy wywiad dotyczący ciężkich reakcji
+nadwrażliwości na ceftazydym, inne cefalosporyny lub na inny rodzaj antybiotyku beta-laktamowego.
+Należy zachować ostrożność podczas podawania ceftazydymu pacjentom, u których w przeszłości
+wystąpiły nieciężkie reakcje nadwrażliwości na inne antybiotyki beta-laktamowe.
+
+W związku z leczeniem ceftazydymem notowano ciężkie skórne działania niepożądane (SCAR),
+w tym zespół Stevensa-Johnsona (SJS), toksyczne martwicze oddzielanie się naskórka (TEN), reakcja
+polekowa z eozynofilią i objawami ogólnoustrojowymi (DRESS) oraz ostra uogólniona osutka
+
+
+
+PT/H/0186/002/IA/032                                                                                        6
+krostkowa (AGEP), mogące zagrażać życiu lub prowadzić do zgonu, występujące z częstością
+nieznaną.
+Pacjentów należy poinformować o objawach przedmiotowych i podmiotowych oraz ściśle
+obserwować pod względem występowania reakcji skórnych.
+Jeśli pojawią się objawy przedmiotowe i podmiotowe świadczące o wystąpieniu takich reakcji, należy
+natychmiast odstawić ceftazydym i rozważyć alternatywne leczenie.
+Jeśli podczas stosowania ceftazydymu u pacjenta rozwinęła się poważna reakcja, taka jak SJS, TEN,
+DRESS lub AGEP, nigdy nie należy u niego wznawiać leczenia ceftazydymem.
+
+Zakres działania przeciwbakteryjnego
+Ceftazydym ma ograniczony zakres działania przeciwbakteryjnego. Nie jest odpowiedni do
+stosowania jako jedyny produkt leczniczy w leczeniu niektórych rodzajów zakażeń, chyba że
+wcześniej określono patogen i wiadomo, że jest on wrażliwy lub jest wysoce prawdopodobne,
+że będzie on wrażliwy na leczenie ceftazydymem. Dotyczy to szczególnie ustalania sposobu leczenia
+pacjentów z bakteriemią, a także leczenia bakteryjnego zapalenia opon mózgowo-rdzeniowych,
+zakażeń skóry i tkanek miękkich oraz zakażeń kości i stawów. Ponadto ceftazydym jest wrażliwy na
+hydrolizę przez niektóre z beta-laktamaz o rozszerzonym spektrum (ESBL). Dlatego też wybierając
+ceftazydym do leczenia, należy uwzględnić informacje dotyczące częstości występowania bakterii
+wytwarzających ESBL.
+
+Rzekomobłoniaste zapalenie jelita grubego
+Po podaniu prawie wszystkich leków przeciwbakteryjnych, w tym ceftazydymu, opisywano
+występowanie zapalenia jelita grubego, związanego ze stosowaniem antybiotyku, oraz
+rzekomobłoniastego zapalenia jelita grubego, o nasileniu od łagodnego do zagrażającego życiu.
+Dlatego ważne jest uwzględnienie tego rozpoznania u pacjentów, u których wystąpi biegunka
+w trakcie lub po zakończeniu podawania ceftazydymu (patrz punkt 4.8). Należy rozważyć przerwanie
+leczenia ceftazydymem i podanie produktów leczniczych działających na Clostridium difficile.
+Nie należy podawać leków hamujących perystaltykę jelit.
+
+Długotrwałe stosowanie może powodować nadmierny wzrost niewrażliwych drobnoustrojów
+(np. enterokoków, grzybów) i może być konieczne przerwanie leczenia oraz podjęcie właściwego
+postępowania. Niezbędna jest okresowa ocena stanu pacjenta.
+
+Zaburzenia czynności nerek
+Stosowanie dużych dawek cefalosporyn jednocześnie z lekami nefrotoksycznymi, takimi jak
+antybiotyki aminoglikozydowe lub silnie działające leki moczopędne (np. furosemid), może
+niekorzystnie wpływać na czynność nerek.
+
+Ceftazydym jest wydalany przez nerki, dlatego też jego dawkę należy zmniejszyć proporcjonalnie
+do stopnia ich zaburzenia. U pacjentów z zaburzeniami czynności nerek należy ściśle kontrolować
+bezpieczeństwo stosowania i skuteczność ceftazydymu. Sporadycznie donoszono o występowaniu
+objawów neurologicznych u pacjentów z zaburzeniami czynności nerek, u których nie zmniejszono
+dawki (patrz punkty 4.2 i 4.8).
+
+Wpływ na wyniki badań laboratoryjnych
+Ceftazydym nie wpływa na wyniki testów enzymatycznych wykrywających glukozę w moczu, ale
+mogą wystąpić niewielkie zmiany (fałszywie dodatnie) wyników testów po zastosowaniu metod
+opartych na redukcji miedzi (Benedicta, Fehlinga, Clinitest).
+
+Ceftazydym nie wpływa na wynik alkalicznej próby pikrynianowej na kreatyninę.
+
+U około 5% pacjentów leczonych ceftazydymem występowanie fałszywie dodatniego wyniku testu
+Coombs'a może zaburzać wynik próby zgodności krwi (próby krzyżowej).
+
+Ważne informacje dotyczące jednego ze składników produktu leczniczego Ceftazidime Kabi
+Ten produkt leczniczy zawiera 52 mg sodu na fiolkę, co odpowiada 2,6% zalecanej przez WHO
+maksymalnej 2 g dobowej dawki sodu u osób dorosłych.
+
+PT/H/0186/002/IA/032                                                                                 7
+4.5     Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Badania interakcji prowadzono tylko z probenecydem i z furosemidem.
+
+Stosowanie dużych dawek ceftazydymu jednocześnie z lekami nefrotoksycznymi, może niekorzystnie
+wpływać na czynność nerek (patrz punkt 4.4).
+
+Chloramfenikol jest in vitro antagonistą ceftazydymu i innych cefalosporyn. Znaczenie kliniczne tej
+obserwacji jest nieznane, ale należy to uwzględnić podczas jednoczesnego stosowania
+chloramfenikolu i ceftazydymu.
+
+4.6     Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Istnieją jedynie ograniczone dane dotyczące stosowania ceftazydymu u kobiet w okresie ciąży.
+Badania na zwierzętach nie wykazały bezpośredniego lub pośredniego szkodliwego wpływu na
+przebieg ciąży, rozwój zarodka lub płodu, poród lub rozwój pourodzeniowy (patrz punkt 5.3).
+
+Ceftazydym należy stosować u kobiet w okresie ciąży jedynie wtedy, gdy korzyści wynikające ze
+stosowania produktu leczniczego przewyższają ryzyko.
+
+Karmienie piersią
+Ceftazydym przenika w niewielkich ilościach do mleka ludzkiego, ale podczas podawania
+ceftazydymu w dawkach terapeutycznych, nie jest spodziewany jego wpływ na karmione piersią
+niemowlę. Ceftazydym można stosować podczas karmienia piersią.
+
+Płodność
+Brak danych.
+
+4.7     Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Nie przeprowadzono badań dotyczących wpływu produktu leczniczego na zdolność prowadzenia
+pojazdów i obsługiwania maszyn. Mogą jednak wystąpić działania niepożądane (np. zawroty głowy),
+mogące wpływać na zdolność prowadzenia pojazdów i obsługiwania maszyn (patrz punkt 4.8).
+
+4.8     Działania niepożądane
+
+Najczęściej występującymi działaniami niepożądanymi są: eozynofilia, trombocytoza, zapalenie żył
+lub zakrzepowe zapalenie żył związane z podawaniem dożylnym, biegunka, przemijające zwiększenie
+aktywności enzymów wątrobowych, wysypka grudkowo-plamista lub pokrzywkowa, ból i (lub)
+zapalenie po podaniu domięśniowym oraz dodatni wynik testu Coombs'a.
+
+Na podstawie danych ze sponsorowanych i niesponsorowanych badań klinicznych ustalono częstości
+często i niezbyt często występujących działań niepożądanych. Częstości występowania wszystkich
+pozostałych działań niepożądanych ustalono głównie na podstawie danych uzyskanych
+po wprowadzeniu produktu leczniczego do obrotu i odnoszą się raczej do częstości ich zgłaszania niż
+do ich rzeczywistej częstości występowania. W obrębie każdej grupy częstości, działania niepożądane
+przedstawiono według zmniejszającej się ciężkości. Częstość występowania działań niepożądanych
+zdefiniowano następująco:
+­     bardzo często ≥1/10,
+­     często ≥1/100 do <1/10,
+­     niezbyt często ≥1/1000 do <1/100,
+­     rzadko ≥1/10 000 do <1/1000,
+­     bardzo rzadko <1/10 000,
+­     częstość nieznana (nie może być określona na podstawie dostępnych danych).
+
+
+PT/H/0186/002/IA/032                                                                                  8
+    Klasyfikacja
+     narządów                    Często           Niezbyt często      Bardzo rzadko     Częstość nieznana
+     i układów
+Zakażenia                                      Kandydoza (w tym
+i zarażenia                                    zapalenie pochwy
+pasożytnicze                                   i pleśniawki jamy
+                                               ustnej)
+Zaburzenia krwi            Eozynofilia         Neutropenia                            Agranulocytoza
+i układu                   Trombocytoza        Leukopenia                             Niedokrwistość
+chłonnego                                      Trombocytopenia                        hemolityczna
+                                                                                      Limfocytoza
+Zaburzenia                                                                            Anafilaksja (w tym
+układu                                                                                skurcz oskrzeli
+immunologicznego                                                                      i (lub) zmniejszenie
+                                                                                      ciśnienia tętniczego
+                                                                                      krwi) (patrz punkt 4.4)
+Zaburzenia                                     Ból głowy                              Powikłania
+układu                                         Zawroty głowy                          neurologiczne1
+nerwowego                                                                             Parestezje
+Zaburzenia                 Zapalenie żył
+naczyniowe                 lub zakrzepowe
+                           zapalenie żył
+                           podczas podawania
+                           dożylnego
+Zaburzenia                 Biegunka            Biegunka i zapalenie                   Zaburzenia smaku
+żołądka i jelit                                jelita grubego
+                                               związane ze
+                                               stosowaniem leków
+                                               przeciwbakteryjnych2
+                                               (patrz punkt 4.4)
+                                               Ból brzucha
+                                               Nudności
+                                               Wymioty
+Zaburzenia       Przejściowe                                                          Żółtaczka
+wątroby i dróg   zwiększenie
+żółciowych       aktywności jednego
+                 lub więcej enzymów
+                 wątrobowych3
+Zaburzenia skóry Wysypka grudkowo- Świąd                                              Toksyczna nekroliza
+i tkanki         plamista lub                                                         naskórka
+podskórnej       pokrzywka                                                            Zespół Stevensa-
+                                                                                      Johnsona
+                                                                                      Rumień
+                                                                                      wielopostaciowy
+                                                                                      Obrzęk
+                                                                                      naczynioruchowy
+                                                                                      Reakcja polekowa
+                                                                                      z eozynofilią
+                                                                                      i objawami ogólnymi
+                                                                                      (zespół DRESS)5
+                                                                                      Ostra uogólniona
+                                                                                      osutka krostkowa
+                                                                                      (AGEP)
+
+
+
+
+    PT/H/0186/002/IA/032                                                                                    9
+Zaburzenia nerek                        Przemijające            Śródmiąższowe
+i dróg moczowych                        zwiększenie stężeń      zapalenie nerek
+                                        mocznika, azotu         Ostra niewydolność
+                                        mocznikowego we         nerek
+                                        krwi i (lub)
+                                        kreatyniny
+                                        w surowicy krwi
+Zaburzenia ogólne Ból i (lub) zapalenie Gorączka
+i stany w miejscu w miejscu
+podania           wstrzyknięcia
+                  domięśniowego
+
+Badania               Dodatni wynik testu
+diagnostyczne         Coombs'a 4
+    1
+      Donoszono o występowaniu powikłań neurologicznych obejmujących drżenia, mioklonie, drgawki,
+      encefalopatię i śpiączkę u pacjentów z zaburzeniami czynności nerek, u których nie zmniejszono
+      odpowiednio dawki ceftazydymu.
+    2
+      Biegunka i zapalenie jelita grubego mogą być związane z zakażeniem Clostridium difficile i mogą
+      mieć postać rzekomobłoniastego zapalenia jelita grubego.
+    3
+      AlAT (SGPT), AspAT (SGOT), LDH, GGTP, fosfatazy zasadowej.
+    4
+      Dodatni wynik testu Coombs’a występuje u ok. 5% pacjentów i może zaburzać wynik próby
+      zgodności krwi (próby krzyżowej).
+    5
+      Donoszono o rzadko występujących przypadkach reakcji polekowej z eozynofilią i objawami
+      ogólnymi (zespół DRESS, ang. drug reaction with eosinophilia and systemic symptoms) powiązanej
+      ze stosowaniem ceftazydymu.
+
+    Zgłaszanie podejrzewanych działań niepożądanych
+    Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+    niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+    produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+    wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+    Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+    Wyrobów Medycznych i Produktów Biobójczych
+    Al. Jerozolimskie 181C
+    02-222 Warszawa
+    tel.: +48 22 49 21 301
+    faks: +48 22 49 21 309
+    strona internetowa: https://smz.ezdrowie.gov.pl/
+    Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+    4.9     Przedawkowanie
+
+    Przedawkowanie może prowadzić do powikłań neurologicznych, w tym encefalopatii, drgawek
+    i śpiączki.
+
+    Objawy przedawkowania mogą wystąpić, kiedy dawkowanie nie jest odpowiednio zmniejszone
+    u pacjentów z zaburzeniami czynności nerek (patrz punkty 4.2 i 4.4).
+
+    Stężenie ceftazydymu w surowicy można zmniejszyć stosując hemodializę lub dializę otrzewnową.
+
+
+    5.      WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+    5.1     Właściwości farmakodynamiczne
+
+    Grupa farmakoterapeutyczna: leki przeciwbakteryjne do stosowania ogólnego, cefalosporyny trzeciej
+    generacji; kod ATC: J01DD02.
+
+    PT/H/0186/002/IA/032                                                                                10
+Mechanizm działania
+Ceftazydym hamuje syntezę ściany komórkowej bakterii w wyniku związania się z białkami
+wiążącymi penicyliny (PBP, ang. penicillin binding proteins). Powoduje to przerwanie biosyntezy
+ściany komórkowej (peptydoglikanu), co prowadzi do lizy i obumarcia komórki bakteryjnej.
+
+Zależności farmakokinetyczno-farmakodynamiczne (PK/PD)
+Wykazano, że dla cefalosporyn najważniejszym wskaźnikiem farmakokinetyczno-
+farmakodynamicznym, korelującym ze skutecznością tych produktów leczniczych w warunkach
+in vivo, jest odsetek przedziału czasu między dawkami, w którym stężenie niezwiązanego produktu
+leczniczego jest większe od minimalnego stężenia hamującego (MIC) ceftazydymu w stosunku do
+docelowego gatunku bakterii (tj. %T>MIC).
+
+Mechanizm oporności
+Oporność bakterii na ceftazydym może wynikać z jednego lub kilku następujących mechanizmów:
+­    hydroliza przez beta-laktamazy; ceftazydym może być skutecznie hydrolizowany przez beta-
+     laktamazy o rozszerzonym spektrum (ESBL), w tym przez ich rodzinę SHV, oraz przez enzymy
+     AmpC, które mogą być indukowane lub trwale odblokowywane na etapie genu u niektórych
+     gatunków tlenowych bakterii Gram-ujemnych;
+­    zmniejszone powinowactwo białek wiążących penicyliny do ceftazydymu;
+­    nieprzepuszczalność błony zewnętrznej, co ogranicza dostęp ceftazydymu do białek wiążących
+     penicyliny w bakteriach Gram-ujemnych;
+­    bakteryjne pompy usuwające ceftazydym z komórki.
+
+Wartości graniczne
+Graniczne minimalne stężenia hamujące (MIC) ustalone przez Europejski Komitet Badania
+Wrażliwości Drobnoustrojów (EUCAST, ang. European Committee on Antimicrobial Susceptibility
+Testing) są następujące:
+
+                                                  Wartości graniczne (mg/l)
+             Bakteria
+                                         S                    I                      R
+  Enterobacteriaceae                    ≤1                  2-4                      >4
+  Pseudomonas aeruginosa                ≤81                   -                      >8
+  Wartości graniczne
+                                        ≤4                     8                     >8
+  niezwiązane z gatunkami2
+S=wrażliwe, I=średnio wrażliwe, R=oporne.
+1
+  Wartości graniczne odnoszą się do leczenia dużymi dawkami (2 g x 3).
+2
+  Wartości graniczne niezwiązane z gatunkami zostały określone głównie na podstawie danych
+  PK/PD i są niezależne od rozkładu MIC dla poszczególnych gatunków. Są one wyłącznie do
+  zastosowania wobec gatunków nieuwzględnionych w tabeli lub w przypisach.
+
+Wrażliwość mikrobiologiczna
+Występowanie nabytej oporności poszczególnych gatunków może różnić się pod względem położenia
+geograficznego oraz zmieniać się w czasie. Szczególnie podczas leczenia ciężkich zakażeń należy
+korzystać z lokalnej informacji o oporności. Jeżeli jest to konieczne, należy zasięgnąć porady
+specjalisty w sytuacji, gdy lokalna oporność powoduje, że zasadność zastosowania ceftazydymu
+przynajmniej w niektórych rodzajach zakażeń jest wątpliwa.
+
+           Gatunki zwykle wrażliwe
+
+                 Bakterie tlenowe Gram-dodatnie
+                 Streptococcus pyogenes
+                 Streptococcus agalactiae
+                 Bakterie tlenowe Gram-ujemne
+                 Citrobacter koseri
+                 Haemophilus influenzae
+                 Moraxella catarrhalis
+
+PT/H/0186/002/IA/032                                                                              11
+              Neisseria meningitidis
+              Proteus mirabilis
+              Proteus spp. (inne)
+              Providencia spp.
+              Gatunki, wśród których może wystąpić problem oporności nabytej
+              Bakterie tlenowe Gram-ujemne
+              Acinetobacter baumannii£+
+              Burkholderia cepacia
+              Citrobacter freundii
+              Enterobacter aerogenes
+              Enterobacter cloacae
+              Escherichia coli
+              Klebsiella pneumoniae
+              Klebsiella spp. (inne)
+              Pseudomonas aeruginosa
+              Serratia spp.
+              Morganella morganii
+              Bakterie tlenowe Gram-dodatnie
+              Staphylococcus aureus£
+              Streptococcus pneumoniae££
+              Streptococcus viridans
+              Bakterie beztlenowe Gram-dodatnie
+              Clostridium perfringens
+              Peptostreptococcus spp.
+              Bakterie beztlenowe Gram-ujemne
+              Fusobacterium spp.
+              Drobnoustroje o oporności naturalnej
+              Bakterie tlenowe Gram-dodatnie
+              Enterococcus spp., w tym Enterococcus faecalis i Enterococcus faecium
+              Listeria spp.
+              Bakterie beztlenowe Gram-dodatnie
+              Clostridium difficile
+              Bakterie beztlenowe Gram-ujemne
+              Bacteroides spp. (wiele szczepów Bacteroides fragilis jest opornych)
+              Inne
+              Chlamydia spp.
+              Mycoplasma spp.
+              Legionella spp.
+£
+  S. aureus metycylino-wrażliwy - uważa się, że ma małą wrażliwość wrodzoną na ceftazydym.
+   Wszystkie metycylino-oporne szczepy S. aureus są oporne na ceftazydym.
+££
+   S. pneumoniae, który wykazuje pośrednią wrażliwość na penicyliny, może wykazywać co najmniej
+   zmniejszoną wrażliwość na ceftazydym.
++
+  Obserwowano dużą częstość występowania oporności w jednym lub więcej obszarach (krajach,
+   regionach) UE.
+
+5.2     Właściwości farmakokinetyczne
+
+Wchłanianie
+Po podaniu domięśniowym 500 mg lub 1 g ceftazydymu, szybko osiąga on maksymalne stężenie
+w osoczu, wynoszące odpowiednio 18 mg/l lub 37 mg/l. Po pięciu minutach od wstrzyknięcia
+dożylnego w bolusie pojedynczej dawki 500 mg, 1 g lub 2 g stężenia w osoczu wynoszą odpowiednio
+46 mg/l, 87 mg/l i 170 mg/l. Kinetyka ceftazydymu jest liniowa w zakresie pojedynczych dawek od
+0,5 do 2,0 g po podaniu dożylnym lub domięśniowym.
+
+Dystrybucja
+Wiązanie ceftazydymu przez białka surowicy jest małe i wynosi około 10%. Stężenie ceftazydymu
+większe od MIC - minimalnego stężenia hamującego wzrost powszechnych patogenów, stwierdza się
+
+PT/H/0186/002/IA/032                                                                              12
+w kościach, sercu, żółci, plwocinie, ciele szklistym, płynie stawowym, opłucnowym i otrzewnowym.
+Ceftazydym łatwo przenika przez łożysko i do mleka ludzkiego. Przenikanie do płynu mózgowo-
+rdzeniowego przez nienaruszoną barierę krew-mózg jest niewielkie, z czego wynikają małe stężenia
+ceftazydymu w płynie mózgowo-rdzeniowym, jeśli nie występuje stan zapalny. Jeśli jednak występuje
+stan zapalny opon mózgowo-rdzeniowych, w płynie mózgowo-rdzeniowym osiągane są stężenia
+od 4 do 20 mg/l lub więcej.
+
+Metabolizm
+Ceftazydym nie jest metabolizowany.
+
+Eliminacja
+Po podaniu pozajelitowym stężenie w osoczu zmniejsza się, a okres półtrwania wynosi około
+2 godzin.
+Ceftazydym jest wydzielany w postaci niezmienionej do moczu, w wyniku przesączania
+kłębuszkowego; około 80-90% dawki wydalane jest z moczem w ciągu 24 godzin. Mniej niż 1% jest
+wydalane z żółcią.
+
+Szczególne grupy pacjentów
+
+Pacjenci z zaburzeniami czynności nerek
+Eliminacja ceftazydymu jest zmniejszona u pacjentów z zaburzeniami czynności nerek i dawkę należy
+wówczas zmniejszyć (patrz punkt 4.2).
+
+Pacjenci z zaburzeniami czynności wątroby
+Łagodne do umiarkowanych zaburzenia czynności wątroby nie miały wpływu na farmakokinetykę
+ceftazydymu u pacjentów otrzymujących 2 g dożylnie co 8 godzin przez 5 dni, jeśli czynność nerek
+nie była zaburzona (patrz punkt 4.2).
+
+Pacjenci w podeszłym wieku
+Zmniejszony klirens obserwowany u pacjentów w podeszłym wieku wynikał przede wszystkim,
+ze związanego z wiekiem, zmniejszonego klirensu nerkowego ceftazydymu. U pacjentów
+w podeszłym wieku, 80-letnich lub starszych, średni okres półtrwania w fazie eliminacji zawierał się
+w przedziale od 3,5 do 4 godzin po podaniu pojedynczym lub po powtarzanym dwa razy na dobę
+przez 7 dni wstrzyknięciu dożylnym dawki 2 g.
+
+Dzieci
+Okres półtrwania ceftazydymu jest wydłużony u wcześniaków i noworodków urodzonych o czasie
+o 4,5 do 7,5 godziny po dawkach 25 do 30 mg/kg masy ciała. Jednak, od wieku 2 miesięcy okres
+półtrwania mieści się w takim zakresie, jak u pacjentów dorosłych.
+
+5.3     Przedkliniczne dane o bezpieczeństwie
+
+Dane niekliniczne wynikające z konwencjonalnych badań farmakologicznych dotyczących
+bezpieczeństwa, badań toksyczności po podaniu wielokrotnym, genotoksyczności i potencjalnego
+toksycznego wpływu na reprodukcję nie ujawniają żadnego szczególnego zagrożenia dla człowieka.
+Nie prowadzono badań dotyczących działania rakotwórczego ceftazydymu.
+
+
+6.      DANE FARMACEUTYCZNE
+
+6.1     Wykaz substancji pomocniczych
+
+Sodu węglan
+
+
+
+
+PT/H/0186/002/IA/032                                                                                   13
+6.2      Niezgodności farmaceutyczne
+
+Ceftazydymu nie należy mieszać z roztworami o pH wyższym niż 7,5, na przykład z roztworem
+wodorowęglanu sodu do wstrzykiwań. Nie należy mieszać ceftazydymu z aminoglikozydami
+w roztworze do wstrzykiwań ze względu na ryzyko wytrącenia się osadu.
+Kaniule i cewniki do podawania dożylnego należy przepłukać roztworem soli fizjologicznej pomiędzy
+podaniem ceftazydymu i wankomycyny, w celu uniknięcia wytrącenia się osadu.
+
+Nie mieszać produktu leczniczego z innymi produktami leczniczymi, oprócz wymienionych
+w punkcie 6.6.
+
+6.3      Okres ważności
+
+3 lata
+
+Przygotowany roztwór wykazuje chemiczną i fizyczną stabilność przez 6 godzin w temperaturze 25°C
+i przez 12 godzin w temperaturze 5°C po rozpuszczeniu w wodzie do wstrzykiwań, 1% roztworze
+lidokainy, 0,9% roztworze chlorku sodu, roztworze Ringera z mleczanami i 10% roztworze glukozy.
+Z mikrobiologicznego punktu widzenia produkt leczniczy należy użyć natychmiast.
+
+6.4      Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać fiolkę w opakowaniu zewnętrznym w celu ochrony przed światłem.
+Nie przechowywać w temperaturze powyżej 25°C.
+
+Warunki przechowywania produktu leczniczego po rekonstytucji, patrz punkt 6.3.
+
+6.5       Rodzaj i zawartość opakowania
+
+Fiolki z bezbarwnego szkła (typu II), z korkiem z gumy oraz aluminiowym wieczkiem z plastikową
+nakładką typu flip-off.
+Wielkość opakowania: każde opakowanie zawiera 1 fiolkę×10 ml lub 10 fiolek×10 ml.
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+6.6      Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego
+         do stosowania
+
+Podanie dożylne - wstrzyknięcie
+W celu podania wstrzyknięcia dożylnego ceftazydym należy rozpuścić w wodzie do wstrzykiwań
+(wg poniższej tabeli). Roztwór należy wstrzykiwać powoli, w ciągu 5 minut, bezpośrednio do żyły
+lub przez zestaw do infuzji dożylnej.
+
+Podanie domięśniowe (dotyczy 500 mg i 1000 mg)
+Ceftazydym należy rozpuścić w wodzie do wstrzykiwań lub 10 mg/ml (1%) roztworze
+do wstrzykiwań chlorowodorku lidokainy, w sposób wskazany w tabeli poniżej. Przed podaniem
+ceftazydymu z lidokainą należy zapoznać się z informacjami dotyczącymi stosowania lidokainy.
+
+Podanie dożylne – infuzja (patrz punkt 4.2)
+Infuzję dożylną należy podawać w ciągu 15 do 30 minut. Infuzję dożylną przez zestaw typu Y można
+podawać razem z jednym ze zgodnych roztworów. Jednak, w trakcie podawania roztworu
+zawierającego ceftazydym, należy przerwać podawanie innych roztworów.
+
+Ciśnienie w opakowaniach produktu leczniczego Ceftazidime Kabi każdej wielkości jest mniejsze
+od atmosferycznego. Podczas rozpuszczania proszku ciśnienie zwiększa się wskutek uwalniania
+dwutlenku węgla. Można zignorować małe pęcherzyki dwutlenku węgla znajdujące się
+w przygotowanym roztworze.
+
+PT/H/0186/002/IA/032                                                                                14
+Instrukcja dotycząca przygotowania produktu leczniczego do stosowania
+
+Należy zapoznać się z tabelą dodawanych objętości i uzyskiwanych stężeń, co może być przydatne,
+gdy potrzebne są dawki częściowe.
+
+                                                          Objętość rozpuszczalnika Przybliżone stężenie
+                       Wielkość opakowania
+                                                              do dodania (ml)      ceftazydymu (mg/ml)
+ 500 mg proszek do sporządzania roztworu do wstrzykiwań
+                       wstrzyknięcie domięśniowe                    1,5 ml                   260
+    500 mg
+                         wstrzyknięcie dożylne                       5 ml                     90
+ 1 g proszek do sporządzania roztworu do wstrzykiwań
+                      wstrzyknięcie domięśniowe                      3 ml                    260
+       1g
+                         wstrzyknięcie dożylne                      10 ml                     90
+ 2 g proszek do sporządzania roztworu do wstrzykiwań/infuzji
+                         wstrzyknięcie dożylne                      10 ml                    170
+       2g
+                             infuzja dożylna                       50 ml*                     40
+* Uwaga: należy dodawać dwustopniowo.
+
+Zgodne roztwory do podawania dożylnego
+W celu otrzymania roztworu ceftazydymu o stężeniu pomiędzy 90 mg/ml a 260 mg/ml, Ceftazidime
+Kabi można zmieszać z ogólnie stosowanymi roztworami do infuzji:
+­     9 mg/ml (0,9%) roztwór chlorku sodu (fizjologiczny roztwór soli);
+­     roztwór Ringera z mleczanami;
+­     100 mg/ml (10%) roztwór glukozy.
+
+W celu przygotowania roztworu do wstrzyknięcia domięśniowego, Ceftazidime Kabi, 1000 mg,
+proszek do sporządzania roztworu do wstrzykiwań można także rozpuścić w 10 mg/ml (1%)
+roztworze lidokainy.
+
+W czasie rozpuszczania się ceftazydymu uwalnia się dwutlenek węgla, co powoduje nadciśnienie.
+W celu ułatwienia przygotowania produktu leczniczego do użycia, zaleca się zastosowanie
+następujących technik.
+
+Instrukcja dotycząca przygotowania roztworu
+
+Przygotowanie roztworu do szybkiego wstrzyknięcia (bolus)
+1.   Przebić igłą korek i wstrzyknąć do fiolki zalecaną objętość rozpuszczalnika. Podciśnienie
+     wewnątrz fiolki może ułatwić dodanie rozpuszczalnika. Wyjąć igłę ze strzykawką.
+2.   Potrząsać fiolką aż do rozpuszczenia: uwalnia się dwutlenek węgla i w ciągu 1 do 2 minut
+     uzyskuje się przezroczysty roztwór.
+3.   Odwrócić fiolkę. Utrzymując tłok strzykawki w pozycji w pełni wciśniętej, przebić igłą korek
+     fiolki i pobrać całą objętość roztworu do strzykawki (podwyższone ciśnienie w fiolce ułatwi
+     tę czynność). Igłę należy utrzymać wewnątrz roztworu, aby uniknąć zassania powietrza.
+     Roztwór pobrany do strzykawki może zawierać małe pęcherzyki dwutlenku węgla.
+
+Te roztwory można podać bezpośrednio do żyły lub poprzez zestaw do infuzji dożylnej, jeśli pacjent
+otrzymuje płyny dożylnie. Ceftazydym wykazuje zgodność z wyżej wymienionymi płynami
+dożylnymi.
+
+UWAGA: w celu zapewnienia jałowości produktu leczniczego ważne jest, aby nie wkłuwać igły
+odbarczającej przez korek opakowania przed całkowitym rozpuszczeniem produktu leczniczego.
+
+Roztwór należy przygotowywać w warunkach aseptycznych.
+Do jednorazowego użycia.
+
+
+PT/H/0186/002/IA/032                                                                                 15
+Wszelkie niewykorzystane resztki produktu leczniczego lub jego odpady należy usunąć zgodnie
+z lokalnymi przepisami.
+Należy stosować jedynie przezroczysty roztwór, wolny od cząstek stałych.
+Roztwór nie zawiera endotoksyn bakteryjnych.
+
+Zabarwienie roztworu od jasnożółtego do bursztynowego zależy od stężenia, rodzaju rozpuszczalnika
+i warunków przechowywania. Jeśli spełnione są zalecane warunki, zmienność zabarwienia roztworu
+nie wpływa niekorzystnie na skuteczność działania produktu leczniczego.
+
+
+7.      PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+        DOPUSZCZENIE DO OBROTU
+
+Fresenius Kabi Polska Sp. z o.o.
+Al. Jerozolimskie 134
+02-305 Warszawa
+
+
+8.      NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr 18085
+
+
+9.      DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+        I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 18.04.2011 r.
+Data ostatniego przedłużenia pozwolenia: 23.02.2015 r.
+
+
+10.     DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+        CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+08.10.2024 r.
+
+
+
+
+PT/H/0186/002/IA/032                                                                                16
+

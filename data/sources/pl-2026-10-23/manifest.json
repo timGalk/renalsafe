@@ -1,0 +1,101 @@
+{
+  "acquisition_date": "2026-10-23",
+  "source": "Polish Register of Medicinal Products (RPL), official characteristic endpoint",
+  "documents": [
+    {
+      "rpl_product_id": "4282",
+      "product": "Meronem",
+      "document_strengths": [
+        "500 mg",
+        "1 g"
+      ],
+      "active_substance": "meropenem",
+      "language": "pl",
+      "document_type": "ChPL",
+      "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4282/characteristic",
+      "resolved_url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4282/characteristic",
+      "retrieved_at": "2026-10-23T11:49:42.998728+00:00",
+      "pdf_file": "meronem-rpl-4282-pl.pdf",
+      "pdf_bytes": 354065,
+      "pdf_sha256": "3c4ffb78fa8188f3bda9f111e4546aa18717dfcb8f92d7cb8371144b57d988f4",
+      "content_type": "application/pdf",
+      "last_modified": null,
+      "clinical_review_status": "NOT_REVIEWED",
+      "rule_activation": "NONE",
+      "text_file": "meronem-rpl-4282-pl.txt",
+      "text_sha256": "29f2122dbf23b5e299b3a0b0b0b20971042d07ba405340bce6c68e030c02c5dd",
+      "pdf_pages": 14,
+      "detected_section_numbers": [
+        "4.1",
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5",
+        "4.6",
+        "4.7",
+        "4.8",
+        "4.9",
+        "5.1",
+        "5.2"
+      ],
+      "ingestion_verification": {
+        "status": "PASSED",
+        "method": "Go evidence.Poppler.Extract and evidence.Split; race-enabled regression test",
+        "section_4_2_physical_pages": [
+          2,
+          3
+        ],
+        "renal_table_visual_check_physical_page": 2,
+        "declared_product_scope_required": true,
+        "clinical_semantics_validated": false
+      }
+    },
+    {
+      "rpl_product_id": "24542",
+      "product": "Ceftazidime Kabi",
+      "document_strengths": [
+        "1000 mg"
+      ],
+      "active_substance": "ceftazidime",
+      "language": "pl",
+      "document_type": "ChPL",
+      "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24542/characteristic",
+      "resolved_url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24542/characteristic",
+      "retrieved_at": "2026-10-23T11:49:44.408000+00:00",
+      "pdf_file": "ceftazidime-kabi-rpl-24542-pl.pdf",
+      "pdf_bytes": 336384,
+      "pdf_sha256": "7285d9aebf69150e112e8ebe90f7b2a507ec352a69cb1a594ea8c3a53892afbf",
+      "content_type": "application/pdf",
+      "last_modified": null,
+      "clinical_review_status": "NOT_REVIEWED",
+      "rule_activation": "NONE",
+      "text_file": "ceftazidime-kabi-rpl-24542-pl.txt",
+      "text_sha256": "89fd63eb33b65457f733dade2110df0cdacc2a035aebb96c8b69c98b40313728",
+      "pdf_pages": 16,
+      "detected_section_numbers": [
+        "4.1",
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5",
+        "4.6",
+        "4.7",
+        "4.8",
+        "4.9",
+        "5.1",
+        "5.2"
+      ],
+      "ingestion_verification": {
+        "status": "PASSED",
+        "method": "Go evidence.Poppler.Extract and evidence.Split; race-enabled regression test",
+        "section_4_2_physical_pages": [
+          2,
+          6
+        ],
+        "renal_table_visual_check_physical_page": 4,
+        "declared_product_scope_required": true,
+        "clinical_semantics_validated": false
+      }
+    }
+  ]
+}

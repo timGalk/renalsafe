@@ -1,0 +1,799 @@
+                    CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.     NAZWA PRODUKTU LECZNICZEGO
+
+Meronem, 500 mg, proszek do sporządzania roztworu do wstrzykiwań lub infuzji
+Meronem, 1 g, proszek do sporządzania roztworu do wstrzykiwań lub infuzji
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Meronem, 500 mg
+Każda fiolka zawiera 500 mg meropenemu (Meropenemum) w postaci meropenemu trójwodnego.
+
+Meronem, 1 g
+Każda fiolka zawiera 1 g meropenemu (Meropenemum) w postaci meropenemu trójwodnego.
+
+Substancje pomocnicze o znanym działaniu:
+Każda fiolka 500 mg zawiera 104 mg węglanu sodu w ilości odpowiadającej około 2 mEq sodu
+(około 45 mg).
+Każda fiolka 1 g zawiera 208 mg węglanu sodu w ilości odpowiadającej około 4 mEq sodu
+(około 90 mg).
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Proszek do sporządzania roztworu do wstrzykiwań lub infuzji.
+
+Proszek biały do jasnożółtego.
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Produkt Meronem jest wskazany do leczenia następujących zakażeń u dorosłych i dzieci w wieku
+3 miesięcy i starszych (patrz punkty 4.4 i 5.1):
+• ciężkie zapalenie płuc, w tym szpitalne i tzw. respiratorowe zapalenie płuc;
+• zapalenie oskrzeli i płuc w przebiegu mukowiscydozy;
+• powikłane zakażenia układu moczowego;
+• powikłane zakażenia jamy brzusznej;
+• zakażenia śródporodowe i poporodowe;
+• powikłane zakażenia skóry i tkanek miękkich;
+• ostre bakteryjne zapalenie opon mózgowo-rdzeniowych.
+
+Produkt Meronem może być stosowany w leczeniu gorączkujących pacjentów z neutropenią,
+u których występuje podejrzenie zakażenia bakteryjnego.
+
+Leczenie pacjentów z bakteriemią, która występuje w związku z którymkolwiek z wyżej
+wymienionych zakażeń lub jest podejrzewana o taki związek.
+
+
+
+
+                                                1
+Należy wziąć pod uwagę oficjalne wytyczne dotyczące prawidłowego stosowania leków
+przeciwbakteryjnych.
+
+4.2   Dawkowanie i sposób podawania
+
+Dawkowanie
+
+Poniższa tabela zawiera ogólne zalecenia dotyczące dawkowania.
+
+Dawka i czas trwania leczenia meropenemem powinny uwzględniać rodzaj leczonego zakażenia,
+w tym jego ciężkość i odpowiedź kliniczną.
+
+Dawka do 2 g, trzy razy na dobę u dorosłych i młodzieży oraz dawka do 40 mg/kg mc. trzy razy na
+dobę u dzieci może być szczególnie odpowiednia podczas leczenia niektórych rodzajów zakażeń,
+takich jak zakażenia spowodowane mniej wrażliwymi rodzajami bakterii (np. Enterobacteriaceae,
+Pseudomonas aeruginosa czy Acinetobacter spp.) lub podczas leczenia bardzo ciężkich zakażeń.
+
+Ponadto, należy rozważyć modyfikację dawkowania u pacjentów z niewydolnością nerek (patrz
+poniżej).
+
+Dorośli i młodzież
+
+  Zakażenie                                                   Dawka podawana co 8 godzin
+  Ciężkie zapalenie płuc, w tym szpitalne zapalenie płuc i    500 mg lub 1 g
+  tzw. respiratorowe zapalenie płuc
+  Zapalenie oskrzeli i płuc w przebiegu mukowiscydozy         2g
+  Powikłane zakażenia układu moczowego                        500 mg lub 1 g
+  Powikłane zakażenia w obrębie jamy brzusznej                500 mg lub 1 g
+  Zakażenia śródporodowe i poporodowe                         500 mg lub 1 g
+  Powikłane zakażenia skóry i tkanek miękkich                 500 mg lub 1 g
+  Ostre bakteryjne zapalenie opon mózgowo-rdzeniowych         2g
+  Leczenie gorączkujących pacjentów z neutropenią             1g
+
+Meropenem jest zazwyczaj podawany w postaci wlewu dożylnego trwającego około 15 do 30 minut
+(patrz punkty 6.2, 6.3 i 6.6).
+
+Zamiennie, zamiast we wlewie, dawki do 1 g mogą być podawane w postaci wstrzyknięcia dożylnego
+trwającego około 5 minut. Dostępne są jedynie ograniczone dane dotyczące bezpieczeństwa
+podawania dawki 2 g drogą wstrzyknięcia dożylnego u pacjentów dorosłych.
+
+Zaburzenia czynności nerek
+Jeśli klirens kreatyniny jest mniejszy niż 51 ml/min, u dorosłych i młodzieży dawka powinna zostać
+zmodyfikowana, tak jak podano poniżej. Dostępne są ograniczone dane dotyczące zmiany dawki
+w przypadku podawania leku w dawce jednostkowej 2 g.
+
+ Klirens kreatyniny         Dawka (dawka jednostkowa 500 mg, 1 g           Częstość
+ (ml/min)                   lub 2 g, patrz tabela wyżej)                   dawkowania
+ 26-50                      jedna dawka jednostkowa                        co 12 godzin
+ 10-25                      pół dawki jednostkowej                         co 12 godzin
+ < 10                       pół dawki jednostkowej                         co 24 godziny
+
+Meropenem jest usuwany z surowicy podczas hemodializy i hemofiltracji. Wymagana dawka powinna
+zostać podana po zakończeniu hemodializy.
+
+Nie ustalono zaleceń dawkowania u pacjentów poddawanych dializie otrzewnowej.
+
+
+                                                  2
+Zaburzenia czynności wątroby
+Nie ma konieczności zmiany dawki u pacjentów z zaburzeniami czynności wątroby (patrz punkt 4.4).
+
+Pacjenci w podeszłym wieku
+Nie ma konieczności zmiany dawki u pacjentów w podeszłym wieku z prawidłową czynnością nerek
+lub klirensem kreatyniny większym niż 50 ml/min.
+
+Dzieci i młodzież
+
+Dzieci poniżej 3. miesiąca życia
+Bezpieczeństwo i skuteczność meropenemu u dzieci poniżej 3. miesiąca życia nie zostały ustalone; nie
+określono również optymalnego schematu dawkowania. Jednakże, na podstawie ograniczonych
+danych farmakokinetycznych można wnioskować, że dawka 20 mg/kg mc., stosowana co 8 godzin,
+może być odpowiednim sposobem podawaniu leku u dzieci w tym przedziale wiekowym (patrz
+punkt 5.2).
+
+Dzieci w wieku od 3 miesięcy do 11 lat i masie ciała do 50 kg
+W tabeli poniżej podano zalecane dawkowanie.
+
+  Zakażenie                                                     Dawka podawana co 8 godzin
+  Ciężkie zapalenie płuc, w tym szpitalne i tzw.                10 lub 20 mg/kg mc.
+  respiratorowe zapalenie płuc
+  Zapalenie oskrzeli i płuc w przebiegu mukowiscydozy           40 mg/kg mc.
+  Powikłane zakażenia układu moczowego                          10 lub 20 mg/kg mc.
+  Powikłane zakażenia w obrębie jamy brzusznej                  10 lub 20 mg/kg mc.
+  Złożone zakażenia skóry i tkanek miękkich                     10 lub 20 mg/kg mc.
+  Ostre bakteryjne zapalenie opon mózgowo-rdzeniowych           40 mg/kg mc.
+  Leczenie gorączkujących pacjentów z neutropenią               20 mg/kg mc.
+
+Dzieci o masie ciała powyżej 50 kg
+Należy podawać dawki jak u osób dorosłych.
+
+Brak doświadczeń w stosowaniu leku u dzieci z zaburzeniami czynności nerek.
+
+Sposób podawania
+
+Meropenem jest zazwyczaj podawany we wlewie dożylnym trwającym od 15 do 30 minut (patrz
+punkty 6.2, 6.3 i 6.6). Zamiennie, meropenem w dawkach do 20 mg/kg mc. może być podawany drogą
+wstrzyknięcia dożylnego trwającego około 5 minut. Dostępne są ograniczone dane dotyczące
+podawania dzieciom dawki 40 mg/kg mc. we wstrzyknięciu dożylnym (bolus).
+
+Instrukcja dotycząca rekonstytucji produktu leczniczego przed podaniem, patrz punkt 6.6.
+
+4.3   Przeciwwskazania
+
+Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną
+w punkcie 6.1.
+Nadwrażliwość na którykolwiek lek przeciwbakteryjny z grupy karbapenemów.
+Ciężka nadwrażliwość (np. reakcje anafilaktyczne, ciężkie reakcje skórne) na którykolwiek inny lek
+przeciwbakteryjny z grupy beta-laktamów (np. penicyliny lub cefalosporyny).
+
+
+
+
+                                                  3
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Wybierając meropenem do leczenia danego pacjenta należy wziąć pod uwagę, czy właściwe jest
+zastosowanie leku przeciwbakteryjnego z grupy karbapenemów, uwzględniając czynniki, takie jak
+ciężkość zakażenia, występowanie oporności na inne odpowiednie leki przeciwbakteryjne oraz ryzyko
+związane z wyborem leku w przypadku zakażenia bakterią oporną na karbapenemy.
+
+Oporność na Enterobacteriaceae, Pseudomonas aeruginosa i Acinetobacter spp.
+Oporność na karbapenemy szczepów z rodziny Enterobacteriaceae lub z gatunku Pseudomonas
+aeruginosa, Acinetobacter baumanii jest zróżnicowana na terenie Europy. Osoba ordynująca lek
+powinna wziąć pod uwagę lokalną częstość występowania szczepów opornych na karbapenemy.
+
+Reakcje nadwrażliwości
+Tak jak w przypadku leków przeciwbakteryjnych z grupy beta-laktamów, donoszono o przypadkach
+ciężkich i sporadycznie śmiertelnych reakcji nadwrażliwości (patrz punkty 4.3 i 4.8).
+
+Pacjenci, u których występowały reakcje nadwrażliwości po karbapenemach, penicylinach lub innych
+lekach przeciwbakteryjnych beta-laktamowych, mogą być nadwrażliwi także na meropenem. Przed
+rozpoczęciem leczenia meropenemem należy przeprowadzić szczegółowy wywiad dotyczący
+występowania w przeszłości reakcji nadwrażliwości na antybiotyki beta-laktamowe.
+
+W przypadku wystąpienia ciężkiej reakcji alergicznej, należy przerwać stosowanie produktu
+leczniczego i wdrożyć odpowiednie postępowanie.
+
+Ciężkie działania niepożądane dotyczące skóry (ang. severe cutaneous adverse reactions, SCAR),
+takie jak pęcherzowy rumień wielopostaciowy (zespół Stevensa-Johnsona, ang. Stevens-Johnson
+syndrome, SJS), toksyczna nekroliza naskórka (zespół Lyella, ang. toxic epidermal necrolysis, TEN),
+osutka polekowa z eozynofilią i objawami ogólnymi (ang. drug reaction with eosinophilia and
+systemic symptoms, DRESS), rumień wielopostaciowy (ang. erythema multiforme, EM) i ostra
+uogólniona osutka krostkowa (ang. acute generalised exanthematous pustulosis, AGEP) zgłaszano
+u pacjentów otrzymujących meropenem (patrz punkt 4.8). Jeśli pojawią się objawy przedmiotowe
+i podmiotowe wskazujące na wystąpienie tych reakcji, należy natychmiast przerwać stosowanie
+meropenemu i rozważyć leczenie alternatywne.
+
+Podczas stosowania innych antybiotyków beta-laktamowych zgłaszano reakcje nadwrażliwości, które
+prowadziły do zespołu Kounisa (ostrego, alergicznego skurczu tętnic wieńcowych, który może
+prowadzić do zawału mięśnia sercowego, patrz punkt 4.8).
+
+Rabdomioliza
+Zgłaszano przypadki rabdomiolizy związane ze stosowaniem meropenemu. W przypadku
+zaobserwowania objawów przedmiotowych lub podmiotowych rabdomiolizy należy przerwać
+stosowanie meropenemu i rozpocząć odpowiednie leczenie (patrz punkt 4.8).
+
+Polekowe uszkodzenie wątroby (DILI, ang. drug-induced liver injury)
+Podczas leczenia meropenemem należy ściśle kontrolować czynność wątroby ze względu na ryzyko
+DILI (patrz punkt 4.8). Jeśli wystąpi ciężka postać DILI, przerwanie leczenia należy uznać za
+uzasadnione klinicznie. Podawanie meropenemu należy wznowić tylko wtedy, gdy zostanie to uznane
+za konieczne do kontynuacji leczenia.
+
+Stosowanie u pacjentów z chorobami wątroby: u pacjentów ze stwierdzonymi wcześniej chorobami
+wątroby podczas leczenia meropenemem należy kontrolować czynność wątroby. Nie ma konieczności
+modyfikacji dawki (patrz punkt 4.2).
+
+
+
+
+                                                 4
+Zapalenie jelit związane ze stosowaniem antybiotyków
+W przypadku niemal wszystkich leków przeciwbakteryjnych, w tym meropenemu, donoszono
+o występowaniu zapalenia jelit związanego ze stosowaniem antybiotyków i rzekomobłoniastego
+zapalenia jelit. Objawy mogą mieć różne nasilenie, od łagodnych do zagrażających życiu. Dlatego jest
+ważne, aby wziąć pod uwagę to rozpoznanie u pacjenta, u którego wystąpi biegunka podczas leczenia
+lub po leczeniu meropenemem (patrz punkt 4.8). Należy rozważyć przerwanie leczenia i zastosowanie
+antybiotyków stosowanych do leczenia zakażeń bakterią Clostridium difficile. Nie należy stosować
+leków hamujących perystaltykę jelit.
+
+Drgawki
+Niezbyt często, podczas leczenia karbapenemami, w tym także meropenemem, zgłaszano
+występowanie drgawek (patrz punkt 4.8).
+
+Potwierdzenie serokonwersji (obecności przeciwciał) w bezpośrednim teście antyglobulinowym
+(odczyn Coombsa)
+Podczas leczenia meropenemem może występować dodatni wynik bezpośredniego lub pośredniego
+testu Coombsa.
+
+Jednoczesne stosowanie meropenemu i kwasu walproinowego i (lub) walproinianu sodu / walpromidu
+Nie zaleca się jednoczesnego stosowania meropenemu i kwasu walproinowego i (lub) walproinianu
+sodu / walpromidu (patrz punkt 4.5).
+
+Produkt Meronem zawiera sód.
+
+Meronem, 500 mg: produkt leczniczy zawiera 45 mg sodu na fiolkę, co odpowiada 2,25% zalecanej
+przez WHO maksymalnej 2 g dobowej dawki sodu u osób dorosłych.
+
+Meronem, 1 g: produkt leczniczy zawiera 90 mg sodu na fiolkę, co odpowiada 4,5% zalecanej przez
+WHO maksymalnej 2 g dobowej dawki sodu u osób dorosłych.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Nie przeprowadzono specjalnych badań dotyczących interakcji, z wyjątkiem badań z probenecydem.
+Probenecyd konkuruje z meropenemem o aktywne wydzielanie w kanalikach nerkowych i w związku
+z tym hamuje wydalanie meropenemu przez nerki, co powoduje wydłużenie okresu półtrwania
+oraz zwiększenie stężenia meropenemu w surowicy. Należy zachować ostrożność stosując probenecyd
+jednocześnie z meropenemem.
+
+Nie prowadzono badań dotyczących wpływu meropenemu na stopień wiązania z białkami
+i metabolizm innych leków. Meropenem wiąże się z białkami osocza w tak małym stopniu, że nie jest
+spodziewane występowanie interakcji z innymi lekami, wynikających z wypierania ich z połączeń
+z białkami.
+
+Po podaniu kwasu walproinowego jednocześnie z karbapenemami donoszono o zmniejszeniu stężenia
+kwasu walproinowego we krwi o 60-100% w ciągu około dwóch dni. Z uwagi na szybkie wystąpienie
+początku działania i duże działanie zmniejszające stężenie kwasu walproinowego, wydaje się, że
+jednoczesne leczenie kwasem walproinowym/walproinianem sodowym/walpromidem oraz lekiem
+z grupy karbapenemów nie powinno być stosowane i należy go unikać (patrz punkt 4.4).
+
+Doustne leki przeciwzakrzepowe
+Jednoczesne stosowanie antybiotyków oraz warfaryny może nasilać jej działanie przeciwzakrzepowe.
+Donoszono o wielu przypadkach zwiększenia działania przeciwzakrzepowego doustnych leków
+przeciwzakrzepowych, w tym warfaryny, u pacjentów, którzy otrzymywali jednocześnie leki
+przeciwbakteryjne. Ryzyko może różnić się zależnie od rodzaju zakażenia, wieku i stanu ogólnego
+pacjenta, dlatego trudno ocenić wpływ stosowanego antybiotyku na zwiększenie INR
+
+
+                                                 5
+(międzynarodowy wskaźnik znormalizowany). Zaleca się częstą kontrolę INR podczas i krótko po
+jednoczesnym podaniu antybiotyków z lekami przeciwzakrzepowymi.
+
+Dzieci i młodzież
+Badanie dotyczące interakcji przeprowadzono tylko u dorosłych.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Nie ma danych lub są dostępne tylko ograniczone dane dotyczące stosowania meropenemu u kobiet
+w ciąży.
+Badania na zwierzętach nie wykazują bezpośredniego ani pośredniego szkodliwego wpływu na
+reprodukcję (patrz punkt 5.3).
+Ze względów bezpieczeństwa zaleca się, aby unikać stosowania meropenemu podczas ciąży.
+
+Karmienie piersią
+Notowano przenikanie niewielkich ilości meropenemu do mleka ludzkiego. Meropenemu nie należy
+stosować u kobiet karmiących piersią, chyba że spodziewane korzyści dla matki uzasadniają
+potencjalne ryzyko dla dziecka.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Nie przeprowadzono badań nad wpływem produktu na zdolność prowadzenia pojazdów
+i obsługiwania maszyn. Jednakże prowadząc pojazdy lub obsługując maszyny, należy wziąć pod
+uwagę, że po zastosowaniu meropenemu występowały bóle głowy, parestezje i drgawki.
+
+4.8   Działania niepożądane
+
+Podsumowanie profilu bezpieczeństwa
+W przeglądzie danych uzyskanych od 4872 pacjentów, a dotyczących 5026 zastosowań meropenemu,
+najczęściej zgłaszanymi działaniami niepożądanymi po meropenemie była biegunka (2,3%), wysypka
+(1,4%), nudności lub wymioty (1,4%) i odczyny zapalne w miejscu podania (1,1%). Najczęściej
+zgłaszanymi zmianami w wynikach badań diagnostycznych po meropenemie była trombocytoza
+(1,6%) i zwiększenie aktywności enzymów wątrobowych (1,5-4,3%).
+
+Tabelaryczne zestawienie ryzyka działań niepożądanych
+W poniższej tabeli podano działania niepożądane zgodnie z klasyfikacją układów i narządów oraz
+częstością: bardzo często (≥1/10), często (≥1/100, <1/10), niezbyt często (≥1/1 000, <1/100), rzadko
+(≥1/10 000, <1/1 000), bardzo rzadko (<1/10 000); częstość nieznana (częstość nie może być ustalona
+na podstawie dostępnych danych). W obrębie każdej grupy o określonej częstości występowania
+objawy niepożądane są wymienione zgodnie ze zmniejszającym się nasileniem.
+
+Tabela 1
+ Klasyfikacja układów        Częstość                 Zdarzenie
+ i narządów                  występowania
+ Zakażenia i zarażenia       Niezbyt często           zakażenia drożdżakowe jamy ustnej i pochwy
+ pasożytnicze
+ Zaburzenia krwi i układu    Często                   trombocytoza
+ chłonnego                   Niezbyt często           agranulocytoza, niedokrwistość hemolityczna,
+                                                      trombocytopenia, neutropenia, leukopenia,
+                                                      eozynofilia
+ Zaburzenia układu           Niezbyt często           anafilaksja (patrz punkty 4.3 i 4.4), obrzęk
+ immunologicznego                                     naczynioruchowy
+
+
+
+
+                                                  6
+ Klasyfikacja układów         Częstość                 Zdarzenie
+ i narządów                   występowania
+ Zaburzenia metabolizmu i     Niezbyt często           hipokaliemia
+ odżywiania
+ Zaburzenia psychiczne        Rzadko                   majaczenie
+ Zaburzenia układu            Często                   ból głowy
+ nerwowego                    Niezbyt często           parestezja
+                              Rzadko                   drgawki (patrz punkt 4.4)
+ Zaburzenia żołądka i jelit   Często                   biegunka, ból brzucha, wymioty, nudności
+                              Niezbyt często           zapalenie jelita związane z antybiotykoterapią
+                                                       (patrz punkt 4.4)
+ Zaburzenia wątroby i         Często                   zwiększenie aktywności aminotransferaz,
+ dróg żółciowych                                       zwiększenie aktywności fosfatazy alkalicznej
+                                                       we krwi, zwiększenie aktywności
+                                                       dehydrogenazy mleczanowej we krwi
+                              Niezbyt często           polekowe uszkodzenie wątroby*, zwiększenie
+                                                       stężenia bilirubiny we krwi
+ Zaburzenia skóry i tkanki    Często                   wysypka, świąd
+ podskórnej                   Niezbyt często           toksyczna nekroliza naskórka (zespół Lyella),
+                                                       pęcherzowy rumień wielopostaciowy (zespół
+                                                       Stevensa-Johnsona), rumień wielopostaciowy
+                                                       (patrz punkt 4.4), pokrzywka
+                              Częstość nieznana        reakcja polekowa z eozynofilią i objawami
+                                                       układowymi, ostra uogólniona osutka
+                                                       krostkowa (patrz punkt 4.4)
+ Zaburzenia mięśniowo-        Częstość nieznana        rabdomioliza
+ szkieletowe i tkanki
+ łącznej
+ Zaburzenia nerek i dróg      Niezbyt często           zwiększenie stężenia kreatyniny we krwi,
+ moczowych                                             zwiększenie stężenia mocznika we krwi
+ Zaburzenia ogólne i stany    Często                   odczyny zapalne, ból
+ w miejscu podania            Niezbyt często           zakrzepowe zapalenie żył, ból w miejscu
+                                                       podania
+* Polekowe uszkodzenie wątroby obejmuje zapalenie wątroby i niewydolność wątroby
+
+Opis wybranych działań niepożądanych
+Zespół Kounisa
+Podczas stosowania innych antybiotyków beta-laktamanowych zgłaszano przypadki ostrego zespołu
+wieńcowego związanego z reakcją alergiczną (zespół Kounisa) (patrz punkt 4.4).
+
+Dzieci i młodzież
+Produkt Meronem jest zatwierdzony do stosowania u dzieci w wieku powyżej 3. miesiąca życia.
+Ograniczone dostępne dane wskazuja na brak zwiększonego ryzyka jakichkolwiek działań
+niepożądanych u dzieci. Wszystkie zgłoszone przypadki były zgodne z obserwowanymi w populacji
+pacjentów dorosłych.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C
+
+
+
+                                                   7
+02-222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu lub przedstawicielowi
+podmiotu odpowiedzialnego.
+
+4.9   Przedawkowanie
+
+Podczas leczenia pacjentów z niewydolnością nerek możliwe jest względne przedawkowanie, jeśli
+dawka nie została zmieniona tak, jak opisano w punkcie 4.2. Ograniczone doświadczenie kliniczne
+wskazuje, że w przypadku wystąpienia przedawkowania ewentualne reakcje niepożądane są zgodne
+z profilem działań niepożądanych opisanych w punkcie 4.8, mają niewielkie nasilenie i przemijają po
+zaprzestaniu stosowania lub po zmniejszeniu dawki leku. Należy rozważyć stosowanie leczenia
+objawowego.
+
+U pacjentów z prawidłową czynnością nerek lek jest szybko wydalany przez nerki.
+
+Meropenem oraz jego metabolit ulegają hemodializie.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: leki przeciwbakteryjne do stosowania ogólnego, karbapenemy,
+kod ATC: J01DH02
+
+Mechanizm działania
+Działanie bakteriobójcze meropenemu polega na hamowaniu syntezy ściany komórkowej bakterii
+Gram-dodatnich i Gram-ujemnych w wyniku wiązania się z białkiem wiążącym penicyliny (PBP,
+ang. penicillin binding protein).
+
+Zależności farmakokinetyczno-farmakodynamiczne (PK/PD)
+Podobnie jak dla innych leków przeciwbakteryjnych z grupy beta-laktamowych, skuteczność działania
+meropenemu zależy od czasu, w jakim stężenie meropenemu przekracza MIC (T>MIC). W modelach
+nieklinicznych meropenem wykazywał działanie, gdy jego stężenia przekraczające MIC, określone dla
+drobnoustrojów wywołujących zakażenie, utrzymywały się w osoczu przez około 40% czasu
+pomiędzy kolejnymi dawkami. Ten cel nie został osiągnięty w modelach klinicznych.
+
+Mechanizm oporności
+Oporność na meropenem może wynikać ze: (1) zmniejszonej przepuszczalności błony zewnętrznej
+bakterii Gram-ujemnych (z powodu zmniejszonej produkcji białek porynowych), (2) zmniejszonego
+powinowactwa docelowych białek wiążących penicyliny (PBP), (3) zwiększonej ekspresji składowych
+pompy czynnie usuwającej antybiotyk z komórki bakteryjnej i (4) produkcji beta-laktamaz, które
+mogą hydrolizować karbapenemy.
+
+Na terenie Unii Europejskiej donoszono o lokalnym występowaniu skupisk zakażeń wywołanych
+przez bakterie oporne na karbapenemy.
+
+Nie ma oporności krzyżowej wynikającej z mechanizmu działania pomiędzy meropenem i lekami
+z grupy chinolonów, aminoglikozydów, makrolidów i tetracyklin. Jednakże u bakterii może rozwinąć
+się oporność na więcej niż jedną grupę antybiotyków, jeśli w mechanizmie jej powstawania bierze
+udział zmniejszenie przepuszczalności i (lub) aktywacja pompy czynnie usuwającej antybiotyk
+z komórki bakteryjnej.
+
+
+                                                 8
+Wartości graniczne badania wrażliwości
+Kryteria interpretacyjne MIC (minimalnego stężenia hamującego) dla badania wrażliwości zostały
+ustanowione przez European Committee on Antimicrobial Susceptibility Testing (EUCAST) dla
+meropenemu. Są one wymienione tutaj:
+https://www.ema.europa.eu/documents/other/minimum-inhibitory-concentration-mic-
+breakpoints_en.xlsx
+
+Rozpowszechnienie nabytej oporności na lek może różnić się geograficznie oraz zmieniać w czasie
+w odniesieniu do poszczególnych gatunków drobnoustrojów i dlatego należy uwzględnić lokalne
+informacje na temat występowania oporności, szczególnie w przypadku leczenia ciężkich zakażeń.
+Zależnie od potrzeb, należy skorzystać z porady eksperta, gdy lokalne występowanie oporności jest
+takie, że użyteczność leku przynajmniej w przypadku niektórych rodzajów zakażeń jest wątpliwa.
+
+Poniższa lista patogenów została stworzona na podstawie doświadczenia klinicznego i wytycznych
+terapeutycznych.
+
+Zazwyczaj wrażliwe gatunki
+Tlenowe Gram-dodatnie
+Enterococcus faecalis$
+Staphylococcus aureus (metycylino-wrażliwe)£
+Staphylococcus species (metycylino-wrażliwe), w tym Staphylococcus epidermidis
+Streptococcus agalactiae (grupa B)
+Grupa Streptococcus milleri (S. anginosus, S. constellatus i S. intermedius)
+Streptococcus pneumoniae
+Streptococcus pyogenes (grupa A)
+
+Tlenowe Gram-ujemne
+Citrobacter freundii
+Citrobacter koseri
+Enterobacter aerogenes
+Enterobacter cloacae
+Escherichia coli
+Haemophilus influenzae
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Morganella morganii
+Neisseria meningitidis
+Proteus mirabilis
+Proteus vulgaris
+Serratia marcescens
+
+Beztlenowe Gram-dodatnie
+Clostridium perfringens
+Peptoniphilus asaccharoliticus
+Peptostreptococcus spp (w tym P. micros, P. anaerobius, P. magnus)
+
+Beztlenowe Gram-ujemne
+Bacteroides caccae
+Grupa Bacteroides fragilis
+Prevotella bivia
+Prevotella disiens
+
+
+
+
+                                                 9
+Gatunki, wśród których może wystąpić oporność nabyta
+Tlenowe Gram-dodatnie
+Enterococcus faecium$†
+
+Tlenowe Gram-ujemne
+Acinetobacter spp.
+Burkholderia cepacia
+Pseudomonas aeruginosa
+
+Organizmy o oporności naturalnej
+Tlenowe Gram-ujemne
+Stenotrophomonas maltophilia
+Legionella spp.
+
+Inne drobnoustroje
+Chlamydiophila pneumoniae
+Chlamydophila psittaci
+Coxiella burnetti
+Mycoplasma pneumoniae
+$
+  Gatunki, które wykazują pośrednią naturalną wrażliwość.
+£
+  Wszystkie gronkowce oporne na metycylinę są oporne na meropenem.
+†
+  Odsetek oporności ≥ 50% w jednym lub więcej krajów EU.
+
+Nosacizna i melioidoza
+Stosowanie meropenemu u ludzi jest oparte na danych dotyczących wrażliwości drobnoustrojów
+Burkholderia mallei oraz Burkholderia pseudomallei w badaniach in vitro oraz na ograniczonych
+danych od pacjentów. Lekarz prowadzący powinien zapoznać się z krajowymi
+i (lub) międzynarodowymi dokumentami zawierającymi uzgodnienia dotyczące leczenia nosacizny
+i melioidozy.
+
+5.2   Właściwości farmakokinetyczne
+
+U osób zdrowych średni okres półtrwania wynosi około 1 godziny, średnia objętość dystrybucji około
+0,25 l/kg (11-27 l) i średni klirens 287 ml/min dla dawki 250 mg, który zmniejsza się do 205 ml/min
+dla dawki 2 g. Po podaniu dawek 500 mg, 1000 mg i 2000 mg w 30-minutowym wlewie średnie Cmax
+wynosi odpowiednio około 23, 49 i 115 µg/ml, a odpowiadające im wartości AUC wynosiły 39,3;
+62,3 i 153 µg.h/ml. Po infuzji trwającej 5 minut wartości Cmax to 52 i 112 µg/ml, odpowiednio po
+dawkach 500 mg i 1000 mg. Po podaniu dawek wielokrotnych co 8 godzin osobom z prawidłową
+czynnością nerek, nie obserwowano kumulacji meropenemu.
+
+Badanie u 12 pacjentów, którym podawano 1 000 mg meropenemu co 8 godzin po zabiegach
+chirurgicznych z powodu zakażenia w obrębie jamy brzusznej, wykazało, że Cmax i okres półtrwania są
+porównywalne do wartości u osób zdrowych, lecz objętość dystrybucji jest większa i wynosi 27 l.
+
+Dystrybucja
+Średnie wiązanie meropenemu z białkami osocza wynosi około 2% i jest niezależne od jego stężenia.
+Po szybkim podaniu (w czasie 5 minut lub krótszym), farmakokinetyka jest dwuwykładnicza, ale jest
+ona w mniejszym stopniu wyrażona po infuzji trwającej 30 minut. Wykazano, że meropenem dobrze
+przenika do wielu płynów i tkanek w tym do płuc, wydzieliny oskrzelowej, żółci, płynu
+mózgowo-rdzeniowego, tkanek żeńskiego układu płciowego, skóry, powięzi, mięśni i wysięku do
+jamy otrzewnej.
+
+
+
+
+                                                  10
+Metabolizm
+Meropenem jest metabolizowany na drodze hydrolizy pierścienia beta-laktamowego, co prowadzi
+do powstania nieczynnego metabolitu. W badaniach in vitro meropenem wykazuje mniejszą niż
+imipenem wrażliwość na hydrolizę przez ludzką dehydropeptydazę-I (DHP-I) i dlatego nie ma
+konieczności jednoczesnego stosowania inhibitora DHP-I.
+
+Eliminacja
+Meropenem jest głównie wydalany przez nerki w niezmienionej postaci; około 70% (50-75%) jest
+wydalane w niezmienionej postaci w ciągu 12 godzin. Kolejne 28% jest wykrywane w postaci
+mikrobiologicznie nieczynnego metabolitu. Tylko około 2% dawki jest wydalane z kałem. Zmierzony
+klirens nerkowy i wpływ probenecydu wskazuje na to, że meropenem podlega zarówno filtracji
+kłębuszkowej, jak i wydzielaniu w kanalikach nerkowych.
+
+Niewydolność nerek
+W przypadku niewydolności nerek zwiększa się AUC stężenia w osoczu i wydłuża się okres
+półtrwania dla meropenemu. Odnotowano, że AUC zwiększało się 2,4-krotnie u pacjentów
+z umiarkowaną niewydolnością nerek (CrCl 33-74 ml/min), 5-krotnie w przypadku ciężkiej
+niewydolności nerek (CrCl 4-23 ml/min) i 10-krotnie u pacjentów poddawanych hemodializie
+(CrCl <2 ml/min) w porównaniu do wartości u osób z prawidłową czynnością nerek
+(CrCl >80 ml/min). Wartość AUC dla nieaktywnych mikrobiologicznie metabolitów z otwartym
+pierścieniem była także znacząco zwiększona u pacjentów z zaburzeniami czynności nerek. Zaleca się
+modyfikację dawki u pacjentów z umiarkowanymi i ciężkimi zaburzeniami czynności nerek (patrz
+punkt 4.2).
+
+Meropenem jest usuwany podczas hemodializy, a klirens podczas hemodializy jest około 4-krotnie
+większy niż u pacjentów z bezmoczem.
+
+Niewydolność wątroby
+W badaniu przeprowadzonym u pacjentów z poalkoholową marskością wątroby wykazano, że choroba
+wątroby nie wpływa na farmakokinetykę meropenemu po podaniu dawek wielokrotnych.
+
+Pacjenci dorośli
+W przeprowadzonych badaniach farmakokinetycznych u osób chorych w porównaniu do zdrowych
+z równoważną czynnością nerek nie obserwowano istotnych różnic w farmakokinetyce. W modelu
+populacyjnym opracowanym na podstawie danych od 79 pacjentów z zakażeniem w jamie brzusznej
+lub zapaleniem płuc, wykazano zależność objętości głównego kompartmentu od masy i klirensu
+zależnego od klirensu kreatyniny i wieku.
+
+Dzieci i młodzież
+Badanie farmakokinetyki u niemowląt i dzieci z zakażeniem, po dawkach 10, 20 i 40 mg/kg mc.
+wykazało wartości Cmax zbliżone do obserwowanych u osób dorosłych po dawkach odpowiednio 500,
+1000 i 2000 mg. Porównanie wykazuje spójne dane farmakokinetyczne dla dawek i okresów
+półtrwania podobne do zaobserwowanych u dorosłych u wszystkich dzieci z wyjątkiem najmłodszych
+(<6 miesięcy t1/2 1,6 godziny). Średnie wartości klirensu meropenemu wynosiły 5,8 ml/min/kg mc.
+(6-12 lat), 6,2 ml/min/kg mc. (2-5 lat), 5,3 ml/min/kg mc. (6-23 miesięcy) oraz 4,3 ml/min/kg mc.
+(2-5 miesięcy). Około 60% dawki jest wydalane z moczem w ciągu 12 godzin jako meropenem,
+a następne 12% w postaci metabolitu. Stężenie meropenemu w płynie mózgowo-rdzeniowym u dzieci
+z zapaleniem opon mózgowo-rdzeniowych wynosi około 20% stężenia w osoczu, jednak istnieje
+znacząca zmienność osobnicza.
+
+Farmakokinetyka meropenemu badana u noworodków wymagających leczenia
+przeciwzakażeniowego, wykazuje u noworodków w starszym wieku chronologicznym lub ciążowym
+większy, przy ogólnym, średnim biologicznym okresie półtrwania wynoszącym 2,9 godziny.
+Symulacja Monte Carlo przeprowadzona w oparciu o model PK populacji wykazała, że po
+
+
+
+                                                11
+zastosowaniu dawki 20 mg/kg mc. co 8 godzin osiągnięto T>MIC 60% dla P. aeruginosa u 95%
+noworodków urodzonych przed czasem i u 91% noworodków urodzonych o czasie.
+
+Osoby w podeszłym wieku
+Badania farmakokinetyki u osób w podeszłym wieku (65-80 lat) wykazały zmniejszenie klirensu
+w osoczu, które korelowało ze zmniejszeniem klirensu kreatyniny i mniejszą redukcją klirensu
+pozanerkowego. Nie ma konieczności zmiany dawki u pacjentów w podeszłym wieku, poza
+przypadkami umiarkowanych lub ciężkich zaburzeń czynności nerek (patrz punkt 4.2).
+
+5.3      Przedkliniczne dane o bezpieczeństwie
+
+Badania prowadzone na zwierzętach wykazały, że meropenem jest dobrze tolerowany przez nerki.
+Histologiczne dowody uszkodzenia kanalików nerkowych obserwowano u myszy i psów tylko po
+dawkach 2000 mg/kg mc. i większych po podaniu pojedynczym i u małp w 7-dniowym badaniu, po
+dawkach 500 mg/kg mc.
+
+Meropenem jest ogólnie dobrze tolerowany przez ośrodkowy układ nerwowy. Oddziaływanie na układ
+nerwowy było obserwowane w badaniach toksyczności ostrej u gryzoni po dawkach przekraczających
+1000 mg/kg mc.
+
+Po podaniu dożylnym, wartość LD50 meropenemu u gryzoni wynosiła powyżej 2000 mg/kg mc.
+
+W badaniach z powtarzanymi dawkami meropenemu, podawanymi do 6 miesięcy, obserwowano
+niewielkie efekty uboczne, w tym zmniejszenie liczby krwinek czerwonych u psów.
+
+W przeprowadzonych konwencjonalnych badaniach u szczurów po dawkach do 750 mg/kg mc.
+i u małp po dawkach do 360 mg/kg mc. nie uzyskano dowodów na potencjalne działanie mutagenne,
+jak również na toksyczny wpływ na reprodukcję, w tym na działanie teratogenne.
+
+Nie stwierdzono zwiększonej wrażliwości na meropenem młodych zwierząt w porównaniu
+z osobnikami dorosłymi. Produkt podawany dożylnie był dobrze tolerowany przez zwierzęta.
+
+Meropenem i jego jedyny metabolit miały u zwierząt podobny profil toksyczności.
+
+
+6.       DANE FARMACEUTYCZNE
+
+6.1      Wykaz substancji pomocniczych
+
+Meronem, 500 mg: sodu węglan bezwodny
+Meronem, 1 g: sodu węglan bezwodny
+
+6.2      Niezgodności farmaceutyczne
+
+Nie mieszać tego produktu leczniczego z innymi produktami leczniczymi, oprócz wymienionych
+w punkcie 6.6.
+
+6.3      Okres ważności
+
+4 lata
+
+
+
+
+                                                 12
+Po rozpuszczeniu:
+
+Szybkie wstrzyknięcie dożylne
+W celu przygotowania roztworu do szybkiego wstrzyknięcia dożylnego należy rozpuścić produkt
+w wodzie do wstrzykiwań, do otrzymania stężenia 50 mg/ml. Wykazano trwałość chemiczną
+i fizyczną sporządzonego roztworu do szybkiego wstrzyknięcia podczas przechowywania przez
+3 godziny w temperaturze do 25°C lub 12 godzin podczas przechowywania w stanie schłodzonym
+(2-8°C).
+
+Z punktu widzenia czystości mikrobiologicznej roztwór należy podać niezwłocznie, chyba że sposób
+otwierania, rozpuszczania i rozcieńczania wyklucza ryzyko zanieczyszczenia mikrobiologicznego.
+
+Jeżeli roztwór nie zostanie podany niezwłocznie, odpowiedzialność za okres i warunki
+przechowywania ponosi użytkownik.
+
+Infuzja
+W celu sporządzenia roztworu do infuzji dożylnej należy rozpuścić produkt w 0,9% roztworze chlorku
+sodu do infuzji lub w 5% roztworze dekstrozy do infuzji, do otrzymania stężenia od 1 do 20 mg/ml.
+Wykazano trwałość chemiczną i fizyczną roztworu do infuzji sporządzonego z użyciem 0,9%
+roztworu chlorku sodu podczas przechowywania przez 3 godziny w temperaturze do 25°C lub
+24 godziny podczas przechowywania w stanie schłodzonym (2-8°C).
+
+Z punktu widzenia czystości mikrobiologicznej roztwór należy podać niezwłocznie, chyba że sposób
+otwierania, rozpuszczania i rozcieńczania wyklucza ryzyko zanieczyszczenia mikrobiologicznego.
+
+Jeżeli roztwór nie zostanie podany niezwłocznie, odpowiedzialność za okres i warunki
+przechowywania ponosi użytkownik.
+
+Roztwór produktu leczniczego w 5% roztworze dekstrozy należy podać niezwłocznie.
+
+Sporządzonych roztworów nie należy zamrażać.
+
+6.4   Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w temperaturze do 30°C.
+
+Nie zamrażać sporządzonego roztworu.
+
+Warunki przechowywania produktu leczniczego po rekonstytucji, patrz punkt 6.3.
+
+6.5   Rodzaj i zawartość opakowania
+
+Meronem, 500 mg
+674 mg proszku w 20 ml fiolce ze szkła I typu z zamknięciem (szary korek z gumy halobutylowej
+z nakładką z aluminium).
+
+Meronem, 1 g
+1348 mg proszku w 30 ml fiolce ze szkła I typu z zamknięciem (szary korek z gumy halobutylowej
+z nakładką z aluminium).
+
+Produkt jest dostarczany w opakowaniach zawierających 1 lub 10 fiolek.
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+
+
+
+                                                13
+6.6   Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+      stosowania
+
+Wstrzyknięcie
+W celu przygotowania meropenemu do szybkiego wstrzyknięcia dożylnego należy rozpuścić proszek
+w jałowej wodzie do wstrzykiwań.
+
+Infuzja
+W celu przygotowania meropenemu do infuzji dożylnej można rozpuścić proszek bezpośrednio
+w 0,9% roztworze chlorku sodu lub 5% roztworze dekstrozy do infuzji.
+
+Każda fiolka służy do jednorazowego użycia.
+
+W trakcie przygotowywania roztworu oraz jego podawania należy zachować standardowe warunki
+aseptyki.
+
+Roztwór należy wstrząsnąć przed użyciem.
+
+Wszelkie niewykorzystane resztki produktu leczniczego lub jego odpady należy usunąć zgodnie
+z lokalnymi przepisami.
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Belgia
+
+
+8.    NUMERY POZWOLEŃ NA DOPUSZCZENIE DO OBROTU
+
+Meronem, 500 mg        R/6516
+Meronem, 1 g           R/6517
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 8 stycznia 1996
+Data ostatniego przedłużenia pozwolenia: 22 luty 2011
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+17.07.2025
+
+
+
+
+                                               14
+
