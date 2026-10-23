@@ -35,3 +35,7 @@ Dense retrieval was verified with known synthetic vectors and a simulated provid
 Source scope is declared by a reviewer. Quote/numeric checks ensure byte grounding, not semantic clinical correctness. Large sections can exceed an embedding model context; `truncate:false` fails rather than silently losing text. Model names require operational version pinning and reindexing after weight changes.
 
 Database owner privileges can bypass triggers and rewrite history; external signatures/anchoring, restricted deployment roles, SSO, retention, backup/restore testing and production performance testing remain deployment work. Full history replay requires the recorded engine version; unavailable versions return a conflict.
+
+## Two-drug run — 2026-10-23
+
+The full disposable-database suite now passes 57 top-level tests including the real Polish PDF ingestion test. A live authenticated run imports both Polish sources and checks six two-drug synthetic cases, physical source identity, exact-context Polish retrieval, persisted reads, replay and verified audit. Repeated import is idempotent. No clinical rules change. See `two-drug-demo.md`; the new browser preset has static/API checks only because browser automation was blocked this session.

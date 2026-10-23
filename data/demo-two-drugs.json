@@ -1,0 +1,31 @@
+{
+  "assessment_at": "2026-10-23T09:00:00Z",
+  "patient": {
+    "age_years": 70,
+    "equation_sex": "male",
+    "weight": {"value": 72, "unit": "kg"},
+    "height": {"value": 175, "unit": "cm"},
+    "creatinine": {"value": 2.8, "unit": "mg/dL"},
+    "measured_at": "2026-10-23T08:00:00Z",
+    "stable_renal_function": true,
+    "suspected_aki": false,
+    "dialysis": false,
+    "idms_standardized": true,
+    "typical_body_composition": true,
+    "actual_weight_confirmed": true
+  },
+  "medications": [
+    {
+      "product": "Meronem 1 g",
+      "route": "intravenous",
+      "form": "powder for solution for injection or infusion",
+      "indication": "hospital-acquired pneumonia"
+    },
+    {
+      "product": "Ceftazidime Kabi 1000 mg",
+      "route": "intravenous",
+      "form": "powder for solution for injection",
+      "indication": "hospital-acquired pneumonia"
+    }
+  ]
+}

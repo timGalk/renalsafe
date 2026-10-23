@@ -10,3 +10,7 @@ Use synthetic patient data only. The demonstration shows the implemented softwar
 6. Open **Documents** to show exact product/page scope and PDF ingestion controls. Explain that local semantic retrieval is optional; the current deployment uses full-text retrieval with an explicit fallback message.
 
 The local test suite passed 56 Go tests with race detection and real PostgreSQL integration checks. Browser smoke covers English assessment, evidence, reviewer/document screens and mobile layout. The full implementation and remaining clinical/model evaluation work are recorded in `system-verification.md` and the GSD roadmap.
+
+## Two-drug example
+
+Run `python3 scripts/demo-two-drugs.py` once to import the pinned Polish sources and verify the scenarios. Then open http://127.0.0.1:8080/?example=two-drugs and sign in as physician. **Load two-drug example** selects both products with a synthetic patient; **Calculate and save assessment** returns CrCl 25 mL/min and manual review for each medicine. Follow each source passage separately. No drug–drug interaction conclusion or automated dose is provided. Full checks and current browser-verification limits are in `two-drug-demo.md`.

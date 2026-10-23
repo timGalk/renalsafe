@@ -39,3 +39,7 @@ The full browser interface, accessibility labels, client messages and numeric fo
 ## Polish sources acquired — 2026-10-23
 
 Two official Polish RPL ChPLs downloaded and pinned: Meronem (500 mg/1 g, RPL 4282, 14 pages) and Ceftazidime Kabi (1000 mg, RPL 24542, 16 pages). UTF-8 extraction and actual Go section/page/byte provenance checks pass with race detection. Acquisition manifest and report: data/sources/pl-2026-10-23/manifest.json and docs/polish-chpl-acquisition.md. This adds source evidence for Phase 2; no new rules or approvals, database import or clinical validation claimed. KB-01 remains partial and KB-02 remains open.
+
+## Two-drug synthetic run — 2026-10-23
+
+Two Polish sources are now imported into the running database (Meronem 1 g and Ceftazidime Kabi 1000 mg, exact IV hospital-acquired pneumonia contexts). Six synthetic scenarios pass through the live API with renal reference/unit/uncertainty checks, per-drug manual review, isolated Polish evidence, immutable reads, replay and audited persistence. Import reuse confirmed on rerun. Full disposable PostgreSQL suite: 57 top-level tests pass with race detection. English two-drug preset added; static assets verified, visual browser automation blocked by URL policy. No clinical rule created/approved and no interaction assessment claimed. Reproduce with scripts/demo-two-drugs.py; report docs/two-drug-demo.md.

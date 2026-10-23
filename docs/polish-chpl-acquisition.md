@@ -27,6 +27,6 @@ The entire evidence package passes, including `TestPolishChPLSourceExtraction` w
 
 ## Clinical and integration state
 
-No new clinical rules have been created or activated, and no changes have been made to the running database. The existing seeded candidate remains pending. Meronem covers two strengths in one document; an exact product, route, indication and page scope must be declared for each future rule context. The automatic first-product detector is for the English EMA seed; Polish uploads use manually declared scope.
+No new clinical rules have been created or activated. After the acquisition check, the two-drug demonstration imported these sources into the running database and saved synthetic cases; see `two-drug-demo.md`. The existing seeded candidate remains pending. Meronem covers two strengths in one document; an exact product, route, indication and page scope must be declared for each future rule context. The automatic first-product detector is for the English EMA seed; Polish uploads use manually declared scope.
 
 Before a two-medicine decision demonstration, choose exact contexts, prepare source-grounded PENDING rules, resolve table footnotes, renal metric, continuous versus intermittent administration, loading versus maintenance dosing, age/weight and dialysis exceptions, and obtain pharmacist review. Do not infer a dose or a continuous range across printed table gaps. Drug–drug interaction assessment is separate and is not implemented.

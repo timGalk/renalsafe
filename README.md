@@ -34,6 +34,17 @@ docker compose up -d
 - **Browser:** assessment, evidence search, document upload, pending candidate preparation and pharmacist review, with mobile layout and no patient identifiers.
 - **Contract:** OpenAPI 3.1 at `/openapi.json`; checked-in `api/openapi.json` generated from JSON payload types.
 
+## Run the two-drug demonstration
+
+```sh
+docker compose up -d core
+python3 scripts/demo-two-drugs.py
+```
+
+This imports the two pinned Polish ChPLs using local role credentials, then checks six synthetic patient cases, evidence retrieval, durable audit and historical replay. It creates no clinical rules or approvals. Repeated runs reuse the source imports and append new synthetic assessments. Results go to ignored `outputs/two-drug-demo/`.
+
+Open http://127.0.0.1:8080/?example=two-drugs and sign in with the physician key. The **Load two-drug example** button fills Meronem 1 g and Ceftazidime Kabi 1000 mg. Choose **Calculate and save assessment**. For the baseline, CrCl is 25 mL/min and both products require manual review because no applicable approved rules exist. This demonstration does not establish that combining the medicines is appropriate. See `docs/two-drug-demo.md` for checks and limits.
+
 ## Local embeddings (optional)
 
 No model is automatically downloaded or started. Configure a local Ollama server with a pinned model identifier producing **1024-dimensional** nonzero vectors, for example an independently installed BGE-M3 model. Set `RENALSAFE_OLLAMA_URL` and `RENALSAFE_EMBEDDING_MODEL`, then recreate the core container. For a host model server from Docker use the supported local endpoint `http://host.docker.internal:11434`.
