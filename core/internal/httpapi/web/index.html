@@ -3,6 +3,7 @@
 <body><header><div><strong>RenalSafe</strong><span>Verifiable decisions with SmPC evidence</span></div><button id="logout" hidden>Sign out</button></header>
 <main>
 <p class="notice">Academic prototype. Use synthetic data only. Clinical rules become active after pharmacist approval.</p>
+<p><a href="/demo.html">Decision engine · training scenarios with decisions</a></p>
 <section id="login"><h1>Open workspace</h1><p>Enter your local role access key. The key is kept only in this tab's memory.</p><form id="login-form"><label>Access key<input id="token" type="password" autocomplete="off" required minlength="32"></label><button>Sign in</button></form></section>
 <div id="workspace" hidden><div class="toolbar"><span id="identity"></span><nav aria-label="Workspace sections"><button data-view="assessment" aria-current="page">Prescription assessment</button><button data-view="evidence">Source evidence</button><button data-view="review" id="review-nav">Rule review</button><button data-view="documents" id="documents-nav">Documents</button></nav></div>
 <section id="assessment" class="view"><div class="section-head"><h1>Prescription assessment</h1><div class="actions"><button id="example" class="secondary">Load synthetic example</button><button id="example-two-drugs" class="secondary" hidden>Load two-drug example</button></div></div>

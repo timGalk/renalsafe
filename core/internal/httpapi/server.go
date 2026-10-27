@@ -31,6 +31,27 @@ type Server struct {
 
 func (s *Server) Handler() http.Handler {
 	mux := http.NewServeMux()
+	mux.HandleFunc("POST /demo/assess", func(w http.ResponseWriter, r *http.Request) {
+		var req domain.Request
+		if err := readJSON(w, r, &req); err != nil {
+			fail(w, err)
+			return
+		}
+		out, err := assessDemo(req)
+		if err != nil {
+			fail(w, err)
+			return
+		}
+		respond(w, 200, out)
+	})
+	mux.HandleFunc("GET /demo/scenarios.json", func(w http.ResponseWriter, r *http.Request) {
+		out, err := demoScenarios()
+		if err != nil {
+			fail(w, err)
+			return
+		}
+		respond(w, 200, out)
+	})
 	mux.HandleFunc("GET /openapi.json", func(w http.ResponseWriter, r *http.Request) { _ = respond(w, 200, OpenAPI()) })
 	mux.HandleFunc("GET /healthz", func(w http.ResponseWriter, r *http.Request) { respond(w, 200, map[string]string{"status": "alive"}) })
 	mux.HandleFunc("GET /readyz", func(w http.ResponseWriter, r *http.Request) {

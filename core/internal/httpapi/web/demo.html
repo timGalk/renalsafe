@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>RenalSafe · Training decision engine</title><link rel="stylesheet" href="/app.css"><link rel="stylesheet" href="/demo.css"><script defer src="/demo.js"></script></head>
+<body class="training-demo"><header><strong>RenalSafe · Decision engine</strong><a href="/?example=two-drugs">Back to ChPL and real products</a></header><main>
+<p class="eyebrow">INTERACTIVE TRAINING DEMO</p><h1>Does this prescription fit the kidney rule?</h1><p class="notice">TRAINING MODE · Use synthetic patients only. Products A and B and their rules are fictional. These values are not medicine doses.</p>
+<p>Enter a synthetic patient, set the dose and interval for each fictional product, then check the prescription. The result explains which kidney estimate and rule were used.</p>
+<div class="demo-flow" aria-label="Assessment steps"><span>1. Enter patient data</span><span>2. Set a prescription</span><span>3. Check the result and why</span></div>
+<details><summary>How the training rules work</summary><p>Both fictional products use creatinine clearance (CrCl), calculated with Cockcroft–Gault.</p><div class="table-wrap"><table><thead><tr><th>Calculated creatinine clearance</th><th>Rule action</th><th>Maximum single dose</th><th>Minimum interval</th></tr></thead><tbody><tr><td>Below 30 mL/min</td><td>Reduce dose</td><td>10 mg</td><td>24 hours</td></tr><tr><td>30 mL/min or above</td><td>No adjustment under this rule</td><td>20 mg</td><td>12 hours</td></tr></tbody></table></div><p>These fictional limits demonstrate the engine. Being within these limits does not establish overall prescribing safety.</p></details>
+<section><h2>Try an example</h2><p class="meta">Each button fills the form. You can change every input before running the check.</p><div id="presets" class="actions"></div></section>
+<form id="demo-form"><h2>1. Patient inputs</h2><div class="grid">
+<label>Age, years<input id="age" type="number" min="0" max="150" required></label>
+<label>Sex used in the equation<select id="sex"><option value="male">Male</option><option value="female">Female</option></select></label>
+<label>Weight, kg<input id="weight" type="number" min="0" step="any"></label>
+<label>Height, cm<input id="height" type="number" min="0" step="any"></label>
+<label>Blood creatinine<input id="creatinine" type="number" min="0" step="any" required></label>
+<label>Creatinine units<select id="unit"><option>mg/dL</option><option>umol/L</option></select></label>
+</div><p class="meta">Weight and height are needed for the creatinine clearance calculation in this demo. Leave weight blank to see why a check can be blocked.</p><details id="patient-details"><summary>Sample time, uncertainty and applicability checks</summary><div class="grid"><label>Sample date and time<input id="measured" type="datetime-local" required></label>
+<label>Lowest plausible creatinine (optional)<input id="lower" type="number" min="0" step="any"></label>
+<label>Highest plausible creatinine (optional)<input id="upper" type="number" min="0" step="any"></label>
+</div><p class="meta">Bounds use the selected creatinine units. Leave both blank if unknown; unknown uncertainty is not zero uncertainty.</p>
+<div class="checks">
+<label><input id="stable" type="checkbox">Stable renal function confirmed</label>
+<label><input id="no-aki" type="checkbox">No suspected acute kidney injury (AKI)</label>
+<label><input id="no-dialysis" type="checkbox">Not receiving dialysis</label>
+<label><input id="idms" type="checkbox">Creatinine test is IDMS-standardized</label>
+<label><input id="body" type="checkbox">Typical body composition confirmed</label>
+<label><input id="actual-weight" type="checkbox">Actual body weight confirmed</label>
+</div></details><h2>2. Prescription to check</h2><p>Single dose means the amount at one administration. The interval is the time between doses: every 12 hours means twice a day.</p><div id="prescriptions"></div><div class="submit-row"><button id="evaluate" type="submit">Check prescription</button><p class="meta">Checks only the fictional kidney rules shown above.</p></div>
+</form><p id="demo-status" role="status" aria-live="polite">Loading example inputs…</p><section id="demo-result" aria-live="polite" tabindex="-1"><p class="empty-result">Your result will appear here after you check the prescription.</p></section>
+<p id="demo-notice" class="meta"></p><details><summary>Technical details: exact inputs, rule IDs and engine response</summary><pre id="demo-json"></pre></details>
+</main><footer>Training results are not saved to the clinical database or audit log. No clinical approval has been given.</footer></body></html>
