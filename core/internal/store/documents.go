@@ -94,7 +94,7 @@ func (s *Store) AddDocument(ctx context.Context, actor Actor, in DocumentInput, 
 	if e != nil || u.Scheme != "https" || u.Host == "" || !in.Context.Valid() || strings.TrimSpace(in.Version) == "" || !strings.HasPrefix(string(pdf), "%PDF-") {
 		return out, fmt.Errorf("%w: official source URL, version, exact context and PDF required", ErrInvalid)
 	}
-	secs, e := evidence.Split(text, in.PageStart, in.PageEnd)
+	secs, e := evidence.SplitPassages(text, in.PageStart, in.PageEnd)
 	if e != nil {
 		return out, fmt.Errorf("%w: %v", ErrInvalid, e)
 	}
@@ -188,7 +188,7 @@ func (s *Store) Seed(ctx context.Context, path string) error {
 			if e != nil {
 				return e
 			}
-			sections, e := evidence.Split(text, first, last)
+			sections, e := evidence.SplitPassages(text, first, last)
 			if e != nil {
 				return e
 			}

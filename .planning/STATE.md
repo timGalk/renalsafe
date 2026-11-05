@@ -44,6 +44,14 @@ Two official Polish RPL ChPLs downloaded and pinned: Meronem (500 mg/1 g, RPL 42
 
 Two Polish sources are now imported into the running database (Meronem 1 g and Ceftazidime Kabi 1000 mg, exact IV hospital-acquired pneumonia contexts). Six synthetic scenarios pass through the live API with renal reference/unit/uncertainty checks, per-drug manual review, isolated Polish evidence, immutable reads, replay and audited persistence. Import reuse confirmed on rerun. Full disposable PostgreSQL suite: 57 top-level tests pass with race detection. English two-drug preset added; static assets verified, visual browser automation blocked by URL policy. No clinical rule created/approved and no interaction assessment claimed. Reproduce with scripts/demo-two-drugs.py; report docs/two-drug-demo.md.
 
+## Implementation continuation — 2026-11-05
+
+Added lossless layout-aware passage partitioning for new imports (soft 6000-byte target; table groups remain indivisible; prior chunks/citations immutable). Real Polish extraction fixtures verify complete content conservation. Browser now supports pending candidate correction with fixed source/chunk identity, expected digest and separate pharmacist approval; condition inclusivity and multiple unmodeled conditions are preserved.
+
+Added local retrieval evaluation runner, six explicitly labeled engineering cases, scoring/run-validity regression tests and CI checks. Reports pin dataset/corpus identity and knowledge/model versions; degraded hybrid or changing corpus cannot count as a valid comparison. The live lexical software baseline passes all six cases with zero wrong-source hits; two expected abstentions. It is not an independent gold-set/model benchmark or clinical result. Full disposable database/race suite, vet and browser smoke (including candidate edit/cancel) pass. Local application rebuilt and started. See docs/evaluation-guide.md and docs/system-verification.md.
+
+Phase 4/5 plans remain open: independent table/candidate review, OCR/harder PDF semantics, assisted extraction, actual pinned-model comparison and independent clinical/retrieval gold sets still required. No clinical rule created or approved this session. No model downloaded or generative explanation enabled.
+
 ## Final-version planning — 2026-11-05
 
 User requested a plan/research reconciliation for login, patient results and final delivery, and explicitly selected a clinician workspace with synthetic patient history (no patient portal). Original architecture/code comparison and current OWASP research saved in FINAL-VERSION-RESEARCH.md; detailed design/acceptance contract in FINAL-VERSION-PLAN.md. Added unexecuted Phases 6–9 for accounts, patient/results history, final React UI and release validation. Next engineering work: Phase 6. Clinical review remains an independent unresolved dependency for activation/full thesis evidence. No runtime changes or tests performed in this planning update.

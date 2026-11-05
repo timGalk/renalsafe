@@ -70,6 +70,22 @@ Without `RENALSAFE_TEST_DATABASE_URL`, real-database cases skip explicitly. The 
 
 Optional browser smoke: install Playwright in your test environment, or set `NODE_PATH` to an existing installation; set `RENALSAFE_CHROMIUM_PATH` if needed, then run `node scripts/smoke-browser.cjs` against the running application. It reads local keys without printing them, checks the physician/reviewer workflow, and never approves a real clinical rule. Screenshots and summary go to ignored `outputs/`.
 
+## Continue ingestion and evaluation
+
+New source imports use lossless passages with a soft 6000-byte target. Detected table blocks, introductions and possible footnotes remain together; oversized blocks stay whole. Existing imported chunks/citations remain immutable. This is layout-aware engineering, not verified table semantics or OCR.
+
+Pending rules can now be edited in the browser with fixed source context and stale-write protection. Corrections remain PENDING and still require the separate pharmacist review.
+
+Run the source retrieval baseline after importing the two Polish sources:
+
+```sh
+python3 scripts/evaluate-retrieval.py data/retrieval-software-fixtures.json \
+  --modes lexical --output outputs/evaluation/lexical-software.json
+python3 scripts/test-evaluation.py
+```
+
+The six software cases do not replace independent gold labels. The runner supports a pinned-model lexical/hybrid comparison, reports degradation and knowledge drift, and records source recall, citation precision, abstention and latency. See `docs/evaluation-guide.md` for labeling, model configuration and reporting limits.
+
 ## Offline CLI
 
 ```sh
@@ -95,4 +111,4 @@ Journal locking is fail closed: competing writers or a leftover lock after a cra
 
 GSD Phase 1 software core and Phase 3 persisted API are verified. Phase 2 clinical validation remains open. Phase 4 has the manual ingestion/review slice; AI-assisted extraction and harder/OCR PDFs remain open. Phase 5 has lexical/hybrid retrieval infrastructure; independent clinical/retrieval gold sets and generative evaluation remain open. `docs/system-verification.md` records concrete executed checks and limitations.
 
-Next clinical work: current Polish ChPL applicability, five independently reviewed product-specific rule sets and gold cases. Next AI work: real pinned local embeddings and benchmark against full text, table-aware splitting for large sections, pending-only extraction worker, then guarded generative explanations. No clinician identity or clinical validation result was invented.
+Next clinical work: current Polish ChPL applicability, five independently reviewed product-specific rule sets and gold cases. Next AI work: independent labeling and table-fidelity review, real pinned local embeddings and benchmark against full text, pending-only extraction worker, then guarded generative explanations. Lossless passage splitting and an evaluation runner are now implemented; neither establishes model quality or clinical validation. No clinician identity or clinical validation result was invented.

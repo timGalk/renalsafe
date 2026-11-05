@@ -41,6 +41,21 @@ Database owner privileges can bypass triggers and rewrite history; external sign
 The full disposable-database suite now passes 57 top-level tests including the real Polish PDF ingestion test. A live authenticated run imports both Polish sources and checks six two-drug synthetic cases, physical source identity, exact-context Polish retrieval, persisted reads, replay and verified audit. Repeated import is idempotent. No clinical rules change. See `two-drug-demo.md`; the new browser preset has static/API checks only because browser automation was blocked this session.
 
 
+## Implementation continuation — 2026-11-05
+
+Implemented and executed:
+
+- New imports use exact-span passage partitioning with a soft 6000-byte target. Paragraph/table boundaries preserve physical pages and byte offsets. Large indivisible blocks remain whole. Tests verify UTF-8 provenance, deterministic partitioning, no loss/duplication, table/header/possible-footnote grouping and full content conservation on both pinned Polish PDFs. Existing persisted chunks are unchanged.
+- Browser pending-rule editing uses the existing authenticated PATCH API, fixed source/chunk context and expected content digest. Exclusive/inclusive condition boundaries and separate unmodeled conditions are preserved in the form. Approval remains a separate pharmacist action.
+- Retrieval evaluation runner records immutable source labels, active corpus/dataset hashes, requested/actual modes, revisions, individual responses, relevance metrics and latency. It rejects invalid labels and marks changing/degraded comparisons invalid. Seven offline scoring/validation regression tests pass, including duplicate hits, wrong source/section/context, abstention, absent independent-review metadata, fallback and version drift.
+- `python3 scripts/test-integration.py`: PASS, all Go packages against a disposable PostgreSQL+pgvector database with race detection. The application database was not used for tests. `go vet ./...`: PASS.
+- Browser smoke: PASS, including synthetic assessment, replay, source retrieval, pharmacist pending-edit/cancel, fixed source selectors, document workflow, mobile overflow and no persistent credential storage. No clinical rule was saved or approved by this smoke test.
+- Local Compose application rebuilt and started successfully.
+- Live lexical evaluation on six explicitly labeled software fixtures: four positive source/section cases found, two expected abstentions, recall@5 1.0 on positive cases, citation precision 1.0 where hits exist, zero wrong-source hits. Stable knowledge version/corpus; no fallback. Report: ignored `outputs/evaluation/lexical-software.json`. These trivial source checks are not a real-model or independent gold-set benchmark. Timing is machine/run-specific and available in that report.
+- Evaluation scoring and JavaScript syntax checks added to CI; no hosted CI execution claimed.
+
+Still open: qualified clinical approval, five-product reviewed rule coverage, independent clinical/retrieval labels, actual pinned-model comparison, harder-table semantic fidelity/OCR and assisted extraction. No generative dosing/explanation model added. Passage layout detection is heuristic; an indivisible block may still exceed the provider's context. No E1–E3/E5 thesis or clinical validation completion is asserted.
+
 ## Staff accounts/session implementation — 2026-11-05
 
 Phase 6 adds migration 003, database-backed staff identities, Argon2id passwords, activation/reset, cookie sessions, revocation, CSRF and staff administration. Existing actor IDs and clinical snapshots are preserved. The account lifecycle and browser workflow described in `accounts.md` were executed against disposable test identities; no clinical rules approved.

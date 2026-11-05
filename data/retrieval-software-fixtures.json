@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "purpose": "software_fixture",
+  "description": "Engineering source-identity checks, not independently reviewed clinical or retrieval gold.",
+  "cases": [
+    {
+      "id": "product-1-4.2",
+      "context": {
+        "product": "Meronem 1 g",
+        "route": "intravenous",
+        "form": "powder for solution for injection or infusion",
+        "indication": "hospital-acquired pneumonia"
+      },
+      "section": "4.2",
+      "query": "Zaburzenia czynności nerek",
+      "relevant": [
+        {
+          "document_sha256": "3c4ffb78fa8188f3bda9f111e4546aa18717dfcb8f92d7cb8371144b57d988f4",
+          "section": "4.2",
+          "quote": "Zaburzenia czynności nerek"
+        }
+      ]
+    },
+    {
+      "id": "product-1-4.3",
+      "context": {
+        "product": "Meronem 1 g",
+        "route": "intravenous",
+        "form": "powder for solution for injection or infusion",
+        "indication": "hospital-acquired pneumonia"
+      },
+      "section": "4.3",
+      "query": "Przeciwwskazania",
+      "relevant": [
+        {
+          "document_sha256": "3c4ffb78fa8188f3bda9f111e4546aa18717dfcb8f92d7cb8371144b57d988f4",
+          "section": "4.3",
+          "quote": "Przeciwwskazania"
+        }
+      ]
+    },
+    {
+      "id": "product-1-no-evidence",
+      "context": {
+        "product": "Meronem 1 g",
+        "route": "intravenous",
+        "form": "powder for solution for injection or infusion",
+        "indication": "hospital-acquired pneumonia"
+      },
+      "query": "renalsafe_nonexistent_fixture_term_7bfea",
+      "relevant": [],
+      "expect_abstention": true
+    },
+    {
+      "id": "product-2-4.2",
+      "context": {
+        "product": "Ceftazidime Kabi 1000 mg",
+        "route": "intravenous",
+        "form": "powder for solution for injection",
+        "indication": "hospital-acquired pneumonia"
+      },
+      "section": "4.2",
+      "query": "Zaburzenia czynności nerek",
+      "relevant": [
+        {
+          "document_sha256": "7285d9aebf69150e112e8ebe90f7b2a507ec352a69cb1a594ea8c3a53892afbf",
+          "section": "4.2",
+          "quote": "Zaburzenia czynności nerek"
+        }
+      ]
+    },
+    {
+      "id": "product-2-4.3",
+      "context": {
+        "product": "Ceftazidime Kabi 1000 mg",
+        "route": "intravenous",
+        "form": "powder for solution for injection",
+        "indication": "hospital-acquired pneumonia"
+      },
+      "section": "4.3",
+      "query": "Przeciwwskazania",
+      "relevant": [
+        {
+          "document_sha256": "7285d9aebf69150e112e8ebe90f7b2a507ec352a69cb1a594ea8c3a53892afbf",
+          "section": "4.3",
+          "quote": "Przeciwwskazania"
+        }
+      ]
+    },
+    {
+      "id": "product-2-no-evidence",
+      "context": {
+        "product": "Ceftazidime Kabi 1000 mg",
+        "route": "intravenous",
+        "form": "powder for solution for injection",
+        "indication": "hospital-acquired pneumonia"
+      },
+      "query": "renalsafe_nonexistent_fixture_term_7bfea",
+      "relevant": [],
+      "expect_abstention": true
+    }
+  ]
+}

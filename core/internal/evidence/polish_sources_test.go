@@ -72,6 +72,24 @@ func TestPolishChPLSourceExtraction(t *testing.T) {
 					t.Logf("section 4.2: physical pages %d–%d, exact source byte spans retained", sec.PageStart, sec.PageEnd)
 				}
 			}
+			passages, err := Passages(sections, PassageTargetBytes)
+			if err != nil {
+				t.Fatal(err)
+			}
+			var before, after strings.Builder
+			for _, sec := range sections {
+				before.WriteString(sec.Text)
+			}
+			for _, p := range passages {
+				if text[p.Start:p.End] != p.Text {
+					t.Fatal("passage source span mismatch")
+				}
+				after.WriteString(p.Text)
+			}
+			if before.String() != after.String() {
+				t.Fatal("real source content lost or duplicated")
+			}
+			t.Logf("%d sections partitioned into %d lossless passages", len(sections), len(passages))
 			if !foundDosing {
 				t.Fatal("Polish dosing/renal passage or table layout marker missing")
 			}
