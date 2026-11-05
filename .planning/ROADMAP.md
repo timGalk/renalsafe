@@ -54,6 +54,8 @@ ADR-002 revises the original chronological dependency: Phase 3 software can buil
 - [x] 04-01-PLAN.md — bounded PDF ingestion, manual candidates and review.
 - [ ] 04-02-PLAN.md — table-aware splitting, assisted extraction and harder PDF evaluation.
 
+Local-only AI extraction is now planned in [04-AI-SPEC.md](phases/04-ingestion-review/04-AI-SPEC.md), with [Qwen/MedGemma research and implementation increments](../docs/ai-rule-extraction-plan.md). User confirmed local inference; prototype/runtime checks and independent clinical model evaluation remain unexecuted.
+
 ### Phase 5: Retrieval and evaluation
 
 **Goal:** Guarded evidence retrieval and reproducible E1–E3/E5 thesis experiments.
