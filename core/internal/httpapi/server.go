@@ -81,6 +81,7 @@ func (s *Server) Handler() http.Handler {
 			}
 		})
 	}
+	s.patientRoutes(api)
 	all := "physician pharmacist admin"
 	edit := "pharmacist admin"
 	api("GET /api/v1/me", all, func(w http.ResponseWriter, r *http.Request, a store.Actor) error { return respond(w, 200, a) })

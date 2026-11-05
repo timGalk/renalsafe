@@ -13,6 +13,7 @@ jobs:
         working-directory: core
       - run: python3 scripts/test-evaluation.py
       - run: node --check core/internal/httpapi/web/app.js
+      - run: node --check core/internal/httpapi/web/patients.js
       - run: python3 scripts/test-integration.py
       - run: go run ./cmd/renalsafe-openapi > /tmp/renalsafe-openapi.json && diff ../api/openapi.json /tmp/renalsafe-openapi.json
         working-directory: core

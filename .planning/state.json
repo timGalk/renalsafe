@@ -36,7 +36,7 @@
     {
       "number": "7",
       "name": "Synthetic patient history",
-      "status": "planned"
+      "status": "complete"
     },
     {
       "number": "8",
@@ -50,9 +50,9 @@
     }
   ],
   "next": {
-    "command": "$gsd-execute-phase 7",
-    "label": "Implement synthetic patient history and saved results",
-    "reason": "Staff accounts/session workflow implemented and verified; patient profiles and history are next"
+    "command": "$gsd-execute-phase 8",
+    "label": "Build the final React clinician workspace",
+    "reason": "Patient profiles, lab/result history and permissions implemented and verified; final frontend migration is next"
   },
   "updated_at": "2026-11-05"
 }

@@ -101,10 +101,42 @@ func OpenAPI() map[string]any {
 	for _, p := range []string{"/api/v1/auth/login", "/api/v1/auth/activate"} {
 		paths[p].(map[string]any)["post"].(map[string]any)["security"] = []any{}
 	}
+
+	operation("/api/v1/staff", "get", "Active physician/pharmacist directory for case sharing", nil, array(store.StaffMember{}), "200")
+	operation("/api/v1/patients", "get", "Cursor-paginated authorised synthetic patients; admin reads audited", nil, ref(store.PatientPage{}), "200")
+	operation("/api/v1/patients", "post", "Physician: create a confirmed synthetic case", ref(store.PatientInput{}), ref(store.SyntheticPatient{}), "201")
+	operation("/api/v1/patients/{id}", "get", "Read an authorised synthetic case", nil, ref(store.SyntheticPatient{}), "200")
+	operation("/api/v1/patients/{id}", "patch", "Owner/admin: update alias or archive with expected version", ref(store.PatientUpdate{}), ref(store.SyntheticPatient{}), "200")
+	operation("/api/v1/patients/{id}/access", "get", "Owner/admin: inspect explicit case access", nil, array(store.PatientAccess{}), "200")
+	operation("/api/v1/patients/{id}/access/{user}", "put", "Owner/admin: grant or revoke complete case history access", object(map[string]any{"granted": map[string]any{"type": "boolean"}}), statusResponse, "200")
+	paths["/api/v1/patients/{id}/access/{user}"].(map[string]any)["put"].(map[string]any)["parameters"] = []any{map[string]any{"name": "id", "in": "path", "required": true, "schema": textField}, map[string]any{"name": "user", "in": "path", "required": true, "schema": textField}}
+	operation("/api/v1/patients/{id}/observations", "get", "Cursor-paginated immutable observations, including supersession", nil, ref(store.ObservationPage{}), "200")
+	operation("/api/v1/patients/{id}/observations", "post", "Physician: append observation or correction, never overwrite", ref(store.ObservationInput{}), ref(store.Observation{}), "201")
+	operation("/api/v1/patients/{id}/observations/{observation}/corrections", "post", "Physician: append a correction to the current same-case observation", ref(store.ObservationInput{}), ref(store.Observation{}), "201")
+	paths["/api/v1/patients/{id}/observations/{observation}/corrections"].(map[string]any)["post"].(map[string]any)["parameters"] = []any{map[string]any{"name": "id", "in": "path", "required": true, "schema": textField}, map[string]any{"name": "observation", "in": "path", "required": true, "schema": textField}}
+	operation("/api/v1/assessments", "get", "Authorised cursor history; legacy creator/admin access; optional unlinked/product/status/from/to", nil, ref(store.AssessmentPage{}), "200")
+	operation("/api/v1/patients/{id}/assessments", "get", "Authorised same-case saved result history", nil, ref(store.AssessmentPage{}), "200")
+	operation("/api/v1/patients/{id}/assessments", "post", "Physician: atomic lab-linked assessment, audit and idempotency; selected stored lab overrides submitted lab fields", ref(store.PatientAssessmentInput{}), ref(store.AssessmentRecord{}), "201")
+	operation("/api/v1/assessments/{id}/export", "get", "Authorised audited JSON report of one saved assessment, at most 4 MiB", nil, ref(store.AssessmentExport{}), "200")
+	operation("/api/v1/assessments/{id}/report", "get", "Authorised audited escaped HTML report, use browser Print", nil, map[string]any{"type": "string"}, "200")
+	paths["/api/v1/assessments/{id}/report"].(map[string]any)["get"].(map[string]any)["responses"].(map[string]any)["200"] = map[string]any{"description": "Printable saved result", "content": map[string]any{"text/html": map[string]any{"schema": textField}}}
+	for _, path := range []string{"/api/v1/patients", "/api/v1/patients/{id}/observations", "/api/v1/patients/{id}/assessments", "/api/v1/assessments"} {
+		op := paths[path].(map[string]any)["get"].(map[string]any)
+		params, _ := op["parameters"].([]any)
+		params = append(params, map[string]any{"name": "cursor", "in": "query", "schema": textField}, map[string]any{"name": "limit", "in": "query", "schema": map[string]any{"type": "integer", "minimum": 1, "maximum": 50, "default": 20}})
+		if path == "/api/v1/assessments" || path == "/api/v1/patients/{id}/assessments" {
+			for _, name := range []string{"product", "status", "from", "to"} {
+				params = append(params, map[string]any{"name": name, "in": "query", "schema": textField})
+			}
+			params = append(params, map[string]any{"name": "unlinked", "in": "query", "schema": map[string]any{"type": "boolean"}})
+		}
+		op["parameters"] = params
+	}
+
 	operation("/api/v1/me", "get", "Authenticated identity and server-bound role", nil, ref(store.Actor{}), "200")
 	operation("/api/v1/catalog", "get", "Exact active product/form/route/indication contexts", nil, array(domain.Context{}), "200")
 	operation("/api/v1/assessments", "post", "Persist deterministic assessment and audit atomically", ref(domain.Request{}), ref(store.AssessmentRecord{}), "201")
-	operation("/api/v1/assessments/{id}", "get", "Read own assessment; admin may read all", nil, ref(store.AssessmentRecord{}), "200")
+	operation("/api/v1/assessments/{id}", "get", "Read authorised case result; unlinked results use creator/admin access", nil, ref(store.AssessmentRecord{}), "200")
 	operation("/api/v1/assessments/{id}/replay", "post", "Replay immutable snapshot with compatible engine version", nil, object(map[string]any{"reproduced": map[string]any{"type": "boolean"}}), "200")
 	operation("/api/v1/documents", "get", "List immutable documents and lifecycle status", nil, array(store.Document{}), "200")
 	operation("/api/v1/documents/{id}/chunks", "get", "Source text with physical pages and byte offsets", nil, array(store.Chunk{}), "200")

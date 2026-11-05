@@ -34,6 +34,12 @@ docker compose up -d
 - **Browser:** assessment, evidence search, document upload, pending candidate preparation and pharmacist review, with mobile layout and no patient identifiers.
 - **Contract:** OpenAPI 3.1 at `/openapi.json`; checked-in `api/openapi.json` generated from JSON payload types.
 
+## Synthetic patients and saved results
+
+Sign in as a physician and open **Patients** to create a fictional case, record a dated creatinine observation and choose it for an assessment. The selected laboratory values are fixed; confirm the remaining current inputs before calculating. **Saved results** reopens prior assessments, verifies replay and exports JSON/printable reports. Observation corrections append replacements; historical results stay reproducible. Case owners can share with other physicians or read-only pharmacists, revoke access and archive cases without deleting history.
+
+Existing assessments remain visible as unlinked records under their original creator/admin access. See `docs/patient-history.md` for permissions, correction/recalculation behavior and verification. The React workspace migration remains Phase 8.
+
 ## Run the two-drug demonstration
 
 ```sh

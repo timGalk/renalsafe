@@ -4,12 +4,12 @@ milestone: v0.1
 milestone_name: verifiable core and main system
 progress:
   total_phases: 9
-  completed_phases: 3
+  completed_phases: 4
   total_plans: 14
-  completed_plans: 8
-current_phase: 7
-current_phase_name: patient-history
-status: ready-for-patient-history
+  completed_plans: 9
+current_phase: 8
+current_phase_name: final-workspace
+status: ready-for-final-workspace
 last_updated: 2026-11-05
 ---
 # State
@@ -63,3 +63,11 @@ Staff accounts, Argon2id passwords, opaque cookie sessions, CSRF, idle/absolute 
 Additive migration 003 applied to local Compose app. Initial workspace-admin account created with a private 0600 activation file, no default password. Full disposable-database race suite, vet, password/session lifecycle and browser activation/login/reload/logout checks pass. Existing assessment/replay/review browser smoke also passes. API contract regenerated. See docs/accounts.md and phases/06-accounts-sessions/06-01-SUMMARY.md. Timeout policy is fixed at 30 minutes idle/eight hours absolute in this version; multi-tab clearing occurs on next request, and privileged lost-admin recovery remains an operator task.
 
 Next: Phase 7, synthetic patient profiles, renal observations and result history. Phases 2/4/5 clinical and model evidence remain open. Phase 7–9 features have not been implemented by the account work.
+
+## Phase 7 executed — 2026-11-05
+
+Synthetic profiles, per-case sharing/access, immutable creatinine observations/corrections, atomic lab-linked/idempotent assessments, paginated history, reopening/replay/recalculation, same-case version-aware comparison and audited JSON/printable report exports implemented. Existing unlinked assessments and source/rule history are preserved. Migration 004 protects case identity and observation/result links; runtime checks prevent wrong-patient association and creator bypass after access revocation. Role-demoted pharmacists remain read-only.
+
+Full disposable database/race suite, vet, OpenAPI equality, report escaping and browser patient/account/existing clinical workflow checks pass. Local Compose migration applied. Explicit application restart preserved the archived synthetic case, both result exports and matching historical replay. No clinical rules approved. See docs/patient-history.md and phases/07-patient-history/07-01-SUMMARY.md. Patient-history implementation is verified; React migration follows in Phase 8.
+
+Next: Phase 8, final React/TypeScript workspace, stable client routes and frontend polish. Phases 2/4/5 independent clinical/model evidence remain open.

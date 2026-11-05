@@ -202,45 +202,52 @@ func appendAudit(ctx context.Context, q querier, actor Actor, kind, id string, d
 	_, err = q.Exec(ctx, `INSERT INTO audit_events(sequence,hash,previous_hash,payload) VALUES($1,$2,$3,$4)`, e.Sequence, e.Hash, e.Previous, marshal(e))
 	return e, err
 }
-func (s *Store) Assess(ctx context.Context, actor Actor, req domain.Request) (AssessmentRecord, error) {
-	var out AssessmentRecord
+func validateAssessmentRequest(req domain.Request) error {
 	if domain.ValidatePrescriptionInputs(req) != nil {
-		return out, fmt.Errorf("%w: invalid prescription", ErrInvalid)
+		return fmt.Errorf("%w: invalid prescription", ErrInvalid)
 	}
 	if req.At.IsZero() || len(req.Medications) < 1 || len(req.Medications) > 100 {
-		return out, fmt.Errorf("%w: timestamp and 1-100 medications required", ErrInvalid)
+		return fmt.Errorf("%w: timestamp and 1-100 medications required", ErrInvalid)
 	}
-	err := s.write(ctx, func(tx pgx.Tx) error {
-		kb, e := snapshot(ctx, tx, s.AllowSynthetic)
-		if e != nil {
-			return e
-		}
-		out = AssessmentRecord{ID: ID(), Actor: actor, CreatedAt: time.Now().UTC(), Assessment: decision.Assess(req, kb), Knowledge: kb.Knowledge()}
-		// Audit excludes the final self-referential audit hash; assessment payload pins it.
-		event, e := appendAudit(ctx, tx, actor, "ASSESSMENT", out.ID, out)
-		if e != nil {
-			return e
-		}
-		out.AuditHash = event.Hash
-		_, e = tx.Exec(ctx, `INSERT INTO assessments(id,actor_id,payload) VALUES($1,$2,$3)`, out.ID, actor.ID, marshal(out))
-		return e
-	})
-	return out, err
+	return nil
+}
+func (s *Store) assessTx(ctx context.Context, tx pgx.Tx, actor Actor, req domain.Request) (AssessmentRecord, error) {
+	var out AssessmentRecord
+	kb, e := snapshot(ctx, tx, s.AllowSynthetic)
+	if e != nil {
+		return out, e
+	}
+	out = AssessmentRecord{ID: ID(), Actor: actor, CreatedAt: time.Now().UTC(), Assessment: decision.Assess(req, kb), Knowledge: kb.Knowledge()}
+	event, e := appendAudit(ctx, tx, actor, "ASSESSMENT", out.ID, out)
+	if e != nil {
+		return out, e
+	}
+	out.AuditHash = event.Hash
+	_, e = tx.Exec(ctx, `INSERT INTO assessments(id,actor_id,payload) VALUES($1,$2,$3)`, out.ID, actor.ID, marshal(out))
+	return out, e
+}
+func (s *Store) Assess(ctx context.Context, actor Actor, req domain.Request) (AssessmentRecord, error) {
+	var out AssessmentRecord
+	if e := validateAssessmentRequest(req); e != nil {
+		return out, e
+	}
+	e := s.write(ctx, func(tx pgx.Tx) error { var e error; out, e = s.assessTx(ctx, tx, actor, req); return e })
+	return out, e
 }
 func (s *Store) Assessment(ctx context.Context, actor Actor, id string) (AssessmentRecord, error) {
-	var r AssessmentRecord
-	var b []byte
-	e := s.Pool.QueryRow(ctx, `SELECT payload FROM assessments WHERE id=$1`, id).Scan(&b)
-	if e != nil {
-		return r, normalize(e)
-	}
-	if e = json.Unmarshal(b, &r); e != nil {
-		return r, e
-	}
-	if actor.Role != "admin" && r.Actor.ID != actor.ID {
-		return AssessmentRecord{}, ErrForbidden
-	}
-	return r, nil
+	var out AssessmentRecord
+	e := s.write(ctx, func(tx pgx.Tx) error {
+		var e error
+		out, e = assessmentRead(ctx, tx, actor, id)
+		if e != nil {
+			return e
+		}
+		if actor.Role == "admin" {
+			_, e = appendAudit(ctx, tx, actor, "ASSESSMENT_READ", id, map[string]string{"status": "read"})
+		}
+		return e
+	})
+	return out, e
 }
 func (s *Store) Replay(ctx context.Context, actor Actor, id string) (bool, error) {
 	record, e := s.Assessment(ctx, actor, id)
