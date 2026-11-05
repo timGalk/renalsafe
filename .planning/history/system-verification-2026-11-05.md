@@ -1,3 +1,5 @@
+> Historical implementation evidence. Commands, UI and next-step statements describe the recorded checkpoint; use docs/README.md for current instructions.
+
 # Main system verification — 2026-10-19
 
 Software verification of engine 0.2.0 and the local persisted application. This report does not assert clinical validation.
@@ -38,7 +40,7 @@ Database owner privileges can bypass triggers and rewrite history; external sign
 
 ## Two-drug run — 2026-10-23
 
-The full disposable-database suite now passes 57 top-level tests including the real Polish PDF ingestion test. A live authenticated run imports both Polish sources and checks six two-drug synthetic cases, physical source identity, exact-context Polish retrieval, persisted reads, replay and verified audit. Repeated import is idempotent. No clinical rules change. See `two-drug-demo.md`; the new browser preset has static/API checks only because browser automation was blocked this session.
+The full disposable-database suite now passes 57 top-level tests including the real Polish PDF ingestion test. A live authenticated run imports both Polish sources and checks six two-drug synthetic cases, physical source identity, exact-context Polish retrieval, persisted reads, replay and verified audit. Repeated import is idempotent. No clinical rules change. See `demo-guide.md`; the new browser preset has static/API checks only because browser automation was blocked this session.
 
 ## Implementation continuation — 2026-11-05
 

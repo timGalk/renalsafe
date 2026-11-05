@@ -1,6 +1,6 @@
-# Final React workspace — Phase 8
+# Clinician workspace
 
-The running application now uses the React/TypeScript workspace. The Go calculator, clinical rule eligibility, source storage and patient-history contracts remain authoritative. This phase completes the staff-facing interface; final release/backup/recovery work and independent clinical/model evidence remain separate gates.
+The running application now uses the React/TypeScript workspace. The Go calculator, clinical rule eligibility, source storage and patient-history contracts remain authoritative. Local installation/backup/recovery is verified in [release-evidence.md](release-evidence.md); independent clinical/model evidence remains open.
 
 ## Sign in and activate
 
@@ -67,4 +67,4 @@ python3 scripts/test-integration.py
 node scripts/smoke-workspace.cjs
 ```
 
-The complete browser check creates disposable staff identities, synthetic cases/results and a pending candidate clone that is rejected after checking the edit/save flow. It never approves or edits an original real clinical rule. Fixture accounts are disabled, and synthetic case/audit history is retained. Established `smoke-accounts.cjs`, `smoke-patients.cjs` and `smoke-browser.cjs` entrypoints select the corresponding React checks. Reports/screenshots go to ignored `outputs/`.
+The complete browser check creates disposable staff identities, synthetic cases/results and a pending candidate clone that is rejected after checking the edit/save flow. It never approves or edits an original real clinical rule. Fixture accounts are disabled, and synthetic case/audit history is retained. Use `RENALSAFE_SMOKE_SCOPE=accounts`, `patients` or `review` with the same runner for a focused check; the default is `all`. Reports/screenshots go to ignored `outputs/`.

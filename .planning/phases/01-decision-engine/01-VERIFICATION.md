@@ -22,3 +22,11 @@ Goal achieved for software: deterministic, auditable renal rule selection with e
 Coverage: decision 98.4%, renal 98.6%, audit 88.5%, rules 74.4%, domain 62.5%, CLI 71.4%. Testkit is fixture support and has no own test suite. Coverage is a software measure only.
 
 Human clinical items belong to Phase 2: regulatory applicability, source currency, full contraindication/indication context, weight and freshness policy, rule semantics and independent gold cases. No clinical rule approved. API/database security, hosted CI execution and external audit anchoring not implemented in Phase 1.
+
+## Offline smoke
+
+`example-request.json`: synthetic adult, age 70, actual weight 72 kg, creatinine 2.8 mg/dL. CG=25 mL/min; CKD-EPI 2021=23.53527009785177 mL/min/1.73m2. The pending-only clinical snapshot yields `MANUAL_REVIEW_REQUIRED / NO_APPROVED_RULE` with no action or dose. Journal validation reports one verified event. This demonstrates fail-safe eligibility rather than a clinical recommendation.
+
+## Installed repository verification
+
+After copying to `/home/apollo/Pwr/RenalSafe`, all 30 top-level tests passed again with race detection, `go vet ./...` passed and normal `go build` succeeded with VCS metadata enabled. Local repository initialized and implementation committed; hosted CI has not run.

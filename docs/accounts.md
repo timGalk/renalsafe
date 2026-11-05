@@ -19,7 +19,7 @@ Secrets expire after 30 minutes and can be used once. If activation expires, a s
 
 Administrators can create staff accounts, issue activation/reset secrets, change roles and disable/enable accounts. Only pharmacists can approve clinical rules. Disabling/demoting the last active administrator is rejected.
 
-Reset immediately clears the password, disables that identity's legacy key and revokes all sessions; activation sets the new password. Role changes and disabling revoke sessions and disable the legacy key. Changing your own password requires the current password, revokes sessions and disables the legacy key. Updating an account's role/active state revokes its sessions; an affected browser must sign in again. The original configured administrator key is retained unless that specific account is reset, disabled, demoted or changes its password. No public registration or email delivery is required.
+Reset immediately clears the password, disables that identity's legacy key and revokes all sessions; activation sets the new password. Role changes and disabling revoke sessions and disable the legacy key. Changing your own password requires the current password, revokes sessions and disables the legacy key. An affected browser must sign in again. The original configured administrator key is retained unless that specific account is reset, disabled, demoted or changes its password. No public registration or email delivery is required.
 
 Activation/reset uses a one-time random secret rather than a temporary password. The browser shows new secrets only in the administration screen; clear them by signing out or navigating away/reloading. A local operator should retain access to the original private administrator credentials during migration. Losing all administrator credentials requires privileged operator recovery; no unauthenticated recovery backdoor exists.
 
@@ -37,7 +37,7 @@ No hospital identity federation, MFA, email recovery or real-patient deployment 
 
 ## Verification
 
-`python3 scripts/test-integration.py` runs account lifecycle, activation reuse/expiry, legacy revocation, stable actor provisioning, role restrictions, last-admin protection, session idle/absolute expiry, password change, pending-write revocation, CSRF and cookie transport tests in an isolated disposable database. `scripts/smoke-accounts.cjs` creates a disposable physician account, exercises browser activation/login/reload/logout, then disables the account. It prints no credentials. Existing clinical workflow smoke remains separate.
+`python3 scripts/test-integration.py` runs account lifecycle, activation reuse/expiry, legacy revocation, stable actor provisioning, role restrictions, last-admin protection, session idle/absolute expiry, password change, pending-write revocation, CSRF and cookie transport tests in an isolated disposable database. `RENALSAFE_SMOKE_SCOPE=accounts node scripts/smoke-workspace.cjs` provisions disposable staff identities, exercises browser activation/login/reload/logout, then disables the fixture accounts. It prints no credentials. Other scopes and the default full suite use the same runner; see [scripts/README.md](../scripts/README.md).
 
 A disabled smoke account and its audit events remain in the local application; they are intentionally not deleted from history. Never run browser checks against real patient data.
 

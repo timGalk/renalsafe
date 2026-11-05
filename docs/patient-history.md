@@ -55,9 +55,9 @@ See `/openapi.json` for payloads and query parameters:
 ```sh
 python3 scripts/test-integration.py
 # With the existing Playwright environment configured:
-node scripts/smoke-patients.cjs
+RENALSAFE_SMOKE_SCOPE=patients node scripts/smoke-workspace.cjs
 ```
 
-The integration suite uses a disposable database. The browser check creates synthetic cases/assessments under disposable staff accounts and disables those accounts afterwards; case/history/audit records remain deliberately intact. Its summary is saved in ignored `outputs/patient-smoke.json`. The browser check verifies creation, observation selection, saved results/reload, export, sharing/revocation, read-only pharmacist access, correction/recalculation, replay, comparison, archive and mobile layout.
+The integration suite uses a disposable database. The browser check creates synthetic cases/assessments under disposable staff accounts and disables those accounts afterwards; case/history/audit records remain deliberately intact. Its summary is saved in ignored `outputs/react-workspace-smoke.json`. The browser check verifies creation, observation selection, saved results/reload, export, sharing/revocation, read-only pharmacist access, correction/recalculation, replay, comparison, archive and mobile layout.
 
 Phase 8 now implements these workflows in React with stable client routes; see `final-workspace.md`. No automatic clinical flags, real-patient deployment, general lab panel or clinical validation is claimed.

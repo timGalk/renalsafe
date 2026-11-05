@@ -1,19 +1,38 @@
-# RenalSafe demonstration
+# Synthetic demonstration and training
 
-Use synthetic patient data only. The demonstration shows the implemented software workflow; independent clinical validation is still pending.
+Use synthetic data only. Start the application and activate staff accounts using [accounts.md](accounts.md). The demonstration shows software behavior; independent clinical validation remains open.
 
-1. Open http://127.0.0.1:8080 and sign in with the local physician key from `.local/tokens.json`. Keep the key private during screen sharing.
-2. Select **Load synthetic example**. Explain that patient inputs include units, sample time and explicit confirmations of the supported clinical scope. Review the selected product, then choose **Calculate and save assessment**.
-3. Show the renal function estimates and **Manual review required** result. The seeded source candidate has not been clinically approved, so the engine provides no automated action or dose.
-4. Select **Verify reproducibility** to recompute the result using the saved knowledge version. Select **Find source passages** to inspect the SmPC section, pages, version and quotation. Retrieval supplies evidence for review and does not change the decision.
-5. Sign out and sign in with the pharmacist key. Open **Rule review**. Show the pending candidate, source quotation, full SmPC download, review notes and unchecked clinical-review confirmation. Leave the real candidate pending during the demonstration.
-6. Open **Documents** to show exact product/page scope and PDF ingestion controls. Explain that local semantic retrieval is optional; the current deployment uses full-text retrieval with an explicit fallback message.
+## Clinician and pharmacist walkthrough
 
-The local test suite passed 56 Go tests with race detection and real PostgreSQL integration checks. Browser smoke covers English assessment, evidence, reviewer/document screens and mobile layout. The full implementation and remaining clinical/model evaluation work are recorded in `system-verification.md` and the GSD roadmap.
+1. Open http://127.0.0.1:8080/login and sign in with a physician username/password. No browser service key is needed.
+2. Open **New assessment** (`/assess/new`) and select **Load synthetic example**. Review units, sample time, scope confirmations and the exact medicine context. For longitudinal history, create a synthetic case under **Patients**, add an observation and choose **Use this observation** first; example loading preserves that selected lab.
+3. Choose **Calculate and save assessment**. The seeded candidate is PENDING, so no approved rule yields **Manual review required**, without an automated action or dose.
+4. Reopen the saved result from **Saved results**. Use **Verify reproducibility**, **Find source passages**, JSON export and the printable report to show the immutable snapshot and provenance. Source retrieval supplies evidence without changing the result.
+5. Sign out and sign in with a pharmacist account. Open **Rule review**, inspect the pending candidate, quotation, complete source PDF and separate review controls. Leave the real candidate pending; never approve a clinical record merely for a demonstration.
+6. Open **Documents** to show declared product/page scope and source lifecycle controls. Evidence shows the actual retrieval mode and any fallback; no embedding or extraction model is assumed active.
 
-## Two-drug example
+Current acceptance evidence and limits are in [release-evidence.md](release-evidence.md); dated pre-React checks are in [.planning/history](../.planning/history/README.md).
 
-Run `python3 scripts/demo-two-drugs.py` once to import the pinned Polish sources and verify the scenarios. Then open http://127.0.0.1:8080/?example=two-drugs and sign in as physician. **Load two-drug example** selects both products with a synthetic patient; **Calculate and save assessment** returns CrCl 25 mL/min and manual review for each medicine. Follow each source passage separately. No drug–drug interaction conclusion or automated dose is provided. Full checks and current browser-verification limits are in `two-drug-demo.md`.
+## Two-drug source-grounded example
+
+```sh
+python3 scripts/demo-two-drugs.py
+```
+
+This script uses private local service keys without printing them. It verifies pinned PDF hashes, imports missing exact-context Polish sources, checks PDF downloads/section 4.2, saves six synthetic cases and replays each. Unchanged ACTIVE imports are reused; conflicting versions or existing approved rules for these demonstration contexts cause refusal. Rule records are checked for changes; no clinical rule is created or approved. Every rerun appends assessment/audit history.
+
+Then open http://127.0.0.1:8080/assess/new?example=two-drugs and sign in as a physician. **Load two-drug example** is available when the exact contexts have been imported: Meronem 1 g and Ceftazidime Kabi 1000 mg, IV hospital-acquired pneumonia. These contexts support source inspection, not a co-prescribing recommendation or drug–drug interaction assessment.
+
+| Scenario | Expected software behavior |
+|---|---|
+| Male, 70 years, 72 kg, 175 cm, creatinine 2.8 mg/dL | CrCl 25 mL/min; eGFR about 23.53527 mL/min/1.73 m² |
+| Equivalent creatinine 247.52 µmol/L | Same estimates |
+| Creatinine 1.0 mg/dL | CrCl 70 mL/min; eGFR about 80.96714 mL/min/1.73 m² |
+| Suspected AKI | No renal estimates; `AKI_OR_UNKNOWN` |
+| Missing weight | CrCl unavailable; `CG_WEIGHT_REQUIRED` |
+| Creatinine bounds 2.6–3.0 mg/dL | CrCl interval about 23.33333–26.92308 mL/min |
+
+Without applicable approved rules, both medicine results require manual review and provide no action/dose. The script supplies fresh assessment/sample timestamps; `data/demo-two-drugs.json` preserves the fixed fixture. Source queries such as Polish `nerek` retain each product's scope. Reports are written to ignored `outputs/two-drug-demo/`; pinned sources are in `data/sources/pl-2026-10-23/manifest.json`. The [original dated run](../.planning/history/two-drug-demo-2026-10-23.md) retains its actual measurements and historical execution limitations.
 
 ## Isolated decision-engine teaching mode
 

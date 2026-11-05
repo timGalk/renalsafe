@@ -2,6 +2,8 @@
 
 Local academic CDSS for renal-dose adjustment with deterministic decisions, source evidence and human-reviewed rules. **Synthetic patients only.**
 
+Documentation: [guides and architecture](docs/README.md), [release evidence](docs/release-evidence.md), [roadmap](.planning/ROADMAP.md).
+
 ## Start the application
 
 Prerequisites: Docker with Compose and Python 3. The bootstrap creates private local role keys; it refuses to overwrite existing credentials.
@@ -51,7 +53,7 @@ python3 scripts/demo-two-drugs.py
 
 This imports the two pinned Polish ChPLs using local role credentials, then checks six synthetic patient cases, evidence retrieval, durable audit and historical replay. It creates no clinical rules or approvals. Repeated runs reuse the source imports and append new synthetic assessments. Results go to ignored `outputs/two-drug-demo/`.
 
-Open http://127.0.0.1:8080/assess/new?example=two-drugs and sign in with a physician account. The **Load two-drug example** button fills Meronem 1 g and Ceftazidime Kabi 1000 mg. Choose **Calculate and save assessment**. For the baseline, CrCl is 25 mL/min and both products require manual review because no applicable approved rules exist. This demonstration does not establish that combining the medicines is appropriate. See `docs/two-drug-demo.md` for checks and limits.
+Open http://127.0.0.1:8080/assess/new?example=two-drugs and sign in with a physician account. The **Load two-drug example** button fills Meronem 1 g and Ceftazidime Kabi 1000 mg. Choose **Calculate and save assessment**. For the baseline, CrCl is 25 mL/min and both products require manual review because no applicable approved rules exist. This demonstration does not establish that combining the medicines is appropriate. See `docs/demo-guide.md` for checks and limits.
 
 ## Local embeddings (optional)
 
@@ -115,11 +117,11 @@ The prototype policy (version `prototype-adult-stable-v1`) gates adults 18–120
 
 Creatinine uncertainty bounds, if supplied, use the same unit as creatinine and must be a finite closed interval containing the measured value. The derived renal interval must fit a single rule fully. Without bounds, measurement uncertainty is unknown, not zero: only the point value is matched. The calculator has ordinary estimation error and results at clinical cutoffs require independent clinical review.
 
-Journal locking is fail closed: competing writers or a leftover lock after a crash stop output. Inspect the journal before manual lock recovery. Hash chains detect corruption and ordinary edits; complete rewriting or truncating whole events needs external anchoring to detect. The API adds transactional persistence and role-bound review; cryptographic human signatures, external anchoring, retention and disaster recovery remain future work.
+Journal locking is fail closed: competing writers or a leftover lock after a crash stop output. Inspect the journal before manual lock recovery. Hash chains detect corruption and ordinary edits; complete rewriting or truncating whole events needs external anchoring to detect. The API adds transactional persistence and role-bound review; cryptographic human signatures, external anchoring and retention remain separate work. Local snapshot backup and restore verification are implemented; see `docs/release-recovery.md`.
 
 
 ## Current status and next steps
 
-GSD Phase 1 software core and Phase 3 persisted API are verified. Phase 2 clinical validation remains open. Phase 4 has the manual ingestion/review slice; AI-assisted extraction and harder/OCR PDFs remain open. Phase 5 has lexical/hybrid retrieval infrastructure; independent clinical/retrieval gold sets and generative evaluation remain open. `docs/system-verification.md` records concrete executed checks and limitations.
+Phases 1, 3 and 6–9 are implemented and verified for the local academic application, including staff accounts, synthetic history, React UI and release/recovery. Phase 2 clinical validation remains open. Phase 4 has the manual ingestion/review slice; AI-assisted extraction and harder/OCR PDFs remain open. Phase 5 has lexical/hybrid retrieval infrastructure; independent clinical/retrieval gold sets and generative evaluation remain open. `docs/release-evidence.md` records current executed checks and limitations.
 
-Next clinical work: current Polish ChPL applicability, five independently reviewed product-specific rule sets and gold cases. Next AI work: independent labeling and table-fidelity review, real pinned local embeddings and benchmark against full text, pending-only extraction worker, then guarded generative explanations. Lossless passage splitting and an evaluation runner are now implemented; neither establishes model quality or clinical validation. No clinician identity or clinical validation result was invented.
+Next clinical work: current Polish ChPL applicability, five independently reviewed product-specific rule sets and gold cases. Next AI work: the planned local Qwen capability spike and pending-only extraction worker with independent labeling/table-fidelity review; then pinned real-model comparisons. MedGemma is a comparison candidate, and guarded generative explanations remain gated. See `docs/ai-rule-extraction-plan.md`. Lossless passage splitting and an evaluation runner are now implemented; neither establishes model quality or clinical validation. No clinician identity or clinical validation result was invented.

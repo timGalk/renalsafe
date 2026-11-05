@@ -13,7 +13,7 @@ Date: 2026-11-05. Purpose: reconcile earlier design with current implementation 
 | `core/internal/store/store.go`, `models.go`, migrations 001/002 | Assessments store inputs/results/knowledge snapshots and audit atomically; creator/admin read permission; historical replay | Reuse result persistence. Add lists and patient associations without rewriting old payloads |
 | `core/internal/domain/model.go` | Patient is an assessment input value, not an identified longitudinal record | Add a separate synthetic case/profile model; keep calculation inputs explicit and immutable |
 | `core/internal/httpapi/server.go`, `web/app.js` | Assessment creation/detail/replay, evidence, documents, rule review exist; result UI is session-local; no history/list endpoints | Patient list, timeline and reopening saved results are genuinely missing |
-| `docs/system-verification.md`, `docs/evaluation-guide.md` | Database/browser checks and six lexical software fixtures passed in earlier implementation work; real-model/independent gold evaluation remains open | Do not treat software fixture scores as thesis completion |
+| `.planning/history/system-verification-2026-11-05.md`, `docs/evaluation-guide.md` | Database/browser checks and six lexical software fixtures passed in earlier implementation work; real-model/independent gold evaluation remains open | Do not treat software fixture scores as thesis completion |
 
 The original architecture also names a Python extraction worker, optional guarded explanations, BGE-M3 and MedGemma experiments. Those remain proposals or gated unfinished work. No authentication planning depends on choosing a clinical model.
 

@@ -1,3 +1,5 @@
+> Historical implementation evidence. Commands, UI and next-step statements describe the recorded checkpoint; use docs/README.md for current instructions.
+
 # Two-drug synthetic demonstration — 2026-10-23
 
 The local application is running at http://127.0.0.1:8080/?example=two-drugs . Two official Polish ChPLs are now imported into the persisted database with explicit demonstration contexts: Meronem 1 g and Ceftazidime Kabi 1000 mg, intravenous route, hospital-acquired pneumonia. These metadata choices are for source inspection and a synthetic renal-assessment demonstration, not a recommendation to co-prescribe the products.

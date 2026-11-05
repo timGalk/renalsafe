@@ -9,4 +9,6 @@ Architecture revision 3 supersedes the older Java proposal: Go deterministic cor
 
 ## Current scope
 
-Implement domain, explicit units and scope limitations, CG and CKD-EPI 2021, strict JSON knowledge snapshots, approved-only exact product/route/form/indication/metric matching, boundary tests, cited template explanation, append-only hash-chained audit and offline CLI. Clinical approval and complete application are separate phases.
+Implemented: deterministic Go renal engine and offline CLI; PostgreSQL persistence, role-bound review and immutable audit/replay; staff password sessions; synthetic patient/lab/result history; React workspace; local installation, migration and verified backup/restore. Current documentation: ../docs/README.md. Current state and evidence: STATE.md and ../docs/release-evidence.md.
+
+Open: independent clinical approval and gold cases (Phase 2), local pending-only Qwen/MedGemma extraction and harder-PDF fidelity (Phase 4), real-model/independent thesis evaluation (Phase 5). Local inference is user-confirmed. Synthetic patients only; no patient-facing portal or automatically activated machine rules.

@@ -8,4 +8,4 @@ scope: software-slice-only
 
 Lexical and optional hybrid retrieval mechanics pass. Real-model quality, independent gold cases and E1–E3/E5 thesis experiments remain open.
 
-Plan 05-01 is verified by the executed database/provider/source/browser cases in docs/system-verification.md. Full phase completion is withheld. Continue 05-02; clinical review remains Phase 2. No clinical or real-model validity inferred from fixtures.
+Plan 05-01 is verified by the executed database/provider/source/browser cases in .planning/history/system-verification-2026-11-05.md. Full phase completion is withheld. Continue 05-02; clinical review remains Phase 2. No clinical or real-model validity inferred from fixtures.

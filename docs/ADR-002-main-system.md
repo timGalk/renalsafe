@@ -1,5 +1,7 @@
 # ADR-002: main system and source evidence (2026-10-19)
 
+Status: historical accepted decision. The deterministic Go/PostgreSQL/extractive-evidence design remains current; the plain browser was superseded by the Phase 8 React workspace. See [current architecture](architecture.md).
+
 Accepted by the user's implementation request following the proposed main-system/RAG scope. Software infrastructure may proceed from verified Phase 1 in parallel with clinical Phase 2, without activating unreviewed real rules. This revises the initial strict chronological roadmap dependency.
 
 Keep deterministic Go decisions and source-bound approvals; add pgx/PostgreSQL transactional persistence and a minimal embedded browser client. The client is plain HTML/CSS/JS for a self-contained runnable slice; React may replace it against the stable API. PDF extraction uses installed Poppler in-process, not a new Python/LLM worker. Preserve section text and table columns rather than pretending to reconstruct every table's semantics.

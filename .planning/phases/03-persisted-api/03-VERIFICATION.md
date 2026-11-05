@@ -7,7 +7,7 @@ score: 5/5 software requirements
 ---
 # Persisted system verification
 
-Goal achieved for API-01–API-04 and ENG-08. Strict OpenAPI API, role-bound review, durable atomic audit, immutable history and browser workflow execute against real PostgreSQL. See docs/system-verification.md for commands and coverage.
+Goal achieved for API-01–API-04 and ENG-08. Strict OpenAPI API, role-bound review, durable atomic audit, immutable history and browser workflow execute against real PostgreSQL. See .planning/history/system-verification-2026-11-05.md for commands and coverage.
 
 - API-01: generated contract; authentication/strict JSON/API integration tests.
 - API-02: atomic assessment/audit with FK, rollback on audit failure, immutable chunks/sources/history, replay after supersession.
