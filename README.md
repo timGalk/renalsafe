@@ -11,7 +11,9 @@ python3 scripts/bootstrap-local.py
 docker compose up -d --build
 ```
 
-Open **http://127.0.0.1:8080**. Staff can now sign in with a username and password; see `docs/accounts.md` to provision and activate the first administrator. For the existing demonstration, expand **Local service key · migration access** and use the `physician` key from `.local/tokens.json`. Choose “Load synthetic example”, select a product and calculate. Use the `pharmacist` key for document/rule review and `admin` for administration. The browser keeps the key only in memory, never localStorage, cookies or URLs.
+Open **http://127.0.0.1:8080/login**. Sign in with a staff username and password. For first setup, use `scripts/setup-accounts.py` to issue private activation details, then activate at `/activate`; see `docs/accounts.md`. Administrators can create physician/pharmacist accounts from **Staff accounts**. Browser access-key entry has been removed; local keys remain for setup/demo scripts.
+
+The React workspace provides patient/lab history, new and saved assessments, evidence, document/rule review, staff accounts, audit and system status. See `docs/final-workspace.md` for routes and role-specific workflows.
 
 The seeded real-source candidate remains **PENDING**: the example returns manual review without an automated action or dose. Do not approve clinical records merely to make the demonstration return a recommendation. Approved fixtures exist only in isolated tests.
 
@@ -38,7 +40,7 @@ docker compose up -d
 
 Sign in as a physician and open **Patients** to create a fictional case, record a dated creatinine observation and choose it for an assessment. The selected laboratory values are fixed; confirm the remaining current inputs before calculating. **Saved results** reopens prior assessments, verifies replay and exports JSON/printable reports. Observation corrections append replacements; historical results stay reproducible. Case owners can share with other physicians or read-only pharmacists, revoke access and archive cases without deleting history.
 
-Existing assessments remain visible as unlinked records under their original creator/admin access. See `docs/patient-history.md` for permissions, correction/recalculation behavior and verification. The React workspace migration remains Phase 8.
+Existing assessments remain visible as unlinked records under their original creator/admin access. See `docs/patient-history.md` for permissions, correction/recalculation behavior and verification. The React workspace and stable page links are now implemented; final release verification is next.
 
 ## Run the two-drug demonstration
 
@@ -49,7 +51,7 @@ python3 scripts/demo-two-drugs.py
 
 This imports the two pinned Polish ChPLs using local role credentials, then checks six synthetic patient cases, evidence retrieval, durable audit and historical replay. It creates no clinical rules or approvals. Repeated runs reuse the source imports and append new synthetic assessments. Results go to ignored `outputs/two-drug-demo/`.
 
-Open http://127.0.0.1:8080/?example=two-drugs and sign in with the physician key. The **Load two-drug example** button fills Meronem 1 g and Ceftazidime Kabi 1000 mg. Choose **Calculate and save assessment**. For the baseline, CrCl is 25 mL/min and both products require manual review because no applicable approved rules exist. This demonstration does not establish that combining the medicines is appropriate. See `docs/two-drug-demo.md` for checks and limits.
+Open http://127.0.0.1:8080/assess/new?example=two-drugs and sign in with a physician account. The **Load two-drug example** button fills Meronem 1 g and Ceftazidime Kabi 1000 mg. Choose **Calculate and save assessment**. For the baseline, CrCl is 25 mL/min and both products require manual review because no applicable approved rules exist. This demonstration does not establish that combining the medicines is appropriate. See `docs/two-drug-demo.md` for checks and limits.
 
 ## Local embeddings (optional)
 
@@ -61,9 +63,12 @@ The hybrid path was tested with known fixture vectors and a simulated provider. 
 
 ## Test and regenerate contract
 
-Prerequisites for host tests: Go 1.25+, `pdftotext` (Poppler), Docker for integration tests.
+Prerequisites for host tests: Go 1.25+, Node 22.12+ with npm, `pdftotext` (Poppler), Docker for integration tests. Build the embedded React assets before testing all Go packages. Docker builds them automatically.
 
 ```sh
+npm ci --prefix web
+npm run check:types --prefix web
+npm run build --prefix web
 cd core
 go vet ./...
 go test -race ./...
@@ -74,7 +79,7 @@ python3 scripts/test-integration.py
 
 Without `RENALSAFE_TEST_DATABASE_URL`, real-database cases skip explicitly. The integration runner provisions a uniquely named disposable PostgreSQL+pgvector container, runs all tests with race detection, then removes that container. It never uses the application's database. Hosted CI runs the same integration runner.
 
-Optional browser smoke: install Playwright in your test environment, or set `NODE_PATH` to an existing installation; set `RENALSAFE_CHROMIUM_PATH` if needed, then run `node scripts/smoke-browser.cjs` against the running application. It reads local keys without printing them, checks the physician/reviewer workflow, and never approves a real clinical rule. Screenshots and summary go to ignored `outputs/`.
+Optional browser smoke: install Playwright in the test environment, or set `PLAYWRIGHT_MODULE` to an existing installation and `RENALSAFE_CHROMIUM_PATH` if needed, then run `node scripts/smoke-workspace.cjs`. It provisions disposable staff using private local setup credentials, uses password sessions in the browser and prints no credentials. It checks clinician, patient/results, source review and administrator workflows. Fixture clinical candidates are rejected; no original real rule is approved. Reports/screenshots go to ignored `outputs/`.
 
 ## Continue ingestion and evaluation
 

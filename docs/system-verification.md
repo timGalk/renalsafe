@@ -40,7 +40,6 @@ Database owner privileges can bypass triggers and rewrite history; external sign
 
 The full disposable-database suite now passes 57 top-level tests including the real Polish PDF ingestion test. A live authenticated run imports both Polish sources and checks six two-drug synthetic cases, physical source identity, exact-context Polish retrieval, persisted reads, replay and verified audit. Repeated import is idempotent. No clinical rules change. See `two-drug-demo.md`; the new browser preset has static/API checks only because browser automation was blocked this session.
 
-
 ## Implementation continuation — 2026-11-05
 
 Implemented and executed:
@@ -64,7 +63,6 @@ Full isolated PostgreSQL/pgvector Go suite passes with race detection. Account t
 
 Fixed session timeouts, direct TLS/loopback scope, next-request multi-tab clearing and privileged lost-admin recovery limits are recorded in `accounts.md`. Phase 7 patient profiles and history remain next; no patient history feature is claimed by account completion.
 
-
 ## Synthetic patient/history implementation — 2026-11-05
 
 Phase 7 adds additive migration 004, synthetic case profiles/access, dated append-only creatinine observations and corrections, immutable case/observation/predecessor assessment links, atomic assessment/audit/idempotency and authorised paginated history. Existing unlinked records remain unmodified. Patient sharing governs result detail/replay/export, including previous authors; role-demoted pharmacists cannot manage cases. Archive blocks new clinical writes while preserving history.
@@ -74,3 +72,13 @@ Executed: full isolated PostgreSQL/pgvector Go suite with race detection, vet, J
 The final live patient browser check passed create/lab/select/assess/save/reopen/export, session reload, sharing/revocation, correction/recalculation/predecessor, old replay, snapshot comparison, printable download, archive, mobile overflow and no persistent browser storage. Account smoke and existing assessment/evidence/pharmacist-review smoke also passed. Fixture staff were disabled without deleting case/audit history. After an explicit local core restart, the archived test case and both assessment exports were read successfully and both historical replays matched. Summary: ignored `outputs/patient-smoke.json`.
 
 See `patient-history.md` for operation and bounds. React/stable client routes remain Phase 8; no clinical validation, real patient records, general lab system or server PDF renderer is claimed. No clinical rules were approved.
+
+## React workspace implementation — 2026-11-05
+
+Phase 8 replaces the served imperative browser/key-login client with actual React/TypeScript components and generated API types. Dedicated clinician/patient/results/source/review/staff/account/admin routes support direct links/reloads. Same-origin Go serving preserves API/health/static 404 behavior and CSP; locked frontend assets build inside Docker. Added single-observation access for stable assessment links, bounded audit metadata pages, streaming chain verification and administrator configuration/status.
+
+Executed: strict TypeScript, generated API-type equality, production build, clean Docker build/start, full disposable PostgreSQL/pgvector Go suite with race detection, vet and OpenAPI regeneration equality. New backend checks cover role-gated status/audit, page limits/metadata exclusion, corruption rejection, complete verification and browser-route/hashed-asset/API isolation.
+
+The final all-role React browser suite passed activation/login/no-key-entry, patient/observation/assessment, unsaved-form Keep editing/Escape/discard, exact stored result/export parity, result/comparison/document reload routes, replay/JSON/printable report, exact-context evidence/fallback, case isolation/sharing/revocation, pharmacist read-only behavior, immutable correction/recalculation, archive, mobile overflow and no persistent browser storage. A new pending clone was saved through React then rejected without clinical approval; original pending rules remained unchanged. Staff/audit/status screens, role-denied routes and server revocation clearing protected inputs also passed. No bearer key was sent by the React client and no JavaScript runtime error occurred. Desktop/mobile screenshots inspected; report/artifacts in ignored outputs/react-workspace-smoke.json and outputs/react-*.png.
+
+No independent clinical validation, real-model benchmark, release recovery/backup completion or production readiness is asserted. Phase 9 and unfinished clinical/ingestion/evaluation gates remain open. See final-workspace.md.

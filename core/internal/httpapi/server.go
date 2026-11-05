@@ -8,7 +8,6 @@ import (
 	"errors"
 	"fmt"
 	"io"
-	"io/fs"
 	"mime"
 	"net/http"
 	"renalsafe/core/internal/auth"
@@ -19,7 +18,7 @@ import (
 	"time"
 )
 
-//go:embed web/*
+//go:embed web/dist web/demo.*
 var assets embed.FS
 
 type Server struct {
@@ -82,6 +81,7 @@ func (s *Server) Handler() http.Handler {
 		})
 	}
 	s.patientRoutes(api)
+	s.adminRoutes(api)
 	all := "physician pharmacist admin"
 	edit := "pharmacist admin"
 	api("GET /api/v1/me", all, func(w http.ResponseWriter, r *http.Request, a store.Actor) error { return respond(w, 200, a) })
@@ -233,9 +233,7 @@ func (s *Server) Handler() http.Handler {
 		}
 		return respond(w, 200, out)
 	})
-	sub, _ := fs.Sub(assets, "web")
-	files := http.FileServer(http.FS(sub))
-	mux.Handle("GET /", files)
+	mux.Handle("GET /", browserAssets())
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("X-Content-Type-Options", "nosniff")
 		w.Header().Set("Cache-Control", "no-store")

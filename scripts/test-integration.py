@@ -3,6 +3,8 @@
 from pathlib import Path
 import os,subprocess,secrets,time,json,sys
 root=Path(__file__).resolve().parents[1]
+if not (root/'core/internal/httpapi/web/dist/index.html').is_file():
+    raise SystemExit('Build the frontend first: npm ci --prefix web && npm run build --prefix web')
 name='renalsafe-tests-'+secrets.token_hex(5)
 password=secrets.token_urlsafe(32)
 image='pgvector/pgvector:pg18@sha256:2358fcba361ed2233a5ed81b5fe4ca779ccb304120ce531a3bf51c0ed7e2bc11'

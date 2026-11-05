@@ -4,7 +4,7 @@ Phase 7 provides clinician-managed synthetic cases with dated creatinine observa
 
 ## Use the workspace
 
-1. Sign in as a physician. Open **Patients** after staff sign-in. Transitional local physician service-key access is also available.
+1. Sign in as a physician. Password-based login opens the overview; choose **Patients**. Browser service-key entry has been removed.
 2. Confirm the case is synthetic and create it with an optional fictional alias.
 3. Record creatinine with its original units, sample date/time and IDMS status. Unknown IDMS remains unknown. Optional uncertainty requires both closed bounds containing the observation.
 4. Choose **Use this observation**. The assessment screen fixes the selected laboratory fields; enter and confirm age, body measurements, medicine contexts and clinical scope for this assessment. Loading a synthetic example preserves the selected lab.
@@ -60,4 +60,4 @@ node scripts/smoke-patients.cjs
 
 The integration suite uses a disposable database. The browser check creates synthetic cases/assessments under disposable staff accounts and disables those accounts afterwards; case/history/audit records remain deliberately intact. Its summary is saved in ignored `outputs/patient-smoke.json`. The browser check verifies creation, observation selection, saved results/reload, export, sharing/revocation, read-only pharmacist access, correction/recalculation, replay, comparison, archive and mobile layout.
 
-The existing browser client implements this phase; the React workspace and stable client routes remain Phase 8. No automatic clinical flags, real-patient deployment, general lab panel or clinical validation is claimed.
+Phase 8 now implements these workflows in React with stable client routes; see `final-workspace.md`. No automatic clinical flags, real-patient deployment, general lab panel or clinical validation is claimed.

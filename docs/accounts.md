@@ -13,7 +13,7 @@ python3 scripts/setup-accounts.py workspace-admin --role admin \
 
 The command uses the existing local administrator service key to create a new staff identity, with no default password. It reserves a private 0600 output file and refuses to overwrite it. Open that file locally, then use **Activate or reset an account** at http://127.0.0.1:8080. Enter its username and activation secret, and choose a password of at least 15 characters. Sign in through the normal username/password form.
 
-Secrets expire after 30 minutes and can be used once. If activation expires, open **Local service key · migration access**, sign in with the original administrator key, open **Staff accounts** and issue a new activation for the account. Share activation secrets privately. Passwords and secrets must not be committed to the repository.
+Secrets expire after 30 minutes and can be used once. If activation expires, a signed-in administrator can issue another secret in **Staff accounts**. An operator with the original active administrator service key can also use `scripts/setup-accounts.py USERNAME --reset-existing --output NEW_PRIVATE_FILE`. The React browser no longer accepts access keys. Share activation secrets privately. Passwords and secrets must not be committed to the repository.
 
 ## Staff administration
 
@@ -30,7 +30,7 @@ Activation/reset uses a one-time random secret rather than a temporary password.
 - Server idle expiry is 30 minutes and absolute expiry eight hours. These defaults are currently fixed; configurable timeout policy is a follow-up refinement.
 - Session is restored after page reload through `/auth/session`; CSRF token is held in memory. All cookie-authenticated mutation endpoints require `X-CSRF-Token`. Cross-origin requests are rejected by the existing origin guard.
 - Supplying both cookie and bearer identities is rejected. Account status and role are read from the database; authorised database writes recheck the credential inside the write transaction so revocation cannot be bypassed by an already-running request.
-- Logout revokes the server session. An invalid session hides the workspace on the next API request. The browser does not persist credentials in localStorage/sessionStorage; signing out clears displayed results and secrets. Multiple tabs learn revocation on their next request; immediate cross-tab clearing is not implemented.
+- Logout revokes the server session. An invalid session hides the workspace on the next API request. The browser does not persist credentials in localStorage/sessionStorage; signing out clears displayed results and secrets. The React client clears other same-browser tabs on logout/password/account-session changes using a transient broadcast. External browser revocation and idle expiry are learned on the next authenticated request.
 - Login attempt counters are durable fixed 15-minute windows: 10 per username, 60 per source address. Failures use the same public error. Source address is the direct connection address; no trust is placed in arbitrary forwarding headers. This conservative local policy can affect users sharing one address.
 
 No hospital identity federation, MFA, email recovery or real-patient deployment is asserted by this academic account implementation.

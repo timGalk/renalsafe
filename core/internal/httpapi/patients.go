@@ -128,6 +128,13 @@ func (s *Server) patientRoutes(api func(string, string, func(http.ResponseWriter
 		}
 		return respond(w, 200, out)
 	})
+	api("GET /api/v1/patients/{id}/observations/{observation}", all, func(w http.ResponseWriter, r *http.Request, a store.Actor) error {
+		out, e := s.DB.Observation(r.Context(), a, r.PathValue("id"), r.PathValue("observation"))
+		if e != nil {
+			return e
+		}
+		return respond(w, 200, out)
+	})
 	addObservation := func(w http.ResponseWriter, r *http.Request, a store.Actor) error {
 		var in store.ObservationInput
 		if e := readJSON(w, r, &in); e != nil {

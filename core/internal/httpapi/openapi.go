@@ -133,6 +133,12 @@ func OpenAPI() map[string]any {
 		op["parameters"] = params
 	}
 
+	operation("/api/v1/admin/status", "get", "Administrator: database/source/rule and embedding configuration status", nil, ref(store.SystemStatus{}), "200")
+	operation("/api/v1/admin/audit", "get", "Administrator: paginated hash-checked audit metadata, excludes clinical payloads", nil, ref(store.AuditPage{}), "200")
+	operation("/api/v1/admin/audit/verify", "post", "Administrator: stream-verify complete chain through recorded head", nil, ref(store.AuditVerification{}), "200")
+	paths["/api/v1/admin/audit"].(map[string]any)["get"].(map[string]any)["parameters"] = []any{map[string]any{"name": "cursor", "in": "query", "schema": textField}, map[string]any{"name": "limit", "in": "query", "schema": map[string]any{"type": "integer", "minimum": 1, "maximum": 50, "default": 20}}}
+	operation("/api/v1/patients/{id}/observations/{observation}", "get", "Authorised single observation with supersession status for stable assessment links", nil, ref(store.Observation{}), "200")
+	paths["/api/v1/patients/{id}/observations/{observation}"].(map[string]any)["get"].(map[string]any)["parameters"] = []any{map[string]any{"name": "id", "in": "path", "required": true, "schema": textField}, map[string]any{"name": "observation", "in": "path", "required": true, "schema": textField}}
 	operation("/api/v1/me", "get", "Authenticated identity and server-bound role", nil, ref(store.Actor{}), "200")
 	operation("/api/v1/catalog", "get", "Exact active product/form/route/indication contexts", nil, array(domain.Context{}), "200")
 	operation("/api/v1/assessments", "post", "Persist deterministic assessment and audit atomically", ref(domain.Request{}), ref(store.AssessmentRecord{}), "201")

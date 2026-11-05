@@ -41,7 +41,7 @@
     {
       "number": "8",
       "name": "Final React clinician workspace",
-      "status": "planned"
+      "status": "complete"
     },
     {
       "number": "9",
@@ -50,9 +50,9 @@
     }
   ],
   "next": {
-    "command": "$gsd-execute-phase 8",
-    "label": "Build the final React clinician workspace",
-    "reason": "Patient profiles, lab/result history and permissions implemented and verified; final frontend migration is next"
+    "command": "$gsd-execute-phase 9",
+    "label": "Verify release installation, recovery and final evidence",
+    "reason": "React workspace and patient workflows implemented and verified; release gates and independent clinical/model evidence remain"
   },
   "updated_at": "2026-11-05"
 }

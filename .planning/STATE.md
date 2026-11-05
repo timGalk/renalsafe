@@ -4,12 +4,12 @@ milestone: v0.1
 milestone_name: verifiable core and main system
 progress:
   total_phases: 9
-  completed_phases: 4
+  completed_phases: 5
   total_plans: 14
-  completed_plans: 9
-current_phase: 8
-current_phase_name: final-workspace
-status: ready-for-final-workspace
+  completed_plans: 10
+current_phase: 9
+current_phase_name: release-validation
+status: ready-for-release-validation
 last_updated: 2026-11-05
 ---
 # State
@@ -68,6 +68,14 @@ Next: Phase 7, synthetic patient profiles, renal observations and result history
 
 Synthetic profiles, per-case sharing/access, immutable creatinine observations/corrections, atomic lab-linked/idempotent assessments, paginated history, reopening/replay/recalculation, same-case version-aware comparison and audited JSON/printable report exports implemented. Existing unlinked assessments and source/rule history are preserved. Migration 004 protects case identity and observation/result links; runtime checks prevent wrong-patient association and creator bypass after access revocation. Role-demoted pharmacists remain read-only.
 
-Full disposable database/race suite, vet, OpenAPI equality, report escaping and browser patient/account/existing clinical workflow checks pass. Local Compose migration applied. Explicit application restart preserved the archived synthetic case, both result exports and matching historical replay. No clinical rules approved. See docs/patient-history.md and phases/07-patient-history/07-01-SUMMARY.md. Patient-history implementation is verified; React migration follows in Phase 8.
+Full disposable database/race suite, vet, OpenAPI equality, report escaping and browser patient/account/existing clinical workflow checks pass. Local Compose migration applied. Explicit application restart preserved the archived synthetic case, both result exports and matching historical replay. No clinical rules approved. See docs/patient-history.md and phases/07-patient-history/07-01-SUMMARY.md. Patient-history implementation is verified and recorded as a separate implementation commit.
 
 Next: Phase 8, final React/TypeScript workspace, stable client routes and frontend polish. Phases 2/4/5 independent clinical/model evidence remain open.
+
+## Phase 8 executed — 2026-11-05
+
+React/TypeScript workspace replaces the served imperative browser/key-login UI. Typed API generation, locked frontend build, same-origin Go embedding and Docker/CI builds implemented. Dedicated overview/patient/result/source/review/account/admin routes work through direct navigation and refresh. Added per-form unsaved guards, source-query race protection, fixed-source candidate editing, session/request invalidation and same-browser logout/password/session notifications. New admin pages use bounded audit metadata, streaming verification and actual source/rule/model configuration; a single-observation API supports stable assessment links.
+
+Strict TypeScript, generated types, production/Docker build, full disposable PostgreSQL/race suite, vet, contract equality and all-role React browser acceptance pass. Candidate clone was saved/rejected for UI verification; original rules remained unchanged and none approved. Screenshot QA covers desktop/mobile. Existing setup CLI can explicitly renew activation without browser key entry. See docs/final-workspace.md and phases/08-final-workspace/08-01-SUMMARY.md. Ingestion/evaluation, patient history and the React workspace are recorded as separate implementation commits.
+
+Next: Phase 9 release integration, clean install/migration, backup/restore, administrator recovery, deployment permissions and final evidence reconciliation. Clinical review, assisted ingestion and real-model/independent-gold evaluation remain open in Phases 2/4/5.

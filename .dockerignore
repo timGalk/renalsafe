@@ -4,3 +4,6 @@
 work
 outputs
 **/*.audit.jsonl
+
+web/node_modules
+core/internal/httpapi/web/dist

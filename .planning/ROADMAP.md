@@ -80,11 +80,11 @@ Clinical validation, assisted extraction and real-model/gold-set evaluation are 
 
 ## Final academic workspace extension — planned 2026-11-05
 
-User confirmed clinician-managed synthetic patient history, without a patient portal. Original account/session login and React frontend remain unfinished original architecture scope. Detailed contract and research: [FINAL-VERSION-PLAN.md](FINAL-VERSION-PLAN.md), [FINAL-VERSION-RESEARCH.md](FINAL-VERSION-RESEARCH.md).
+User confirmed clinician-managed synthetic patient history, without a patient portal. The original account/session login and React frontend scope is implemented in Phases 6 and 8. Detailed contract and research: [FINAL-VERSION-PLAN.md](FINAL-VERSION-PLAN.md), [FINAL-VERSION-RESEARCH.md](FINAL-VERSION-RESEARCH.md).
 
 - [x] **Phase 6: Staff accounts and sessions** — username/password accounts, sessions, recovery, administration, preserved actor identity. Plan: `phases/06-accounts-sessions/06-01-PLAN.md`. Depends on Phase 3.
 - [x] **Phase 7: Synthetic patient history** — profiles, dated observations, permissions, saved results, replay and export. Plan: `phases/07-patient-history/07-01-PLAN.md`. Depends on Phase 6.
-- [ ] **Phase 8: Final React clinician workspace** — complete navigation and staff workflows over the existing Go API. Plan: `phases/08-final-workspace/08-01-PLAN.md`. Depends on Phase 7.
+- [x] **Phase 8: Final React clinician workspace** — complete navigation and staff workflows over the existing Go API. Plan: `phases/08-final-workspace/08-01-PLAN.md`. Depends on Phase 7.
 - [ ] **Phase 9: Release integration and evidence** — installation/migration, backup restore, full end-to-end verification and thesis evidence reconciliation. Plan: `phases/09-release-validation/09-01-PLAN.md`. Depends on Phase 8; full thesis completion also depends on Phases 2/4/5.
 
-Next engineering action: Phase 8. Clinical review/label preparation can proceed independently. Phases 2/4/5 remain open; existing completion counts above describe the original five-phase milestone only. A usable academic application release and complete projected thesis-system evidence have separate explicit gates in the final-version plan.
+Next engineering action: Phase 9. Clinical review/label preparation can proceed independently. Phases 2/4/5 remain open; existing completion counts above describe the original five-phase milestone only. A usable academic application release and complete projected thesis-system evidence have separate explicit gates in the final-version plan.

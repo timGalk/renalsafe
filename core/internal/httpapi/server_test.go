@@ -125,7 +125,7 @@ func TestHTTPStrictJSONAndSourceEvidence(t *testing.T) {
 func TestBrowserAssetsAndCrossOriginGuard(t *testing.T) {
 	s := &httpapi.Server{Auth: credentials(t)}
 	h := s.Handler()
-	for _, path := range []string{"/", "/app.js", "/app.css", "/healthz"} {
+	for _, path := range []string{"/", "/patients", "/patients/synthetic-case", "/assessments/synthetic-result", "/admin/audit", "/demo.html", "/healthz"} {
 		w := request(h, "", "GET", path, nil)
 		if w.Code != 200 {
 			t.Fatal(path, w.Code)
@@ -133,6 +133,21 @@ func TestBrowserAssetsAndCrossOriginGuard(t *testing.T) {
 		if w.Header().Get("Content-Security-Policy") == "" {
 			t.Fatal("CSP absent")
 		}
+	}
+	for _, path := range []string{"/api/v1/not-a-route", "/healthz/not-a-route", "/assets/missing.js", "/app.js"} {
+		w := request(h, "", "GET", path, nil)
+		if w.Code != 404 || strings.Contains(w.Body.String(), `id="root"`) {
+			t.Fatal("reserved route fell through to shell", path, w.Code)
+		}
+	}
+	root := request(h, "", "GET", "/", nil).Body.String()
+	start := strings.Index(root, `src="/assets/`)
+	if start < 0 {
+		t.Fatal("built React asset missing")
+	}
+	script := strings.Split(root[start+5:], `"`)[0]
+	if w := request(h, "", "GET", script, nil); w.Code != 200 {
+		t.Fatal("hashed asset unavailable", script, w.Code)
 	}
 	r := httptest.NewRequest("GET", "http://local.test/healthz", nil)
 	r.Header.Set("Origin", "https://other.test")

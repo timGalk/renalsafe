@@ -643,3 +643,25 @@ func (s *Store) StaffDirectory(ctx context.Context, a Actor) ([]StaffMember, err
 	}
 	return out, rows.Err()
 }
+
+func (s *Store) Observation(ctx context.Context, a Actor, id, observationID string) (Observation, error) {
+	var out Observation
+	e := s.write(ctx, func(tx pgx.Tx) error {
+		if e := patientPermission(ctx, tx, a, id, false); e != nil {
+			return e
+		}
+		var raw []byte
+		e := tx.QueryRow(ctx, `SELECT o.payload,COALESCE(c.id,'') FROM renal_observations o LEFT JOIN renal_observations c ON c.corrects_id=o.id WHERE o.id=$1 AND o.patient_id=$2`, observationID, id).Scan(&raw, &out.SupersededByID)
+		if e != nil {
+			return normalize(e)
+		}
+		if e = json.Unmarshal(raw, &out); e != nil {
+			return e
+		}
+		if a.Role == "admin" {
+			_, e = appendAudit(ctx, tx, a, "OBSERVATION_READ", observationID, map[string]string{"patient_id": id})
+		}
+		return e
+	})
+	return out, e
+}
