@@ -4,12 +4,12 @@ milestone: v0.1
 milestone_name: verifiable core and main system
 progress:
   total_phases: 9
-  completed_phases: 5
+  completed_phases: 6
   total_plans: 14
-  completed_plans: 10
-current_phase: 9
-current_phase_name: release-validation
-status: ready-for-release-validation
+  completed_plans: 11
+current_phase: 4
+current_phase_name: ingestion-review
+status: ready-for-local-extraction
 last_updated: 2026-11-05
 ---
 # State
@@ -83,3 +83,10 @@ Next: Phase 9 release integration, clean install/migration, backup/restore, admi
 ## Local AI extraction planned — 2026-11-05
 
 User requested MedGemma/Qwen integration planning and confirmed local inference. Saved official-source research in docs/ai-rule-extraction-plan.md and a Phase 4 design contract in phases/04-ingestion-review/04-AI-SPEC.md; expanded 04-02 execution tasks. First engineering capability prototype is quantized Qwen3.5-4B via local Ollama, followed by a local MedGemma 1.5 4B comparison on independently reviewed examples. Separate suggestions/jobs, field evidence, unresolved semantic preservation, private worker authority and explicit PENDING save retain the current approval boundary. Actual GPU memory/runtime, exact model/dependency artifacts and model quality remain unverified. No runtime changes, model installation, extraction benchmark or clinical approval occurred. Phase 4 remains open; Phase 9 remains the next release-engineering action.
+
+
+## Phase 9 executed — 2026-11-05
+
+Delivered exported-snapshot backup/all-table fingerprinting, isolated restore/restart/audit/export/replay/browser acceptance, fresh installation and populated legacy upgrade checks, dependency failure/reconnect, changed-migration protection, operator recovery preparation and source/build manifest tooling. All 36 saved assessments reproduced after restoring the local workspace; full Go race suite, vet/OpenAPI, frontend/Docker builds, browser and recovery/evaluation checks passed. Guide and thesis-facing scope/evidence: docs/release-recovery.md and docs/release-evidence.md. Private backup/configuration and raw reports remain ignored under .local/outputs. Runtime database-owner privilege, off-host backup responsibility and non-bit-reproducible upstream build dependencies are documented.
+
+Phase 9/REL-01 local application gate is complete, not the full thesis-system gate. Phases 2/4/5 remain open. Next engineering work is Phase 4's local Qwen capability spike and pending-only extraction; independent clinical labels/approval and model experiments are still required. No clinical rule approved or AI extraction model installed by Phase 9.

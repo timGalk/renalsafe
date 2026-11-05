@@ -23,7 +23,7 @@ docker compose stop
 docker compose up -d
 ```
 
-`.env` holds the local database configuration, `.local/users.json` holds credential hashes, and `.local/tokens.json` holds private keys. They are ignored by Git. The hashes file is readable by the unprivileged application container; plaintext keys remain private. Back up the Docker volume independently; stopping containers does not erase history. This local deployment uses staff password sessions plus transitional service keys and a database-owner migration role. It is an academic account system; external identity federation and production deployment controls remain separate.
+`.env` holds the local database configuration, `.local/users.json` holds credential hashes, and `.local/tokens.json` holds private keys. They are ignored by Git. The hashes file is readable by the unprivileged application container; plaintext keys remain private. Use the verified snapshot backup and isolated restore procedure in `docs/release-recovery.md`; stopping containers does not erase history. This local deployment uses staff password sessions plus transitional service keys and a database-owner migration role. It is an academic account system; external identity federation and production deployment controls remain separate.
 
 ## Implemented workflow
 
@@ -40,7 +40,7 @@ docker compose up -d
 
 Sign in as a physician and open **Patients** to create a fictional case, record a dated creatinine observation and choose it for an assessment. The selected laboratory values are fixed; confirm the remaining current inputs before calculating. **Saved results** reopens prior assessments, verifies replay and exports JSON/printable reports. Observation corrections append replacements; historical results stay reproducible. Case owners can share with other physicians or read-only pharmacists, revoke access and archive cases without deleting history.
 
-Existing assessments remain visible as unlinked records under their original creator/admin access. See `docs/patient-history.md` for permissions, correction/recalculation behavior and verification. The React workspace and stable page links are now implemented; final release verification is next.
+Existing assessments remain visible as unlinked records under their original creator/admin access. See `docs/patient-history.md` for permissions, correction/recalculation behavior and verification. The React workspace and stable page links are implemented; release and recovery checks are documented in `docs/release-recovery.md`.
 
 ## Run the two-drug demonstration
 

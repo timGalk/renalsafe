@@ -14,5 +14,6 @@ for role in ['physician','pharmacist','admin']:
 password=secrets.token_urlsafe(32)
 for path,content in [(users,json.dumps(records,indent=2)+'\n'),(tokens,json.dumps(plain,indent=2)+'\n'),(env,'RENALSAFE_DB_PASSWORD='+password+'\nRENALSAFE_DB_PORT=55432\nRENALSAFE_DATABASE_URL=postgres://renalsafe:'+password+'@127.0.0.1:55432/renalsafe?sslmode=disable\n')]:
     descriptor=os.open(path,os.O_WRONLY|os.O_CREAT|os.O_EXCL,0o644 if path==users else 0o600)
+    os.fchmod(descriptor,0o644 if path==users else 0o600)
     with os.fdopen(descriptor,'w') as stream:stream.write(content)
 print('Created .env and .local/users.json (hashes), .local/tokens.json (private role keys).')

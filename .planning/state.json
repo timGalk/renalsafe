@@ -46,13 +46,13 @@
     {
       "number": "9",
       "name": "Release integration and evidence",
-      "status": "planned"
+      "status": "complete"
     }
   ],
   "next": {
-    "command": "$gsd-execute-phase 9",
-    "label": "Verify release installation, recovery and final evidence",
-    "reason": "React workspace and patient workflows implemented and verified; release gates and independent clinical/model evidence remain"
+    "command": "$gsd-execute-phase 4",
+    "label": "Implement local source-grounded extraction capability spike",
+    "reason": "Local application installation, migration and recovery gates verified; Phases 2/4/5 independent clinical and model evidence remain open"
   },
   "updated_at": "2026-11-05"
 }

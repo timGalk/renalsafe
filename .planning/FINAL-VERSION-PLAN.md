@@ -1,6 +1,6 @@
 # RenalSafe final-version implementation plan
 
-Date: 2026-11-05. Status: Phases 6–8 software implemented and verified; Phase 9 and independent clinical/model evidence remain open.
+Date: 2026-11-05. Status: Phases 6–9 local application implementation and release checks verified; independent clinical/model evidence remains open.
 
 ## Target and confirmed scope
 
@@ -114,4 +114,4 @@ No fabricated clinical approvals, invented model benchmarks or default activatio
 
 ## Implementation order
 
-Phases 6, 7 and 8 are now software complete; execute Phase 9 release checks next. Verification evidence is recorded in each phase summary. Continue source review and independent label preparation alongside these software phases. Once reviewed extraction examples and a pinned local model are available, finish the remaining Phase 4/5 experiments. No runtime code changes are part of this planning update.
+Phases 6–9 are complete for the local academic application; release/recovery evidence is in docs/release-evidence.md. Next engineering work is the planned Phase 4 local extraction capability spike. Verification evidence is recorded in each phase summary. Continue source review and independent label preparation alongside these software phases. Once reviewed extraction examples and a pinned local model are available, finish the remaining Phase 4/5 experiments. No runtime code changes are part of this planning update.

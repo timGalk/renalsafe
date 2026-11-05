@@ -61,10 +61,10 @@
 - [x] **RES-01** Authorised paginated assessment history, atomic patient/observation association and retry protection — Phase 7.
 - [x] **RES-02** Reopen/replay, version-aware comparison and bounded audited result exports — Phases 7–8.
 - [x] **UI-01** React/TypeScript clinician, pharmacist and administrator journeys; mobile/accessibility/expiry states — Phase 8.
-- [ ] **REL-01** Reproducible install/migration, backup restore, release manifest and end-to-end acceptance evidence — Phase 9.
+- [x] **REL-01** Reproducible install/migration, backup restore, release manifest and end-to-end acceptance evidence — Phase 9.
 
 Patient-facing accounts and real patient identifiers are outside the user-confirmed scope. Existing clinical and AI requirements retain their current status. Detailed acceptance and permissions are specified in FINAL-VERSION-PLAN.md.
 
 Phase 7 implemented the result comparison/export workflow in the existing browser. At the Phase 7 checkpoint, React migration and final navigation/accessibility polish remained scheduled for Phase 8. Verification: phases/07-patient-history/07-01-SUMMARY.md.
 
-Phase 8 React workspace, stable routes, role-aware screens, session/draft guards and administrator metadata/status UI verified. See phases/08-final-workspace/08-01-SUMMARY.md. REL-01 and independent clinical/model evidence remain open.
+Phase 8 React workspace, stable routes, role-aware screens, session/draft guards and administrator metadata/status UI verified. See phases/08-final-workspace/08-01-SUMMARY.md. REL-01 is verified for the local academic application in Phase 9; independent clinical/model evidence remains open.
