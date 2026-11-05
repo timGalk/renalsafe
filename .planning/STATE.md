@@ -3,14 +3,14 @@ gsd_state_version: "1.0"
 milestone: v0.1
 milestone_name: verifiable core and main system
 progress:
-  total_phases: 5
-  completed_phases: 2
-  total_plans: 10
-  completed_plans: 7
-current_phase: 2
-current_phase_name: clinical-kb
-status: ready-for-clinical-review
-last_updated: 2026-10-23
+  total_phases: 9
+  completed_phases: 3
+  total_plans: 14
+  completed_plans: 8
+current_phase: 7
+current_phase_name: patient-history
+status: ready-for-patient-history
+last_updated: 2026-11-05
 ---
 # State
 
@@ -43,3 +43,15 @@ Two official Polish RPL ChPLs downloaded and pinned: Meronem (500 mg/1 g, RPL 42
 ## Two-drug synthetic run — 2026-10-23
 
 Two Polish sources are now imported into the running database (Meronem 1 g and Ceftazidime Kabi 1000 mg, exact IV hospital-acquired pneumonia contexts). Six synthetic scenarios pass through the live API with renal reference/unit/uncertainty checks, per-drug manual review, isolated Polish evidence, immutable reads, replay and audited persistence. Import reuse confirmed on rerun. Full disposable PostgreSQL suite: 57 top-level tests pass with race detection. English two-drug preset added; static assets verified, visual browser automation blocked by URL policy. No clinical rule created/approved and no interaction assessment claimed. Reproduce with scripts/demo-two-drugs.py; report docs/two-drug-demo.md.
+
+## Final-version planning — 2026-11-05
+
+User requested a plan/research reconciliation for login, patient results and final delivery, and explicitly selected a clinician workspace with synthetic patient history (no patient portal). Original architecture/code comparison and current OWASP research saved in FINAL-VERSION-RESEARCH.md; detailed design/acceptance contract in FINAL-VERSION-PLAN.md. Added unexecuted Phases 6–9 for accounts, patient/results history, final React UI and release validation. Next engineering work: Phase 6. Clinical review remains an independent unresolved dependency for activation/full thesis evidence. No runtime changes or tests performed in this planning update.
+
+## Phase 6 executed — 2026-11-05
+
+Staff accounts, Argon2id passwords, opaque cookie sessions, CSRF, idle/absolute expiry, durable login throttles, single-use activation/reset, password change and staff administration implemented. Database writes recheck captured session/key authorisation inside their transaction. Role change/disable/reset/password change revoke credentials; last active administrator protected. Existing role identities and assessment payloads preserved; legacy service keys remain transitional and are not silently re-enabled on restart.
+
+Additive migration 003 applied to local Compose app. Initial workspace-admin account created with a private 0600 activation file, no default password. Full disposable-database race suite, vet, password/session lifecycle and browser activation/login/reload/logout checks pass. Existing assessment/replay/review browser smoke also passes. API contract regenerated. See docs/accounts.md and phases/06-accounts-sessions/06-01-SUMMARY.md. Timeout policy is fixed at 30 minutes idle/eight hours absolute in this version; multi-tab clearing occurs on next request, and privileged lost-admin recovery remains an operator task.
+
+Next: Phase 7, synthetic patient profiles, renal observations and result history. Phases 2/4/5 clinical and model evidence remain open. Phase 7–9 features have not been implemented by the account work.

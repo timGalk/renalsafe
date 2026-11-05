@@ -93,6 +93,9 @@ func (s *Store) write(ctx context.Context, fn func(pgx.Tx) error) error {
 	if _, e = tx.Exec(ctx, `SELECT pg_advisory_xact_lock($1)`, writeLock); e != nil {
 		return e
 	}
+	if e = checkWriteAuthorization(ctx, tx); e != nil {
+		return e
+	}
 	if e = fn(tx); e != nil {
 		var pg *pgconn.PgError
 		if errors.As(e, &pg) && (pg.Code == "23P01" || pg.Code == "23505") {

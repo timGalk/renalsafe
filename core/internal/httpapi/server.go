@@ -31,6 +31,7 @@ type Server struct {
 
 func (s *Server) Handler() http.Handler {
 	mux := http.NewServeMux()
+	s.accountRoutes(mux)
 	mux.HandleFunc("POST /demo/assess", func(w http.ResponseWriter, r *http.Request) {
 		var req domain.Request
 		if err := readJSON(w, r, &req); err != nil {
@@ -65,7 +66,7 @@ func (s *Server) Handler() http.Handler {
 	})
 	api := func(pattern string, roles string, fn func(http.ResponseWriter, *http.Request, store.Actor) error) {
 		mux.HandleFunc(pattern, func(w http.ResponseWriter, r *http.Request) {
-			actor, ok := s.Auth.Authenticate(r.Header.Get("Authorization"))
+			actor, ok := s.identity(r)
 			if !ok {
 				w.Header().Set("WWW-Authenticate", "Bearer")
 				respond(w, 401, map[string]string{"error": "authentication_required"})

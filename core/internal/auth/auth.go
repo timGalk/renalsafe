@@ -64,3 +64,12 @@ func (a *Auth) Authenticate(header string) (store.Actor, bool) {
 	}
 	return actor, found == 1
 }
+
+// Actors exposes stable configured identities without credential hashes.
+func (a *Auth) Actors() []store.Actor {
+	out := []store.Actor{}
+	for _, c := range a.credentials {
+		out = append(out, store.Actor{ID: c.ID, Role: c.Role})
+	}
+	return out
+}

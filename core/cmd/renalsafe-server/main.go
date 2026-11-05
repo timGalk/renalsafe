@@ -52,6 +52,9 @@ func run() error {
 			return e
 		}
 	}
+	if e = db.Provision(ctx, credentials.Actors()); e != nil {
+		return e
+	}
 	if *seed != "" {
 		if e = db.Seed(ctx, *seed); e != nil {
 			return e

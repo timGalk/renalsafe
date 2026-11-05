@@ -6,7 +6,7 @@ const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
  const browser=await chromium.launch({headless:true,...(process.env.RENALSAFE_CHROMIUM_PATH?{executablePath:process.env.RENALSAFE_CHROMIUM_PATH}:{})});
  try{
   const page=await browser.newPage({viewport:{width:1440,height:1000}});const errors=[];page.on('pageerror',e=>errors.push(e.message));await page.goto(process.env.RENALSAFE_BASE_URL||'http://127.0.0.1:8080');
-  async function login(role){await page.locator('#token').fill(tokens[role]);await page.locator('#login-form button').click();await page.locator('#workspace').waitFor({state:'visible'});await page.waitForFunction(()=>document.querySelector('#medications select')?.options.length>0);}
+  async function login(role){await page.locator('#login-form').evaluate(form=>{form.closest('details').open=true;});await page.locator('#token').fill(tokens[role]);await page.locator('#login-form button').click();await page.locator('#workspace').waitFor({state:'visible'});await page.waitForFunction(()=>document.querySelector('#medications select')?.options.length>0);}
   assert.equal(await page.locator('html').getAttribute('lang'),'en');await page.getByRole('heading',{name:'Open workspace',exact:true}).waitFor();
   await login('physician');await page.locator('#example').click();await page.locator('.dose').fill('10');await page.locator('.interval').fill('24');await page.locator('#assessment-form button[type="submit"],#assessment-form .submit-row button').click();
   await page.getByRole('heading',{name:'Assessment saved',exact:true}).waitFor();assert.match(await page.locator('#assessment-result').innerText(),/No action or dose has been recommended/);assert.match(await page.locator('#assessment-result').innerText(),/25 mL\/min/);
@@ -22,4 +22,4 @@ const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
   const summary={status:'passed',checks:['English interface and document workflow','physician login','synthetic assessment and manual-review result','historical replay','evidence retrieval and explicit lexical fallback','review role visibility','pending rule not approved','mobile no horizontal overflow','no browser storage credentials','no JavaScript runtime errors']};
   fs.writeFileSync(path.join(output,'browser-smoke.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary));
  }finally{await browser.close();}
-})().catch(e=>{console.error(e.message);process.exitCode=1;});
+})().catch(e=>{console.error("Browser workflow check failed; credentials omitted from diagnostic output.");process.exitCode=1;});

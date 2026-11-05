@@ -11,7 +11,7 @@ python3 scripts/bootstrap-local.py
 docker compose up -d --build
 ```
 
-Open **http://127.0.0.1:8080**. Open `.local/tokens.json` locally and copy the `physician` key into the login field. Choose “Load synthetic example”, select a product and calculate. Use the `pharmacist` key for document/rule review and `admin` for administration. The browser keeps the key only in memory, never localStorage, cookies or URLs.
+Open **http://127.0.0.1:8080**. Staff can now sign in with a username and password; see `docs/accounts.md` to provision and activate the first administrator. For the existing demonstration, expand **Local service key · migration access** and use the `physician` key from `.local/tokens.json`. Choose “Load synthetic example”, select a product and calculate. Use the `pharmacist` key for document/rule review and `admin` for administration. The browser keeps the key only in memory, never localStorage, cookies or URLs.
 
 The seeded real-source candidate remains **PENDING**: the example returns manual review without an automated action or dose. Do not approve clinical records merely to make the demonstration return a recommendation. Approved fixtures exist only in isolated tests.
 
@@ -21,7 +21,7 @@ docker compose stop
 docker compose up -d
 ```
 
-`.env` holds the local database configuration, `.local/users.json` holds credential hashes, and `.local/tokens.json` holds private keys. They are ignored by Git. The hashes file is readable by the unprivileged application container; plaintext keys remain private. Back up the Docker volume independently; stopping containers does not erase history. This local deployment uses a database-owner migration role and local bearer keys, not a production identity system.
+`.env` holds the local database configuration, `.local/users.json` holds credential hashes, and `.local/tokens.json` holds private keys. They are ignored by Git. The hashes file is readable by the unprivileged application container; plaintext keys remain private. Back up the Docker volume independently; stopping containers does not erase history. This local deployment uses staff password sessions plus transitional service keys and a database-owner migration role. It is an academic account system; external identity federation and production deployment controls remain separate.
 
 ## Implemented workflow
 

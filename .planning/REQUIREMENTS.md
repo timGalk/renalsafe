@@ -50,3 +50,17 @@
 | RAG-02 | Phase 5 | Software path complete; real-model quality evaluation remains EVAL-01 |
 
 - [x] **ENG-08** Explicit source-backed age/mass conditions and prescribed-dose/interval checks without inferred regimens.
+
+
+## Final workspace additions — planned 2026-11-05
+
+- [x] **AUTH-01** Staff username/password accounts, bootstrap, activation/reset, disable and role administration — Phase 6.
+- [x] **AUTH-02** Server sessions, expiry/revocation, CSRF, throttling and stable legacy actor identity — Phase 6.
+- [ ] **PAT-01** Synthetic profiles, ownership and per-case access checked for every operation — Phase 7.
+- [ ] **PAT-02** Dated renal observations, append-only corrections and explicit assessment-input selection — Phase 7.
+- [ ] **RES-01** Authorised paginated assessment history, atomic patient/observation association and retry protection — Phase 7.
+- [ ] **RES-02** Reopen/replay, version-aware comparison and bounded audited result exports — Phases 7–8.
+- [ ] **UI-01** React/TypeScript clinician, pharmacist and administrator journeys; mobile/accessibility/expiry states — Phase 8.
+- [ ] **REL-01** Reproducible install/migration, backup restore, release manifest and end-to-end acceptance evidence — Phase 9.
+
+Patient-facing accounts and real patient identifiers are outside the user-confirmed scope. Existing clinical and AI requirements retain their current status. Detailed acceptance and permissions are specified in FINAL-VERSION-PLAN.md.

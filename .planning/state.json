@@ -1,7 +1,7 @@
 {
   "contract": "1.0.0",
   "flavor": "core",
-  "milestone": "v0.1 — verifiable core and main system",
+  "milestone": "v0.1 \u2014 verifiable core and main system",
   "phases": [
     {
       "number": "1",
@@ -27,12 +27,32 @@
       "number": "5",
       "name": "Retrieval and evaluation",
       "status": "in_progress"
+    },
+    {
+      "number": "6",
+      "name": "Staff accounts and sessions",
+      "status": "complete"
+    },
+    {
+      "number": "7",
+      "name": "Synthetic patient history",
+      "status": "planned"
+    },
+    {
+      "number": "8",
+      "name": "Final React clinician workspace",
+      "status": "planned"
+    },
+    {
+      "number": "9",
+      "name": "Release integration and evidence",
+      "status": "planned"
     }
   ],
   "next": {
-    "command": "$gsd-execute-phase 2",
-    "label": "Prepare sources and obtain clinical review",
-    "reason": "Persisted system and retrieval slice verified; independent clinical approval remains required"
+    "command": "$gsd-execute-phase 7",
+    "label": "Implement synthetic patient history and saved results",
+    "reason": "Staff accounts/session workflow implemented and verified; patient profiles and history are next"
   },
-  "updated_at": "2026-10-19T12:00:00+02:00"
+  "updated_at": "2026-11-05"
 }

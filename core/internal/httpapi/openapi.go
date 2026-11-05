@@ -85,6 +85,22 @@ func OpenAPI() map[string]any {
 	object := func(properties map[string]any) map[string]any {
 		return map[string]any{"type": "object", "properties": properties}
 	}
+
+	textField := map[string]any{"type": "string"}
+	statusResponse := object(map[string]any{"status": textField})
+	operation("/api/v1/auth/login", "post", "Create cookie session with durable login throttling", object(map[string]any{"username": textField, "password": textField}), ref(store.Session{}), "200")
+	operation("/api/v1/auth/activate", "post", "Consume single-use activation secret", object(map[string]any{"username": textField, "activation_secret": textField, "password": textField}), statusResponse, "200")
+	operation("/api/v1/auth/session", "get", "Restore session identity and CSRF token", nil, ref(store.Session{}), "200")
+	operation("/api/v1/auth/logout", "post", "Revoke server session; requires X-CSRF-Token", nil, statusResponse, "200")
+	operation("/api/v1/auth/password", "post", "Change password and revoke sessions and legacy key", object(map[string]any{"current_password": textField, "new_password": textField}), statusResponse, "200")
+	operation("/api/v1/admin/users", "get", "Administrator: list staff accounts", nil, array(store.User{}), "200")
+	userInput := object(map[string]any{"username": textField, "role": map[string]any{"type": "string", "enum": []string{"physician", "pharmacist", "admin"}}, "active": map[string]any{"type": "boolean"}})
+	operation("/api/v1/admin/users", "post", "Administrator: create staff account", userInput, ref(store.User{}), "200")
+	operation("/api/v1/admin/users/{id}", "patch", "Administrator: manage staff; protects last active administrator", userInput, ref(store.User{}), "200")
+	operation("/api/v1/admin/users/{id}/reset", "post", "Administrator: reset credentials and issue activation secret", nil, object(map[string]any{"activation_secret": textField, "expires_in": textField}), "200")
+	for _, p := range []string{"/api/v1/auth/login", "/api/v1/auth/activate"} {
+		paths[p].(map[string]any)["post"].(map[string]any)["security"] = []any{}
+	}
 	operation("/api/v1/me", "get", "Authenticated identity and server-bound role", nil, ref(store.Actor{}), "200")
 	operation("/api/v1/catalog", "get", "Exact active product/form/route/indication contexts", nil, array(domain.Context{}), "200")
 	operation("/api/v1/assessments", "post", "Persist deterministic assessment and audit atomically", ref(domain.Request{}), ref(store.AssessmentRecord{}), "201")
@@ -127,5 +143,5 @@ func OpenAPI() map[string]any {
 			obj["required"] = []string{"context", "query"}
 		}
 	}
-	return map[string]any{"openapi": "3.1.0", "info": map[string]any{"title": "RenalSafe local decision and evidence API", "version": "0.2.0", "description": "Academic prototype. Synthetic patients only. Clinical candidates require human pharmacist validation. Extractive evidence cannot choose a dose."}, "servers": []any{map[string]any{"url": "/"}}, "security": []any{map[string]any{"bearerAuth": []any{}}}, "paths": paths, "components": map[string]any{"securitySchemes": map[string]any{"bearerAuth": map[string]any{"type": "http", "scheme": "bearer"}}, "schemas": schemas}}
+	return map[string]any{"openapi": "3.1.0", "info": map[string]any{"title": "RenalSafe local decision and evidence API", "version": "0.2.0", "description": "Academic prototype. Synthetic patients only. Clinical candidates require human pharmacist validation. Extractive evidence cannot choose a dose."}, "servers": []any{map[string]any{"url": "/"}}, "security": []any{map[string]any{"bearerAuth": []any{}}, map[string]any{"sessionAuth": []any{}}}, "paths": paths, "components": map[string]any{"securitySchemes": map[string]any{"sessionAuth": map[string]any{"type": "apiKey", "in": "cookie", "name": sessionCookie}, "bearerAuth": map[string]any{"type": "http", "scheme": "bearer"}}, "schemas": schemas}}
 }

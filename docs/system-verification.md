@@ -39,3 +39,12 @@ Database owner privileges can bypass triggers and rewrite history; external sign
 ## Two-drug run — 2026-10-23
 
 The full disposable-database suite now passes 57 top-level tests including the real Polish PDF ingestion test. A live authenticated run imports both Polish sources and checks six two-drug synthetic cases, physical source identity, exact-context Polish retrieval, persisted reads, replay and verified audit. Repeated import is idempotent. No clinical rules change. See `two-drug-demo.md`; the new browser preset has static/API checks only because browser automation was blocked this session.
+
+
+## Staff accounts/session implementation — 2026-11-05
+
+Phase 6 adds migration 003, database-backed staff identities, Argon2id passwords, activation/reset, cookie sessions, revocation, CSRF and staff administration. Existing actor IDs and clinical snapshots are preserved. The account lifecycle and browser workflow described in `accounts.md` were executed against disposable test identities; no clinical rules approved.
+
+Full isolated PostgreSQL/pgvector Go suite passes with race detection. Account tests cover salting, invalid passwords, activation expiry/reuse/concurrent consumption, last-admin protection, stable provisioning, role/disable/reset/password/logout revocation, idle/absolute expiry, in-flight writer revocation, missing CSRF, secure cookies under HTTPS and ambiguous cookie/bearer identity rejection. `go vet ./...` passes. New browser account smoke passes activation, login, refresh restoration, logout surviving refresh, role visibility and no persistent browser storage. Existing assessment/evidence/replay/pharmacist review/mobile browser smoke passes after opening the new migration-key panel. OpenAPI regenerated and local Compose app rebuilt with additive migration.
+
+Fixed session timeouts, direct TLS/loopback scope, next-request multi-tab clearing and privileged lost-admin recovery limits are recorded in `accounts.md`. Phase 7 patient profiles and history remain next; no patient history feature is claimed by account completion.
