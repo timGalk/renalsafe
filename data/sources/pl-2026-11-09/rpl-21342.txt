@@ -1,0 +1,1179 @@
+                      CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.        NAZWA PRODUKTU LECZNICZEGO
+
+Midazolam Accord, 5 mg/ml, roztwór do wstrzykiwań lub infuzji
+
+
+2.        SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+1 ml roztworu do wstrzykiwań lub infuzji zawiera 5 mg midazolamu (w postaci chlorowodorku).
+
+ Opakowanie                                 1 ml          3 ml          10 ml
+ Ilość midazolamu                           5 mg          15 mg         50 mg
+
+Substancja pomocnicza o znanym działaniu: 1 ml roztworu do wstrzykiwań lub infuzji zawiera
+1,96 mg sodu (w postaci sodu chlorku).
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.        POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań lub infuzji.
+Przejrzysty roztwór, bezbarwny do bladożółtego, o pH w zakresie 2,9-3,7 i osmolalności
+w zakresie 170-230 mOsm/kg.
+
+
+4.        SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1       Wskazania do stosowania
+
+Midazolam to krótko działająca substancja czynna o działaniu nasennym, której stosowanie wskazane
+jest:
+
+U dorosłych:
+
+      •    Do wywoływania SEDACJI PŁYTKIEJ przed i w trakcie zabiegów diagnostycznych lub
+           terapeutycznych wykonywanych w znieczuleniu miejscowym lub bez znieczulenia
+           miejscowego.
+      •    W ZNIECZULENIU
+               o w premedykacji przed indukcją znieczulenia,
+               o w indukcji znieczulenia,
+               o jako składnik o działaniu sedacyjnym w znieczuleniu skojarzonym.
+      •    W SEDACJI chorych leczonych na ODDZIAŁACH INTENSYWNEJ OPIEKI
+           MEDYCZNEJ (OIOM).
+
+U dzieci:
+   • Do wywoływania SEDACJI PŁYTKIEJ przed i w trakcie zabiegów diagnostycznych lub
+        terapeutycznych wykonywanych w znieczuleniu miejscowym lub bez znieczulenia
+        miejscowego.
+   • W ZNIECZULENIU
+            o – w premedykacji przed indukcją znieczulenia.
+   • W SEDACJI chorych leczonych na ODDZIAŁACH INTENSYWNEJ OPIEKI
+        MEDYCZNEJ (OIOM).
+
+
+
+                                                                                                1
+4.2   Dawkowanie i sposób podawania
+
+DAWKOWANIE STANDARDOWE
+
+Midazolam jest silnie działającym lekiem uspokajającym, który wymaga stopniowego zwiększania
+dawki oraz powolnego podawania. Bezwzględnie zaleca się stopniowe zwiększanie dawki, aby
+uzyskać poziom sedacji odpowiedni do potrzeb klinicznych, stanu fizycznego pacjenta, jego wieku
+oraz innych stosowanych przez niego leków. U dorosłych powyżej 60. roku życia, u osób
+wyniszczonych lub przewlekle chorych oraz u dzieci i młodzieży należy ostrożnie ustalać dawkę
+z uwzględnieniem indywidualnych czynników ryzyka. Typowe dawki podano w Tabeli 1, a
+dodatkowe informacje szczegółowe podano w tekście znajdującym się pod Tabelą 1.
+
+Tabela 1. Standardowe dawki midazolamu
+  Wskazanie        Dorośli w wieku            Dorośli w wieku 60. lat i    Dzieci
+                   poniżej 60. lat            starsi oraz pacjenci
+                                              osłabieni lub przewlekle
+                                              chorzy
+  Płytka sedacja    Podanie dożylne           Podanie dożylne              Podanie dożylne u pacjentów
+                    Dawka początkowa:         Dawka początkowa:            w wieku od 6 miesięcy do 5 lat
+                    2-2,5 mg                  0,5-1 mg                     Dawka początkowa:
+                    Jednorazowa dawka         Jednorazowa dawka            0,05-0,1 mg/kg mc.
+                    dodatkowa: 1 mg           dodatkowa: 0,5-1 mg          Dawka całkowita: poniżej 6 mg
+                    Dawka całkowita:          Dawka całkowita: poniżej     Podanie dożylne u pacjentów
+                    3,5-7,5 mg                3,5 mg                       w wieku od 6. do 12. roku
+                                                                           życia
+                                                                           Dawka początkowa:
+                                                                           0,025-0,05 mg/kg mc.
+                                                                           Dawka całkowita:
+                                                                           poniżej 10 mg
+                                                                           Podanie doodbytnicze
+                                                                           u pacjentów powyżej 6.
+                                                                           miesiąca życia
+                                                                           0,3-0,5 mg/kg mc.
+                                                                           Podanie domięśniowe
+                                                                           u pacjentów w wieku od 1. do
+                                                                           15. roku życia
+                                                                           0,05-0,15 mg/kg mc.
+  Premedykacja      Podanie dożylne           Podanie dożylne              Podanie doodbytnicze
+  przed             1-2 mg w dawkach          Dawka początkowa:            u pacjentów powyżej
+  znieczuleniem     powtarzanych              0,5 mg                       6. miesiąca życia
+                    Podanie domięśniowe       Jeśli konieczne, dawkę       0,3-0,5 mg/kg mc.
+                    0,07-0,1 mg/kg mc.        można powoli zwiększać       Podanie domięśniowe
+                                              Podanie domięśniowe          u pacjentów od 1. do 15. roku
+                                              0,025-0,05 mg/kg mc.         życia
+                                                                           0,08-0,2 mg/kg mc.
+  Indukcja          Podanie dożylne           Podanie dożylne
+  znieczulenia      0,15-0,2 mg/kg mc.        0,05-0,15
+                    (0,3-0,35 bez             mg/kg mc.
+                    premedykacji)             (0,15-0,3 bez
+                                              premedykacji)
+  Jako składnik o   Podanie dożylne           Podanie dożylne
+  działaniu         Dawki przerywane
+  sedacyjnym w      wynoszące
+
+
+
+                                                                                                  2
+  znieczuleniu      0,03-0,1 mg/kg mc. lub   Niższe dawki niż dawki
+  skojarzonym       infuzja ciągła w dawce   zalecane dla dorosłych
+                    0,03-0,1 mg/kg mc./godz poniżej 60. lat
+  Sedacja na        Podanie dożylne                                       Podanie dożylne
+  OIOM-ie           Dawka nasycająca: 0,03-0,3 mg/kg mc. zwiększana       u noworodków urodzonych
+                    każdorazowo o 1-2,5 mg                                poniżej lub w 32. tygodniu
+                    Dawka podtrzymująca: 0,03-0,2 mg/kg mc./godz          ciąży
+                                                                          0,03 mg/kg mc./godz
+                                                                          Podanie dożylne
+                                                                          u noworodków urodzonych
+                                                                          po 32. tygodniu ciąży oraz
+                                                                          u dzieci do 6. miesiąca życia
+                                                                          0,06 mg/kg mc./godz
+                                                                          Podanie dożylne u pacjentów
+                                                                          w wieku powyżej 6. miesiąca
+                                                                          życia
+                                                                          Dawka nasycająca:
+                                                                          0,05-0,2 mg/kg mc.
+                                                                          Dawka podtrzymująca:
+                                                                          0,06-0,12 mg/kg mc./godz
+
+DAWKOWANIE W SEDACJI PŁYTKIEJ
+
+W celu uzyskania sedacji płytkiej przed interwencją diagnostyczną lub chirurgiczną midazolam
+podawany jest dożylnie. Dawka musi być indywidualnie dobrana i w razie potrzeby stopniowo
+zwiększana – nie powinna być podawana szybko ani w postaci pojedynczego bolusu. Początek
+działania sedacyjnego leku ujawnia się w różnym czasie po podaniu – zależnie od stanu fizycznego
+pacjenta oraz szczegółów dawkowania (np. szybkości, z jaką lek podano, wielkości dawki). Jeśli
+konieczne, można podać kolejne dawki leku zależnie od indywidualnych potrzeb. Lek zaczyna działać
+po około 2 minutach od wstrzyknięcia. Efekt maksymalny uzyskiwany jest w ciągu około 5-10 minut.
+
+Dorośli
+Dożylne wstrzyknięcie midazolamu należy wykonywać powoli, z szybkością około 1 mg na 30
+sekund.
+
+U dorosłych poniżej 60. roku życia dawka początkowa wynosi 2-2,5 mg podawane 5-10 minut przed
+rozpoczęciem zabiegu. W razie potrzeby można podawać kolejne dawki po 1 mg. Stwierdzono, że
+średnia dawka całkowita wynosi 3,5-7,5 mg. Zazwyczaj dawka całkowita nie jest większa niż 5 mg.
+
+U dorosłych powyżej 60. roku życia oraz u pacjentów wyniszczonych lub przewlekle chorych dawkę
+początkową należy zmniejszyć do 0,5-1 mg podawanej 5-10 minut przed rozpoczęciem zabiegu. W
+razie potrzeby można dodawać kolejne dawki po 0,5-1 mg. Ponieważ u tych pacjentów efekt
+maksymalny może być osiągany wolniej, dodatkowe dawki midazolamu należy podawać bardzo
+wolno i z zachowaniem ostrożności. Zazwyczaj dawka całkowita nie musi przekroczyć 3,5 mg.
+
+Dzieci
+Podanie dożylne. Dawkę midazolamu należy zwiększać powoli do uzyskania pożądanego efektu
+klinicznego. Dawkę początkową midazolamu należy podawać przez 2-3 minuty. Z oceną pełnego
+efektu sedacyjnego przed rozpoczęciem zabiegu lub podaniem kolejnej dawki należy odczekać
+dodatkowe 2-5 minut. Jeśli będzie konieczna głębsza sedacja, należy zwiększać dawkę małymi
+krokami do osiągnięcia odpowiedniego poziomu sedacji. Niemowlęta i małe dzieci poniżej 5. roku
+życia mogą wymagać znacznie wyższych dawek (w przeliczeniu na kilogram masy ciała) niż dzieci
+starsze i młodzież.
+
+
+
+
+                                                                                                  3
+•   Dzieci poniżej 6. miesiąca życia: pacjenci ci są szczególnie podatni na obturację dróg
+    oddechowych i hipowentylację. Z tego względu nie zaleca się stosowania midazolamu
+    w sedacji płytkiej u dzieci poniżej 6. miesiąca życia.
+•   Dzieci od 6. miesiąca życia do 5. roku życia: dawka początkowa wynosi 0,05-0,1 mg/kg mc.
+    W celu osiągnięcia pożądanego efektu może być konieczne zastosowanie dawki całkowitej
+    sięgającej 0,6 mg/kg mc., ale dawka całkowita nie powinna być większa niż 6 mg. Ze
+    stosowaniem większych dawek może wiązać się przedłużona sedacja i ryzyko hipowentylacji.
+•   Dzieci od 6. do 12. roku życia: dawka początkowa wynosi 0,025-0,05 mg/kg mc. Może być
+    konieczne zastosowanie dawki całkowitej sięgającej 0,4 mg/kg mc., maksymalnie 10 mg. Ze
+    stosowaniem większych dawek może wiązać się przedłużona sedacja i ryzyko hipowentylacji.
+•   Młodzież od 12. do 16. roku życia: dawkowanie jak u dorosłych.
+
+Podanie doodbytnicze. Dawka całkowita midazolamu zazwyczaj mieści się w zakresie 0,3-0,5 mg/kg
+mc. Podanie doodbytnicze roztworu z ampułki powinno być wykonywane z użyciem plastikowego
+aplikatora zamocowanego na końcu strzykawki. Jeśli objętość roztworu, który ma zostać podany,
+będzie zbyt mała, można rozcieńczyć go wodą do łącznej objętości 10 ml. Dawkę całkowitą należy
+podać jednorazowo – należy unikać powtórnego podania doodbytniczego. Nie zaleca się stosowania
+tej metody u dzieci poniżej 6. miesiąca życia, gdyż dane dotyczące tej populacji są ograniczone.
+
+Głębokie podanie domięśniowe. Dawki zazwyczaj wahają się w zakresie 0,05-0,15 mg/kg mc. Zwykle
+nie jest konieczne stosowanie dawki całkowitej większej niż 10 mg. Tę drogę podawania należy
+stosować w wyjątkowych wypadkach. Preferowane jest podanie doodbytnicze, gdyż podanie
+domięśniowe jest bolesne. U dzieci o masie ciała mniejszej niż 15 kg nie zaleca się stosowania
+roztworów midazolamu o stężeniu większym niż 1 mg/ml. Roztwory o większym stężeniu należy
+rozcieńczać do stężenia 1 mg/ml.
+
+DAWKOWANIE W ZNIECZULENIU
+
+Premedykacja
+
+Premedykacja za pomocą midazolamu stosowana zaraz przed zabiegiem wywołuje sedację (uczucie
+senności i zmniejszenie lęku) oraz zaburzenia pamięci w okresie przedoperacyjnym. Midazolam
+można też podawać w skojarzeniu z cholinolitykami. W tym wskazaniu midazolam należy podawać
+dożylnie lub domięśniowo (w postaci wstrzyknięcia w duży mięsień) 20-60 minut przed indukcją
+znieczulenia, przy czym u dzieci preferowaną drogą podawania jest droga doodbytnicza (patrz niżej).
+Po zastosowaniu premedykacji obowiązkowe jest ścisłe i ciągłe monitorowanie stanu pacjenta, gdyż
+wrażliwość na lek jest osobniczo zmienna i mogą pojawić się objawy przedawkowania.
+
+Dorośli
+
+Zalecana dawka stosowana w sedacji przedoperacyjnej oraz w celu uzyskania niepamięci zdarzeń
+w okresie przedoperacyjnym u osób dorosłych z I i II grupy ryzyka okołooperacyjnego wg skali ASA
+w wieku poniżej 60 lat wynosi 1-2 mg dożylnie (przy czym w razie potrzeby dawkę można
+powtarzać) lub 0,07-0,1 mg/kg mc. głęboko domięśniowo. Dawkę tę należy zmniejszyć
+i dopasować indywidualnie, jeśli midazolam podawany jest osobom powyżej 60. roku życia,
+pacjentom wyniszczonym lub przewlekle chorym. Zalecana dawka początkowa podawana dożylnie
+wynosi 0,5 mg i powinna być wolno zwiększana w razie potrzeby. Zaleca się stosowanie dawki
+0,025-0,05 mg/kg mc. głęboko domięśniowo. W przypadku jednoczesnego podawania leków
+opioidowych dawkę midazolamu należy zmniejszyć. Zazwyczaj podaje się dawkę 2-3 mg.
+
+Dzieci i młodzież
+
+Noworodki i dzieci do 6. miesiąca życia
+
+
+
+
+                                                                                                  4
+Nie zaleca się stosowania leku u dzieci poniżej 6. miesiąca życia, gdyż dostępne dane na ten temat są
+ograniczone.
+
+Dzieci powyżej 6. miesiąca życia
+Podanie doodbytnicze. Dawkę całkowitą, zazwyczaj wahającą się w zakresie 0,3-0,5 mg/kg mc.,
+należy podać 15-30 minut przed indukcją znieczulenia. Podanie doodbytnicze roztworu z ampułki
+powinno być wykonywane z użyciem plastikowego aplikatora zamocowanego na końcu strzykawki.
+Jeśli objętość roztworu, który ma zostać podany, będzie zbyt mała, można rozcieńczyć go wodą do
+łącznej objętości 10 ml.
+
+Głębokie podanie domięśniowe. Ze względu na bolesność głębokiego podania domięśniowego tę
+drogę należy wykorzystywać jedynie w wyjątkowych wypadkach. Powinno się preferować podanie
+doodbytnicze. Wykazano jednak, że midazolam podawany głęboko domięśniowo w dawkach
+z zakresu 0,08-0,2 mg/kg mc. jest skuteczny i bezpieczny. U dzieci w wieku 1-15 lat konieczne jest
+stosowanie proporcjonalnie większych dawek niż u dorosłych w przeliczeniu na masę ciała.
+
+U dzieci o masie ciała mniejszej niż 15 kg nie zaleca się stosowania roztworów midazolamu
+o stężeniu większym niż 1 mg/ml. Roztwory o większym stężeniu należy rozcieńczać do stężenia
+1 mg/ml.
+
+INDUKCJA ZNIECZULENIA
+
+Dorośli
+
+Jeśli midazolam jest stosowany do indukcji znieczulenia przed podaniem innych środków
+znieczulających, reakcja pacjentów jest osobniczo zmienna. Dawkę należy stopniowo zwiększać do
+osiągnięcia pożądanego efektu odpowiednio do wieku i stanu klinicznego pacjenta. W wypadku
+stosowania midazolamu przed lub w skojarzeniu z innymi dożylnymi lub wziewnymi środkami
+stosowanymi do indukcji znieczulenia dawka początkowa każdego z nich powinna być znacznie
+zmniejszona, nawet do 25% zazwyczaj stosowanej dawki początkowej. Pożądaną głębokość
+znieczulenia osiąga się przez stopniowe zwiększanie dawki. Dawka midazolamu stosowana dożylnie
+do indukcji znieczulenia powinna być podawana powoli, małymi krokami. Nie powinno się jej
+zwiększać o więcej niż 5 mg podanych przez 20-30 sekund z zachowaniem 2 minut odstępu między
+kolejnymi dawkami.
+
+U dorosłych poniżej 60. roku życia, którzy zostali poddani premedykacji, zazwyczaj wystarcza dawka
+dożylna wynosząca 0,15-0,20 mg/kg mc.
+
+U dorosłych poniżej 60. roku życia, którzy nie zostali poddani premedykacji, dawka może być
+większa (0,30-0,35 mg/kg mc. dożylnie). Jeśli trzeba zakończyć indukcję, można podawać dawki
+zwiększone o około 25% wartości dawki początkowej podanej danemu pacjentowi. Indukcję można
+też zakończyć stosując wziewne środki znieczulające. W przypadkach opornych do indukcji można
+zastosować dawkę całkowitą sięgającą 0,6 mg/kg mc., przy czym należy się liczyć z tym, że tak duże
+dawki przedłużą proces wybudzania.
+U dorosłych powyżej 60. roku życia, którzy zostali poddani premedykacji, oraz pacjentów
+wyniszczonych lub przewlekle chorych, dawkę należy znacznie zmniejszyć, np. do dawki w zakresie
+0,05-0,15 mg/kg mc. podanej dożylnie przez 20-30 sekund z odczekaniem 2 minut na efekt.
+Dorośli powyżej 60. roku życia, którzy nie zostali poddani premedykacji, zwykle wymagają większej
+dawki midazolamu do indukcji znieczulenia. Zaleca się stosowanie dawki początkowej wynoszącej
+0,15-0,3 mg/kg mc. Niepoddani premedykacji pacjenci z ciężkimi chorobami układowymi lub
+osłabieni zwykle wymagają mniejszych dawek midazolamu do indukcji znieczulenia. Zazwyczaj
+wystarczy dawka 0,15-0,25 mg/kg mc.
+
+
+
+
+                                                                                                     5
+SKŁADNIK O DZIAŁANIU SEDACYJNYM W ZNIECZULENIU SKOJARZONYM
+
+Dorośli
+Midazolam może być stosowany jako składnik o działaniu sedacyjnym w znieczuleniu skojarzonym
+albo w postaci niewielkich dawek dożylnych (w zakresie 0,03-0,1 mg/kg mc.), albo w postaci ciągłej
+infuzji (w zakresie 0,03-0,1 mg/kg mc./godz) z reguły w skojarzeniu z lekami przeciwbólowymi.
+Dawka i odstęp między dawkami zależy od reakcji osobniczej pacjenta.
+U dorosłych powyżej 60. roku życia oraz u pacjentów wyniszczonych lub przewlekle chorych
+konieczne będzie zastosowanie niższych dawek podtrzymujących.
+
+SEDACJA NA ODDZIALE INTENSYWNEJ OPIEKI MEDYCZNEJ
+
+Zamierzony poziom sedacji osiągany jest przez stopniowe zwiększanie dawki midazolamu,
+a następnie podanie albo ciągłej infuzji, albo powtarzanych bolusów – zależnie od potrzeb
+klinicznych, stanu pacjenta, wieku oraz jednocześnie stosowanych leków (patrz punkt 4.5).
+
+Dorośli
+Dożylna dawka nasycająca: wynosi 0,03-0,3 mg/kg mc. i powinna być podawana powoli
+w dawkach podzielonych. Każda dawka dodawana, o wielkości 1,0-2,5 mg, powinna być podawana
+przez 20-30 sekund z 2 minutową przerwą przed podaniem następnej. U pacjentów z hipowolemią,
+skurczem naczyń lub hipotermią należy zmniejszyć dawkę nasycającą lub pominąć.
+
+W wypadku podawania midazolamu w skojarzeniu z silnie działającymi lekami przeciwbólowymi,
+jako pierwsze powinny zostać podane leki przeciwbólowe. Efekt sedatywny midazolamu nałoży się
+na sedację wywołaną lekami przeciwbólowymi.
+
+Dożylna dawka podtrzymująca: dawki te mieszczą się w zakresie 0,03-0,2 mg/kg mc./godz
+U pacjentów z hipowolemią, skurczem naczyń lub hipotermią dawkę podtrzymującą należy
+zmniejszyć. Poziom sedacji należy regularnie oceniać. W razie długotrwałej sedacji może rozwinąć
+się tolerancja wymagająca zwiększenia dawki.
+
+Noworodki i dzieci do 6. miesiąca życia
+Midazolam należy podawać w ciągłej infuzji dożylnej zaczynając od dawki 0,03 mg/kg
+mc./godz(0,5 µg/kg mc./min) w przypadku noworodków urodzonych w lub przed 32. tygodniem
+ciąży lub od dawki 0,06 mg/kg mc./godz (1 µg/kg mc./min) w przypadku noworodków urodzonych
+po 32. tygodniu ciąży oraz dzieci do 6. miesiąca życia.
+
+U wcześniaków, noworodków i dzieci do 6. miesiąca życia nie zaleca się stosowania dożylnych
+dawek nasycających – zamiast tego infuzję można przez pierwsze kilka godzin prowadzić z większą
+szybkością, aby osiągnąć stężenie terapeutyczne leku w osoczu. Szybkość infuzji należy dokładnie i
+często kontrolować, szczególnie po upływie pierwszych 24 godzin, tak aby podawać możliwie
+najmniejszą skuteczną dawkę i zmniejszać ryzyko kumulacji leku w organizmie.
+Konieczne jest uważne monitorowanie częstości oddechów i poziomu wysycenia hemoglobiny
+tlenem.
+
+Dzieci powyżej 6. miesiąca życia
+U zaintubowanych i wentylowanych mechanicznie dzieci, w celu uzyskania pożądanego efektu
+klinicznego, dożylną dawkę nasycającą wynoszącą 0,05-0,2 mg/kg mc. należy podawać powoli przez
+co najmniej 2-3 minuty. Midazolamu nie należy podawać w postaci szybkiego wstrzyknięcia
+dożylnego. Po podaniu dawki nasycającej należy rozpocząć ciągłą infuzję dożylną w dawce
+0,06-0,12 mg/kg mc./godz (1-2 µg/kg mc./min). W razie konieczności szybkość infuzji można
+zwiększyć lub zmniejszyć (zazwyczaj o 25% szybkości początkowej lub kolejnej) bądź podać
+dodatkowe dawki dożylne midazolamu w celu zwiększenia lub utrzymania pożądanego działania.
+
+
+
+                                                                                                     6
+W przypadku rozpoczynania infuzji midazolamu u hemodynamicznie niewydolnych pacjentów
+zwykle stosowana dawka nasycająca powinna być stopniowo zwiększana w niewielkich dawkach,
+a pacjent monitorowany na wypadek wystąpienia objawów destabilizacji hemodynamicznej,
+np. niedociśnienia. Chorzy ci są również podatni na wywołaną przez midazolam depresję oddechową
+i wymagają uważnego monitorowania częstości oddechów oraz stopnia wysycenia hemoglobiny
+tlenem.
+
+U wcześniaków, noworodków oraz u dzieci o masie ciała poniżej 15 kg nie zaleca się stosowania
+roztworów midazolamu o stężeniu większym niż 1 mg/ml. Roztwory
+o większym stężeniu należy rozcieńczać do stężenia 1 mg/ml.
+
+Stosowanie leku w populacjach szczególnych
+
+Pacjenci z zaburzeniami czynności nerek
+U pacjentów z ciężkimi zaburzeniami czynności nerek (klirens kreatyniny <30 ml/min) midazolam
+może powodować bardziej nasiloną i przedłużoną sedację, z możliwością wystąpienia klinicznie
+istotnej depresji oddechowej i krążeniowej. Z tego względu midazolam należy stosować u pacjentów
+tej populacji ostrożnie i stopniowo zwiększać jego dawkę aż do uzyskania pożądanego działania
+(patrz punkt 4.4).
+U pacjentów z niewydolnością nerek (klirens kreatyniny <10 ml/min) farmakokinetyka
+niezwiązanego midazolamu po jednorazowym podaniu dożylnym jest podobna do farmakokinetyki u
+zdrowych ochotników. Jednak w przypadku długotrwałej infuzji dożylnej u pacjentów
+przebywających na oddziale intensywnej opieki medycznej (OIOM) średni czas działania sedacyjnego
+u chorych z niewydolnością nerek był znacznie dłuższy, co najprawdopodobniej było spowodowane
+kumulacją glukuronidu 1’-hydroksymidazolamu (patrz punkty 4.4 i 5.2).
+
+Pacjenci z zaburzeniami czynności wątroby
+Zaburzona czynność wątroby zmniejsza klirens podanego dożylnie midazolamu, wydłużając okres
+półtrwania w końcowej fazie eliminacji. Może to zatem powodować nasilenie i wydłużenie
+klinicznych skutków działania leku u pacjentów z zaburzeniami czynności wątroby. Wymagana
+dawka midazolamu może wymagać zmniejszenia; należy odpowiednio monitorować parametry
+życiowe (patrz punkt 4.4).
+
+Dzieci
+Patrz wyżej oraz patrz punkt 4.4
+
+4.3   Przeciwwskazania
+
+Nadwrażliwość na substancję czynną, benzodiazepiny lub którąkolwiek substancję pomocniczą
+wymienioną w punkcie 6.1
+
+Sedacja płytka u pacjentów z ciężką niewydolnością oddechową lub ostrą depresją oddechową.
+
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Midazolam powinien być podawany wyłącznie przez doświadczonych lekarzy w placówce
+wyposażonej w sprzęt do monitorowania i wspomagania układu oddechowego i krążenia oraz przez
+osoby przeszkolone w rozpoznawaniu i leczeniu oczekiwanych zdarzeń niepożądanych, w tym
+w prowadzeniu resuscytacji oddechowo-krążeniowej. Istnieją doniesienia o poważnych zdarzeniach
+niepożądanych dotyczących układu krążenia i oddechowego. Zdarzenia te obejmowały depresję
+oddechową, bezdech, zatrzymanie oddechu i (lub) krążenia. Ryzyko tego typu incydentów
+zagrażających życiu jest większe w razie zbyt szybkiego wykonywania wstrzyknięcia lub stosowania
+zbyt dużych dawek (patrz punkt 4.8).
+
+
+
+                                                                                                7
+Nie zaleca się stosowania benzodiazepin w leczeniu podstawowym zaburzeń psychotycznych.
+
+Konieczne jest zachowanie szczególnej ostrożności w wypadku stosowania sedacji płytkiej u
+pacjentów z zaburzoną czynnością układu oddechowego.
+
+Niemowlęta poniżej 6. miesiąca życia są szczególnie podatne na obturację dróg oddechowych
+i hipowentylację, w związku z czym niezwykle istotne jest zwiększanie dawki małymi krokami do
+osiągnięcia odpowiedniego efektu klinicznego oraz uważne monitorowanie częstości oddechów
+i stopnia wysycenia hemoglobiny tlenem.
+
+Po podaniu midazolamu w ramach premedykacji obowiązkowe jest odpowiednie monitorowanie
+stanu pacjenta, gdyż wrażliwość na lek jest osobniczo zmienna i mogą pojawić się objawy
+przedawkowania.
+
+Należy zachować szczególną ostrożność podczas podawania midazolamu pacjentom z grupy
+wysokiego ryzyka, do których zalicza się:
+- dorosłych powyżej 60. roku życia,
+- pacjentów przewlekle chorych lub wyniszczonych,
+- pacjentów z przewlekłą niewydolnością oddechową,
+- pacjentów z przewlekłą niewydolnością nerek,
+- pacjentów z zaburzeniami czynności wątroby (u pacjentów z ciężkimi zaburzeniami czynności
+   wątroby benzodiazepiny mogą wywoływać lub nasilać encefalopatię),
+- pacjentów z zaburzoną czynnością serca,
+- dzieci, szczególnie te niestabilne krążeniowo.
+
+Pacjenci należący do wymienionych grup wysokiego ryzyka wymagają stosowania niższych dawek
+(patrz punkt 4.2) i powinni być w sposób ciągły monitorowani na wypadek wystąpienia wczesnych
+objawów zaburzenia czynności życiowych.
+
+Jak w przypadku wszystkich substancji mogących wywoływać depresję OUN i (lub) zwiotczenie
+mięśni szkieletowych, należy zachować szczególną ostrożność podczas podawania midazolamu
+chorym z nużliwością mięśni.
+
+Tolerancja
+Donoszono o zmniejszeniu skuteczności midazolamu, kiedy lek ten stosowany był do długotrwałej
+sedacji w warunkach oddziału intensywnej opieki medycznej (OIOM).
+
+Uzależnienie
+Nie wolno zapominać, że kiedy midazolam jest stosowany do długotrwałej sedacji u pacjentów
+przebywających na oddziale intensywnej opieki medycznej (OIOM), u pacjentów tych może
+dochodzić do rozwoju uzależnienia. Ryzyko rozwoju uzależnienia rośnie z dawką i czasem
+stosowania leku – jest ono również większe u pacjentów z dodatnim wywiadem w kierunku
+nadużywania alkoholu i (lub) produktów leczniczych (patrz punkt 4.8).
+
+Objawy odstawienia
+Podczas długotrwałego stosowania midazolamu u pacjentów przebywających na OIOM-ie może
+rozwinąć się uzależnienie fizyczne. Z tego powodu nagłe odstawienie leku może wywołać objawy
+odstawienia. Mogą wystąpić następujące objawy: ból głowy, biegunka, bóle mięśni, bardzo silny lęk,,
+napięcie, niepokój psychoruchowy, dezorientacja, drażliwość, zaburzenia snu, zmiany nastroju,
+omamy i drgawki. W bardzo ciężkich przypadkach mogą wystąpić następujące objawy:
+depersonalizacja, drętwienie i mrowienie kończyn, nadwrażliwość na światło, hałas i kontakt
+fizyczny. Ponieważ ryzyko wystąpienia objawów odstawienia jest większe w przypadku nagłego
+odstawienia leku, zaleca się stopniowe zmniejszanie dawki.
+
+
+
+
+                                                                                                  8
+Niepamięć
+Podczas stosowania dawek leczniczych może wystąpić niepamięć następcza (często efekt ten jest
+bardzo pożądany przed lub w trakcie zabiegów chirurgicznych i procedur diagnostycznych), której
+czas utrzymywania się jest wprost proporcjonalny do podanej dawki; ryzyko wystąpienia niepamięci
+następczej wzrasta przy zastosowaniu wyższych dawek. Przedłużająca się niepamięć może stanowić
+problem w przypadku pacjentów ambulatoryjnych, u których planuje się wypis zaraz po zakończeniu
+zabiegu.
+
+Po pozajelitowym podaniu midazolamu pacjent może opuścić szpital lub gabinet wyłącznie
+w towarzystwie opiekuna.
+
+Reakcje paradoksalne
+Istnieją doniesienia o reakcjach paradoksalnych po midazolamie, takich jak niepokój psychoruchowy,
+pobudzenie, drażliwość, ruchy mimowolne (w tym drgawki toniczno-kloniczne i drżenie mięśniowe),
+hiperaktywność, wrogość, urojenia, złość, agresywność, lęk, koszmary senne, omamy, psychozy,
+niewłaściwe zachowanie i inne niekorzystne efekty behawioralne, napadowe pobudzenie i akty
+przemocy. Reakcje te mogą występować po dużych dawkach i (lub) w wypadku szybkiego
+wstrzyknięcia. Największą częstość tego typu reakcji odnotowano u dzieci i osób w podeszłym wieku.
+W razie ich wystąpienia należy rozważyć przerwanie stosowania produktu leczniczego.
+
+Wpływ na eliminację midazolamu
+Na eliminację midazolamu może mieć wpływ podawanie związków hamujących lub indukujących
+CYP3A4, w związku z czym może zajść konieczność odpowiedniego dostosowania dawki
+midazolamu (patrz punkt 4.5).
+
+Eliminacja midazolamu może też być opóźniona u pacjentów z zaburzeniami czynności wątroby,
+obniżoną pojemnością minutową serca oraz u noworodków (patrz punkt 5.2).
+
+Bezdech senny
+Midazolam do podawania pozajelitowego należy stosować z wielką ostrożnością u pacjentów z
+zespołem bezdechu sennego i regularnie kontrolować ich stan.
+
+Wcześniaki i noworodki
+Ze względu na zwiększone ryzyko bezdechu zaleca się zachowanie szczególnej ostrożności podczas
+sedacji niezaintubowanych wcześniaków i noworodków urodzonych przedwcześnie niewykazujących
+już cech wcześniactwa. Konieczne jest uważne monitorowanie częstości oddechów i stopnia
+wysycenia hemoglobiny tlenem. U noworodków należy unikać szybkiego wstrzykiwania leku.
+Noworodki charakteryzują się zmniejszoną i (lub) niedojrzałą czynnością narządów i są podatne na
+zbyt silne i (lub) przedłużające się działanie midazolamu. U niestabilnych krążeniowo dzieci
+obserwowano zdarzenia niepożądane dotyczące układu krążenia, w związku z czym w tej populacji
+pacjentów powinno się unikać szybkiego podawania dożylnego.
+
+Niemowlęta poniżej 6. miesiąca życia
+W tej populacji pacjentów midazolam może być stosowany do sedacji wyłącznie
+w warunkach OIOM-u. Pacjenci poniżej 6. miesiąca życia są szczególnie podatni na obturację dróg
+oddechowych i hipowentylację, w związku z czym niezwykle istotne jest zwiększanie dawki małymi
+krokami do osiągnięcia odpowiedniego efektu klinicznego oraz uważne monitorowanie częstości
+oddechów i stopnia wysycenia hemoglobiny tlenem (porównaj akapit „Wcześniaki i noworodki”
+powyżej).
+
+Jednoczesne stosowanie alkoholu/substancji wpływających depresyjnie na OUN
+Należy unikać jednoczesnego stosowania midazolamu z alkoholem i/lub substancjami wpływającymi
+depresyjnie na OUN, gdyż może to nasilać kliniczne efekty działania midazolamu, w tym nasilać
+sedację (która może prowadzić do śpiączki lub zgonu) lub klinicznie istotną depresję oddechową
+(patrz punkt 4.5).
+
+
+                                                                                                  9
+Nadużywanie alkoholu lub leków w wywiadzie
+U pacjentów z dodatnim wywiadem w kierunku nadużywania alkoholu lub leków powinno się unikać
+stosowania midazolamu oraz innych benzodiazepin.
+
+Kryteria wypisania pacjenta do domu
+Po otrzymaniu midazolamu pacjent może opuścić szpital lub gabinet dopiero, gdy tak zadecyduje
+lekarz prowadzący, i tylko w towarzystwie opiekuna. Zaleca się, aby po wypisie pacjentowi w drodze
+do domu towarzyszyła druga osoba.
+
+Ten produkt leczniczy zawiera mniej niż 1 mmol sodu (23 mg) na dawkę, to znaczy produkt uznaje
+się za „wolny od sodu”.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Interakcje farmakokinetyczne
+
+Midazolam metabolizowany jest przez CYP3A4 i CYP3A5.
+Substancje hamujące lub indukujące CYP3A mogą zwiększać lub zmniejszać stężenie leku
+w osoczu, co w konsekwencji wymaga odpowiedniego dostosowania dawki leku.
+
+Interakcje farmakokinetyczne midazolamu z substancjami hamującymi lub indukującymi CYP3A4 są
+silniej wyrażone po podaniu doustnym niż po podaniu dożylnym, zwłaszcza że CYP3A4 występuje
+też w górnym odcinku przewodu pokarmowego. Jest to spowodowane tym, że w przypadku drogi
+doustnej dochodzi do zmiany zarówno klirensu, jak i dostępności, natomiast w przypadku drogi
+pozajelitowej dochodzi jedynie do zmiany klirensu ogólnoustrojowego. Po jednorazowym podaniu
+dożylnym midazolamu wpływ na maksymalny efekt kliniczny uwarunkowany hamowaniem CYP3A4
+będzie niewielki, podczas gdy czas działania leku może być wydłużony. Jednak po długotrwałym
+podawaniu midazolamu dochodzi w obecności inhibitorów CYP3A4 do nasilenia działania, jak
+i wydłużenia czasu utrzymywania się działania leku. Nie przeprowadzono badań dotyczących wpływu
+modulacji CYP3A4 na farmakokinetykę midazolamu po podaniu doodbytniczym i domięśniowym.
+Należy jednak się spodziewać, że interakcje te będą słabiej wyrażone dla drogi doodbytniczej niż
+doustnej, ponieważ w pierwszym przypadku dochodzi do ominięcia przewodu pokarmowego,
+natomiast po podaniu domięśniowym efekt modulacji CYP3A4 nie powinien znacząco się różnić od
+obserwowanego po dożylnym stosowaniu midazolamu.
+
+W przypadku jednoczesnego podawania midazolamu z inhibitorem CYP3A4 efekt kliniczny może
+być silniej wyrażony i utrzymywać się dłużej, co umożliwia zastosowanie mniejszej dawki.
+Podawanie w infuzji midazolamu w dużych dawkach lub przez dłuższy czas pacjentom otrzymującym
+silnie działające inhibitory CYP3A4, np. w ramach intensywnej terapii, może prowadzić do
+długotrwałego efektu nasennego, przedłużenia okresu wybudzania i depresji oddechowej, w związku
+z czym może być konieczne dostosowanie dawki.
+Zaleca się zachowanie szczególnej ostrożności i monitorowanie efektu klinicznego oraz czynności
+życiowych podczas jednoczesnego stosowania midazolamu oraz inhibitora CYP3A4.
+
+Efekt kliniczny midazolamu może być słabiej wyrażony i utrzymywać się krócej w przypadku
+jednoczesnego podania z induktorami CYP3A; konieczne może być zastosowanie większej dawki.
+
+ Należy wziąć pod uwagę, że musi upłynąć kilka dni zanim osiągnięty zostanie maksymalny efekt
+działania i również kilka dni zanim ustąpi. W przeciwieństwie do kilkudniowego podawania leku
+indukującego CYP3A4, po krótkotrwałym stosowaniu tego leku można oczekiwać słabiej
+wyrażonych interakcji z midazolamem. Jednak, w przypadku silnie działających leków indukujących
+CYP3A4 nie można wykluczyć indukcji CYP3A4 nawet po krótkotrwałym stosowaniu.
+
+Midazolam nie zmienia farmakokinetyki innych leków.
+
+
+                                                                                                 10
+Produkty lecznicze hamujące aktywność CYP3A
+
+Azolowe leki przciwgrzybicze
+• Ketokonazol i worykonazol zwiększają stężenie w osoczu podanego dożylnie midazolamu
+    odpowiednio pięciokrotnie oraz trzy-czterokrotnie, a okres półtrwania w końcowej fazie
+    eliminacji około trzykrotnie. Podawanie midazolamu drogą pozajelitową jednocześnie z silnym
+    inhibitorem CYP3A - ketokonazolem należy przeprowadzać w oddziale intensywnej opieki
+    medycznej lub w miejscu zapewniającym warunki dokładnej kontroli i wprowadzenia
+    odpowiedniego leczenia w razie wystąpienia depresji oddechowej i (lub) długotrwałej sedacji.
+    Należy rozważyć rozłożenie dawek i modyfikację dawkowania, zwłaszcza jeśli midazolam
+    podawany jest w ilości większej niż pojedyncza dawka dożylna. Te same zalecenia mogą odnosić
+    się również do innych azolowych leków przeciwgrzybiczych, ponieważ zgłaszano przypadki
+    silniejszego działania uspokajającego midazolamu podawanego dożylnie, choć były notowane
+    rzadziej.
+ • Flukonazol i itrakonazol powodowały 2- lub 3- krotny wzrost stężenia w osoczu midazolamu
+    podawanego dożylnie z towarzyszącym – w przypadku itrakonazolu – 2,4-krotnym wydłużeniem
+    okresu półtrwania w końcowej fazie eliminacji oraz – w przypadku flukonazolu- 1,5-krotnym.
+ • Pozakonazol powodował około 2-krotny wzrost stężenia w osoczu midazolamu podawanego
+    dożylnie.
+
+Należy pamiętać, że po podaniu doustnym midazolamu i ketokonazolu, itrakonazolu, worykonazolu,
+ekspozycja na midazolam zwiększa się znacząco w porównaniu do powyżej podanych.
+
+Midazolam Accord nie jest przeznaczony do stosowania doustnego.
+
+Antybiotyki makrolidowe
+• Erytromycyna powodowała od około 1,6-krotnego do 2-krotnego wzrostu stężenie w osoczu
+    midazolamu podawanego dożylnie z jednoczesnym od 1,5-krotnym do 1,8-krotnym
+    wydłużeniem jego okresu półtrwania w końcowej fazie eliminacji.
+ • Klarytromycyna powodowała maksymalnie 2,5-krotny wzrost wzrost stężenia w osoczu
+    midazolamu z towarzyszącym mu od 1,5-krotnym do 2-krotnym wydłużeniem okresu
+    półtrwania w końcowej fazie eliminacji.
+
+Dodatkowe informacje dotyczące midazolamu stosowanego doustnie
+• Telitromycyna zwiększa stężenie w osoczu podanego doustnie midazolamu 6 razy.
+• Roksytromycyna: Chociaż brak informacji dotyczących stosowania roksytromycyny
+   z podawanym dożylnie midazolamem, to jej nieznaczny wpływ na okres półtrwania w końcowej
+   fazie eliminacji midazolamu w tabletkach po podawaniu doustnym (wydłużenie o 30%)
+   wskazuje, że wpływ roksytromycyny na działanie midazolamu podawanego dożylnie może być
+   niewielki.
+
+
+Dożylne leki znieczulające
+Dożylnie podany propofol zwiększa 1,6-krotnie wartość AUC oraz okres półtrwania dożylnie
+podanego midazolamu.
+
+Inhibitory proteazy
+  • Sakwinawir i inne inhibitory proteazy HIV: Podawanie midazolamu jednocześnie z inhibitorami
+     proteazy może powodować duży wzrost jego stężenia. Po podaniu produktu jednocześnie z
+     lopinawirem wspomaganym rytonawirem, stężenie w osoczu midazolamu podawanego dożylnie
+     wzrosło 5,4-krotnie, czemu towarzyszyło podobne wydłużenie okresu półtrwania w końcowej
+     fazie eliminacji. W przypadku podawania midazolamu drogą pozajelitową jednocześnie z
+     inhibitorami proteazy HIV, leczenie powinno odpowiadać opisanemu powyżej, dotyczącemu
+     azolowych leków przeciwgrzybiczych i ketakonazolu.
+
+
+
+                                                                                             11
+ • Inhibitory proteazy stosowane w zakażeniu wirusem zapalenia wątroby typu C (HCV):
+   Boceprewir i telaprewir zmniejszają klirens midazolamu. Powoduje to 3,4-krotne zwiększenie
+   wartości AUC midazolamu podanego dożylnie i 4-krotnie wydłuża jego okres półtrwania.
+
+Dodatkowe informacje dotyczące midazolamu stosowanego doustnie
+ • Na podstawie danych dotyczących innych inhibitorów CYP3A4 przewiduje się, że stężenie
+   midazolamu w osoczu będzie istotnie wyższe w przypadku, gdy jest on podawany doustnie.
+   Dlatego też inhibitorów proteazy nie należy podawać jednocześnie z midazolamem podawanym
+   doustnie.
+
+Produkty lecznicze blokujące kanał wapniowy
+ • Diltiazem: Dawka pojedyncza diltiazemu podana pacjentom po zabiegu pomostowania tętnic
+    wieńcowych zwiększała stężenie w osoczu midazolamu podawanego dożylnie o około 25%
+    i wydłuża okres półtrwania w końcowej fazie eliminacji o 43%. Działanie to było słabsze niż
+    4-krotne zwiększenie obserwowane po doustnym podaniu midazolamu.
+
+Dodatkowe informacje dotyczące midazolamu stosowanego doustnie
+ • Werapamil 3-krotnie zwiększa stężenie w osoczu midazolamu podawanego doustnie i wydłuża
+   okres półtrwania w fazie eliminacji o 41%.
+
+Antagonisci receptora histaminowego-2
+ • Cymetydyna zwiększa stężenie midazolamu w osoczu w stanie stacjonarnym o 26%
+
+Inne produkty lecznicze i zioła
+  • Atorwastatyna zwiększa 1,4-krotnie stężenie w osoczu midazolamu podawanego dożylnie
+     w porównaniu z grupą kontrolną.
+  • Fentanyl podawany dożylnie jest słabym inhibitorem eliminacji midazolamu: w obecności
+     fentanylu wartość AUC i okres półtrwania midazolamu podanego dożylnie zwiększał się
+     1,5-krotnie.
+
+Dodatkowe informacje dotyczące midazolamu stosowanego doustnie
+ • Nefazodon zwiększa 4,6-krotnie stężenie w osoczu midazolamu podawanego doustnie
+   i 1,6-krotnie wydłuża okres półtrwania w końcowej fazie eliminacji.
+ • Wykazano, że inhibitory kinazy tyrozynowej są silnymi inhibitorami CYP3A4 in vitro (imatynib,
+   lapatynib) lub in vivo (idelalizyb). Po jednoczesnym podaniu idelalizybu doustna ekspozycja na
+   midazolam zwiększyła się średnio 5,4-krotnie.
+ • Antagoniści receptora NK1 (aprepitant, netupitant, casoprepitant) w sposób zależny od dawki
+   zwiększali stężenie midazolamu w osoczu do około 2,5-3,5-krotnie i wydłużali końcowy okres
+   półtrwania około 1,5-2-krotnie.
+ • W przypadku wielu produktów leczniczych lub produktów leczniczych roślinnych
+   zaobserwowano słabą interakcję z eliminacją midazolamu z jednoczesnymi zmianami jego
+   ekspozycji (<2-krotna zmiana AUC) (ewerolimus, cyklosporyna, simeprewir, propiweryna).
+   Oczekuje się, że te słabe interakcje ulegną dalszemu osłabieniu po podaniu dożylnym.
+ • Fluwoksamina nieznacznie zwiększała stężenia w osoczu midazolamu podawanego doustnie
+   (28%), podwajając okres półtrwania.
+ • Chlorzoksazon zmniejsza stosunek generowanego przez CYP3A metabolitu
+   1-hydroksymidazolamu (znanego również jako alfa-hydroksymidazolam) do midazolamu ze
+   względu na jego działanie hamujące CYP3A.
+
+Produkty lecznicze indukujące aktywność CYP3A
+ • Ryfampicyna, w dawce 600 mg raz na dobę, po 7 dniach leczenia, powodowała zmniejszenie
+    stężenia w osoczu midazolamu podawanego dożylnie o około 60%. Okres półtrwania w
+    końcowej fazie eliminacji skrócił się o około 50-60%.
+
+
+
+                                                                                                  12
+ • Tikagrelor jest słabym induktorem CYP3A i ma jedynie niewielki wpływ na ekspozycję dożylnie
+   podawanego midazolamu (-12%) i 4-hydroksymidazolamu (-23%).
+
+Dodatkowe informacje dotyczące midazolamu stosowanego doustnie
+• Ryfampicyna powodowała zmniejszenie stężenia w osoczu midazolamu podawanego doustnie
+   o 96% u zdrowych osób, a jego wpływ na sprawność psychoruchową był niemal całkowicie
+   zniesiony.
+• Karbamazepina i fenytoina: Karbamazepina lub fenytoina podawane w dawkach wielokrotnych
+   powodowały zmniejszenie stężenia w osoczu midazolamu podawanego doustnie maksymalnie
+   o 90% i skrócenie okresu półtrwania w końcowej fazie eliminacji o około 60%.
+• Bardzo silna indukcja CYP3A4 obserwowana po podaniu mitotanu lub enzalutamidu
+   powodowała u pacjentów z chorobą nowotworową znaczne i długotrwałe zmniejszenie stężenia
+   midazolamu. Wartość AUC podanego doustnie midazolamu zmniejszyła się, odpowiednio do 5%
+   i 14% zwykłych wartości.
+• Klobazam i efawirenz są słabymi induktorami metabolizmu midazolamu i zmniejszają jego AUC
+   o około 30%. Stwierdza się 4-5-krotne zwiększenie stosunku stężenia czynnego metabolitu
+   (α’-hydroksymidazolamu) do stężenia związku macierzystego, ale znaczenie kliniczne tego
+   działania nie jest znane.
+• Wermurafenib moduluje aktywność izoenzymów CYP i w niewielkim stopniu indukuje
+   CYP3A4. Wielokrotnie podawany powodował zmniejszenie ekspozycji na midazolam średnio
+   o 32% (u niektórych osób do 80%).
+
+Zioła i pokarm
+ • Ziele dziurawca zwyczajnego powoduje zmniejszenie stężenia midazolamu w osoczu o około 20-
+     40% z towarzyszącym mu skróceniem okresu półtrwania w końcowej fazie eliminacji o około
+     15-17%. Działanie indukujące aktywność CYP3A4 może różnic się w zależności od rodzaju
+     wyciągu z ziela dziurawca zwyczajnego.
+ • Ekstrakt z korzenia jeżówki purpurowej (Echinacea purpurea) powoduje zmniejszenie stężenie
+     midazolamu w osoczu podawanego dożylnie o 20% (AUC), a jego okres półtrwania o około
+     42%.
+
+Dodatkowe informacje dotyczące midazolamu stosowanego doustnie
+• Kwercetyna (również zawarta w miłorzębie japońskim, gingko biloba) oraz żeń-szeń (Panax
+   ginseng) mają słabe działanie pobudzające aktywność enzymów i zmniejszają średnio o około
+   20-30% ekspozycję na midazolam podawany doustnie.
+
+
+Interakcje farmakodynamiczne
+
+Jednoczesne stosowanie midazolamu oraz innych leków uspokajająco-nasennych i leków
+wywołujących depresję OUN, w tym alkoholu, z dużym prawdopodobieństwem prowadzi do
+wzmożonego efektu sedacyjnego i depresji krążeniowo-oddechowej. Przykładowymi lekami o takim
+działaniu są pochodne opiatów (bez względu na to, czy stosowane są jako leki przeciwbólowe,
+przeciwkaszlowe czy w leczeniu substytucyjnym), leki przeciwpsychotyczne, inne benzodiazepiny
+stosowane jako leki przeciwlękowe lub nasenne, barbiturany, propofol, ketamina, etomidat, leki
+przeciwdepresyjne o działaniu uspokajającym, starsi antagoniści receptora histaminowego H1 oraz
+leki hipotensyjne o działaniu ośrodkowym.
+
+
+Alkohol może znacznie wzmagać działanie sedacyjne midazolamu. W razie podawania midazolamu
+należy wystrzegać się spożywania alkoholu (patrz punkt 4.4).
+Midazolam powoduje obniżenie minimalnego stężenia pęcherzykowego (MAC) wziewnych środków
+znieczulających.
+
+
+
+
+                                                                                               13
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Dane dotyczące midazolamu są niewystarczające, aby była możliwa ocena bezpieczeństwa jego
+stosowania podczas ciąży. Badania na zwierzętach nie wykazują działania teratogennego, jednak
+podobnie jak w przypadku innych benzodiazepin obserwowano działanie fetotoksyczne. Sugeruje się
+zwiększone ryzyko wystąpienia wad wrodzonych związane ze stosowaniem benzodiazepin w
+pierwszym trymestrze ciąży.
+Podawanie dużych dawek midazolamu w ostatnim trymestrze ciąży, podczas porodu lub jako środek
+indukujący znieczulenie do cięcia cesarskiego prowadzi do działań niepożądanych u matki lub płodu
+(ryzyko zachłyśnięcia, zaburzenia rytmu serca u płodu, hipotonia, osłabienie odruchu ssania,
+hipotermia i depresja oddechowa u noworodka).
+Ponadto noworodki urodzone przez matki, które długotrwale otrzymywały benzodiazepiny pod
+koniec ciąży mogą wykazywać objawy uzależnienia fizycznego lub być narażone na rozwój objawów
+odstawienia w okresie poporodowym. Midazolam może być w związku z tym stosowany wyłącznie
+w przypadku wyraźnej konieczności, jednak preferuje się unikanie jego stosowania do cięcia
+cesarskiego.W razie stosowania midazolamu w zabiegach chirurgicznych wykonywanych
+bezpośrednio przed terminem rozwiązania powinno się uwzględniać zagrożenia dla noworodka.
+
+Karmienie piersią
+Midazolam w niewielkich ilościach przechodzi do mleka kobiecego. Kobietom karmiącym piersią
+należy zalecać przerwanie karmienia piersią w okresie 24 godzin po przyjęciu midazolamu.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Midazolam wywiera niewielki wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn.
+Sedacja, niepamięć, zaburzenia uwagi i zaburzenia czynności mięśni mogą niekorzystnie wpływać na
+zdolność prowadzenia pojazdów mechanicznych i obsługiwania urządzeń mechanicznych w ruchu.
+Przed zastosowaniem midazolamu pacjentów należy przestrzec, aby nie prowadzili pojazdów ani nie
+obsługiwali maszyn, do czasu całkowitego ustąpienia objawów działania leku. Decyzję o tym, kiedy
+czynności te można ponownie podjąć, powinien podjąć lekarz. Zaleca się, aby po wypisie pacjentowi
+w drodze do domu towarzyszyła druga osoba.
+
+Niedostateczna ilość snu lub spożywanie alkoholu zwiększa prawdopodobieństwo osłabienia,
+czujności i uwagi (patrz punkt 4.5).
+
+4.8   Działania niepożądane
+
+W Tabeli 4 (poniżej) przedstawiono działania niepożądane, które wystąpiły po zastosowaniu
+midazolamu . (częstość nieznana, nie może być określona na podstawie dostępnych danych)
+Częstość ich występowania określono:
+Bardzo często: ≥1/10;
+Często: ≥1/100 do <1/10;
+Niezbyt często: ≥1/1000 do <1/100;
+Rzadko: ≥1/10 000 do <1/1000;
+Bardzo rzadko: <1/10 000
+Nieznana: nie może być określona na podstawie dostępnych danych
+
+Tabela 2. Podsumowanie działań niepożądanych
+ Zaburzenia układu immunologicznego
+ Częstość nieznana                           Nadwrażliwość, obrzęk naczynioruchowy,
+                                             wstrząs anafilaktyczny
+ Zaburzenia psychiczne
+
+
+
+
+                                                                                               14
+ Częstość nieznana                              Stan splątania, dezorientacja, zaburzenia
+                                                emocjonalne i nastroju, zmiany libido,
+                                                uzależnienie fizyczne od leku oraz zespół
+                                                odstawienia
+                                                Nadużywanie
+                                                Reakcje paradoksalne*, w tym: niepokój
+                                                psychoruchowy, pobudzenie, drażliwość,
+                                                nerwowość, wrogość, złość, agresywność, lęk,
+                                                koszmary senne, nietypowe sny, omamy,
+                                                psychozy, nieodpowiednie zachowanie i inne
+                                                niekorzystne efekty behawioralne, napadowe
+                                                pobudzenie
+ Zaburzenia układu nerwowego
+ Częstość nieznana                              Ruchy mimowolne (w tym drgawki toniczno-
+                                                kloniczne i drżenie mięśniowe)*,
+                                                hiperaktywność*
+
+                                                Sedacja (przedłużająca się i pooperacyjna),
+                                                obniżony poziom czuwania, senność, ból głowy,
+                                                zawroty głowy, niezborność, niepamięć
+                                                następcza**, których czas utrzymywania się jest
+                                                wprost proporcjonalny do podanej dawki
+
+                                                U wcześniaków i noworodków urodzonych
+                                                o czasie obserwowano drgawki.
+
+                                                Drgawki związane z odstawieniem leku.
+ Zaburzenia serca
+ Częstość nieznana                              Zatrzymanie akcji serca, bradykardia, Zespół
+                                                Kounisa*
+ Zaburzenia naczyniowe
+ Częstość nieznana                              Niedociśnienie, rozszerzenie naczyń,
+                                                zakrzepowe zapalenie żył, zakrzepica
+ Zaburzenia układu oddechowego
+ Częstość nieznana                              Depresja oddechowa, bezdech, zatrzymanie
+                                                oddychania, duszność, skurcz krtani, czkawka
+ Zaburzenia żołądka i jelit
+ Częstość nieznana                              Nudności, wymioty, zaparcia i suchość w jamie
+                                                ustnej
+ Zaburzenia skóry i tkanki podskórnej
+ Częstość nieznana                              Wysypka, pokrzywka, świąd
+ Zaburzenia ogólne i stany w miejscu podania
+ Częstość nieznana                              Zmęczenie, rumień i ból w miejscu
+                                                wstrzyknięcia
+ Urazy, zatrucia i powikłania po zabiegach
+ Częstość nieznana                              Upadki, złamania***
+ Uwarunkowania społeczne
+ Częstość nieznana                              Akty przemocy*
+
+ *Takie paradoksalne działanie leku obserwowano zwłaszcza u dzieci i osób w podeszłym wieku
+    (patrz punkt 4.4)
+** Niepamięć następcza może utrzymywać się do czasu zakończenia zabiegu, w kilku przypadkach
+    obserwowano przedłużającą się niepamięć (patrz punkt 4.4)
+
+
+
+                                                                                               15
+*** U pacjentów przyjmujących benzodiazepiny zgłaszano przypadki upadków i złamań kości.
+     Ryzyko upadków i złamań kości jest zwiększone u osób przyjmujących jednocześnie inne środki
+     uspokajające (w tym napoje alkoholowe) i u osób w podeszłym wieku.
+****Szczególnie po podaniu pozajelitowym.
+
+Zaburzenia czynności nerek: istnieje większe prawdopodobieństwo wystąpienia działań
+niepożądanych u pacjentów z ciężkimi zaburzeniami czynności nerek (patrz punkt 4.2).
+
+Uzależnienie: Zastosowanie midazolamu – nawet w dawkach terapeutycznych – może prowadzić do
+rozwoju uzależnienia fizycznego. Po długotrwałym podawaniu dożylnym midazolamu, po jego
+odstawieniu, szczególnie nagłym, mogą wystąpić objawy odstawienia, w tym drgawki z odstawienia
+(patrz punkt 4.4). Zgłaszano przypadki nadużywania leku.
+
+Opisywano poważne zdarzenia niepożądane dotyczące układu krążenia i oddechowego.
+Zagrażające życiu incydenty z większym prawdopodobieństwem występują u dorosłych powyżej 60.
+roku życia oraz osób z niewydolnością oddechową lub zaburzoną czynnością mięśnia sercowego,
+szczególnie jeśli produkt wstrzykiwany jest zbyt szybko lub w zbyt dużej dawce (patrz punkt 4.4).
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane do podmiotu odpowiedzialnego lub za pośrednictwem
+Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji
+Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C
+02-222 Warszawa
+tel.: + 48 22 49 21 301
+faks: + 48 22 49 21 309
+strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również do podmiotu odpowiedzialnego.
+
+4.9   Przedawkowanie
+
+Objawy
+Podobnie jak wszystkie benzodiazepiny, midazolam powoduje senność, niezborność, dyzartrię i
+oczopląs. Przedawkowanie midazolamu rzadko zagraża życiu, jeśli pacjent nie przyjmuje innych
+leków, jednak może prowadzić do arefleksji (brak odruchów), bezdechu, niedociśnienia, depresji
+krążeniowo-oddechowej, a w rzadkich przypadkach do śpiączki. Śpiączka, jeśli do niej dojdzie,
+zwykle trwa kilka godzin, lecz może się przedłużać i występować cyklicznie, zwłaszcza
+u pacjentów w podeszłym wieku. Działanie depresyjne benzodiazepin na ośrodek oddechowy jest
+silniejsze u osób z chorobami układu oddechowego. Benzodiazepiny nasilają działanie innych
+substancji wywołujących depresję ośrodkowego układu oddechowego, szczególnie alkoholu.
+
+Leczenie
+Należy monitorować parametry życiowe pacjenta i podejmować interwencje wspomagające zależnie
+od stanu klinicznego pacjenta. W szczególności chorzy mogą wymagać leczenia objawowego, jeśli
+wystąpią zaburzenia oddechowo-krążeniowe lub zaburzenia ze strony ośrodkowego układu
+nerwowego. W przypadku podania doustnego należy zapobiec dalszemu wchłanianiu, np. stosując
+węgiel aktywny w ciągu 1-2 godzin od przyjęcia leku. U pacjentów wykazujących senność należy
+wówczas obowiązkowo zabezpieczyć drogi oddechowe. W razie zatrucia mieszanego można
+rozważyć płukanie żołądka, choć procedura ta nie jest uważana za rutynową.
+
+
+
+
+                                                                                                 16
+W przypadku ciężkiej depresji OUN można rozważyć podanie flumazenilu – substancji
+antagonizującej działanie benzodiazepin. Flumazenil powinno się podawać w warunkach ścisłego
+monitorowania. Flumazenil charakteryzuje się krótkim okresem półtrwania (około godziny),
+w związku z czym pacjenci wymagają monitorowania po ustąpieniu działania tego leku. Flumazenil
+należy stosować szczególnie ostrożnie u pacjentów, którzy zażyli leki obniżające próg drgawkowy
+(np. trójpierścieniowe leki przeciwdepresyjne). Szczegółowe informacje na temat prawidłowego
+stosowania flumazenilu znajdują się w drukach informacyjnych dotyczących tego produktu
+leczniczego.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: Leki nasenne i uspokajające (pochodne benzodiazepiny),
+kod ATC: N05C D08.
+
+Mechanizm działania
+Ośrodkowe działanie benzodiazepin polega na zwiększeniu transmisji za pośrednictwem kwasu
+gamma-aminomasłowego (neuroprzekaźnictwo GABA-ergiczne) w synapsach hamujących. W
+obecności benzodiazepin powinowactwo receptora GABA-ergicznego do neuroprzekaźnika zwiększa
+się poprzez pozytywną modulację allosteryczną. Prowadzi to do zwiększenia wpływu uwolnionego
+GABA na przenikanie jonów chlorkowych przez błonę postsynaptyczną.
+
+Chemicznie midazolam jest pochodną imidazobenzodiazepiny. Postać wolna leku jest substancją
+lipofilną słabo rozpuszczalną w wodzie. Zasadowy azot w pozycji 2 pierścienia
+imidazobenzodiazepinowego umożliwia substancji czynnej midazolamu tworzyć rozpuszczalne w
+wodzie sole w reakcji z kwasami. W wyniku tego powstaje trwały i dobrze tolerowany roztwór do
+wstrzykiwań. W fizjologicznym pH pierścień diazepinowy zamyka się i tworzy się wolna zasada, co
+powoduje powstanie substancji lipofilowej o szybkim początku działania. Szybki metabolizm i
+redystrybucja są głównymi przyczynami krótkiego czasu działania midazolamu.
+
+Efekt farmakodynamiczny
+Midazolam wykazuje szybkie i krótkotrwałe działanie uspokajające i nasenne. Jest również
+stosowany przeciwlękowo, przeciwdrgawkowo oraz jako środek zwiotczający mięśnie.
+Midazolam zaburza funkcje psychomotoryczne po podaniu pojedynczym i / lub wielokrotnym, ale
+powoduje minimalne zmiany hemodynamiczne.
+
+Po podaniu domięśniowym lub dożylnym pojawia się krótkotrwała niepamięć następcza (pacjent nie
+pamięta wydarzeń, które miały miejsce w okresie maksymalnej aktywności podanego leku).
+
+5.2   Właściwości farmakokinetyczne
+
+Wchłanianie
+
+Wchłanianie po podaniu domięśniowym
+Midazolam szybko i całkowicie wchłania się z tkanki mięśniowej. Stężenie maksymalne
+w osoczu osiąga w ciągu 30 minut. Bezwzględna dostępność biologiczna leku po podaniu
+domięśniowym jest większa niż 90%.
+
+Wchłanianie po podaniu doodbytniczym
+Midazolam szybko wchłania się po podaniu doodbytniczym. Stężenie maksymalne w osoczu osiąga
+w ciągu około 30 minut. Bezwzględna dostępność biologiczna leku wynosi około 50%.
+
+Dystrybucja
+
+
+                                                                                              17
+Po dożylnym podaniu midazolamu krzywa zależności stężenia w osoczu w czasie pokazuje jedną lub
+dwie oddzielne fazy dystrybucji. Objętość dystrybucji w stanie stacjonarnym wynosi 0,7-1,2 l/kg mc.
+Midazolam w 96-98% wiąże się z białkami osocza. Większość leku wiąże się z albuminami.
+Midazolam wolno i w małych ilościach przenika do płynu mózgowo-rdzeniowego. Wykazano, że u
+ludzi midazolam przenika powoli barierę łożyskową i przedostaje się do krążenia płodowego.
+Niewielkie ilości midazolamu przenikają też do mleka ludzkiego. Midazolam nie jest substratem dla
+żadnego z badanych dotychczas transporterów leków (transporter komórkowy typu efflux:
+glikoproteina P; transportery wychwytu komórkowego: OAT1, OAT2, OAT3, OCT1, OCT2,
+OATP1A2, OATP1B1, OATP1B3.1, OATP1B3.2, OATP2B i rOatp1b2, który występuje tylko u
+szczurów).
+
+Metabolizm
+Midazolam jest niemal całkowicie eliminowany w procesach biotransformacji. Szacuje się, że około
+30-60% dawki jest metabolizowane przez wątrobę. Midazolam ulega hydroksylacji przez izoenzym
+3A4 cytochromu P450, a głównym metabolitem w moczu i osoczu jest 1’-hydroksymidazolam
+(zwany także α-hydroksymidazolamem). Stężenie 1’-hydroksymidazolamu w osoczu stanowi 12%
+stężenia związku macierzystego. Choć 1’-hydroksymidazolam jest farmakologicznie czynny, ale po
+dożylnym podaniu midazolamu odpowiada w niewielkim tylko stopniu (około 10% efektu) za
+działanie leku.
+
+Eliminacja
+U młodych, zdrowych osób okres półtrwania midazolamu wynosi 1,5-2,5 godzin. Okres półtrwania
+metabolitu w fazie eliminacji wynosi poniżej 1 godziny; z tego względu po podaniu midazolamu
+jednocześnie zmniejsza się stężenie związku macierzystego i jego głównego metabolitu. Klirens
+osoczowy midazolamu mieści się w zakresie 300-500 ml/min. Midazolam eliminowane jest przede
+wszystkim przez nerki (60-80% wstrzykniętej dawki) jako sprzężony z kwasem glukuronowym
+1’-hydroksymidazolam. Mniej niż 1% leku ulega eliminacji z moczem w postaci niezmienionej.
+Okres półtrwania alfa-hydroksymidazolamu w fazie eliminacji jest krótszy niż 1 godzina. Kinetyka
+eliminacji midazolamu jest taka sama w przypadku infuzji dożylnej, jak po podaniu leku w postaci
+bolusa. Wielokrotne podawanie midazolamu nie powoduje indukcji enzymów uczestniczących w jego
+metabolizmie.
+
+Farmakokinetyka leku w szczególnych grupach pacjentów
+
+Pacjenci w podeszłym wieku
+U dorosłych powyżej 60. roku życia okres półtrwania może być wydłużony nawet do czterech godzin.
+
+Dzieci
+Szybkość wchłaniania leku po podaniu doodbytniczym u dzieci jest podobna do szybkości
+wchłaniania u dorosłych, lecz dostępność biologiczna leku jest u nich niższa (5-18%). Okres
+półtrwania po podaniu dożylnym i doodbytniczym jest krótszy u dzieci w wieku od 3 do 10 lat
+(1-1,5 godzin) niż u dorosłych. Za różnicę tę odpowiedzialny jest większy klirens metaboliczny
+u dzieci.
+
+Noworodki
+Okres półtrwania u noworodków waha się od 6-12 godzin, najprawdopodobniej ze względu na
+niedojrzałość wątroby. Ponadto stwierdza się niższy klirens. Noworodki z zaburzeniami czynności
+wątroby lub nerek związanymi z asfiksją są narażone na niespodziewanie duże stężenie midazolamu
+w surowicy na skutek znacznie zmniejszonego i zmiennego klirensu (patrz punkt 4.4).
+
+Pacjenci otyli
+U otyłych pacjentów średni okres półtrwania jest dłuższy niż u pacjentów pozostałych (odpowiednio
+5,9 godzin i 2,3 godzin). Jest to spowodowane około 50% większą objętością dystrybucji po
+uwzględnieniu masy ciała. Różnica w klirensie u obu grup chorych nie różni się znacząco.
+
+
+
+                                                                                                 18
+Pacjenci z niewydolnością wątroby
+Okres półtrwania u pacjentów z marskością wątroby może być wydłużony, a klirens mniejszy niż
+u zdrowych osobników (patrz punkt 4).
+
+Pacjenci z niewydolnością nerek
+ Farmakokinetyka niezwiązanego midazolamu u pacjentów z ciężkimi zaburzeniami czynności nerek
+nie jest zmieniona. U pacjentów z ciężkimi zaburzeniami czynności nerek następuje akumulacja
+głównego metabolitu midazolamu (glukuronid 1’-hydroksymidazolamu) o nieznacznej aktywności
+farmakologicznej, który wydalany jest przez nerki. Gromadzenie się tego metabolitu powoduje
+długotrwałą sedację. Z tego względu midazolam należy stosować ostrożnie i stopniowo zwiększać
+jego dawkę aż do uzyskania pożądanego działania (patrz punkt 4.4).
+Pacjenci w stanie krytycznym
+U pacjentów w stanie krytycznym okres półtrwania midazolamu może być wydłużony nawet
+sześciokrotnie.
+
+Pacjenci z niewydolnością serca
+Okres półtrwania u pacjentów z zastoinową niewydolnością serca jest dłuższy niż u zdrowych
+osobników (patrz punkt 4.4).
+
+5.3      Przedkliniczne dane o bezpieczeństwie
+
+Nie ma innych danych przedklinicznych, które byłyby istotne dla lekarza zapisującego omawiany lek,
+poza tymi, które wymieniono w pozostałych punktach niniejszej Charakterystyki Produktu
+Leczniczego.
+
+
+6.       DANE FARMACEUTYCZNE
+
+6.1      Wykaz substancji pomocniczych
+
+Sodu chlorek
+Kwas solny stężony (do korekcji pH)
+Sodu wodorotlenek (do korekcji pH)
+Woda do wstrzykiwań
+
+6.2      Niezgodności farmaceutyczne
+
+Midazolamu roztworu do wstrzykiwań lub infuzji nie wolno rozcieńczać w 6% dekstranie
+(z 0,9% roztworem sodu chlorku) w glukozie. Midazolamu roztworu do wstrzykiwań lub infuzji nie
+wolno mieszać z roztworami do wstrzykiwań o odczynie zasadowym. Midazolam wytrąca się
+w roztworach zawierających wodorowęglany.
+
+Omawianego produktu leczniczego nie wolno mieszać z innymi produktami leczniczymi
+z wyjątkiem wymienionych w punkcie 6.6.
+
+6.3      Okres ważności
+
+4 lata
+
+Okres ważności po rozcieńczeniu
+Roztwór zachowuje trwałość chemiczną i fizyczną po rozcieńczeniu przez 24 godzin
+w temperaturze pokojowej (15-25°C) lub przez 3 dni w temperaturze od +2°C do +8°C.
+
+
+
+
+                                                                                               19
+Z mikrobiologicznego punktu widzenia produkt powinien być wykorzystany natychmiast po
+rozcieńczeniu. Jeśli produkt nie zostanie wykorzystany natychmiast, odpowiedzialność za czas
+i warunki przechowywania przed użyciem spoczywa na osobie podającej lek, przy czym czas ten nie
+powinien być większy niż 24 godziny, a temperatura powinna wynosić od +2°C do +8°C, chyba że
+rozcieńczenia dokonano w kontrolowanych i zwalidowanych aseptycznych warunkach.
+
+6.4   Specjalne środki ostrożności przy przechowywaniu
+
+Przechowywać w oryginalnym opakowaniu w celu ochrony przed światłem.
+
+Warunki przechowywania rozcieńczonego produktu leczniczego – patrz punkt 6.3.
+
+6.5   Rodzaj i zawartość opakowania
+
+Ampułki 1 ml
+Midazolam roztwór do wstrzykiwań lub infuzji 5 mg/ml dostępny jest w ampułkach typu OPC (One
+Point Cut) z białą odłamywaną końcówką o objętości 1 ml wykonanych ze szkła bezbarwnego typu I
+z białym punktem, żółtym i białym pierścieniem. Ampułki pakowane są po 10 w pudełku.
+
+Ampułki 3 ml
+Midazolam roztwór do wstrzykiwań lub infuzji 5 mg/ml dostępny jest w ampułkach typu OPC (One
+Point Cut) z białą odłamywaną końcówką o objętości 3 ml wykonanych ze szkła bezbarwnego typu I
+z białym punktem, niebieskim i białym pierścieniem. Ampułki pakowane są po 10 w pudełku.
+
+Ampułki 10 ml
+Midazolam roztwór do wstrzykiwań lub infuzji 5 mg/ml dostępny jest w ampułkach typu OPC (One
+Point Cut) z białą odłamywaną końcówką o objętości 10 ml wykonanych ze szkła bezbarwnego typu I
+z białym punktem, czerwonym i białym pierścieniem. Ampułki pakowane są pojedynczo w pudełku i
+10 w pudełku.
+
+Ampułki dostępne są w blistrach/ plastikowych wytłoczkach.
+
+Nie wszystkie rodzaje opakowań muszą znajdować się w obrocie.
+
+6.6   Szczególne środki ostrożności dotyczące usuwania i przygotowania leku do stosowania
+
+Omawiany produkt leczniczy jest zgodny z następującymi roztworami do infuzji:
+- roztworem sodu chlorku 9 mg/ml (0,9%),
+- roztworem glukozy 50 mg/ml (5%),
+- roztworem glukozy 100 mg/ml (10%),
+- roztworem fruktozy 50 mg/ml (5%),
+- roztworem Ringera,
+- roztworem Hartmanna.
+
+Ampułki midazolamu przeznaczone są do jednorazowego użycia. Wszelkie resztki
+niewykorzystanego produktu lub jego odpady należy usunąć w sposób zgodny z lokalnymi
+przepisami. Przed podaniem roztwór do wstrzykiwań lub infuzji należy obejrzeć. Wolno używać
+tylko roztworu bez widocznych cząstek stałych.
+
+W przypadku wykonywania ciągłej infuzji dożylnej midazolam roztwór do wstrzykiwań należy
+rozcieńczyć jednym z wymienionych wyżej roztworów do stężenia w zakresie 0,015-0,150 mg/ml.
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+
+                                                                                              20
+Accord Healthcare Polska Sp. z o.o.
+ul. Taśmowa 7
+02-677 Warszawa
+
+
+8.      NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+15694
+
+
+9.      DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO
+        OBROTU I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 10.07.2009 r.
+Data ostatniego przedłużenia pozwolenia: 17.04.2014 r.
+
+
+10.     DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+        CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+18.07.2024
+
+
+
+
+                                                                              21
+

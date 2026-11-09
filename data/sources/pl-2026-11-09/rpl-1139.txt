@@ -1,0 +1,836 @@
+                     CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+STAVERAN 40, 40 mg, tabletki powlekane
+STAVERAN 80, 80 mg, tabletki powlekane
+STAVERAN 120, 120 mg, tabletki powlekane
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Staveran 40:
+Każda tabletka powlekana zawiera 40 mg werapamilu chlorowodorku (Verapamili hydrochloridum).
+Substancje pomocnicze o znanym działaniu: laktoza jednowodna, lak z żółcienią pomarańczową
+(E110).
+Każda tabletka powlekana 40 mg zawiera 22,50 mg laktozy jednowodnej i 0,10 mg laku z żółcienią
+pomarańczową.
+
+Staveran 80:
+Każda tabletka powlekana zawiera 80 mg werapamilu chlorowodorku (Verapamili hydrochloridum).
+Substancje pomocnicze o znanym działaniu: laktoza jednowodna, żółcień pomarańczowa (E110).
+Każda tabletka powlekana 80 mg zawiera 45,00 mg laktozy jednowodnej i 0,10 mg żółcieni
+pomarańczowej.
+
+Staveran 120:
+Każda tabletka powlekana zawiera: 120 mg werapamilu chlorowodorku (Verapamili hydrochloridum).
+Substancje pomocnicze o znanym działaniu: laktoza jednowodna.
+Każda tabletka powlekana 120 mg zawiera 19,99 mg laktozy jednowodnej.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Tabletka powlekana
+
+Staveran 40: tabletki okrągłe, pomarańczowe, obustronnie wypukłe.
+
+Staveran 80: tabletki okrągłe, pomarańczowe, obustronnie wypukłe, z linią podziału po jednej stronie.
+
+Staveran 120: tabletki okrągłe, żółte, obustronnie wypukłe, z linią podziału po jednej stronie.
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Staveran jest wskazany do stosowania u dorosłych, dzieci i młodzieży:
+-     w leczeniu nadciśnienia tętniczego,
+-     w profilaktyce i leczeniu choroby wieńcowej, w tym:
+        - przewlekłej stabilnej dławicy piersiowej,
+        - niestabilnej dławicy piersiowej,
+        - dławicy Prinzmetala,
+        - dławicy po zawale mięśnia sercowego bez niewydolności serca, gdy nie jest wskazane
+             stosowanie leków β-adrenolitycznych,
+-     w leczeniu zaburzeń rytmu serca, takich jak:
+        -   napadowy częstoskurcz nadkomorowy, migotanie lub trzepotanie przedsionków
+            z szybkim przewodzeniem przedsionkowo-komorowym (z wyjątkiem zespołu Wolffa-
+            Parkinsona-White’a [WPW] lub zespołu Lowna-Ganonga-Levine’a [LGL]).
+
+4.2   Dawkowanie i sposób podawania
+
+Dawkowanie
+
+Dawkę werapamilu chlorowodorku należy dostosować indywidualnie w zależności od nasilenia
+choroby. Długoletnie doświadczenia kliniczne potwierdzają, że we wszystkich wskazaniach dobowa
+dawka wynosi zazwyczaj od 240 mg do 360 mg. Podczas długookresowego stosowania dawka
+dobowa nie powinna przekraczać 480 mg, natomiast w leczeniu krótkookresowym można stosować
+większą dawkę. Czas stosowania produktu leczniczego jest nieograniczony. Po długim stosowaniu nie
+wolno gwałtownie odstawiać werapamilu chlorowodorku. Zaleca się stopniowe zmniejszanie dawki.
+
+Staveran 40 należy stosować u pacjentów, którzy mogą wykazać zadowalającą reakcję na małe dawki
+(np. pacjenci z niewydolnością wątroby lub w podeszłym wieku). U pacjentów wymagających
+większych dawek (np. 240 mg do 480 mg werapamilu chlorowodorku na dobę) należy stosować
+produkt leczniczy Staveran 80 lub Staveran 120.
+
+Dorośli i młodzież o masie ciała ponad 50 kg
+
+Nadciśnienie: 120 mg do 480 mg na dobę w trzech dawkach podzielonych.
+
+Choroba wieńcowa, napadowy częstoskurcz nadkomorowy, migotanie przedsionków i trzepotanie
+przedsionków: 120 mg do 480 mg na dobę w trzech lub czterech dawkach podzielonych.
+
+Specjalne populacje
+Dzieci i młodzież (wyłącznie w zaburzeniach rytmu serca)
+Wiek do 6 lat: 80 mg do 120 mg werapamilu chlorowodorku na dobę w dwóch lub trzech dawkach
+podzielonych.
+Wiek od 6 do 14 lat: 80 mg do 360 mg werapamilu chlorowodorku na dobę w dwóch, trzech lub
+czterech dawkach podzielonych.
+
+Zaburzenia czynności wątroby
+U pacjentów z niewydolnością wątroby, metabolizm produktu jest w różnym stopniu zaburzony
+w zależności od stopnia niewydolności wątroby, co sprawia, że werapamilu chlorowodorek działa
+silniej i dłużej. Dlatego należy zachować szczególną ostrożność podczas określania dawki u pacjentów
+z niewydolnością wątroby i w początkowym okresie leczenia podawać małe dawki (patrz punkt 4.4).
+
+Zaburzenia czynności nerek
+Aktualnie dostępne dane przedstawiono w punkcie 4.4. Podczas stosowania werapamilu
+chlorowodorku u pacjentów z zaburzeniami czynności nerek należy zachować ostrożność i dokładnie
+monitorować stan pacjenta.
+
+Sposób podawania
+Podanie doustne.
+Tabletki należy przyjmować w trakcie lub bezpośrednio po posiłku, z niewielką ilością płynu. Nie
+należy spożywać soku grejpfrutowego (patrz punkt 4.5).
+
+4.3   Przeciwwskazania
+
+Nadwrażliwość na werapamilu chlorowodorek lub na którąkolwiek substancję pomocniczą
+wymienioną w punkcie 6.1.
+Wstrząs kardiogenny.
+Blok przedsionkowo-komorowy II° lub III° (z wyjątkiem pacjentów ze sprawnym stymulatorem
+serca).
+
+                                                                                                   2
+Zespół chorego węzła zatokowego (z wyjątkiem pacjentów ze sprawnym stymulatorem serca).
+Niewydolność serca ze zmniejszeniem frakcji wyrzutowej poniżej 35% oraz (lub) ciśnieniem
+zaklinowania w tętnicy płucnej powyżej 20 mmHg (jeśli nie jest wtórne do częstoskurczu
+nadkomorowego ustępującego po leczeniu werapamilem).
+Migotanie/trzepotanie przedsionków z obecnością dodatkowej drogi przewodzenia (np. zespół
+Wolffa-Parkinsona-White’a [WPW], zespół Lowna-Ganonga-Levine’a [LGL]). W przypadku podania
+werapamilu chlorowodorku u tych pacjentów istnieje ryzyko wystąpienia tachyarytmii komorowej,
+w tym migotania komór.
+Jednoczesne dożylne stosowanie leków blokujących receptory beta-adrenergiczne (patrz także punkt
+4.5).
+Jednoczesne stosowanie iwabradyny (patrz punkt 4.5).
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Ostry zawał mięśnia sercowego
+Stosować z zachowaniem ostrożności w ostrym zawale mięśnia sercowego powikłanym
+rzadkoskurczem, znacznym niedociśnieniem tętniczym lub zaburzeniami czynności lewej komory.
+
+Blok serca/blok przedsionkowo-komorowy I°/rzadkoskurcz/asystolia
+Werapamilu chlorowodorek działa na węzeł przedsionkowo-komorowy oraz węzeł
+zatokowo-przedsionkowy i wydłuża czas przewodzenia przedsionkowo-komorowego. Należy
+stosować z zachowaniem ostrożności, ponieważ w przypadku wystąpienia bloku
+przedsionkowo-komorowego II° lub III° (przeciwwskazanie) lub jednowiązkowego, dwuwiązkowego
+lub trójwiązkowego bloku pęczka Hisa należy zaprzestać stosowania i, w razie potrzeby, wdrożyć
+odpowiednie leczenie.
+
+Werapamilu chlorowodorek działa na węzeł przedsionkowo-komorowy i węzeł
+zatokowo-przedsionkowy i w rzadkich przypadkach może powodować blok
+przedsionkowo-komorowy II° lub III°, rzadkoskurcz, a w skrajnych przypadkach - asystolię. Jest to
+bardziej prawdopodobne u pacjentów z zespołem chorego węzła zatokowego, który występuje częściej
+u pacjentów w podeszłym wieku.
+
+Asystolia u pacjentów, u których nie występuje zespół chorego węzła zatokowego, jest zazwyczaj
+krótkotrwała (kilka sekund lub krócej) z samoistnym powrotem rytmu węzłowego lub prawidłowego
+rytmu zatokowego. Jeśli nie nastąpi to natychmiast, należy bezzwłocznie zastosować odpowiednie
+leczenie (patrz punkt 4.8).
+
+Leki przeciwarytmiczne, leki β-adrenolityczne
+Wzajemne nasilanie działania na układ krążenia (blok przedsionkowo-komorowy wyższego stopnia,
+wyraźniejsze zwolnienie czynności serca, wywołanie niewydolności serca i nasilenie niedociśnienia
+tętniczego). U pacjenta otrzymującego jednocześnie tymolol w kroplach do oczu i werapamilu
+chlorowodorek doustnie zaobserwowano bezobjawowy rzadkoskurcz (36 skurczów na minutę) z
+wędrowaniem rozrusznika.
+
+Digoksyna
+W przypadku jednoczesnego podawania werapamilu z digoksyną, należy zmniejszyć dawkę
+digoksyny (patrz punkt 4.5).
+
+Niewydolność serca
+Niewydolność serca u pacjentów z frakcją wyrzutową powyżej 35% należy wyrównać przed
+rozpoczęciem stosowania werapamilu i następnie przez cały czas stosować odpowiednie leczenie.
+
+Niedociśnienie tętnicze
+Werapamilu chlorowodorek podawany drogą dożylną często powoduje zmniejszenie ciśnienia
+tętniczego poniżej wartości wyjściowych. Zazwyczaj takie zmniejszenie jest krótkotrwałe
+i bezobjawowe, choć może powodować zawroty głowy.
+
+
+                                                                                                    3
+Należy zachować ostrożność podczas stosowania werapamilu chlorowodorku u pacjentów z blokiem
+przedsionkowo-komorowym I°, bradykardią (poniżej 50 uderzeń/min) i tachykardią komorową (QRS
+≥0,12 s) oraz niedociśnieniem tętniczym (ciśnienie skurczowe poniżej 90 mmHg).
+
+Inhibitory reduktazy hydroksymetyloglutarylo-koenzymu A (statyny) - patrz punkt 4.5.
+
+Zaburzenia przewodzenia nerwowo-mięśniowego
+Werapamilu chlorowodorek należy stosować z zachowaniem ostrożności w obecności chorób
+powodujących zaburzenia przewodzenia nerwowo-mięśniowego [miastenia (myasthenia gravis),
+zespół Lamberta i Eatona, późne stadia dystrofii mięśniowej Duchenne’a].
+
+Inne
+Specjalne populacje pacjentów
+Zaburzenia czynności nerek
+Chociaż w dobrej jakości badaniach porównawczych wykazano, że zaburzenia czynności nerek nie
+mają wpływu na farmakokinetykę werapamilu u pacjentów ze schyłkową niewydolnością nerek, to
+kilka opisów przypadków sugeruje, że stosując werapamil u pacjentów z zaburzeniami czynności
+nerek należy zachować ostrożność i dokładnie kontrolować stan pacjenta.
+
+Werapamilu nie można usunąć z ustroju drogą hemodializy.
+
+Zaburzenia czynności wątroby
+Zachować ostrożność stosując u pacjentów z ciężkimi zaburzeniami czynności wątroby (również patrz
+zaburzenia czynności wątroby w punkcie 4.2).
+
+Informacje o substancjach pomocniczych
+Produkty lecznicze Staveran 40, Staveran 80, Staveran 120 zawierają laktozę jednowodną. Produkty
+nie powinny być stosowane u pacjentów z rzadko występującą dziedziczną nietolerancją galaktozy,
+brakiem laktazy lub zespołem złego wchłaniania glukozy-galaktozy.
+
+Produkt leczniczy Staveran 40 zawiera lak z żółcienią pomarańczową (E110), produkt Staveran 80
+zawiera żółcień pomarańczową (E110), produkt Staveran 120 zawiera żółcień chinolinową (E104). Te
+substancje pomocnicze mogą powodować reakcje alergiczne.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Badania metabolizmu in vitro wskazują, że werapamilu chlorowodorek jest metabolizowany przez
+izoenzymy CYP3A4, CYP1A2, CYP2C8, CYP2C9 i CYP2C18 cytochromu P450. Wykazano, że
+werapamil jest inhibitorem CYP3A4 i glikoproteiny P (Pgp). Informowano o istotnych klinicznie
+interakcjach z lekami hamującymi CYP3A4, które powodowały zwiększenie stężenia werapamilu
+chlorowodorku w osoczu oraz lekami pobudzającymi CYP3A4, które powodowały zmniejszenie
+stężenia werapamilu chlorowodorku w osoczu. Pacjenci powinni zatem pozostawać pod kontrolą pod
+kątem interakcji.
+
+W tabeli poniżej przedstawiono listę możliwych interakcji wynikających z właściwości
+farmakokinetycznych.
+
+         Potencjalne interakcje związane z układem enzymatycznym cytochromu P-450
+   Jednocześnie          Potencjalne działanie na werapamil lub          Komentarz
+    stosowany          jednocześnie stosowany produkt leczniczy
+      produkt
+     leczniczy
+ Leki α-adrenolityczne
+ Prazosyna          Zwiększenie Cmax prazosyny (~40%) bez wpływu  Addycyjne działanie
+                    na okres półtrwania                           hipotensyjne.
+ Terazosyna         Zwiększenie AUC terazosyny (~24%) i Cmax
+                    (~25%)
+
+                                                                                                   4
+Leki przeciwarytmiczne
+Flekainid          Niewielki wpływ na klirens osoczowy flekainidu    Patrz punkt 4.4.
+                   (<~10%), brak wpływu na klirens osoczowy
+                   werapamilu
+Chinidyna          Zmniejszenie klirensu chinidyny po podaniu        Niedociśnienie.
+                   doustnym (~35%)                                   U pacjentów
+                                                                     z kardiomiopatią
+                                                                     przerostową ze
+                                                                     zwężeniem drogi odpływu
+                                                                     wystąpić może obrzęk
+                                                                     płuc.
+Leki rozszerzające oskrzela
+Teofilina           Zmniejszenie klirensu po podaniu doustnym        U palaczy zmniejszenie
+                    i klirensu układowego (~20%)                     klirensu było mniejsze
+                                                                     i wynosiło ~11%.
+Leki przeciwdrgawkowe/przeciwpadaczkowe
+Karbamazepina     Zwiększenie AUC karbamazepiny (~46%)               Zwiększenie stężenia
+                  u pacjentów z oporną na leczenie padaczką          karbamazepiny.
+                  częściową                                          Może to powodować
+                                                                     działania niepożądane
+                                                                     karbamazepiny, takie jak
+                                                                     podwójne widzenie, ból
+                                                                     głowy, ataksja lub
+                                                                     zawroty głowy.
+Fenytoina          Zmniejszenie stężenia w osoczu werapamilu
+Leki przeciwdepresyjne
+Imipramina         Zwiększenie AUC imipraminy (~15%)                 Brak wpływu na stężenie
+                                                                     czynnego metabolitu -
+                                                                     dezypraminy.
+Leki przeciwcukrzycowe
+Glibenklamid       Zwiększenie Cmax glibenklamidu (~28%), AUC
+                   (~26%)
+Leki przeciw dnie moczanowej
+Kolchicyna         Zwiększenie AUC kolchicyny (~2,0-krotny) i Cmax   Zmniejszenie dawki
+                   (~1,3- krotnie)                                   kolchicyny (patrz
+                                                                     Charakterystyka Produktu
+                                                                     Leczniczego kolchicyny).
+Leki stosowane w zakażeniach
+Klarytromycyna     Możliwe zwiększenie stężenia werapamilu
+Erytromycyna       Możliwe zwiększenie stężenia werapamilu
+Ryfampicyna        Zmniejszenie AUC werapamilu (~97%), Cmax          Działanie obniżające
+                   (~94%), biodostępności po podaniu doustnym        ciśnienie krwi może być
+                   (~92%)                                            słabsze.
+                   Brak zmian parametrów farmakokinetycznych po
+                   podaniu dożylnym werapamilu
+Telitromycyna      Możliwe zwiększenie stężenia werapamilu
+Leki przeciwnowotworowe
+Doksorubicyna      Zwiększenie AUC doksorubicyny (104%) i Cmax       U pacjentów z rakiem
+                   (61%) po podaniu doustnym werapamilu              drobnokomórkowym
+                                                                     płuc.
+
+                   Brak zmian parametrów farmakokinetycznych         U pacjentów
+                   doksorubicyny po podaniu dożylnym werapamilu      z zaawansowanym
+                                                                     nowotworem.
+
+
+
+                                                                                                5
+Barbiturany
+Fenobarbital       Zwiększenie klirensu werapamilu po podaniu
+                   doustnym (~ 5-krotnie)
+Benzodiazepiny i inne leki przeciwlękowe
+Buspiron           Zwiększenie AUC buspironu i Cmax (~3,4-krotnie)
+Midazolam          Zwiększenie AUC midazolamu (~3-krotnie) i Cmax
+                   (~2-krotnie)
+Leki β-adrenolityczne
+Metoprolol         Zwiększenie AUC metoprololu (~32,5%) i Cmax        Patrz punkt 4.4.
+                   (~41%) u pacjentów z dławicą
+Propranolol        Zwiększenie AUC propranololu (~65%) i Cmax
+                   (~94%) u pacjentów z dławicą
+Glikozydy nasercowe
+Digitoksyna        Zmniejszenie całkowitego klirensu digitoksyny
+                   (~27%) i klirensu nerkowego (~29%)
+Digoksyna          Zdrowe osoby:                                      Zmniejszenie dawki
+                   Zwiększenie Cmax digoksyny (~44%)                  digoksyny. Patrz także
+                   Zwiększenie C12h digoksyny (~53%)                  punkt 4.4.
+                   Zwiększenie CSS o (~44%)
+                   i zwiększenie AUC (~50%)
+Antagoniści receptora H2
+Cymetydyna         Zwiększenie AUC R-werapamilu (~25%)                Cymetydyna zmniejsza
+                   i S-werapamilu (~40%) z jednoczesnym               klirens werapamilu po
+                   zmniejszeniem klirensu R- i S-werapamilu.          podaniu dożylnym.
+Leki immunomodulujące/immunosupresyjne
+Cyklosporyna       Zwiększenie AUC, CSS i Cmax cyklosporyny
+                   o ~45%
+Ewerolimus         Ewerolimus: zwiększenie AUC (~3,5-krotnie)         Oznaczanie
+                   i zwiększenie Cmax (~2,3-krotnie)                  i dostosowywanie dawki
+                   Werapamil: zwiększenie Ctrough (~2,3-krotnie)      ewerolimusu może być
+                                                                      konieczne.
+Syrolimus          Syrolimus zwiększenie AUC (~2,2-krotnie);          Oznaczanie
+                   S-werapamil: zwiększenie AUC (~1,5-krotnie)        i dostosowywanie dawki
+                                                                      syrolimusu może być
+                                                                      konieczne.
+
+Takrolimus         Możliwe zwiększenie stężenia takrolimusu
+Leki zmniejszające stężenie lipidów (inhibitory reduktazy hydroksymetyloglutarylo-koenzymu A)
+Atorwastatyna      Możliwe zwiększenie stężenia atorwastatyny          Dodatkowe informacje
+                   Zwiększenie AUC werapamilu o ~43%                   poniżej.
+Lowastatyna        Możliwe zwiększenie stężenia lowastatyny
+                   Zwiększenie AUC werapamilu (~63%) i Cmax
+                   (~32%)
+Symwastatyna       Zwiększenie AUC symwastatyny (~2,6-krotnie)
+                   i Cmax (~4,6-krotnie)
+Antagoniści receptora serotoninowego
+Almotryptan        Zwiększenie AUC almotryptanu (~20%),
+                   zwiększenie Cmax (~24%)
+Leki zwiększające wydalanie kwasu moczowego z moczem
+Sulfinpyrazon      Zwiększenie klirensu werapamilu po podaniu          Działanie obniżające
+                   doustnym (~3-krotnie)                               ciśnienie krwi może być
+                   Zmniejszenie biodostępności (~60%)                  mniejsze.
+                   Brak zmian parametrów farmakokinetycznych po
+                   podaniu dożylnym werapamilu
+
+
+
+                                                                                                 6
+ Inne
+ Sok grejpfrutowy   Zwiększenie AUC R-werapamilu (~49%)                Okres półtrwania i klirens
+                    i S-werapamilu (~37%),                             nerkowy bez zmian.
+                    zwiększenie Cmax R-werapamilu (~75%)               Nie należy stosować soku
+                    i S-werapamilu (~51%)                              grejpfrutowego
+                                                                       z werapamilem.
+ Dziurawiec         Zmniejszenie AUC R-werapamilu (~78%) i
+ zwyczajny          S-werapamilu (~80%) z jednoczesnym
+                    zmniejszeniem Cmax
+
+Interakcje z innymi produktami leczniczymi oraz dodatkowe informacje dotyczące interakcji
+
+Leki przeciwwirusowe przeciw ludzkiemu wirusowi niedoboru odporności (HIV)
+Ze względu na możliwe działanie hamujące metabolizm wywierane przez niektóre leki
+przeciwwirusowe przeciw HIV, takie jak rytonawir, może się zwiększyć stężenie werapamilu
+w osoczu. Należy zachować ostrożność lub zmniejszyć dawkę werapamilu.
+
+Lit
+Informowano o zwiększonej wrażliwości na działanie litu (neurotoksyczność) podczas jednoczesnego
+leczenia werapamilu chlorowodorkiem i litem bez zmian lub ze zwiększeniem stężenia litu
+w surowicy. Dodanie werapamilu chlorowodorku powodowało jednak również zmniejszenie stężenia
+litu w surowicy u pacjentów przewlekle otrzymujących drogą doustną stałe dawki litu. Należy
+dokładnie kontrolować stan pacjentów otrzymujących obydwa leki.
+
+Leki blokujące przekaźnictwo nerwowo-mięśniowe
+Dane kliniczne i uzyskane w badaniach na zwierzętach wskazują, że werapamilu chlorowodorek może
+nasilać działanie leków blokujących przekaźnictwo nerwowo-mięśniowe (leki kuraropodobne
+i depolaryzujące). Konieczne może być zmniejszenie dawki werapamilu chlorowodorku i (lub) dawki
+leku blokującego przekaźnictwo nerwowo-mięśniowe, gdy leki te są stosowane jednocześnie.
+
+Kwas acetylosalicylowy
+Zwiększona skłonność do krwawień.
+
+Alkohol etylowy
+Zwiększenie stężenia etanolu w osoczu.
+
+Inhibitory reduktazy hydroksymetyloglutarylo-koenzymu A (statyny)
+Leczenie inhibitorami reduktazy hydroksymetyloglutarylo-koenzymu A (np. symwastatyną,
+atorwastatyną lub lowastatyną) u pacjentów stosujących werapamil należy rozpocząć od podawania
+najmniejszej możliwej dawki, którą następnie dostosowuje się przez stopniowe zwiększanie. Jeśli
+stosowanie werapamilu rozpoczyna się u pacjentów już przyjmujących inhibitor reduktazy
+hydroksymetyloglutarylo-koenzymu A (np. symwastatynę, atorwastatynę lub lowastatynę), należy
+rozważyć zmniejszenie dawki statyny, a następnie powtórnie ją dostosować uwzględniając stężenie
+cholesterolu w surowicy.
+
+Fluwastatyna, prawastatyna i rozuwastatyna nie są metabolizowane przez CYP3A4
+i prawdopodobieństwo interakcji z werapamilem jest mniejsze.
+
+Leki hipotensyjne, moczopędne i rozszerzające naczynia krwionośne
+Nasilenie działania hipotensyjnego.
+
+Iwabradyna
+Jednoczesne stosowanie iwabradyny jest przeciwwskazane ze względu na dodatkowy, zmniejszający
+częstość akcji serca wpływ werapamilu na iwabradynę (patrz punkt 4.3).
+
+
+
+
+                                                                                                    7
+Dabigatran
+Podczas podawania eteksylanu dabigatranu (150 mg), substratu P-glikoproteiny (P-gp), jednocześnie
+z doustnym podawaniem werapamilu, Cmax i AUC dabigatranu zwiększyły się, ale nasilenie tej zmiany
+było różne, w zależności od czasu podania i postaci farmaceutycznej werapamilu.
+Po podaniu 120 mg werapamilu w postaci o natychmiastowym uwalnianiu godzinę przed podaniem
+pojedynczej dawki eteksylanu dabigatranu obserwowano zwiększenie Cmax dabigatranu o około 180%
+i AUC o około 150%.
+Nie stwierdzono żadnych istotnych interakcji podczas podawania werapamilu 2 godziny po podaniu
+eteksylanu dabigatranu (zwiększenie Cmax o około 10% i AUC o około 20%).
+Podczas jednoczesnego podawania werapamilu i eteksylanu dabigatranu zalecany jest ścisły nadzór
+kliniczny, w szczególności jeśli wystąpi krwawienie, zwłaszcza u pacjentów z łagodnymi lub
+umiarkowanymi zaburzeniami czynności nerek.
+
+Metformina
+Jednoczesne podawanie werapamilu i metforminy może zmniejszyć skuteczność metforminy.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Działanie teratogenne
+Brak jest danych z odpowiednich i prawidłowo kontrolowanych badań u kobiet w ciąży. Badania na
+zwierzętach nie wykazują bezpośredniego lub pośredniego szkodliwego działania związanego
+z toksycznym wpływem na rozród. Badania wpływu na rozród przeprowadzone na zwierzętach nie
+zawsze pozwalają na przewidzenie reakcji u ludzi i dlatego ten produkt należy stosować u kobiet
+w ciąży tylko wtedy, gdy jest to bezwzględnie konieczne (patrz punkt 5.3).
+
+Werapamil przenika przez barierę łożyska. Substancję tę wykrywano w krwi pępowinowej.
+
+Karmienie piersią
+Werapamilu chlorowodorek oraz jego metabolity przenikają do mleka kobiecego. Ograniczone dane
+uzyskane od pacjentek przyjmujących doustnie werapamil i karmiących piersią oraz od ich dzieci
+wskazują, że względna dawka jaką otrzymuje dziecko matki przyjmującej werapamil i karmiącej
+piersią wynosi 0,1-1% dawki doustnej przyjętej przez matkę.
+Nie można wykluczyć ryzyka u noworodków i niemowląt. Jednak, ze względu na możliwość
+wystąpienia ciężkich działań niepożądanych u karmionych piersią niemowląt, werapamil można
+stosować w okresie laktacji jedynie wtedy, gdy jest to istotne dla zdrowia matki.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Ze względu na działanie przeciwnadciśnieniowe, w zależności od indywidualnej reakcji na
+leczenie, werapamilu chlorowodorek może wpływać na zdolność reagowania w takim stopniu, że
+zaburza zdolność prowadzenia pojazdów, obsługiwania maszyn lub pracy w stwarzających
+zagrożenie warunkach. Występuje to zwłaszcza w początkowym okresie leczenia, w okresie
+zwiększania dawki, podczas zmiany leku i w przypadku jednoczesnego spożywaniu alkoholu.
+Werapamil może zwiększać stężenie alkoholu we krwi i opóźniać jego wydalanie. Z tego
+powodu działanie alkoholu może być nasilone.
+
+4.8   Działania niepożądane
+
+Następujące działania niepożądane zgłaszane po zastosowaniu werapamilu w badaniach klinicznych,
+po wprowadzeniu do obrotu lub w badaniach IV fazy wymieniono poniżej wg klasyfikacji układów
+i narządów według częstości występowania: często (≥1/100 do <1/10), niezbyt często (≥1 000 do
+<1/100), rzadko (≥1/10 000 do <1/1 000); bardzo rzadko (<1/10 000) oraz częstość nieznana (częstość
+nie może być określona na podstawie dostępnych danych).
+
+Najczęściej występującymi działaniami niepożądanymi były: ból głowy, zawroty głowy, zaburzenia
+żołądkowo-jelitowe: nudności, zaparcia i bóle brzucha, jak również rzadkoskurcz, częstoskurcz,
+
+                                                                                                  8
+kołatanie serca, niedociśnienie tętnicze, zaczerwienienie skóry z uczuciem gorąca, obrzęki obwodowe
+i uczucie zmęczenia.
+
+Działania niepożądane zgłaszane po wprowadzeniu werapamilu do obrotu oraz w badaniach
+klinicznych.
+
+ Klasyfikacja      Często                 Niezbyt często    Rzadko            Nieznane
+ układów i
+ narządów
+ Zaburzenia układu                                                            Reakcje
+ immunologicznego                                                             nadwrażliwości
+ Zaburzenia                                                 Senność
+ psychiczne
+ Zaburzenia układu Ośrodkowe                                Parestezja        Zaburzenia
+ nerwowego         zawroty głowy                            Drżenie mięśni    pozapiramidowe
+                   Ból głowy                                                  Porażenie
+                                                                              (niedowład
+                                                                              czterokończynowy)1
+                                                                              Napady drgawkowe
+ Zaburzenia                                                                   Hiperkaliemia
+ metabolizmu
+ i odżywiania
+ Zaburzenia oka                                                               Zaburzenia
+                                                                              widzenia
+ Zaburzenia ucha                                            Szum uszny        Obwodowe zawroty
+ i błędnika                                                                   głowy
+ Zaburzenia serca      Rzadkoskurcz       Kołatanie serca                     Blok
+                                          Częstoskurcz                        przedsionkowo-
+                                                                              komorowy (I°, II°,
+                                                                              III°)
+                                                                              Niewydolność serca
+                                                                              Zatrzymanie akcji
+                                                                              węzła zatokowego
+                                                                              Rzadkoskurcz
+                                                                              zatokowy
+                                                                              Asystolia
+ Zaburzenia            Zaczerwienienie
+ naczyniowe            skóry z uczuciem
+                       gorąca
+                       Niedociśnienie
+                       tętnicze
+ Zaburzenia układu                                                            Skurcz oskrzeli
+ oddechowego,                                                                 Duszność
+ klatki piersiowej i                                                          Obrzęk płuc
+ śródpiersia
+ Zaburzenia            Zaparcie           Ból brzucha       Wymioty           Dyskomfort w
+ żołądka i jelit       Nudności           Biegunka          Suchość błony     jamie brzusznej
+                                                            śluzowej jamy     Przerost dziąseł
+                                                            ustnej            Niedrożność jelit
+ Zaburzenia skóry i                                         Nadmierne         Obrzęk
+ tkanki podskórnej                                          pocenie się       naczynioruchowy
+                                                                              Zespół
+                                                                              Stevensa-Johnsona
+                                                                              Rumień
+                                                                              wielopostaciowy
+
+                                                                              Łysienie
+                                                                                                   9
+                                                                              Swędzenie
+                                                                              Świąd
+                                                                              Plamica
+                                                                              Wysypka
+                                                                              plamkowo-
+                                                                              grudkowa
+                                                                              Pokrzywka
+ Zaburzenia                                                                   Bóle stawów
+ mięśniowo-                                                                   Osłabienie siły
+ szkieletowe i                                                                mięśni
+ tkanki łącznej                                                               Bóle mięśni
+ Zaburzenia nerek i                                                           Niewydolność
+ dróg moczowych                                                               nerek
+                                                                              Częste oddawanie
+                                                                              moczu
+ Zaburzenia układu                                                            Zaburzenia erekcji
+ rozrodczego i                                                                Mlekotok
+ piersi                                                                       Ginekomastia
+ Zaburzenia ogólne    Obrzęki            Uczucie
+ i stany w miejscu    obwodowe           zmęczenia
+ podania
+ Badania                                                                   Zwiększenie
+ diagnostyczne                                                             stężenia prolaktyny
+                                                                           we krwi
+                                                                           Zwiększenie
+                                                                           aktywności
+                                                                           enzymów
+                                                                           wątrobowych
+                                                                           Wystąpienie cech
+                                                                           uszkodzenia
+                                                                           komórek
+                                                                           wątrobowych
+1
+  Po wprowadzeniu do obrotu informowano o jednym przypadku porażenia (niedowład
+czterokończynowy) po jednoczesnym zastosowaniu werapamilu i kolchicyny. Mógł on być
+spowodowany przez kolchicynę, która przeniknęła barierę krew-mózg w wyniku zahamowania przez
+werapamil CYP3A i Pgp (patrz punkt 4.5).
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C
+02-222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+Objawy
+Niedociśnienie tętnicze, rzadkoskurcz, zwolnienie szybkości przewodzenia, aż do bloku
+przedsionkowo-komorowego wysokiego stopnia i zatrzymania akcji węzła zatokowego,
+
+                                                                                                   10
+hiperglikemia, osłupienie (stupor), kwasica metaboliczna, zespół ostrej niewydolności
+oddechowej. W wyniku przedawkowania dochodziło do zgonów.
+
+Leczenie
+W przedawkowaniu werapamilu chlorowodorku należy zastosować przede wszystkim leczenie
+podtrzymujące, określane indywidualnie. W leczeniu celowego przedawkowania przyjętego doustnie
+werapamilu chlorowodorku skutecznie zastosowano stymulację β-adrenergiczną oraz (lub)
+parenteralnie wapń (wapnia chlorek). W razie wystąpienia istotnej klinicznie reakcji w postaci
+niedociśnienia tętniczego lub bloku przedsionkowo-komorowego wyższego stopnia należy zastosować
+odpowiednio leki wazopresyjne lub elektrostymulację serca. W przypadku asystolii należy zastosować
+standardowe postępowanie, w tym stymulację β-adrenergiczną (np. izoprenaliny chlorowodorek), inne
+leki wazopresyjne lub resuscytację krążeniowo-oddechową. Jeśli dojdzie do przedawkowania
+werapamilu chlorowodorku w postaci o przedłużonym uwalnianiu, z powodu wolniejszego
+wchłaniania leku należy hospitalizować i obserwować pacjenta przez okres do 48 godzin. Werapamilu
+chlorowodorku nie można usunąć z organizmu drogą hemodializy.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoteraupetyczna: wybiórczy antagoniści wapnia o bezpośrednim działaniu
+nasercowym, kod ATC: C08DA01
+
+Mechanizm działania i działanie farmakodynamiczne
+Werapamil hamuje przechodzenie jonów wapnia (i być może jonów sodu) przez wolne kanały do
+wnętrza zdolnych do rozprowadzania impulsów elektrycznych i kurczliwych komórek mięśnia
+sercowego oraz komórek mięśniówki gładkiej naczyń krwionośnych. Jak się wydaje,
+przeciwarytmiczne działanie werapamilu wynika z jego działania na wolny kanał w komórkach układu
+przewodzącego serca.
+
+Generowanie sygnałów elektrycznych przez węzły: zatokowo-przedsionkowy i przedsionkowo-
+komorowy zależy, w istotnym stopniu, od napływu wapnia przez wolny kanał. Hamując ten napływ,
+werapamil zwalnia przewodzenie przedsionkowo-komorowe i wydłuża czas trwania efektywnego
+okresu refrakcji w węźle przedsionkowo-komorowym w sposób powiązany z częstością pracy serca.
+Powoduje to zmniejszenie częstości pracy (skurczów) komór u pacjentów z trzepotaniem
+przedsionków i (lub) migotaniem przedsionków. Przerywając pobudzenie nawrotne w węźle
+przedsionkowo-komorowym, werapamil może przywrócić prawidłowy rytm zatokowy u pacjentów
+z napadowymi częstoskurczami nadkomorowymi (ang. paroxysmal supraventricular tachycardias,
+PSVT). Werapamil nie wywiera działania na przewodzenie dodatkowymi drogami.
+
+Skuteczność kliniczna i bezpieczeństwo stosowania
+Werapamil nie zmienia prawidłowego czasu trwania potencjału czynnościowego przedsionków lub
+przewodzenia wewnątrzkomorowego, ale zmniejsza amplitudę oraz prędkość przenoszenia się
+depolaryzacji i przewodzenia we włóknach przedsionków, na które oddziaływuje.
+
+W izolowanym sercu królika, stężenia werapamilu, które w znacznym stopniu oddziaływały na
+włókna węzła zatokowo-przedsionkowego lub włókna w górnym i środkowym regionie węzła
+przedsionkowo-komorowego, działały w bardzo niewielkim stopniu na włókna w niższym regionie
+węzła przedsionkowo-komorowego (region NH) i nie wywierały żadnego działania na czas trwania
+potencjału czynnościowego przedsionków lub włókna pęczka Hisa.
+
+Werapamil nie wywołuje skurczu tętnic obwodowych ani nie zmienia całkowitego stężenia wapnia
+w surowicy.
+
+Werapamil zmniejsza obciążenie następcze i kurczliwość mięśnia sercowego. U większości
+pacjentów, w tym chorych z organiczną chorobą serca, ujemne działanie inotropowe werapamilu jest
+
+                                                                                                11
+równoważone zmniejszeniem obciążenia następczego, a wskaźnik sercowy zazwyczaj nie ulega
+zmniejszeniu, ale u pacjentów z umiarkowanie ciężkim do ciężkiego zaburzeniem czynności serca
+(ciśnienie zaklinowania w tętnicy płucnej powyżej 20 mmHg, frakcja wyrzutowa poniżej 30%),
+można zaobserwować ostre pogorszenie niewydolności serca.
+
+5.2   Właściwości farmakokinetyczne
+
+Werapamilu chlorowodorek jest mieszaniną racemiczną składającą się w równych częściach
+z enancjomeru R i enancjomeru S. Werapamil jest w znacznym stopniu metabolizowany.
+Norwerapamil jest jednym z 12 metabolitów stwierdzonych w moczu, ma 10 do 20% działania
+farmakologicznego werapamilu i stanowi 6% ilości wydalanego produktu leczniczego. W stanie
+stacjonarnym stężenia norwerapamilu i werapamilu są podobne. Stan stacjonarny po wielokrotnym
+podaniu dawki raz na dobę osiągany jest po trzech-czterech dniach.
+
+Wchłanianie
+Po podaniu doustnym więcej niż 90% werapamilu szybko wchłania się z jelita cienkiego. Średnia
+układowa biodostępność niezmienionego związku po podaniu pojedynczej dawki werapamilu
+o niemodyfikowanym uwalnianiu wynosi 22%, a werapamilu o przedłużonym uwalnianiu - około
+33%, w wyniku znacznego stopnia efektu pierwszego przejścia przez wątrobę. Biodostępność jest
+około 2 razy większa podczas podawania dawek wielokrotnych.
+
+Maksymalne stężenie w osoczu obserwuje się po 1-2 godzinach po podaniu dawki produktu
+leczniczego o niemodyfikowanym uwalnianiu oraz po 4-5 godzinach po podaniu produktu
+o przedłużonym uwalnianiu. Maksymalne stężenie norwerapamilu w osoczu obserwuje się po
+1 godzinie i po 5 godzinach po podaniu odpowiednio produktu o niemodyfikowanym uwalnianiu
+i produktu o przedłużonym uwalnianiu. Pokarm nie ma wpływu na biodostępność werapamilu.
+
+Dystrybucja
+Werapamil ulega szerokiej dystrybucji w tkankach organizmu, a objętość dystrybucji wynosi od
+1,8 do 6,8 l/kg mc. u zdrowych osób. Werapamil wiąże się z białkami osocza w około 90%.
+
+Metabolizm
+Werapamil jest w znacznym stopniu metabolizowany. Badania metaboliczne in vitro wykazują, że
+werapamil jest metabolizowany przy udziale izoenzymów cytochromu P450: CYP3A4, CYP1A2,
+CYP2C8, CYP2C9 i CYP2C18. U zdrowych ludzi, podany doustnie werapamilu chlorowodorek jest
+w znacznym stopniu metabolizowany w wątrobie. Zidentyfikowano dwanaście metabolitów,
+większość w zaledwie śladowych ilościach. Główne metabolity zidentyfikowano w rozmaitych
+N- i O-dealkilowanych produktach werapamilu. Spośród tych metabolitów tylko norwerapamil ma
+znaczące działanie farmakologiczne (około 20% działania leku macierzystego), co stwierdzono
+w badaniach u psów.
+
+Eliminacja
+Po podaniu doustnym okres półtrwania w fazie eliminacji wynosi trzy do siedmiu godzin. Około 50%
+podanej dawki wydalane jest przez nerki w ciągu 24 godzin, a 70% - w ciągu pięciu dni. Z kałem
+wydalane jest do 16% podanej dawki. Około 3 do 4% produktu leczniczego wydalanego przez nerki
+jest w postaci niezmienionej. Całkowity klirens werapamilu ma nieomal tę samą wartość co objętość
+krwi przepływającej przez wątrobę, w przybliżeniu jeden l/h/kg mc. (zakres: 0,7-1,3 l/h/kg mc.).
+
+Specjalne populacje
+Dzieci i młodzież. Dostępne dane dotyczące farmakokinetyki u dzieci i młodzieży są ograniczone.
+Wydaje się, że stężenia w stanie stacjonarnym po podaniu doustnym u dzieci i młodzieży są nieco
+niższe w porównaniu do obserwowanych u dorosłych.
+
+Osoby w podeszłym wieku. Starzenie się organizmu może wpływać na farmakokinetykę werapamilu
+podawanego pacjentom z nadciśnieniem. Okres półtrwania w fazie eliminacji może być wydłużony
+u pacjentów w podeszłym wieku. Stwierdzono, że działanie hipotensyjne werapamilu nie jest zależne
+od wieku pacjenta.
+
+                                                                                                  12
+Niewydolność nerek. Zaburzenie czynności nerek nie ma wpływu na farmakokinetykę werapamilu, jak
+to wykazano w badaniach porównawczych u pacjentów ze schyłkową niewydolnością nerek i osób
+z prawidłową czynnością nerek. Werapamilu i norwerapamilu nie można w istotnym stopniu usunąć
+drogą hemodializy.
+
+Niewydolność wątroby. Okres półtrwania werapamilu jest wydłużony u pacjentów z zaburzeniami
+czynności wątroby ze względu na mniejszy klirens po podaniu doustnym i większą objętość
+dystrybucji.
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+Toksyczność przewlekła
+W licznych badaniach na zwierzętach, którym podawano z pożywieniem werapamil w dawkach od
+10 mg/kg mc. do 62,5 mg/kg mc. (szczury) i od 10 mg/kg mc. do 85 mg/kg mc. (psy rasy Beagle)
+wykazano dobrą tolerancję werapamilu. Jedynie w badaniu, w którym psom Beagle podawano
+werapamil w dawkach toksycznych (60 mg/kg mc. i większe) stwierdzono bradykardię, zwolnienie
+przewodnictwa przedsionkowo-komorowego i obniżenie ciśnienia tętniczego. Obserwowano również
+przerost dziąseł, ustępujący po odstawieniu werapamilu.
+
+Działanie teratogenne
+Podawanie werapamilu samicom królików w dawce 5 mg/kg mc. i 15 mg/kg mc. oraz samicom
+szczurów w dawce 15 mg/kg mc. do 60 mg/kg mc. nie wykazało działania teratogennego.
+Embriotoksyczne działanie obserwowano jedynie po zastosowaniu dawek toksycznych, tzn.
+większych niż 60 mg/kg mc. (większy współczynnik resorpcji płodów w porównaniu z kontrolą).
+Badania wpływu na rozród wykonano u królików i szczurów, którym podawano doustnie dawki
+werapamilu odpowiednio do 1,5 razy (15 mg/kg mc. na dobę) i 6 razy (60 mg/kg mc. na dobę)
+większe od stosowanej doustnie dawki dobowej u ludzi. Badania te nie ujawniły dowodów na
+działanie teratogenne. U szczurów jednak ta wielokrotność dawki stosowanej u ludzi była letalna dla
+zarodka oraz opóźniała wzrost i rozwój płodu, prawdopodobnie z powodu działania niepożądanego
+u matek, wyrażającego się zmniejszeniem przyrostu ich masy ciała. Wykazano również, że taka dawka
+doustna powoduje niedociśnienie tętnicze u szczurów. Nie ma jednak odpowiednich i prawidłowo
+kontrolowanych badań u kobiet w ciąży.
+
+Działanie genotoksyczne
+Genotoksyczność werapamilu badano stosując następujące testy:
+•     test Amesa,
+•     test aberracji chromosomalnej na ludzkich limfocytach in vitro,
+•     test indukcji siostrzanych chromatyd (z użyciem ludzkich limfocytów in vitro, na komórkach
+      szpiku kostnego chińskiego chomika),
+•     test transformacji komórkowej na embrionalnych komórkach chomika syryjskiego.
+W żadnym z tych testów nie stwierdzono genotoksycznego działania werapamilu.
+
+Działanie rakotwórcze
+Podawanie szczurom werapamilu w dawce od 10 mg/kg mc. do 120 mg/kg mc. przez 24 miesiące nie
+wykazało potencjalnego działania rakotwórczego werapamilu.
+
+
+6.    DANE FARMACEUTYCZNE
+
+6.1   Wykaz substancji pomocniczych
+
+Rdzeń:
+żelatyna
+celuloza krystaliczna
+laktoza jednowodna
+krzemionka koloidalna bezwodna
+
+                                                                                                   13
+magnezu stearynian
+talk
+skrobia ziemniaczana.
+
+Otoczka:
+hypromeloza
+makrogol 6000
+tytanu dwutlenek
+talk
+lak z żółcienią pomarańczową (E110) (tylko Staveran 40)
+żółcień pomarańczowa (E110) (tylko Staveran 80)
+żółcień chinolinowa (E104) (tylko Staveran 120).
+
+6.2      Niezgodności farmaceutyczne
+
+Nie dotyczy.
+
+6.3      Okres ważności
+
+3 lata
+
+6.4      Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w oryginalnym opakowaniu w celu ochrony przed światłem. Nie przechowywać
+w temperaturze powyżej 25°C.
+
+6.5      Rodzaj i zawartość opakowania
+
+Blistry z folii Aluminium/PVC. Opakowanie zawiera 20 lub 60 tabletek.
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+6.6      Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+         stosowania
+
+Bez specjalnych wymagań.
+
+
+7.       PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+         DOPUSZCZENIE DO OBROTU
+
+Zakłady Farmaceutyczne POLPHARMA S.A.
+ul. Pelplińska 19, 83-200 Starogard Gdański
+
+
+8.       NUMERY POZWOLEŃ NA DOPUSZCZENIE DO OBROTU
+
+Staveran 40: Pozwolenie nr R/0452
+Staveran 80: Pozwolenie nr R/0453
+Staveran 120: Pozwolenie nr R/0454
+
+
+9.       DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+         I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Staveran 40:
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 18.05.1990 r.
+Data ostatniego przedłużenia pozwolenia: 22.08.2013 r.
+
+                                                                                              14
+Staveran 80:
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 06.04.1990 r.
+Data ostatniego przedłużenia pozwolenia: 22.08.2013 r.
+
+Staveran 120:
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 12.07.1990 r.
+Data ostatniego przedłużenia pozwolenia: 22.08.2013 r.
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+
+
+
+                                                                              15
+

@@ -1,0 +1,724 @@
+                    CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.     NAZWA PRODUKTU LECZNICZEGO
+
+Cisatracurium Kabi, 2 mg/ml, roztwór do wstrzykiwań/ do infuzji
+
+
+2.     SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+1 ml roztworu do wstrzykiwań/ do infuzji zawiera 2 mg cisatrakurium w postaci 2,68 mg
+cisatrakuriowego bezylanu.
+
+Jedna ampułka z 2,5 ml roztworu do wstrzykiwań/ do infuzji zawiera 5 mg cisatrakurium w postaci
+6,7 mg cisatrakuriowego bezylanu.
+Jedna ampułka z 5 ml roztworu do wstrzykiwań/ do infuzji zawiera 10 mg cisatrakurium w postaci
+13,4 mg cisatrakuriowego bezylanu.
+Jedna ampułka z 10 ml roztworu do wstrzykiwań/ do infuzji zawiera 20 mg cisatrakurium w postaci
+26,8 mg cisatrakuriowego bezylanu.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.     POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań/ do infuzji
+
+Przezroczysty, bezbarwny do jasnożółtego lub zielonożółtego roztwór o pH 3,0-3,8
+
+
+4.     SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1    Wskazania do stosowania
+
+Cisatracurium Kabi jest wskazany do stosowania w zabiegach chirurgicznych i innych rodzajach
+zabiegów u dorosłych i dzieci w wieku powyżej 1 miesiąca. Cisatracurium Kabi jest również
+wskazany do stosowania u dorosłych wymagających intensywnej opieki medycznej. Cisatracurium
+Kabi może być stosowany w terapii uzupełniającej podczas znieczulenia ogólnego lub z lekami
+uspokajającymi na Oddziałach Intensywnej Opieki Medycznej (OIOM) w celu zwiotczenia mięśni
+szkieletowych oraz ułatwienia stosowania intubacji dotchawiczej i wentylacji kontrolowanej.
+
+4.2    Dawkowanie i sposób podawania
+
+Cisatracurium Kabi może być podawany wyłącznie przez anestezjologa lub lekarza mającego
+doświadczenie w stosowaniu leków wywołujących blok przewodnictwa nerwowo-mięśniowego lub
+pod ich nadzorem, w warunkach umożliwiających wykonanie intubacji dotchawiczej, zastosowanie
+wentylacji kontrolowanej oraz odpowiednie wysycenie krwi tętniczej tlenem.
+
+Podczas podawania produktu leczniczego Cisatracurium Kabi zaleca się monitorowanie
+przewodnictwa nerwowo-mięśniowego w celu indywidualnego dostosowania dawki.
+Dawkowanie
+
+-      Podanie we wstrzyknięciu dożylnym (bolus)
+
+Dawkowanie u dorosłych
+
+Intubacja dotchawicza
+Zalecana dawka cisatrakurium do przeprowadzenia intubacji u dorosłych pacjentów wynosi
+0,15 mg/kg mc. Zastosowanie tej dawki pozwala na rozpoczęcie intubacji dotchawiczej po upływie
+120 sekund od podania produktu leczniczego Cisatracurium Kabi, po indukcji znieczulenia
+propofolem.
+
+Większe dawki skracają czas do wystąpienia bloku przewodnictwa nerwowo-mięśniowego.
+
+Poniższa tabela przedstawia średnie wartości danych farmakodynamicznych dla cisatrakurium
+podawanego w dawkach 0,1-0,4 mg/kg mc. zdrowym, dorosłym pacjentom podczas znieczulenia
+opioidami (tiopental/fentanyl/midazolam) lub propofolem.
+
+     Początkowa                 Rodzaj           Czas do 90%             Czas do                Czas do 25%
+        dawka                 znieczulenia       zniesienia T1 *      maksymalnego              samoistnego
+    cisatrakurium                                    (min)            zniesienia T1 *           powrotu T1 *
+     (mg/kg mc.)                                                          (min)                    (min)
+          0,1                       opioid             3,4                  4,8                      45
+          0,15                     propofol            2,6                  3,5                      55
+          0,2                       opioid             2,4                  2,9                      65
+          0,4                       opioid             1,5                  1,9                      91
+* T - Pojedyncza odpowiedź skurczowa, a także pierwsza składowa odpowiedzi mięśnia przywodziciela kciuka na ciąg
+   1
+czterech bodźców wywołana supramaksymalną stymulacją elektryczną nerwu łokciowego.
+
+Znieczulenie enfluranem lub izofluranem może wydłużyć czas skutecznego klinicznie działania
+początkowej dawki cisatrakurium nawet o 15%.
+
+Podtrzymanie bloku przewodnictwa nerwowo-mięśniowego
+Blok przewodnictwa nerwowo-mięśniowego można przedłużyć stosując podtrzymujące dawki
+cisatrakurium. Dawka 0,03 mg/kg mc. podana podczas znieczulania opioidami lub propofolem
+przedłuża o około 20 minut klinicznie skuteczny blok przewodnictwa nerwowo-mięśniowego.
+Stosowanie kolejnych dawek podtrzymujących nie powoduje wydłużenia bloku przewodnictwa
+nerwowo-mięśniowego.
+
+Samoistne ustępowanie bloku przewodnictwa nerwowo-mięśniowego
+Szybkość samoistnego ustępowania bloku przewodnictwa nerwowo-mięśniowego jest niezależna od
+wielkości podanej dawki cisatrakurium. Podczas znieczulania opioidami lub propofolem średni czas
+ustępowania od 25% do 75% i od 5% do 95% bloku wynosi odpowiednio 13 i 30 minut.
+
+Odwracanie bloku przewodnictwa nerwowo-mięśniowego
+Blok przewodnictwa nerwowo-mięśniowego wywołany przez cisatrakurium można łatwo odwrócić,
+podając standardowe dawki inhibitorów acetylocholinoesterazy. Po podaniu leku powodującego
+odwrócenie bloku w momencie powrotu średnio 10% odpowiedzi T1, średni czas ustępowania od 25%
+do 75% bloku oraz do pełnego ustąpienia klinicznych objawów bloku (T4 : T1  0,7) wynosi
+odpowiednio 4 i 9 minut.
+
+Dawkowanie u dzieci
+
+Intubacja dotchawicza (dzieci w wieku od 1 miesiąca do 12 lat)
+Podobnie jak u dorosłych, zalecana dawka intubacyjna cisatrakurium wynosi 0,15 mg/kg mc.
+podawana w szybkim wstrzyknięciu trwającym od 5 do 10 sekund. Zastosowanie tej dawki pozwala
+na rozpoczęcie intubacji dotchawiczej po upływie 120 sekund od podania cisatrakurium.
+
+            DE/H/2771/001/IB/019
+                                                                                                                   2
+Dane farmakodynamiczne dotyczące tej dawki przedstawiono w poniższych tabelach.
+
+Nie badano zastosowania cisatrakurium do intubacji dzieci w klasie ASA III-IV. Dostępne są
+ograniczone dane dotyczące stosowania cisatrakurium u dzieci w wieku poniżej 2 lat, poddawanych
+długotrwałym lub rozległym zabiegom chirurgicznym.
+
+U dzieci w wieku od 1 miesiąca do 12 lat, w porównaniu do dorosłych w podobnych warunkach
+znieczulenia ogólnego, cisatrakurium wykazuje krótszy czas skutecznego klinicznie zwiotczenia
+i szybsze spontaniczne ustępowanie bloku. Zaobserwowano niewielkie różnice w profilu
+farmakodynamicznym między dziećmi w grupach wiekowych od 1 do 11 miesięcy oraz od 1 do 12 lat.
+Różnice te zostały zestawione w poniższych tabelach:
+
+Dzieci w wieku od 1 do 11 miesięcy
+   Dawka             Rodzaj        Czas do 90%                Czas do               Czas do 25%
+cisatrakurium     znieczulenia     zniesienia T1           maksymalnego             samoistnego
+ (mg/kg mc.)                           (min)                zniesienia T1            powrotu T1
+                                                                (min)                  (min)
+      0,15                  halotan         1,4                  2,0                     52
+      0,15                  opioid          1,4                  1,9                     47
+
+Dzieci w wieku od 1 do 12 lat
+     Dawka           Rodzaj             Czas do 90%           Czas do               Czas do 25%
+ cisatrakurium     znieczulenia         zniesienia T1      maksymalnego             samoistnego
+  (mg/kg mc.)                               (min)           zniesienia T1            powrotu T1
+                                                                (min)                  (min)
+       0,15                  halotan         2,3                  3,0                    43
+       0,15                  opioid          2,6                  3,6                    38
+
+W przypadku, gdy cisatrakurium nie jest wymagany do intubacji: można zastosować dawkę mniejszą
+niż 0,15 mg/kg mc. Dane farmakodynamiczne dotyczące dawek 0,08 i 0,1 mg/kg mc. u dzieci
+w wieku od 2 do 12 lat przedstawiono w poniższej tabeli:
+
+     Dawka                 Rodzaj       Czas do 90%            Czas do              Czas do 25%
+ cisatrakurium           znieczulenia    zniesienia         maksymalnego            samoistnego
+  (mg/kg mc.)                                T1              zniesienia T1           powrotu T1
+                                           (min)                 (min)                 (min)
+       0,08                  halotan        1,7                   2,5                    31
+        0,1                  opioid         1,7                   2,8                    28
+
+Nie badano u dzieci podawania cisatrakurium po zastosowaniu suksametonium (patrz punkt 4.5).
+
+Podczas stosowania halotanu można spodziewać się przedłużenia klinicznie skutecznego działania
+dawki cisatrakurium o 20%.
+Brak danych dotyczących stosowania cisatrakurium u dzieci podczas znieczulenia innymi lekami
+znieczulającymi z grupy chlorowcowanych węglowodorów, ale można się spodziewać, że leki te
+również przedłużają klinicznie skuteczne działanie dawki cisatrakurium.
+
+Podtrzymanie bloku przewodnictwa nerwowo-mięśniowego (dzieci w wieku od 2 do 12 lat)
+Blok przewodnictwa nerwowo-mięśniowego można przedłużyć stosując dawki podtrzymujące
+cisatrakurium. U dzieci w wieku od 2 do 12 lat, dawka 0,02 mg/kg mc., podana podczas znieczulenia
+halotanem, przedłuża klinicznie skuteczny blok przewodnictwa nerwowo-mięśniowego o około
+9 minut.
+Podawanie kolejnych dawek podtrzymujących nie powoduje wydłużenia bloku przewodnictwa
+nerwowo-mięśniowego.
+
+Brak wystarczających danych, aby można było zalecić specyficzne dawkowanie podtrzymujące
+u dzieci w wieku poniżej 2 lat. Jednakże, bardzo ograniczone dane z badań klinicznych u dzieci
+             DE/H/2771/001/IB/019
+                                                                                                    3
+w wieku poniżej 2 lat sugerują, że podczas opioidowego znieczulenia ogólnego, dawka podtrzymująca
+0,03 mg/kg mc. może przedłużać klinicznie skuteczny blok przewodnictwa nerwowo-mięśniowego do
+25 minut.
+
+Samoistne ustępowanie bloku przewodnictwa nerwowo-mięśniowego
+Szybkość samoistnego ustępowania bloku przewodnictwa nerwowo-mięśniowego jest niezależna od
+wielkości podanej dawki cisatrakurium. Podczas znieczulenia opioidami lub halotanem średni czas
+ustępowania od 25% do 75% i od 5% do 95% bloku wynosi odpowiednio około 11 i 28 minut.
+
+Odwracanie bloku przewodnictwa nerwowo-mięśniowego
+Blok przewodnictwa nerwowo-mięśniowego po podaniu cisatrakurium można łatwo odwrócić,
+podając standardowe dawki inhibitorów acetylocholinoesterazy. Po podaniu środka powodującego
+odwrócenie bloku w momencie powrotu średnio 13% odpowiedzi T1, średni czas ustępowania od 25%
+do 75% bloku oraz do pełnego ustąpienia klinicznych objawów bloku (T4 : T1  0,7) wynosi
+odpowiednio około 2 i 5 minut.
+
+-      Podanie w infuzji dożylnej
+
+Dawkowanie u dorosłych i dzieci w wieku od 2 do 12 lat
+
+Blok przewodnictwa nerwowo-mięśniowego można podtrzymywać za pomocą produktu leczniczego
+Cisatracurium Kabi podawanego w infuzji. Po wystąpieniu objawów samoistnego ustępowania bloku
+zaleca się początkową szybkość infuzji 3 g/kg mc./min (0,18 mg/kg mc./godz.), aby przywrócić
+zahamowanie od 89 do 99% odpowiedzi T1. Po początkowym okresie stabilizacji bloku
+przewodnictwa nerwowo-mięśniowego, szybkość infuzji od 1 do 2 g/kg mc./min (od 0,06 do
+0,12 mg/kg mc./godz.) powinna być wystarczająca do utrzymania w tym zakresie bloku u większości
+pacjentów.
+
+Może być konieczne zmniejszenie szybkości infuzji nawet o 40%, jeśli cisatrakurium jest podawany
+podczas znieczulenia izofluranem lub enfluranem (patrz punkt 4.5).
+
+Szybkość infuzji zależy od stężenia cisatrakurium w roztworze do infuzji, wymaganego stopnia
+zablokowania przewodnictwa nerwowo-mięśniowego oraz od masy ciała pacjenta. W tabeli poniżej
+podano zalecenia dotyczące szybkości infuzji nierozcieńczonego produktu leczniczego
+Cisatracurium Kabi.
+
+Szybkość infuzji produktu leczniczego Cisatracurium Kabi (2 mg/ml)
+                                                                                      Szybkość
+    Masa ciała                       Dawka (g/kg mc./min)
+                                                                                       infuzji
+    pacjenta
+      (kg)                   1,0       1,5               2,0             3,0
+        20                   0,6       0,9               1,2             1,8          ml/godz.
+        70                   2,1       3,2               4,2             6,3          ml/godz.
+       100                   3,0       4,5               6,0             9,0          ml/godz.
+
+Podawanie cisatrakurium w infuzji ciągłej o stałej szybkości nie wiąże się z postępującym
+zwiększeniem lub zmniejszeniem stopnia zablokowania przewodnictwa nerwowo-mięśniowego.
+
+Po zaprzestaniu infuzji cisatrakurium, samoistne ustępowanie bloku przewodnictwa nerwowo-
+mięśniowego zachodzi z szybkością porównywalną do jego ustępowania po podaniu w pojedynczym
+wstrzyknięciu dożylnym.
+
+
+
+
+             DE/H/2771/001/IB/019
+                                                                                                   4
+-     Podanie we wstrzyknięciach dożylnych i (lub) w infuzji dożylnej
+
+Dawkowanie u dorosłych
+
+Dawkowanie u pacjentów na Oddziałach Intensywnej Opieki Medycznej (OIOM)
+Cisatracurium Kabi może być podawany w szybkim wstrzyknięciu dożylnym (bolus) i (lub) w infuzji
+dorosłym pacjentom przebywającym na OIOM-ie.
+
+W przypadku dorosłych pacjentów hospitalizowanych na OIOM-ie, początkowo zaleca się podawanie
+w infuzji z szybkością 3 g/kg mc./min (0,18 mg/kg mc./godz.). U pacjentów mogą wystąpić duże
+różnice osobnicze w wielkości niezbędnej dawki i mogą one ulegać zwiększeniu lub zmniejszeniu
+w miarę upływu czasu. Szybkość infuzji w badaniach klinicznych wynosiła średnio 3 g/kg mc./min
+[zakres 0,5 do 10,2 g/kg mc./min (0,03 do 0,6 mg/kg mc./godz.)].
+
+Średni czas samoistnego całkowitego powrotu przewodnictwa nerwowo-mięśniowego po
+długotrwałym (do 6 dni) podawaniu cisatrakurium w postaci infuzji u pacjentów na OIOM-ie wynosił
+około 50 minut.
+
+Profil samoistnego powrotu przewodnictwa nerwowo-mięśniowego po podaniu cisatrakurium
+u pacjentów na OIOM-ie jest niezależny od czasu trwania infuzji.
+
+Szczególne grupy pacjentów
+
+Dawkowanie u pacjentów w podeszłym wieku
+W przypadku pacjentów w podeszłym wieku nie jest wymagana zmiana dawkowania. U tych
+pacjentów, profil farmakodynamiczny cisatrakurium jest podobny do obserwowanego u młodszych
+pacjentów, chociaż tak jak w przypadku innych leków blokujących przewodnictwo nerwowo-
+mięśniowe, początek działania może wystąpić nieco później.
+
+Dawkowanie u pacjentów z zaburzeniami czynności nerek
+Nie ma konieczności zmiany dawkowania u pacjentów z niewydolnością nerek.
+U tych pacjentów, profil farmakodynamiczny cisatrakurium jest podobny do obserwowanego
+u pacjentów z prawidłową czynnością nerek, jednakże początek działania może wystąpić nieco
+później.
+
+Dawkowanie u pacjentów z zaburzeniami czynności wątroby
+Nie ma konieczności zmiany dawkowania u pacjentów w krańcowych stadiach niewydolności
+wątroby. U tych pacjentów, profil farmakodynamiczny cisatrakurium jest podobny do obserwowanego
+u pacjentów z prawidłową czynnością wątroby, jednakże początek działania może wystąpić nieco
+wcześniej.
+
+Dawkowanie u pacjentów z chorobami sercowo-naczyniowymi
+Podawanie cisatrakurium w szybkim pojedynczym wstrzyknięciu (trwającym 5 do 10 sekund)
+dorosłym pacjentom z ciężkimi chorobami sercowo-naczyniowymi (klasa I-III wg NYHA)
+poddawanym zabiegowi pomostowania aortalno-wieńcowego, nie było związane z klinicznie
+istotnymi zmianami parametrów sercowo-naczyniowych dla żadnej z badanych dawek (do
+0,4 mg/kg mc. włącznie (8 × ED95)). Jednakże, dostępne są jedynie ograniczone dane dotyczące
+stosowania dawek przekraczających 0,3 mg/kg mc. w tej populacji pacjentów.
+Cisatrakurium nie był badany u dzieci poddawanych zabiegom kardiochirurgicznym.
+
+Dzieci
+Dawkowanie u noworodków (w wieku poniżej 1 miesiąca życia)
+Stosowanie cisatrakurium u noworodków nie jest zalecane, ponieważ nie przeprowadzono badań w tej
+populacji pacjentów.
+
+
+
+
+          DE/H/2771/001/IB/019
+                                                                                                   5
+Sposób podawania
+
+Cisatracurium Kabi jest przeznaczony do podawania dożylnego.
+
+Cisatracurium Kabi nie zawiera środków konserwujących i jest przeznaczony do jednorazowego
+użycia.
+
+Produkt leczniczy należy obejrzeć przed podaniem. Należy stosować wyłącznie roztwory
+przezroczyste, bezbarwne lub prawie bezbarwne do jasnożółtych lub zielonożółtych, niezawierające
+widocznych cząstek stałych oraz gdy opakowanie nie jest uszkodzone. Jeżeli wygląd roztworu uległ
+zmianie albo jego opakowanie jest uszkodzone, produkt leczniczy należy wyrzucić.
+
+Instrukcja dotycząca rozcieńczania produktu leczniczego przed podaniem, patrz punkt 6.6.
+
+4.3    Przeciwwskazania
+
+Nadwrażliwość na cisatrakurium, atrakurium lub kwas benzenosulfonowy.
+
+4.4    Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Ostrzeżenia związane specyficznie z produktem leczniczym
+Cisatrakurium poraża mięśnie oddechowe podobnie jak inne mięśnie szkieletowe, nie wpływając,
+według obecnego stanu wiedzy, na świadomość i próg odczuwania bólu.
+Należy zachować ostrożność podczas podawania cisatrakurium pacjentom, u których wystąpiła
+nadwrażliwość na inne leki blokujące przewodnictwo nerwowo-mięśniowe, ponieważ istnieją
+doniesienia o dużej częstości nadwrażliwości krzyżowej (większej niż 50%) między lekami
+blokującymi przewodnictwo nerwowo-mięśniowe.
+
+Cisatrakurium nie wykazuje istotnych właściwości wagolitycznych ani właściwości blokowania
+zwojów nerwowych. Z tego powodu cisatrakurium nie wywiera klinicznie istotnego wpływu na
+częstość akcji serca i nie przeciwdziała bradykardii wywoływanej przez wiele leków stosowanych
+w celu wywołania znieczulenia ogólnego lub przez pobudzenie nerwu błędnego w czasie zabiegu
+chirurgicznego.
+Pacjenci z miastenią lub innymi zaburzeniami przewodnictwa nerwowo-mięśniowego wykazują
+znacznie większą wrażliwość na działanie leków wywołujących blok niedepolaryzacyjny.
+U pacjentów tych zaleca się podawanie dawki początkowej nie większej niż 0,02 mg/kg mc.
+
+Ciężkie zaburzenia kwasowo-zasadowe i (lub) elektrolitowe w surowicy mogą zwiększać lub
+zmniejszać wrażliwość pacjentów na działanie środków blokujących przewodnictwo nerwowo-
+mięśniowe.
+
+Brak danych na temat stosowania cisatrakurium u noworodków w wieku poniżej 1 miesiąca, ponieważ
+nie był on badany w tej populacji pacjentów.
+
+Nie badano działania cisatrakurium u pacjentów z hipertermią złośliwą w wywiadzie. Badania
+przeprowadzone na świniach z predyspozycją do wystąpienia hipertermii złośliwej wykazują, że
+cisatrakurium nie wyzwala tego zespołu.
+
+Brak badań dotyczących stosowania cisatrakurium u pacjentów poddawanych zabiegom
+chirurgicznym w warunkach indukowanej hipotermii (25 do 28°C). Można spodziewać się, że
+szybkość infuzji niezbędna do utrzymania odpowiedniego zwiotczenia będzie w tych warunkach
+znacznie mniejsza.
+
+Nie badano działania cisatrakurium u pacjentów z oparzeniami, jednakże należy wziąć pod uwagę,
+że u tych pacjentów dawki niezbędne do zastosowania mogą być większe, a czas działania produktu
+leczniczego krótszy, jeśli tym pacjentom podaje się cisatrakurium we wstrzyknięciach.
+
+
+          DE/H/2771/001/IB/019
+                                                                                                   6
+Cisatracurium Kabi jest roztworem hipotonicznym i nie wolno podawać go łącznie z przetaczaną
+krwią w jednym cewniku dożylnym.
+
+Pacjenci na Oddziałach Intensywnej Opieki Medycznej (OIOM)
+Podczas podawania zwierzętom laboratoryjnym laudanozyny, metabolitu cisatrakurium i atrakurium,
+w dużych dawkach obserwowano przemijający spadek ciśnienia krwi, a u niektórych gatunków
+wzmożenie efektów pobudzeniowych w mózgu. U najbardziej wrażliwych gatunków, działania te
+występowały podczas stężeń laudanozyny w osoczu zbliżonych do obserwowanych u niektórych
+pacjentów na oddziałach OIOM po długotrwałej infuzji atrakurium.
+
+W związku z mniejszą szybkością infuzji cisatrakurium, stężenia laudanozyny w osoczu wynoszą
+około 1/3 stężeń obserwowanych po infuzji atrakurium.
+
+Pojawiły się nieliczne doniesienia, że obserwowano drgawki u pacjentów na OIOM-ie, którym
+podawano atrakurium i inne środki. Pacjenci ci mieli zwykle jedno lub więcej schorzeń
+predysponujących do drgawek (np. uraz czaszki, hipoksyjna encefalopatia, obrzęk mózgu, wirusowe
+zapalenie mózgu, mocznica). Nie ustalono związku przyczynowego tych obserwacji z laudanozyną.
+
+4.5    Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Wykazano, że wiele produktów leczniczych wpływa na siłę i (lub) czas działania leków wywołujących
+niedepolaryzacyjny blok przewodnictwa nerwowo-mięśniowego. Należą do nich:
+
+Leki nasilające działanie:
+­     leki znieczulające: enfluran, izofluran, halotan (patrz punkt 4.2) i ketamina;
+­     inne środki wywołujące niedepolaryzacyjny blok przewodnictwa nerwowo-mięśniowego;
+­     inne produkty lecznicze, takie jak: antybiotyki (w tym aminoglikozydy, polimyksyny,
+      spektynomycyna, tetracykliny, linkomycyna i klindamycyna);
+­     leki przeciwarytmiczne (w tym propranolol, leki blokujące kanały wapniowe, lidokaina,
+      prokainamid i chinidyna);
+­     diuretyki (w tym furosemid i prawdopodobnie tiazydy, mannitol i acetazolamid);
+­     sole magnezu i sole litu;
+­     leki blokujące zwoje nerwowe (trimetafan, heksametonium).
+
+Niektóre produkty lecznicze mogą w rzadkich przypadkach zaostrzyć lub ujawnić ukrytą miastenię lub
+nawet wywołać zespół miasteniczny, czego następstwem może być zwiększona wrażliwość na leki
+powodujące niedepolaryzacyjny blok przewodnictwa nerwowo-mięśniowego. Do takich produktów
+leczniczych należą różne antybiotyki, leki beta-adrenolityczne (propranolol, oksprenolol), leki
+przeciwarytmiczne (prokainamid, chinidyna), leki przeciwreumatyczne (chlorochina,
+D-penicylamina), trimetafan, chlorpromazyna, steroidy, fenytoina i lit.
+
+Podawanie suksametonium w celu przedłużenia czasu trwania niedepolaryzacyjnego bloku
+przewodnictwa nerwowo-mięśniowego może powodować wystąpienie przedłużonego i złożonego
+bloku, którego zniesienie za pomocą antagonistów acetylocholinoesterazy może być trudne.
+
+Leki osłabiające działanie:
+Uprzednie długotrwałe podawanie fenytoiny lub karbamazepiny może zmniejszyć działanie
+cisatrakurium.
+
+Leczenie z zastosowaniem inhibitorów acetylocholinoesterazy, powszechnie wykorzystywanych
+w terapii choroby Alzheimera np. donepezylu, może skrócić czas trwania oraz zmniejszyć nasilenie
+bloku przewodnictwa nerwowo-mięśniowego wywołanego cisatrakurium.
+
+Leki nie wywierające wpływu na działanie:
+Uprzednie podanie suksametonium nie wpływa ani na czas trwania bloku przewodnictwa nerwowo-
+mięśniowego wywołanego podaniem cisatrakurium we wstrzyknięciu dożylnym, ani nie wymaga
+zmian w szybkości podawania infuzji.
+
+          DE/H/2771/001/IB/019
+                                                                                                   7
+4.6    Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Brak wystarczających danych dotyczących stosowania cisatrakurium u kobiet w ciąży. Badania na
+zwierzętach dotyczące wpływu na przebieg ciąży, rozwój zarodka i (lub) płodu, przebieg porodu
+i rozwój pourodzeniowy są niewystarczające (patrz punkt 5.3). Potencjalne ryzyko dla człowieka nie
+jest znane.
+Nie należy stosować produktu leczniczego Cisatracurium Kabi w okresie ciąży.
+
+Karmienie piersią
+Nie wiadomo, czy cisatrakurium lub jego metabolity przenikają do mleka ludzkiego.
+Nie można wykluczyć zagrożenia dla dziecka karmionego piersią. Jednak ze względu na krótki okres
+półtrwania nie jest spodziewany wpływ na dziecko karmione piersią, jeśli matka wznowi karmienie
+piersią po ustąpieniu działania substancji. W celu zachowania ostrożności należy przerwać karmienie
+piersią na czas leczenia i zalecane jest powstrzymanie się od następnego karmienia piersią na czas
+odpowiadający pięciu okresom półtrwania cisatrakurium w fazie eliminacji, tj. na około 3 godziny od
+przyjęcia ostatniej dawki lub zakończenia infuzji cisatrakurium.
+
+Płodność
+Nie przeprowadzono badań dotyczących wpływu cisatrakurium na płodność.
+
+4.7    Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Cisatracurium Kabi, tak jak inne leki anestetyczne, wywiera znaczny wpływ na zdolność prowadzenia
+pojazdów i obsługiwania maszyn. Pacjentowi nie wolno prowadzić pojazdów i obsługiwać maszyn po
+znieczuleniu ogólnym wywołanym cisatrakurium.
+
+Czas powinien być indywidualnie określony przez lekarza.
+
+4.8    Działania niepożądane
+
+Opisywano poniższe działania niepożądane występujące z następującą częstością:
+ Bardzo często         1/10
+ Często                1/100 do <1/10
+ Niezbyt często        1/1000 do <1/100
+ Rzadko                1/10 000 do <1/1000
+ Bardzo rzadko         <1/10 000
+ Częstość nieznana     nie może być określona na podstawie dostępnych danych
+
+Zaburzenia układu immunologicznego
+Bardzo rzadko:          reakcja anafilaktyczna, wstrząs anafilaktyczny
+Obserwowano reakcje anafilaktyczne o różnym stopniu nasilenia po podaniu leków blokujących
+przewodnictwo nerwowo-mięśniowe, w tym wstrząs anafilaktyczny. Bardzo rzadko notowano ciężkie
+reakcje anafilaktyczne u pacjentów otrzymujących cisatrakurium w połączeniu z jednym lub większą
+liczbą leków znieczulających.
+
+
+Zaburzenia serca
+Często:                      bradykardia
+
+Zaburzenia naczyniowe
+Często:               hipotensja
+Niezbyt często:       zaczerwienienie skóry
+
+Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia
+Niezbyt często:        skurcz oskrzeli
+           DE/H/2771/001/IB/019
+                                                                                                      8
+Zaburzenia skóry i tkanki podskórnej
+Niezbyt często:          wysypka
+
+Zaburzenia mięśniowo-szkieletowe i tkanki łącznej
+Bardzo rzadko:         miopatia, osłabienie mięśni
+
+Istnieją nieliczne doniesienia o występowaniu u ciężko chorych pacjentów, przebywających na
+Oddziałach Intensywnej Opieki Medycznej, osłabienia siły mięśniowej i (lub) miopatii po
+przedłużonym podawaniu leków zwiotczających mięśnie szkieletowe. Większość pacjentów
+otrzymywała jednocześnie kortykosteroidy. Donoszono o nielicznych zdarzeniach tego rodzaju
+podczas stosowania cisatrakurium, jednakże związek przyczynowy nie został potwierdzony.
+
+Zgłaszanie działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C
+02-222 Warszawa
+tel.: + 48 22 49 21 301
+faks: + 48 22 49 21 309
+strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9    Przedawkowanie
+
+Objawy przedmiotowe i podmiotowe
+Przedłużające się porażenie mięśni i jego następstwa są przypuszczalnie głównymi objawami
+przedawkowania cisatrakurium.
+
+Leczenie
+Do chwili powrotu samoistnej, wydolnej czynności oddechowej niezbędne jest utrzymywanie
+wentylacji płuc i odpowiedniego wysycenia krwi tętniczej tlenem. Należy stosować środki
+wywołujące pełną sedację, ponieważ cisatrakurium nie powoduje zniesienia świadomości. Po
+wystąpieniu objawów samoistnego powrotu przewodnictwa nerwowo-mięśniowego, podanie
+inhibitorów acetylocholinoesterazy może przyspieszyć powrót przewodnictwa.
+
+
+5.     WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1    Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: leki zwiotczające mięśnie działające obwodowo (inne czwartorzędowe
+związki amoniowe), kod ATC: M03AC11.
+
+Cisatrakurium jest środkiem zwiotczającym mięśnie szkieletowe, o strukturze benzylizochinolinowej,
+wywołującym blok niedepolaryzacyjny, o średnio długim czasie działania.
+
+Badania kliniczne u ludzi wykazały, że cisatrakurium w dawkach do 8 × ED95 włącznie nie wywołuje
+zależnego od dawki uwalniania histaminy.
+
+Mechanizm działania
+Cisatrakurium wiąże się z receptorami cholinergicznymi płytki motorycznej, antagonizując działanie
+acetylocholiny, czego rezultatem jest konkurencyjny blok przewodnictwa nerwowo-mięśniowego.
+
+          DE/H/2771/001/IB/019
+                                                                                                     9
+Działanie to można łatwo odwrócić stosując odwracalne inhibitory acetylocholinoesterazy, takie jak
+neostygmina lub edrofonium.
+
+Dawka cisatrakurium potrzebna do usunięcia 95% odpowiedzi skurczowej mięśnia przywodziciela
+kciuka na stymulację nerwu łokciowego (ED95), podczas znieczulenia opioidami
+(tiopental/fentanyl/midazolam) wynosi 0,05 mg/kg mc.
+
+ED95 cisatrakurium u dzieci podczas znieczulania halotanem wynosi 0,04 mg/kg mc.
+
+5.2    Właściwości farmakokinetyczne
+
+Metabolizm/Eliminacja
+W organizmie człowieka cisatrakurium podlega degradacji w fizjologicznym zakresie wartości pH
+i temperatury poprzez eliminację Hofmanna (proces chemiczny), tworząc laudanozynę
+i monoczwartorzędowy metabolit akrylanowy. Monoczwartorzędowy metabolit akrylanowy jest
+hydrolizowany przez nieswoiste esterazy osoczowe do monoczwartorzędowego alkoholu. Eliminacja
+cisatrakurium jest w dużym stopniu niezależna od czynności narządów wewnętrznych, ale wątroba
+i nerki są głównymi drogami eliminacji jego metabolitów.
+Metabolity te nie wykazują właściwości blokowania przewodnictwa nerwowo-mięśniowego.
+
+Farmakokinetyka u pacjentów dorosłych
+Ogólne właściwości farmakokinetyczne cisatrakurium oceniane za pomocą modelu
+niekompartmentowego były niezależne od dawki w badanych zakresach (od 0,1 do 0,2 mg/kg mc.,
+tzn. od 2 do 4 × ED95).
+Metoda farmakokinetyki populacyjnej potwierdziła to w rozszerzonym zakresie dawek do
+0,4 mg/kg mc. (8 × ED95). Poniższa tabela przedstawia parametry farmakokinetyczne po dawkach
+0,1 i 0,2 mg/kg mc. cisatrakurium podawanego zdrowym, dorosłym pacjentom poddawanym
+zabiegom chirurgicznym:
+
+ Parametr                                         Zakres wartości średnich
+ Klirens                                          4,7 do 5,7 ml/min/kg mc.
+ Objętość dystrybucji w stanie stacjonarnym       121 do 161 ml/kg mc.
+ Okres półtrwania w fazie eliminacji              22 do 29 min
+
+Farmakokinetyka u pacjentów w podeszłym wieku
+Nie stwierdzono klinicznie istotnych różnic między parametrami farmakokinetycznymi cisatrakurium
+u pacjentów w podeszłym wieku, a parametrami u młodych pacjentów dorosłych. Profil ustępowania
+bloku niedepolaryzacyjnego jest również niezmieniony.
+
+Farmakokinetyka u pacjentów z zaburzeniami czynności nerek i (lub) wątroby
+Nie stwierdzono klinicznie istotnych różnic między parametrami farmakokinetycznymi cisatrakurium
+u pacjentów z krańcową niewydolnością nerek lub krańcową niewydolnością wątroby, a parametrami
+u zdrowych pacjentów dorosłych. Profil ustępowania bloku niedepolaryzacyjnego jest również
+niezmieniony.
+
+Farmakokinetyka podczas infuzji
+Parametry farmakokinetyczne cisatrakurium są podobne zarówno po podaniu cisatrakurium w infuzji,
+jak i po pojedynczym wstrzyknięciu dożylnym. Profil ustępowania bloku niedepolaryzacyjnego po
+podaniu cisatrakurium w infuzji ciągłej nie zależy od czasu trwania infuzji i jest podobny do profilu
+ustępowania po jednorazowym wstrzyknięciu dożylnym.
+
+Farmakokinetyka u pacjentów na Oddziałach Intensywnej Opieki Medycznej (OIOM)
+Parametry farmakokinetyczne cisatrakurium podawanego pacjentom na OIOM-ie w długotrwałej
+infuzji są podobne do parametrów farmakokinetycznych u zdrowych pacjentów dorosłych
+poddawanych zabiegom chirurgicznym, otrzymujących cisatrakurium w infuzji dożylnej lub
+w pojedynczych wstrzyknięciach. Po podaniu cisatrakurium w infuzji pacjentom na OIOM-ie, profil
+ustępowania bloku niedepolaryzacyjnego nie zależy od czasu trwania infuzji.
+           DE/H/2771/001/IB/019
+                                                                                                     10
+U pacjentów na OIOM-ie z zaburzeniami czynności nerek i (lub) wątroby stężenia metabolitów są
+większe (patrz punkt 4.4). Metabolity te nie biorą udziału w blokowaniu przewodnictwa nerwowo-
+mięśniowego.
+
+5.3    Przedkliniczne dane o bezpieczeństwie
+
+Cisatrakurium nie wykazywał działania mutagennego w mikrobiologicznych testach mutagenności
+in vitro w stężeniach do 5000 g/płytkę.
+W badaniach cytogenetycznych in vivo na szczurach nie zaobserwowano istotnych nieprawidłowości
+chromosomalnych podczas stosowania podskórnie dawek do 4 mg/kg mc.
+W badaniu mutagenności in vitro z zastosowaniem mysich komórek chłoniaka, wykazano mutagenne
+działanie cisatrakurium w stężeniu 40 g/ml i większym.
+Pojedyncza pozytywna odpowiedź mutagenna na substancję czynną używaną rzadko i (lub)
+krótkotrwale ma wątpliwe znaczenie kliniczne.
+
+Nie prowadzono badań nad rakotwórczym działaniem cisatrakurium.
+
+Nie przeprowadzono badań dotyczących wpływu na płodność. Badania dotyczące reprodukcji na
+szczurach nie wykazały negatywnego wpływu cisatrakurium na rozwój płodu.
+
+W badaniach dotyczących podania dotętniczego na królikach, cisatrakurium był dobrze tolerowany
+i nie stwierdzono zmian spowodowanych działaniem produktu leczniczego.
+
+
+6.     DANE FARMACEUTYCZNE
+
+6.1    Wykaz substancji pomocniczych
+
+Kwas benzenosulfonowy 1% (do ustalenia pH)
+Woda do wstrzykiwań
+
+6.2    Niezgodności farmaceutyczne
+
+Nie mieszać produktu leczniczego z innymi produktami leczniczymi, oprócz wymienionych
+w punkcie 6.6.
+
+Ponieważ cisatrakurium jest trwały tylko w kwaśnych roztworach, nie należy go mieszać w tej samej
+strzykawce ani podawać przez tę samą igłę razem z roztworami zasadowymi, np. tiopentalem sodu.
+
+Cisatracurium Kabi wykazuje niezgodności farmaceutyczne z ketorolakiem trometamolu lub
+propofolem w emulsji do wstrzykiwań.
+
+6.3    Okres ważności
+
+Nieotwarta ampułka
+2 lata
+
+Okres ważności po pierwszym otwarciu
+Produkt leczniczy należy zużyć natychmiast po otwarciu ampułki.
+
+Okres ważności po rozcieńczeniu
+Wykazano fizyczną i chemiczną trwałość produktu leczniczego przez 24 godziny w temperaturze
+25°C.
+Z mikrobiologicznego punktu widzenia, produkt leczniczy należy zużyć natychmiast. Jeżeli produkt
+leczniczy nie zostanie zużyty natychmiast, odpowiedzialność za czas i warunki jego przechowywania
+przed podaniem ponosi użytkownik. Okres przechowywania rozcieńczonego produktu leczniczego nie
+powinien przekroczyć 24 godzin w temperaturze 2°C - 8°C.
+
+          DE/H/2771/001/IB/019
+                                                                                                    11
+6.4    Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w lodówce (2°C - 8°C).
+Nie zamrażać.
+Przechowywać ampułki w opakowaniu zewnętrznym w celu ochrony przed światłem.
+
+Warunki przechowywania produktu leczniczego po rozcieńczeniu i pierwszym otwarciu, patrz
+punkt 6.3.
+
+6.5    Rodzaj i zawartość opakowania
+
+Bezbarwne szklane ampułki typu I zawierające 2,5 ml, 5 ml i 10 ml roztworu do wstrzykiwań/ do
+infuzji, w tekturowym pudełku.
+
+Wielkości opakowań:
+1 ampułka x 2,5 ml
+5 ampułek x 2,5 ml
+10 ampułek x 2,5 ml
+50 ampułek x 2,5 ml
+1 ampułka x 5 ml
+5 ampułek x 5 ml
+10 ampułek x 5 ml
+50 ampułek x 5 ml
+1 ampułka x 10 ml
+5 ampułek x 10 ml
+10 ampułek x 10 ml
+50 ampułek x 10 ml
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+6.6    Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego
+       do stosowania
+
+Wszelkie niewykorzystane resztki produktu leczniczego lub jego odpady należy usunąć zgodnie
+z lokalnymi przepisami.
+
+Cisatracurium Kabi, rozcieńczony do stężeń od 0,1 do 2 mg cisatrakurium/ml, jest fizycznie
+i chemicznie trwały w 9 mg/ml (0,9%) roztworze chlorku sodu, w 9 mg/ml (0,9%) roztworze chlorku
+sodu i 50 mg/ml (5%) roztworze glukozy oraz w 50 mg/ml (5%) roztworze glukozy przez 24 godziny
+w temperaturze 25°C.
+
+W warunkach symulujących infuzję przez końcówkę w kształcie litery Y, wykazano zgodność
+cisatrakurium z następującymi, powszechnie stosowanymi w okresie okołooperacyjnym lekami:
+chlorowodorek alfentanylu, droperydol, cytrynian fentanylu, chlorowodorek midazolamu i cytrynian
+sufentanylu. Jeżeli inne produkty lecznicze są podawane przez tę samą co Cisatracurium Kabi
+założoną na stałe igłę lub kaniulę, zaleca się, aby po wstrzyknięciu każdego produktu leczniczego
+przepłukać układ stosowną ilością odpowiedniego płynu do infuzji, np. roztworem chlorku sodu
+9 mg/ml (0,9%).
+
+
+7.     PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+       DOPUSZCZENIE DO OBROTU
+
+Fresenius Kabi Polska Sp. z o.o.
+Al. Jerozolimskie 134
+02-305 Warszawa
+
+           DE/H/2771/001/IB/019
+                                                                                                    12
+8.     NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr 18660
+
+
+9.     DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO
+       OBROTU I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 31.08.2011 r.
+Data ostatniego przedłużenia pozwolenia: 17.11.2016 r.
+
+
+10.    DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+       CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+
+
+
+          DE/H/2771/001/IB/019
+                                                                              13
+

@@ -90,3 +90,40 @@ func TestUnmodeledConditionsCannotBeApproved(t *testing.T) {
 		t.Fatal("unmodeled conditions approved")
 	}
 }
+
+func TestPolishDecimalGrounding(t *testing.T) {
+	// Fictional numbers exercise syntax, not a real medicine's dosing rule.
+	quote := "Software fixture: CrCl < 1,5; dose 2,5 mg every 12 hours."
+	for _, tc := range []struct {
+		name            string
+		threshold, dose float64
+		instructions    string
+		valid           bool
+	}{
+		{"comma decimals", 1.5, 2.5, "2,5 mg every 12 hours", true},
+		{"normalized decimals", 1.5, 2.5, "2.5 mg every 12 hours", true},
+		{"fraction is not integer threshold", 5, 12, "12 mg every 12 hours", false},
+		{"fraction is not integer dose", 12, 5, "5 mg every 12 hours", false},
+		{"decimal prefix is not integer instruction", 12, 12, "2 mg every 12 hours", false},
+	} {
+		t.Run(tc.name, func(t *testing.T) {
+			k, _ := testkit.Fixture(t)
+			k.Rules = k.Rules[:1]
+			r := &k.Rules[0]
+			r.Range.Upper = testkit.Float(tc.threshold)
+			r.Action = "REDUCE_DOSE"
+			r.DoseText = tc.instructions
+			r.RegimenLimit = &domain.RegimenLimit{MaxSingleDose: domain.Quantity{Value: tc.dose, Unit: "mg"}, MinIntervalHours: 12}
+			r.Citation.Quote = quote
+			hash := domain.BytesDigest([]byte(quote))
+			k.Sources[0].DocumentSHA256, k.Sources[0].TextSHA256 = hash, hash
+			r.Citation.DocumentSHA256 = hash
+			testkit.Sign(r)
+			b, _ := json.Marshal(k)
+			_, err := rules.LoadWithFiles(b, map[string][]byte{"source.txt": []byte(quote)}, true)
+			if (err == nil) != tc.valid {
+				t.Fatalf("valid=%v, error=%v", tc.valid, err)
+			}
+		})
+	}
+}

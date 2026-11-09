@@ -1,0 +1,674 @@
+                    CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+1.     NAZWA PRODUKTU LECZNICZEGO
+
+Pyralgin, 500 mg/ml, roztwór do wstrzykiwań
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Każdy ml roztworu do wstrzykiwań zawiera 500 mg metamizolu sodowego jednowodnego
+(Metamizolum natricum monohydricum).
+Każda ampułka 2 ml zawiera 1000 mg metamizolu sodowego jednowodnego (Metamizolum natricum
+monohydricum).
+Każda ampułka 5 ml zawiera 2500 mg metamizolu sodowego jednowodnego (Metamizolum natricum
+monohydricum).
+
+Każdy ml produktu Pyralgin, 500 mg/ml, roztwór do wstrzykiwań zawiera 34,5 mg (1,5 mmol) sodu.
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań
+Przezroczysty, bezbarwny do żółtawego roztwór.
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Bóle różnego pochodzenia o dużym nasileniu.
+Gorączka, gdy inne metody leczenia są nieskuteczne.
+
+Metamizol w postaci roztworu do wstrzykiwań należy stosować tylko w przypadku, kiedy podanie
+doustne nie jest wskazane.
+
+4.2   Dawkowanie i sposób podawania
+
+Dawkowanie
+
+O dawce decyduje nasilenie bólu lub gorączki oraz indywidualna reakcja na produkt leczniczy
+Pyralgin. Zasadnicze znaczenie ma wybór najmniejszej dawki umożliwiającej opanowanie bólu i (lub)
+gorączki.
+
+U dzieci i młodzieży w wieku do 14 lat można podawać metamizol w pojedynczej dawce wynoszącej
+8-16 mg na kg masy ciała. W przypadku gorączki u dzieci na ogół wystarcza dawka metamizolu
+wynosząca 10 mg na kilogram masy ciała. Dorosłym i młodzieży w wieku od 15 lat (>53 kg) można
+podać maksymalnie 1000 mg w dawce pojedynczej.
+
+W zależności od maksymalnej dawki dobowej pojedynczą dawkę można przyjmować nie częściej niż
+4 razy na dobę w odstępach wynoszących 6-8 godzin.
+
+Wyraźnego działania można spodziewać się w ciągu 30 minut od podania pozajelitowego.
+
+Aby zminimalizować ryzyko reakcji hipotensyjnej, wstrzyknięcia dożylne muszą być podawane
+bardzo wolno.
+
+
+                                                                                                 1
+W tabeli poniżej podano zalecane dawki pojedyncze oraz maksymalne dawki dobowe zależne od
+masy ciała lub wieku:
+ Masa
+              Wiek             Pojedyncza dawka             Maksymalna dawka dobowa
+ ciała
+ kg           miesiące/lata    ml             mg            ml            mg
+ 5–8          3–11 miesięcy    0,1–0,2        50–100        0,4–0,8       200–400
+ 9–15         1–3 lata         0,2–0,5        100–250       0,8–2,0       400–1000
+ 16–23        4–6 lat          0,3–0,8        150–400       1,2–3,2       600–1600
+ 24–30        7–9 lat          0,4–1,0        200–500       1,6–4,0       800–2000
+ 31–45        10–12 lat        0,5–1,4        250–700       2,0–5,6       1000–2800
+ 46–53        13–14 lat        0,8–1,8        400–900       3,2–7,2       1600–3600
+ >53          ≥15 lat          1,0–2,0*       500–1000*     4,0–8,0*      2000–4000*
+*W razie potrzeby dawkę pojedynczą można zwiększyć do 5 ml (co odpowiada 2500 mg metamizolu),
+a dawkę dobową do 10 ml (co odpowiada 5000 mg metamizolu).
+
+Szczególne grupy pacjentów
+
+Osoby w podeszłym wieku, pacjenci osłabieni oraz pacjenci ze zmniejszoną wartością klirensu
+kreatyniny
+U osób w podeszłym wieku, pacjentów osłabionych i pacjentów ze zmniejszoną wartością klirensu
+kreatyniny dawkę należy zmniejszyć ze względu na możliwość wydłużenia czasu eliminacji
+z organizmu produktów metabolizmu metamizolu.
+
+Zaburzenia czynności wątroby i nerek
+W przypadku zaburzenia czynności nerek lub wątroby szybkość eliminacji jest zmniejszona, dlatego
+należy unikać wielokrotnego podawania dużych dawek. Nie ma konieczności zmniejszenia dawki, gdy
+produkt stosowany jest przez krótki czas. Dotychczasowe doświadczenia związane z długotrwałym
+stosowaniem metamizolu u pacjentów z ciężkim zaburzeniem wątroby i nerek są niewystarczające.
+
+Sposób podawania i środki ostrożności
+Aby zmniejszyć ryzyko wstrząsu anafilaktycznego oraz reakcji hipotensyjnych w czasie podawania
+produktu drogą dożylną należy zachować następujące środki ostrożności:
+-    przed podaniem roztwór należy ogrzać do temperatury ciała;
+-    wstrzyknięcie dożylne należy wykonywać bardzo powoli (500 mg/1 min.).
+
+Konieczność podania dawki metamizolu większej niż zalecana powyżej w dawkowaniu należy
+wnikliwie rozważyć, ponieważ ryzyko niebezpiecznego spadku ciśnienia tętniczego prawdopodobnie
+rośnie wraz ze zwiększaniem dawki.
+
+Leżąca pozycja pacjenta i stałe kontrolowanie ciśnienia krwi, częstości bicia serca oraz częstości
+oddechu, ułatwia wczesne rozpoznanie reakcji anafilaktycznych i anafilaktoidalnych oraz reakcji
+hipotensyjnych.
+
+Przed podaniem dożylnym produkt można wcześniej rozcieńczyć (patrz punkt 6.6).
+Metamizolu nie należy łączyć z innymi produktami leczniczymi, z wyjątkiem wymienionych
+w punkcie 6.6.
+
+Czas stosowania
+Czas stosowania jest uzależniony od rodzaju i stopnia zaawansowania choroby.
+
+4.3   Przeciwwskazania
+
+-     Stwierdzona w wywiadzie agranulocytoza indukowana przez metamizol, inne pirazolony
+      lub pirazolidyny.
+-     Zaburzenia czynności szpiku kostnego lub choroby układu krwiotwórczego.
+-     Nadwrażliwość na substancję czynną, inne pochodne pirazolonu i pirazolidyny, np. produkty
+      lecznicze zawierające propyfenazon, fenazon lub fenylobutazon lub na którąkolwiek substancję
+
+                                                                                                     2
+        pomocniczą wymienioną w punkcie 6.1.
+-       Pacjenci z rozpoznanym zespołem astmy analgetycznej lub znaną nietolerancją na leki
+        przeciwbólowe objawiające się pokrzywką, obrzękiem naczynioworuchowym, tj. pacjenci,
+        którzy reagują skurczem oskrzeli lub inną reakcją anafilaktoidalną na salicylany, paracetamol
+        lub inne nieopioidowe leki przeciwbólowe, w tym niesteroidowe leki przeciwzapalne (NLPZ),
+        takie jak: diklofenak, ibuprofen, indometacyna lub naproksen.
+-       Ostra niewydolność nerek lub wątroby, ostra porfiria wątrobowa.
+-       Wrodzony niedobór dehydrogenazy glukozo-6-fosforanowej.
+-       Stosowanie leków z grupy pochodnych pirazolonu i pirazolidyny (np. fenylobutazon,
+        propyfenazon).
+-       Niedociśnienie i zaburzenia krążenia.
+-       Trzeci trymestr ciąży.
+
+4.4     Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Stosowanie metamizolu wiąże się z rzadkim, lecz zagrażającym życiu ryzykiem wystąpienia
+agranulocytozy lub wstrząsu (patrz punkt 4.8).
+
+    Agranulocytoza
+    Leczenie metamizolem może powodować agranulocytozę, która może prowadzić do zgonu (patrz
+    punkt 4.8). Może wystąpić nawet jeśli metamizol był podawany wcześniej bez powikłań.
+    Agranulocytoza wywołana metamizolem jest idiosynkratycznym działaniem niepożądanym. Nie
+    zależy od dawki i może wystąpić w dowolnym momencie leczenia, nawet niedługo po zaprzestaniu
+    stosowania metamizolu.
+    Pacjentów należy poinstruować, aby przerwali leczenie i natychmiast zwrócili się po pomoc
+    lekarską w przypadku wystąpienia jakichkolwiek objawów sugerujących agranulocytozę
+    (np. gorączka, dreszcze, ból gardła i bolesne zmiany błony śluzowej, zwłaszcza w jamie ustnej,
+    nosie i gardle lub w okolicy narządów płciowych lub odbytu).
+    Jeśli metamizol jest przyjmowany na gorączkę, niektóre objawy rozwijającej się agranulocytozy
+    mogą pozostać niezauważone. Podobnie objawy mogą być również maskowane u pacjentów
+    otrzymujących antybiotyki.
+    W przypadku wystąpienia objawów przedmiotowych i podmiotowych sugerujących agranulocytozę
+    należy natychmiast wykonać pełną morfologię krwi (w tym morfologię krwi z rozmazem)
+    i przerwać leczenie do czasu uzyskania wyników. W przypadku potwierdzenia agranulocytozy, nie
+    wolno ponownie rozpoczynać leczenia (patrz punkt 4.3).
+
+Pancytopenia
+W przypadku wystąpienia pancytopenii należy natychmiast przerwać leczenie i wykonać pełne
+badanie krwi, aż sytuacja się unormuje (patrz punkt 4.8). Należy poinformować pacjenta, aby
+natychmiast zgłosił się do lekarza, jeżeli podczas leczenia wystąpią oznaki choroby i objawy, które
+wskazują na dyskrazję krwi (np. ogólnie złe samopoczucie, infekcja, utrzymująca się gorączka,
+krwiaki, krwawienia, bladość).
+
+Reakcje anafilaktyczne i anafilaktoidalne
+Należy poinformować pacjenta o tym, aby w przypadku wystąpienia objawów reakcji anafilaktycznej
+lub anafilaktoidalnej, np. duszności, obrzęku języka, obrzęku naczynioruchowego, wysypki czy
+pokrzywki natychmiast odstawił produkt i wezwał pomoc lekarską, gdyż istnieje zagrożenie życia.
+
+Pacjenci wykazujący reakcję anafilaktyczną lub inną immunologiczną reakcję na metamizol są także
+narażeni na podobną reakcję na inne pirazolony i pirazolidyny.
+
+Pacjenci wykazujący reakcję anafilaktoidalną na metamizol są także szczególnie narażeni na podobną
+reakcję na nieopioidowe leki przeciwbólowe, w tym niesteroidowe leki przeciwzapalne (NLPZ).
+
+Ryzyko wystąpienia ciężkich reakcji anafilaktoidalnych po przyjęciu produktu zawierającego
+metamizol jest znacznie podwyższone u pacjentów:
+-    z zespołem astmy analgetycznej lub nietolerancją leków przeciwbólowych objawiającą się
+                                                                                                        3
+      pokrzywką, obrzękiem naczynioruchowym (patrz punkt 4.3), w szczególności jeśli towarzyszy
+      jej polipowate zapalenie błony śluzowej nosa i zatok;
+-     z astmą oskrzelową, szczególnie przy jednoczesnym występowaniu zapalenia zatok
+      przynosowych i polipów w nosie;
+-     z przewlekłą pokrzywką;
+-     z nietolerancją niektórych barwników (np. tartrazyna) lub konserwantów (np. benzoesany);
+-     z nietolerancją alkoholu objawiającą się kichaniem, łzawieniem oczu i silnym zaczerwienieniem
+      twarzy w reakcji nawet na niewielkie ilości alkoholu; może to wskazywać na nierozpoznaną
+      wcześniej astmę analgetyczną (patrz punkt 4.3).
+
+U pacjentów z uczuleniem może dojść do wstrząsu anafilaktycznego. Dlatego podczas stosowania
+metamizolu zaleca się zachować szczególną ostrożność u pacjentów z astmą lub atopią.
+
+Pacjentom z podwyższonym ryzykiem wystąpienia reakcji anafilaktoidalnych metamizol wolno
+podawać tylko po starannym rozważeniu stosunku korzyści do ryzyka. Jeśli zajdzie taka konieczność,
+należy podawać go w warunkach ścisłej kontroli lekarskiej, z zapewnieniem możliwości udzielenia
+pomocy w nagłym przypadku.
+
+Ciężkie reakcje skórne
+Podczas leczenia metamizolem notowano występowanie ciężkich niepożądanych reakcji skórnych
+(SCAR, ang. severe cutaneous adverse reactions), w tym zespołu Stevensa-Johnsona (SJS, ciężka
+choroba alergiczna objawiająca się pęcherzami i nadżerkami na skórze, w jamie ustnej, oczach
+i narządach płciowych, gorączką i bólami stawowymi), toksycznego martwiczego oddzielania się
+naskórka (zespół Lyella, TEN, ciężka gwałtownie przebiegająca choroba alergiczna objawiająca się
+pękającymi olbrzymimi pęcherzami podnaskórkowymi, rozległymi nadżerkami na skórze, spełzaniem
+dużych płatów naskórka oraz gorączką) i reakcji polekowej z eozynofilią i objawami ogólnymi (zespół
+DRESS), mogących zagrażać życiu lub prowadzić do zgonu. Należy poinformować pacjenta
+o objawach przedmiotowych i podmiotowych oraz ściśle obserwować, czy nie występują u niego
+reakcje skórne. W przypadku pojawienia się objawów przedmiotowych i podmiotowych świadczących
+o wystąpieniu tych reakcji leczenie metamizolem należy natychmiast odstawić i nie wolno go już
+nigdy ponownie wprowadzać (patrz punkt 4.3).
+
+Reakcje przebiegające ze znacznym spadkiem ciśnienia tętniczego
+Metamizol może powodować reakcje hipotensyjne (patrz także punkt 4.8).
+Reakcje te mogą być zależne od dawki. Wystąpienie ich jest bardziej prawdopodobne w przypadku
+pozajelitowego podania produktu leczniczego, szczególnie podczas zbyt szybkiego wstrzykiwania
+postaci dożylnej (patrz punkt 4.2).
+
+Ryzyko spadku ciśnienia tętniczego zwiększa się u pacjentów:
+-     ze skurczowym ciśnieniem tętniczym mniejszym niż 100 mm Hg lub z niewydolnością serca
+      i zaburzeniami krążenia (np. zawał serca lub urazy wielonarządowe), także u pacjentów ze
+      zmniejszoną objętością krwi krążącej oraz pacjentów odwodnionych;
+-     z wysoką gorączką.
+Dlatego w przypadku tych pacjentów należy rozważyć potrzebę podania produktu, a w razie
+zastosowania prowadzić ścisły nadzór. Aby zmniejszyć ryzyko wystąpienia reakcji hipotensyjnych,
+konieczne może okazać się podjęcie działań zapobiegawczych (np. wyrównanie zaburzeń krążenia).
+
+U pacjentów, u których koniecznie należy unikać obniżenia ciśnienia krwi, np. w przypadku ciężkiej
+choroby wieńcowej lub istotnych zwężeń naczyń domózgowych, metamizol można stosować tylko
+pod ścisłą kontrolą parametrów hemodynamicznych.
+
+Produkt leczniczy stosować ostrożnie u pacjentów z niewydolnością nerek, wątroby, w chorobie
+wrzodowej żołądka i dwunastnicy po rozważeniu stosunku korzyści do ryzyka.
+
+Polekowe uszkodzenie wątroby
+U pacjentów leczonych metamizolem notowano przypadki ostrego zapalenia wątroby,
+przebiegającego głównie z uszkodzeniem komórek wątrobowych i pojawiającego się w okresie od
+
+                                                                                                     4
+kilku dni do kilku miesięcy po rozpoczęciu leczenia. Objawy przedmiotowe i podmiotowe obejmują
+zwiększenie aktywności enzymów wątrobowych w surowicy, w tym z żółtaczką, często w kontekście
+reakcji nadwrażliwości na inne leki (np. wysypka skórna, dyskrazje komórek krwi, gorączka
+i eozynofilia) lub z jednoczesnymi cechami zapalenia wątroby na podłożu autoimmunologicznym.
+U większości pacjentów objawy ustępowały po przerwaniu leczenia metamizolem, jednak
+w pojedynczych przypadkach notowano progresję do ostrej niewydolności wątroby z koniecznością
+przeszczepienia tego narządu.
+Mechanizm powstawania uszkodzenia wątroby na skutek stosowania metamizolu nie jest jasno
+określony, ale dane wskazują na występowanie mechanizmu immunologiczno-alergicznego.
+Pacjentów należy informować o konieczności kontaktu z lekarzem w przypadku wystąpienia objawów
+świadczących o uszkodzeniu wątroby. U takiego pacjenta należy przerwać leczenie metamizolem
+i wykonać badania czynności wątroby.
+Jeśli u pacjenta nastąpiło uszkodzenie wątroby podczas stosowania metamizolu, nie należy ponownie
+wdrażać leczenia metamizolem, jeśli nie stwierdzono innych przyczyn uszkodzenia wątroby.
+
+Produkt leczniczy zawiera 34,5 mg sodu w 1 ml co odpowiada 1,7% zalecanej przez WHO
+maksymalnej 2 g dobowej dawki sodu u osób dorosłych.
+
+Produkt można mieszać z innymi roztworami wymienionymi w punkcie 6.6. Zawartość sodu
+pochodzącego z rozcieńczalnika powinna być brana pod uwagę w obliczeniu całkowitej zawartości
+sodu w przygotowanym rozcieńczeniu produktu. W celu uzyskania dokładnej informacji dotyczącej
+zawartości sodu w roztworze wykorzystanym do rozcieńczenia produktu, należy zapoznać się
+z charakterystyką produktu leczniczego stosowanego rozcieńczalnika.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+-     Metamizol nasila działanie produktów leczniczych przeciwzakrzepowych pochodnych
+      kumaryny, doustnych leków przeciwcukrzycowych, fenytoiny i sulfonamidów
+      przeciwbakteryjnych.
+-     Barbiturany osłabiają, a inhibitory MAO nasilają działanie metamizolu.
+-     Jednoczesne stosowanie metamizolu i chloropromazyny może wywołać ciężką hipotermię.
+-     Metamizol może nasilać hemotoksyczność metotreksatu, szczególnie u pacjentów w podeszłym
+      wieku. Należy unikać jednoczesnego stosowania obu tych leków.
+-     Jednoczesne stosowanie metamizolu z alkoholem może wpłynąć na farmakokinetykę obu
+      ksenobiotyków.
+-     W przypadku pochodnych pirazolonu, do których należy metamizol, wiadomo, że może
+      dochodzić do interakcji z kaptoprylem, litem i triamterenem oraz mogą zmieniać skuteczność
+      leków obniżających ciśnienie tętnicze i moczopędnych. Brak jest informacji, czy metamizol
+      również powoduje takie interakcje.
+
+W przypadku jednoczesnego stosowania, metamizol może zmniejszyć wpływ kwasu
+acetylosalicylowego na agregację trombocytów. Z tego względu należy zachować szczególną
+ostrożność w przypadku stosowania metamizolu u pacjentów, którzy stosują kwas acetylosalicylowy
+ze wskazań kardiologicznych.
+
+Farmakokinetyczna indukcja enzymów metabolizujących:
+Metamizol może indukować enzymy metabolizujące, w tym CYP2B6 i CYP3A4.
+Jednoczesne podawanie metamizolu i bupropionu, efawirenzu, metadonu, walproinianu,
+cyklosporyny, takrolimusu lub sertraliny może zmniejszyć stężenie tych leków w osoczu i ograniczyć
+ich skuteczność kliniczną. Dlatego też zaleca się ostrożność podczas jednoczesnego podawania
+z metamizolem; w stosownych przypadkach należy monitorować odpowiedź kliniczną i (lub) stężenie
+leku.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Dostępna jest jedynie ograniczona ilość danych dotyczących stosowania metamizolu u kobiet w ciąży.
+
+                                                                                                  5
+Na podstawie opublikowanych danych pochodzących od kobiet w ciąży otrzymujących metamizol
+w pierwszym trymestrze (n=568) nie zidentyfikowano żadnych dowodów świadczących o działaniu
+teratogennym lub embriotoksycznym. W wybranych przypadkach dopuszczalne może być podanie
+metamizolu w pojedynczych dawkach w pierwszym i drugim trymestrze ciąży, gdy nie ma innej
+możliwości leczenia. Zasadniczo jednak nie zaleca się stosowania metamizolu w pierwszym i drugim
+trymestrze ciąży. Stosowanie w trzecim trymestrze ciąży wiąże się ze szkodliwym wpływem na płód
+(zaburzenie czynności nerek i zwężenie przewodu tętniczego), a zatem metamizol jest
+przeciwwskazany w trzecim trymestrze ciąży (patrz punkt 4.3). W razie nieumyślnego podania
+metamizolu w trzecim trymestrze ciąży należy skontrolować płyn owodniowy i przewód tętniczy
+w badaniu ultrasonograficznym i echokardiograficznym.
+Metamizol przechodzi przez barierę łożyskową.
+U zwierząt metamizol miał szkodliwy wpływ na rozrodczość, ale nie działał teratogennie (patrz punkt
+5.3).
+
+Karmienie piersią
+Produkty rozkładu metamizolu przenikają do mleka kobiet karmiących piersią w znaczących ilościach
+i nie można wykluczyć ryzyka dla niemowlęcia karmionego piersią. Z tego względu należy
+w szczególności unikać wielokrotnego stosowania metamizolu w okresie karmienia piersią.
+W przypadku jednorazowego podania metamizolu należy zalecić matkom zbieranie i wylewanie
+pokarmu przez 48 godzin od podania produktu leczniczego.
+
+Płodność
+Brak danych dotyczących wpływu metamizolu na płodność u ludzi.
+Badania nad płodnością na zwierzętach wykazały nieznacznie obniżoną częstość zachodzenia w ciążę
+w pokoleniu rodziców przy dawce powyżej 250 mg/kg mc. na dobę. Płodność pokolenia F1 nie
+została upośledzona (patrz punkt 5.3).
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+W zalecanym zakresie dawkowania metamizol nie wpływa na zdolność do reagowania i koncentrację.
+Przekroczenie zalecanej dawki może powodować pogorszenie tych zdolności, szczególnie
+w połączeniu z alkoholem.
+
+4.8   Działania niepożądane
+
+Działania niepożądane zostały sklasyfikowane według układów i narządów zgodnie z następującą
+konwencją zgodnie z MedDRA:
+Niezbyt często (≥1/1 000 do <1/100)
+Rzadko (≥1/10 000 do <1/1 000)
+Bardzo rzadko (<1/10 000)
+Częstość nieznana (częstość nie może być określona na podstawie dostępnych danych)
+
+Zaburzenia krwi i układu chłonnego
+Rzadko: leukopenia.
+Bardzo rzadko: agranulocytoza, w tym przypadki zgonu (patrz punkt 4.4), małopłytkowość. Te reakcje
+są przypuszczalnie uwarunkowane immunologicznie. Mogą wystąpić także u osób, u których
+metamizol był wcześniej stosowany bez powikłań.
+
+Do typowych objawów agranulocytozy należą gorączka, dreszcze, bóle gardła, trudności w połykaniu
+oraz stany zapalne błony śluzowej jamy ustnej, nosa, gardła, narządów płciowych i odbytnicy.
+U pacjentów otrzymujących antybiotyki te objawy mogą mieć niewielkie nasilenie. Węzły chłonne
+oraz śledziona mogą pozostać bez zmian lub być tylko nieznacznie powiększone. Opadanie krwinek
+czerwonych jest znacznie przyspieszone, ilość granulocytów znacznie się zmniejsza lub zanikają
+całkowicie. Zwykle, lecz nie zawsze, występują prawidłowe wartości hemoglobiny, erytrocytów
+i płytek krwi.
+
+W przypadku wystąpienia jakichkolwiek objawów agranulocytozy należy natychmiast przerwać
+
+                                                                                                 6
+podawanie produktu i skontrolować obraz krwi. W razie pogorszenia się stanu zdrowia pacjenta,
+pojawienia się lub nawrotu gorączki i wystąpienia zapalenia błon śluzowych, szczególnie jamy ustnej,
+nosa i gardła, należy natychmiast przerwać leczenie, zanim jeszcze otrzyma się wyniki badań
+laboratoryjnych.
+W przypadku wystąpienia pancytopenii należy natychmiast przerwać przyjmowanie produktu Pyralgin
+i wykonać badania krwi, aż sytuacja się unormuje (patrz punkt 4.4).
+Częstość nieznana: niedokrwistość hemolityczna, niedokrwistość aplastyczna, uszkodzenie szpiku,
+niekiedy kończące się zgonem.
+U pacjentów z niedoborem dehydrogenazy glukozo-6-fosforanowej produkt leczniczy wywołuje
+hemolizę krwinek.
+
+Zaburzenia układu immunologicznego
+Rzadko: reakcje anafilaktoidalne lub anafilaktyczne*.
+Bardzo rzadko: astma analgetyczna, napady astmy.
+U pacjentów z zespołem astmy analgetycznej reakcje uczuleniowe objawiają się typowymi napadami
+astmy.
+Częstość nieznana: wstrząs anafilaktyczny*.
+
+*Reakcje anafilaktoidalne lub anafilaktyczne mogą być ciężkie i zagrażać życiu. Występują
+w szczególności po podaniu pozajelitowym. Reakcje te mogą rozwinąć się w trakcie wstrzyknięcia lub
+bezpośrednio po podaniu, występują jednak przeważnie w pierwszej godzinie po podaniu. Mogą
+rozwinąć się pomimo wcześniejszego stosowania metamizolu bez powikłań.
+
+Mniej nasilone reakcje występują typowo w postaci zmian skórnych i w obrębie błon śluzowych (jak
+np. świąd, pieczenie, zaczerwienienie, pokrzywka, obrzęk), duszność i - rzadziej - zaburzenia żołądka
+i jelit. Takie lżej przebiegające odczyny mogą przechodzić w cięższe formy z uogólnioną pokrzywką,
+ciężkim obrzękiem naczynioruchowym (także w obrębie krtani), ciężkim skurczem oskrzeli,
+zaburzeniami rytmu serca, spadkiem ciśnienia tętniczego (niekiedy poprzedzonym jego wzrostem)
+i wstrząsem.
+
+Należy poinformować pacjenta o tym, aby w przypadku wystąpienia objawów reakcji anafilaktycznej
+natychmiast odstawił produkt i wezwał pomoc lekarską, gdyż istnieje zagrożenie życia.
+
+Zaburzenia układu nerwowego
+Częstość nieznana: bóle i zawroty głowy.
+
+Zaburzenia naczyniowe
+Niezbyt często: podczas lub po podaniu produktu mogą wystąpić reakcje hipotensyjne, które
+prawdopodobnie są uwarunkowane farmakologicznie i nie towarzyszą im objawy reakcji
+anafilaktycznych lub anafilaktoidalnych. Mogą prowadzić one do nadmiernego zmniejszenia ciśnienia
+tętniczego. Szybkie podanie dożylne zwiększa niebezpieczeństwo wystąpienia niedociśnienia.
+
+W przypadku bardzo wysokiej gorączki może wystąpić, zależne od dawki, krytyczne zmniejszenie
+ciśnienia krwi bez objawów nadwrażliwości.
+
+Zaburzenia żołądka i jelit
+Częstość nieznana: nudności, wymioty, bóle brzucha, podrażnienie żołądka, biegunka, suchość błony
+śluzowej jamy ustnej.
+
+Zaburzenia wątroby i dróg żółciowych
+Częstość nieznana: polekowe uszkodzenie wątroby, w tym ostre zapalenie wątroby, żółtaczka,
+zwiększenie aktywności enzymów wątrobowych (patrz punkt 4.4).
+
+Zaburzenia skóry i tkanki podskórnej
+Niezbyt często: wysypka polekowa.
+Rzadko: wysypka (np. plamkowo-grudkowa).
+Bardzo rzadko: pęcherzowy rumień wielopostaciowy (zespół Stevensa-Johnsona, SJS) lub toksyczna
+
+                                                                                                    7
+nekroliza naskórka (zespół Lyella, TEN). W takim przypadku konieczne jest natychmiastowe
+przerwanie leczenia (patrz punkt 4.4).
+Częstość nieznana: reakcja polekowa z eozynofilią i objawami ogólnymi (zespół DRESS).
+
+W związku z leczeniem metamizolem zgłaszano ciężkie niepożądane reakcje skórne (SCAR), w tym
+zespół Stevensa-Johnsona (SJS), toksyczną nekrolizę naskórka (TEN) i reakcję polekową
+z eozynofilią i objawami ogólnymi (zespół DRESS) (patrz punkt 4.4).
+
+Zaburzenia nerek i dróg moczowych
+Bardzo rzadko: może wystąpić nagłe pogorszenie czynności nerek, przy czym w niektórych
+przypadkach może rozwijać się białkomocz, skąpomocz lub bezmocz oraz ostra niewydolność nerek.
+Może wystąpić również śródmiąższowe zapalenie nerek.
+Częstość nieznana: po zastosowaniu bardzo dużych dawek metamizolu wydalanie nieszkodliwego
+metabolitu może powodować czerwone zabarwienie moczu.
+
+Zaburzenia ogólne i stany w miejscu podania
+Po podaniu metamizolu w iniekcji może występować ból w miejscu wstrzyknięcia i odczyny
+miejscowe, a w bardzo rzadkich przypadkach zapalenie żył.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C
+02-222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+Nie ustalono wielkości dawki toksycznej dla człowieka. Maksymalna dawka dobowa wynosi 5 g na
+dobę dla wstrzyknięć domięśniowych i dożylnych.
+
+Po przyjęciu bardzo dużych dawek, wydalanie kwasu rubazonowego może powodować czerwone
+zabarwienie moczu.
+
+Objawy przedawkowania
+Mogą wystąpić zawroty głowy, szum w uszach, zaburzenia słuchu, pobudzenie psychoruchowe,
+zaburzenia świadomości, śpiączka, drgawki toniczno-kloniczne czy zmniejszenie ciśnienia tętniczego,
+zaburzenia rytmu serca (tachykardia). Przedawkowanie metamizolu może spowodować także bóle
+brzucha, wymioty, nadżerki błony śluzowej żołądka i dwunastnicy, krwawienia, perforacje,
+uszkodzenie komórek wątrobowych, śródmiąższowe zapalenie nerek oraz alergiczny skurcz oskrzeli.
+Odnotowano przypadki wystąpienia wysypki, pokrzywki, obrzęku, złuszczającego zapalenia oraz
+toksycznej nekrolizy naskórka (zespół Lyella).
+
+Leczenie przedawkowania
+Brak odtrutki na metamizol.
+Należy stosować leczenie objawowe i podtrzymujące.
+Wydalanie głównego metabolitu, 4-N-metyloaminoantypiryny (MAA) można przyspieszyć przez
+zastosowanie hemodializy, hemofiltracji, hemoperfuzji lub filtracji osocza.
+Leczenie intoksykacji, podobnie jak zapobieganie ciężkim powikłaniom, może powodować
+konieczność zastosowania ogólnej i specjalistycznej opieki medycznej na oddziale intensywnej terapii.
+
+                                                                                                   8
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: inne leki przeciwbólowe i przeciwgorączkowe; pirazolony,
+kod ATC: N02BB02
+
+Mechanizm działania
+Metamizol jest pochodną pirazolonu o działaniu przeciwbólowym, przeciwgorączkowym oraz
+spazmolitycznym. Mechanizm jego działania nie jest do końca poznany. Wyniki badań wskazują, że
+metamizol i jego główny metabolit (4-N-metyloaminoantypiryna) działają prawdopodobnie zarówno
+poprzez ośrodkowy, jak i obwodowy układ nerwowy.
+
+5.2   Właściwości farmakokinetyczne
+
+Wchłanianie
+Po podaniu doustnym metamizol ulega szybkiej hydrolizie do aktywnego metabolitu
+4-N-metyloaminoantipyriny (MAA), którego biodostępność wynosi około 90% i jest nieco większa po
+podaniu doustnym niż pozajelitowym. Pokarm nie wpływa na wchłanianie metamizolu.
+
+Dystrybucja
+Objętość dystrybucji MAA wynosi 1,15 l/kg beztłuszczowej masy ciała. Metamizol przenika przez
+łożysko. Wszystkie metabolity metamizolu są wydzielane do mleka kobiecego.
+
+Metabolizm
+Po przyjęciu doustnym metamizol ulega całkowitej hydrolizie do czynnego farmakologicznie
+metabolitu, 4-N-metyloaminoantypiryny (MAA), który z kolei ulega przemianie do 4-N-
+formyloaminoantipyriny (FAA) - metabolit ostateczny i do 4-aminoantipyriny (AA). AA ulega dalszej
+przemianie do 4-N-acetyloaminoantipyriny (AAA) przy udziale polimorficznej N-acetylo-transferazy.
+Okres półtrwania MAA wynosi od 2,6 do 3,5 godzin.
+
+Działanie kliniczne wykazuje głównie MAA, w pewnym stopniu także jej metabolit,
+4-aminoantypiryna (AA). Wartość pola pod krzywą (AUC) dla AA wynosi około 25% pola pod
+krzywą dla MAA. Metabolity 4-N-acetyloaminoantypiryna (AAA) i 4-N-formyloaminoantypiryna
+(FAA) są prawdopodobnie farmakologicznie nieaktywne.
+Metabolity metamizolu wiążą się z białkami osocza w stopniu mniejszym niż 60%. MAA wiąże się
+w 58%, AA w 48%, FAA w 18% a AAA w 14%.
+
+Eliminacja
+Po podaniu dożylnym okres półtrwania w fazie eliminacji z surowicy wynosi dla metamizolu około
+14 minut. Około 96% znakowanej izotopem promieniotwórczym dawki wykrywane jest w moczu,
+a około 6% w kale.
+Po doustnym podaniu pojedynczej dawki można było zidentyfikować 85% wydalonych z moczem
+metabolitów, z czego 31% stanowiła MAA, 63% AA, 268% AAA i 234% FAA. Klirens
+nerkowy po pojedynczej doustnej dawce 1 g metamizolu wynosił dla MAA 52, dla AA 3813, AAA
+618 i FAA 495 ml/min. Okres półtrwania w fazie eliminacji z surowicy wynosił odpowiednio
+2,70,5 godziny dla MAA, 3,71,3 godziny dla AA, 9,51,5 godziny dla AAA i 11,21,5 godziny dla
+FAA.
+
+U pacjentów w podeszłym wieku AUC wzrasta 2-3 - krotnie. U pacjentów z marskością wątroby okres
+półtrwania w fazie eliminacji MAA i FAA po podaniu pojedynczej dawki doustnej zwiększa się około
+trzykrotnie, natomiast w przypadku AA i AAA okres półtrwania nie wzrósł w tym samym stopniu.
+U tych pacjentów należy unikać stosowania dużych dawek leku.
+
+
+
+                                                                                                 9
+Dostępne dane na temat pacjentów z zaburzeniami czynności nerek wskazują na zmniejszoną
+szybkość eliminacji niektórych metabolitów (AAA i FAA). U pacjentów z zaburzeniami czynności
+nerek powinno się więc unikać stosowania dużych dawek.
+
+Biodostępność
+Przeprowadzone badanie biodostępności roztworu podanego domięśniowo u 12 osób wykazało
+w porównaniu do produktu referencyjnego (podanie dożylne w ciągu 2 minut) dla MAA:
+
+                                  Podanie im. (1 g)             Podanie iv. (1 g)
+ Maksymalne stężenie w            11,43,12                     62,115,9
+ surowicy (Cmax) [mg/l]
+ Czas osiągnięcia                 1,670,69                     0,090,02
+ maksymalnego stężenia w
+ surowicy (tmax) [h]
+ Powierzchnia pod krzywą          64,114,8                     67,816,1
+ stężenie/czas (AUC) [mg h/l]
+Wartości podane jako średnie i odchylenia standardowe
+
+Całkowita dostępność biologiczna roztworu podanego domięśniowo mierzona jako AUC dla stężenia
+w surowicy MAA wynosi 87%.
+
+Liniowość lub nieliniowość
+Farmakokinetyka wszystkich metabolitów metamizolu ma charakter nieliniowy. Kliniczne znaczenie
+tego zjawiska nie jest dotychczas poznane. Podczas krótkotrwałego leczenia kumulacja metabolitów
+ma niewielkie znaczenie.
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+Toksyczność po podaniu wielokrotnym
+Dostępne są badania na temat toksyczności po podaniu wielokrotnym przeprowadzane na różnych
+gatunkach zwierząt. Szczury otrzymywały przez 6 miesięcy per os po 100-900 mg metamizolu na kg
+masy ciała. W największej dawce (900 mg na kg masy ciała) po 13 tygodniach zaobserwowano
+zwiększenie liczby retykulocytów oraz ciałek Heinza.
+Psy otrzymywały przez 6 miesięcy metamizol w dawkach od 30 mg do 600 mg na kg masy ciała.
+W zależności od dawki od 300 mg na kg masy ciała zaobserwowano niedokrwistość hemolityczną
+oraz zaburzenia czynności nerek i wątroby.
+
+Genotoksyczność i rakotwórczość
+Dla metamizolu dostępne są badania in vitro i in vivo ze sprzecznymi wynikami w identycznych
+systemach testowych.
+Długookresowe badania na szczurach nie wykazały rakotwórczego potencjału. W dwóch z trzech
+badań długookresowych na myszach przy podawaniu dużych dawek zaobserwowano liczne gruczolaki
+komórek wątroby.
+
+Toksyczny wpływ na reprodukcję i rozwój potomstwa
+Badania nad embriotoksycznością na szczurach i królikach nie wykazały działania teratogennego.
+Śmierć zarodków zaobserwowano u królików już przy dawce dobowej 100 mg na kg masy ciała, która
+nie jest śmiertelna dla matki. U szczurów obserwowano śmierć zarodków po podaniu dawek z zakresu
+śmiertelnego dla matki. Dawki dobowe powyżej 100 mg na kg masy ciała prowadziły u szczurów do
+wydłużenia czasu trwania ciąży i upośledzenia przebiegu porodu ze zwiększoną śmiertelnością matki
+i młodych.
+
+Badania nad płodnością wykazały nieznacznie obniżoną częstość zachodzenia w ciażę w pokoleniu
+rodziców przy dawce powyżej 250 mg/kg mc. na dobę. Płodność pokolenia F1 nie została
+upośledzona.
+
+
+
+                                                                                                10
+6.       DANE FARMACEUTYCZNE
+
+6.1      Wykaz substancji pomocniczych
+
+Woda do wstrzykiwań
+
+6.2      Niezgodności farmaceutyczne
+
+Metamizolu nie należy łączyć z innymi produktami leczniczymi, z wyjątkiem wymienionych
+w punkcie 6.6.
+
+6.3      Okres ważności
+
+3 lata
+
+Okres ważności po pierwszym otwarciu
+Produkt leczniczy Pyralgin należy użyć natychmiast po otwarciu.
+
+Okres ważności po rozcieńczeniu
+Produkt leczniczy Pyralgin należy użyć natychmiast po rozcieńczeniu.
+
+Ze względów mikrobiologicznych produkt leczniczy należy zużyć natychmiast. Jeżeli produkt
+leczniczy nie zostanie zużyty natychmiast, odpowiedzialność za czas i warunki przechowywania przed
+użyciem ponosi użytkownik.
+
+6.4      Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w temperaturze poniżej 25°C. Przechowywać w oryginalnym opakowaniu.
+
+6.5      Rodzaj i zawartość opakowania
+
+Ampułki ze szkła bezbarwnego w tekturowym pudełku, 5 ampułek o pojemności 2 ml lub 5 ml.
+
+6.6      Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+         stosowania
+
+Przed podaniem dożylnym produkt można wcześniej rozcieńczyć w stosunku 1:10 (2 ml produktu
+leczniczego w 20 ml, 5 ml produktu leczniczego w 50 ml).
+Produkt leczniczy można rozcieńczać:
+-     roztworem glukozy 5%,
+-     roztworem chlorku sodu 0,9%
+-     roztworem Ringera.
+Ponieważ stabilność tego rodzaju mieszanin jest ograniczona, należy je podawać natychmiast po
+przygotowaniu.
+Po rozcieńczeniu może nastąpić zmiana i (lub) pogłębienie zabarwienia w kierunku barwy żółtej, bez
+zmiany właściwości produktu.
+
+Mieszanie z tramadolem
+Wykazano, że produkt leczniczy Pyralgin, 500 mg/ml, roztwór do wstrzykiwań można mieszać
+z roztworami do wstrzykiwań zawierającymi tramadol 50 mg/ml (o składzie: tramadolu
+chlorowodorek, sodu octan trójwodny, woda do wstrzykiwań).
+Mieszaninę tramadolu i metamizolu podaje się przygotowaną w stosunku masowym 1:10, po
+rozcieńczeniu w podanych wyżej roztworach, tj. przykładowo 2 ml produktu leczniczego
+zawierającego tramadol 50 mg/ml (100 mg tramadolu chlorowodorku) i 2 ml produktu leczniczego
+Pyralgin (1000 mg metamizolu sodowego jednowodnego) rozcieńczyć w 20 ml 0,9% roztworu
+chlorku sodu lub roztworu Ringera, lub 5% roztworu glukozy.
+Gotowa mieszanina metamizolu i tramadolu po rozcieńczeniu może przybierać kolor żółtawy.
+
+                                                                                                 11
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+Zakłady Farmaceutyczne POLPHARMA S.A.
+ul. Pelplińska 19, 83-200 Starogard Gdański
+
+
+8.    NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr R/2056
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 04.12.1963 r.
+Data ostatniego przedłużenia pozwolenia: 06.06.2013 r.
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+
+
+
+                                                                              12
+

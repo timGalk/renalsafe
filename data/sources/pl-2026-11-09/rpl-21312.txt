@@ -1,0 +1,813 @@
+                  CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+      Ondansetron B. Braun 2 mg/ml roztwór do wstrzykiwań
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+      1 ml roztworu do wstrzykiwań zawiera:
+      2 mg ondansetronu w postaci ondansetronu chlorowodorku dwuwodnego.
+      Każda ampułka 2 ml zawiera 4 mg ondansetronu.
+      Każda ampułka 4 ml zawiera 8 mg ondansetronu.
+
+      Substancje pomocnicze o znanym działaniu:
+      1 ml roztworu do wstrzykiwań zawiera 3,34 mg sodu w postaci sodu cytrynianu dwuwodnego
+      i sodu chlorku.
+
+      Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+      Roztwór do wstrzykiwań
+      Przezroczysty, bezbarwny roztwór wodny.
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+      Dorośli
+       Zapobieganie i leczenie nudności i wymiotów wywołanych chemioterapią cytotoksyczną i
+        radioterapią (CINV/RINV)
+       Zapobieganie i leczenie nudności i wymiotów okresu pooperacyjnego (PONV).
+
+      Dzieci
+       Leczenie nudności i wymiotów wywołanych chemioterapią (CINV) u dzieci w wieku 6
+        miesięcy i starszych
+       Zapobieganie i leczenie nudności i wymiotów okresu pooperacyjnego (PONV) u dzieci w
+        wieku 1 miesiąca i starszych.
+
+4.2   Dawkowanie i sposób podawania
+
+      Ondansetron można podawać doustnie, pozajelitowo i doodbytniczo, aby droga podania i
+      dawkowanie były jak najbardziej elastyczne. Niemniej jednak ten lek jest przeznaczony
+      wyłącznie do podawania dożylnego lub domięśniowego.
+
+      Dawkowanie
+      Chemioterapia i radioterapia o działaniu wymiotnym
+
+      Siła wymiotnego działania leczenia przeciwnowotworowego zależy od dawki oraz
+      zastosowanej kombinacji chemioterapii i radioterapii. Ustalając wielkość dawki należy wziąć
+      pod uwagę ciężkość i siłę działania wymiotnego.
+Dorośli
+
+Zakres dawek ondansetronu w roztworze do wstrzykiwań wynosi 8 do 32 mg na dobę, a
+dawka dobierana jest w następujący sposób
+ Chemioterapia i radioterapia o działaniu wymiotnym
+Zalecana dawka dożylna lub domięśniowa ondansetronu wynosi 8 mg, podawanego jako
+powolne wstrzyknięcie przez okres nie krótszy niż 30 sekund lub krótkotrwały wlew przez 15
+minut bezpośrednio przed terapią.
+
+Leczenie doustne lub doodbytnicze jest zalecane w celu zapobiegania nudnościom i
+wymiotom opóźnionym lub przedłużonym po pierwszych 24 godzinach od rozpoczęcia
+terapii.
+
+ Chemioterapia o silnym działaniu wymiotnym
+Ondansetron okazał się równie skuteczny, gdy był podawany według następujących
+schematów dawkowania w ciągu pierwszych 24 godzin po chemioterapii:
+
+ Ondansetron można podawać w pojedynczej dawce 8 mg poprzez powolne wstrzyknięcie
+  dożylne lub domięśniowe bezpośrednio przed rozpoczęciem chemioterapii.
+ Dawki większe niż 8 mg i maksymalnie 16 mg ondansetronu mogą być rozcieńczane
+  wyłącznie w 50-100 ml roztworu chlorku sodu 9 mg/ml (0,9% w/v) lub innym
+  wykazującym zgodność płynem do wlewów (patrz zgodność z roztworami do wlewów,
+  punkt 6.6) i podawane we wlewie trwającym nie krócej niż 15 minut. Z uwagi na ryzyko
+  wydłużenia odstępu QT, co uzależnione jest od wielkości dawki, nie należy podawać
+  dawki pojedynczej większej niż 16 mg (patrz punkt 4.4, 4.8 i 5.1).
+ W przypadku stosowania leku w chemioterapii o silnym działaniu wymiotnym, dawkę 8
+  mg ondansetronu można podać w powolnym wstrzyknięciu dożylnym trwającym nie
+  krócej niż 30 sekund lub wstrzyknięciu domięśniowym lub we wlewie trwającym nie
+  krócej niż 15 minut bezpośrednio przed rozpoczęciem chemioterapii. Kolejne dawki
+  dożylne lub domięśniowe 8 mg należy podawać w odstępach nie dłuższych niż cztery
+  godziny.
+
+Skuteczność ondansetronu w chemioterapii o silnym działaniu wymiotnym można polepszyć
+dodając pojedynczą dożylną dawkę 20 mg deksametazonu sodu fosforanu, podaną przed
+rozpoczęciem chemioterapii.
+
+W celu zapobiegania nudnościom i wymiotom opóźnionym lub przedłużonym po pierwszych
+24 godzinach, należy kontynuować leczenie ondansetronem w innej postaci doustnej lub
+doodbytniczej.
+
+Dzieci: Nudności i wymioty wywołane chemioterapią u dzieci w wieku 6 miesięcy i powyżej
+oraz młodzieży
+Dawkę w celu leczenia nudności i wymiotów wywołanych chemioterapią można obliczyć na
+podstawie powierzchni ciała lub masy ciała – patrz poniżej. W trakcie badań klinicznych
+obejmujących dzieci ondansetron był podawany we wlewie dożylnym trwającym nie krócej
+niż 15 minut, po uprzednim rozcieńczeniu w 25 do 50 ml roztworu soli fizjologicznej lub
+innym wykazującym zgodność płynem do wlewów (patrz Szczególne środki ostrożności
+dotyczące usuwania i przygotowania leku do stosowania punkt 6.6). Dawkowanie
+uwzględniające masę ciała skutkuje wyższymi całkowitymi dawkami dobowymi w
+porównaniu z dawkowaniem według powierzchni ciała (punkty 4.4. i 5.1).
+Ondansetron do wstrzykiwań należy rozcieńczyć 5% roztworem glukozy lub 0,9% roztworem
+chlorku sodu lub innym wykazującym zgodność płynem do wlewów (patrz punkt 6.6) i
+podawać we wlewie dożylnym trwającym nie krócej niż 15 minut. Brak jest danych z
+kontrolowanych badań klinicznych dotyczących stosowania ondansetronu w zapobieganiu
+opóźnionym lub przedłużonym nudnościom i wymiotom wywołanym chemioterapią u dzieci.
+Brak jest danych z kontrolowanych badań klinicznych dotyczących stosowania leku
+Ondansetron w leczeniu nudności i wymiotów wywołanych radioterapią u dzieci.
+Dawkowanie według powierzchni ciała:
+Ondansetron należy podawać w postaci pojedynczej dawki dożylnej 5 mg/m2 pc.
+bezpośrednio przed rozpoczęciem chemioterapii. Dawka dożylna nie może przekroczyć 8 mg.
+Podawanie leku w dawce doustnej można rozpocząć po dwunastu godzinach i kontynuować
+przez okres do 5 dni (Tabela 1).
+
+Całkowita dawka dobowa nie może przekroczyć dawki dla dorosłych równej 32 mg.
+
+Tabela 1: Dawkowanie dostosowane do powierzchni ciała dla pacjentów poddawanych
+chemioterapii – Dzieci w wieku ≥ 6 miesięcy i młodzież
+
+ Powierzchnia
+                    Dzień 1(a,b)                            Dni 2-6(b)
+ ciała
+
+                    5 mg/m2 dożylnie plus 2 mg w postaci    2 mg doustnie w postaci
+ < 0,6 m2
+                    płynu doustnego po 12 godzinach         płynu co 12 godzin
+
+                    5 mg/m2 dożylnie plus 4 mg doustnie     4 mg doustnie w postaci
+ ≥ 0,6 m2
+                    w postaci płynu lub tabletki po 12      płynu lub tabletki co 12
+                    godzinach                               godzin
+
+                    5 mg/m2 dożylnie lub 8 mg dożylnie      8 mg doustnie w postaci
+ > 1,2 m2           plus 8 mg doustnie w postaci płynu      płynu lub tabletki co 12
+                    lub tabletki po 12 godzinach            godzin
+
+a Dawka dożylna nie może przekroczyć 8 mg.
+b Całkowita dawka dobowa nie może przekroczyć dawki dla dorosłych równej 32 mg
+
+Dawkowanie według masy ciała:
+Dawkowanie dostosowane do masy ciała skutkuje wyższymi całkowitymi dawkami
+dobowymi w porównaniu z dawkowaniem dostosowanym do powierzchni ciała (punkty 4.4. i
+5.1).
+Ondansetron należy podawać w postaci pojedynczej dawki dożylnej 0,15 mg/kg mc.
+bezpośrednio przed rozpoczęciem chemioterapii. Dawka dożylna nie może przekroczyć 8 mg.
+Dwie dodatkowe dawki można podać dożylnie w odstępach 4 godzinnych. Całkowita dawka
+dobowa nie może przekroczyć dawki dla dorosłych równej 32 mg.
+Podawanie leku w dawce doustnej można rozpocząć po dwunastu godzinach i kontynuować
+przez okres do 5 dni (Tabela 2).
+Tabela 2: Dawkowanie dostosowane do masy ciała dla pacjentów poddawanych
+chemioterapii – Dzieci w wieku ≥ 6 miesięcy i młodzież
+
+ Waga               Dzień 1 (a,b)                           Dni 2-6(b)
+
+                    Do 3 dawek po 0,15 mg/kg mc. co 4       2 mg doustnie w postaci
+ ≤ 10 kg
+                    godziny                                 płynu co 12 godzin
+
+                                                            4 mg doustnie w postaci
+                    Do 3 dawek po 0,15 mg/kg mc. co 4
+ > 10 kg                                                    płynu lub tabletki co 12
+                    godziny
+                                                            godzin
+
+a Dawka dożylna nie może przekroczyć 8 mg.
+b Całkowita dawka dobowa nie może przekroczyć dawki dla dorosłych równej 32 mg
+
+Osoby w podeszłym wieku
+Przed podaniem dożylnym lek ondansetron należy rozcieńczyć w 50-100 ml roztworu chlorku
+sodu 9 mg/ml (0,9% w/v) lub innym wykazującym zgodność płynem do wlewów (patrz punkt
+6.6) i podawane we wlewie trwającym nie krócej niż 15 minut.
+W przypadku pacjentów w wieku 65 do 74 lat można stosować ten sam schemat
+dawkowania jak u pacjentów dorosłych.
+W przypadku pacjentów w wieku powyżej 75 lat dożylna dawka początkowa ondansetronu
+nie powinna przekraczać 8 mg. Po podaniu dawki początkowej 8 mg można podać dwie
+kolejne dawki dożylne 8 mg, przy czym odstęp między dawkami nie powinien być krótszy
+niż cztery godziny (patrz punkt 5.2). Patrz również “Szczególne populacje pacjentów”.
+
+Nudności i wymioty okresu pooperacyjnego (PONV)
+Dorośli
+Zapobieganie nudnościom i wymiotom okresu pooperacyjnego
+W celu zapobiegania nudnościom i wymiotom okresu pooperacyjnego zalecana dawka
+ondansetronu wynosi 4 mg w pojedynczym wstrzyknięciu domięśniowo lub w powolnym
+wstrzyknięciu dożylnym w trakcie wprowadzania do znieczulenia.
+
+Leczenie występujących pooperacyjnych nudności i wymiotów
+W celu leczenia występujących nudności i wymiotów pooperacyjnych zaleca się podanie
+pojedynczej dawki 4 mg w powolnym wstrzyknięciu dożylnym lub domięśniowym.
+
+Dzieci: dzieci w wieku 1 miesiąca i powyżej oraz młodzież
+ Zapobieganie PONV
+  W celu zapobiegania pooperacyjnym nudnościom i wymiotom w pediatrii u pacjentów
+  operowanych w ogólnym znieczuleniu, ondansetron można podać w powolnym
+  wstrzyknięciu dożylnym (nie krótszym niż 30 sekund) w dawce 0,1 mg/kg mc. do
+  maksimum 4 mg, przed, w momencie albo po rozpoczęciu znieczulenia.
+ Leczenie PONV
+  W celu leczenia nudności i wymiotów występujących u dzieci operowanych w ogólnym
+  znieczuleniu, ondansetron można podać w powolnym wstrzyknięciu dożylnym (nie
+  krótszym niż 30 sekund) w dawce 0,1 mg/kg mc. do maksimum 4 mg.
+
+Osoby w podeszłym wieku
+Liczba doniesień na temat stosowania ondansetronu w zapobieganiu i leczeniu
+pooperacyjnych nudności i wymiotów u pacjentów w podeszłym wieku jest niewielka,
+jednakże ondansetron jest dobrze tolerowany przez pacjentów powyżej 65 lat leczonych
+chemioterapią.
+      Patrz również “Szczególne populacje pacjentów”.
+
+      Szczególne populacje pacjentów
+
+      Pacjenci z niewydolnością nerek
+      Zarówno dawki, jak i odstępy między nimi i droga podania leku nie ulegają zmianie.
+
+      Pacjenci z niewydolnością wątroby
+      U pacjentów z umiarkowaną i ciężką niewydolnością wątroby dochodzi do znacznego
+      zmniejszenia klirensu ondansetronu i znacznego wydłużenia okresu jego półtrwania. W takich
+      przypadkach nie należy przekraczać dziennej dawki równej 8 mg.
+
+      Pacjenci z zaburzonym metabolizmem sparteiny /debryzochiny
+      Okres półtrwania ondansetronu nie ulega zmianie u osób, które wolno metabolizują sparteinę
+      i debryzochinę. W związku z tym u takich pacjentów otrzymujących wielokrotne dawki,
+      narażenie na działanie leku nie różni się od poziomu ogółu populacji. Nie ma konieczności
+      modyfikacji dobowej dawki czy częstości podawania leku.
+
+      Droga podania
+      Podanie dożylne lub domięśniowe
+      Do wstrzykiwania dożylnego lub domięśniowego lub do wlewu dożylnego po uprzednim
+      rozcieńczeniu
+      Instrukcje dot. rozcieńczenia produktu przed podaniem, patrz punkt 6.6.
+
+4.3   Przeciwwskazania
+
+       Nadwrażliwość na ondansetron lub na którąkolwiek substancję pomocniczą wymienioną w
+        punkcie 6.1.
+       Jednoczesne podawanie apomorfiny (patrz punkt 4.5).
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+      Obserwowano reakcje uczuleniowe u pacjentów, u których wystąpiła nadwrażliwość na inne
+      leki z grupy selektywnych antagonistów receptora 5-HT3.
+
+      Ponieważ ondansetron może wydłużać czas pasażu jelitowego, pacjentów z objawami
+      podostrej niedrożności jelit należy obserwować po podaniu leku.
+
+      Zaburzenia oddychania należy leczyć symptomatycznie, a lekarze winni zwracać szczególną
+      uwagę na takie przypadki, gdyż mogą być to oznaki reakcji nadwrażliwości.
+
+      W zależności od wielkości dawki ondansetron wydłuża odstęp QT (patrz farmakologia
+      kliniczna). Dodatkowo, w ramach badań porejestracyjnych, donoszono o przypadkach
+      Torsade de Pointes po podaniu ondansetronu. Należy unikać podawania ondansetronu
+      pacjentom z syndromem wrodzonego wydłużenia odstępu QT. Ondansetron należy podawać
+      z zachowaniem ostrożności pacjentom, u których stwierdzono lub jest możliwe wydłużenie
+      odstępu QT, w tym pacjenci z zaburzeniami równowagi elektrolitowej, z niewydolnością
+      serca, bradykardią lub pacjenci przyjmujący leki wydłużające odstęp QT lub zaburzające
+      równowagę elektrolitową. Patrz punkt 4.5.
+
+      U pacjentów leczonych ondansetronem notowano przypadki niedokrwienia mięśnia
+      sercowego. U niektórych pacjentów, zwłaszcza jeśli lek podawano dożylnie, objawy
+      występowały natychmiast po podaniu ondansetronu. Pacjentów należy ostrzegać o objawach
+      przedmiotowych i podmiotowych niedokrwienia mięśnia sercowego.
+      Przed podaniem ondansetronu należy skorygować hipokaliemię i hipomagnezemię.
+
+      W trakcie badań porejestracyjnych obejmujących pacjentów z zespołem serotoninowym (w
+      tym zaburzony stan psychiczny, niestabilność autonomiczna i zaburzenia nerwowo-
+      mięśniowe) po równoczesnym podaniu ondansetronu i innych leków serotoninergicznych (w
+      tym selektywne inhibitory zwrotnego wychwytu serotoniny (SSRI) oraz selektywne
+      inhibitory zwrotnego wychwytu noradrenaliny (SNRI)). Jeśli równoczesne stosowanie
+      ondansetronu i innych leków serotoninergicznych jest kliniczne wskazane, zaleca się
+      monitorowanie stanu pacjenta.
+
+      U pacjentów poddawanych zabiegowi adenotonsylektomii zapobieganie wystąpieniu
+      nudności i wymiotów przez podanie ondansetronu może maskować krwawienie utajone. Z
+      tego powodu należy dokładnie obserwować takich pacjentów po podaniu ondansetronu.
+
+      Dzieci:
+      Pacjenci w wieku dziecięcym otrzymujący ondansetron równocześnie ze środkami
+      chemioterapeutycznymi, które wykazują toksyczne działanie na wątrobę powinni być ściśle
+      obserwowani celem wykrycia zaburzeń czynności wątroby.
+      Nudności i wymioty wywołane chemioterapią
+      Przy obliczaniu dawki na podstawie masy ciała i podawaniu trzech dawek w odstępach 4-
+      godzinnych, całkowita dawka dobowa będzie większa niż w przypadku podawania jednej
+      pojedynczej dawki 5 mg/m2 pc., po której leczenie kontynuowane jest dawką doustną.
+      Porównywalna skuteczność tych dwóch schematów dawkowania nie została oceniona w
+      badaniach klinicznych. Porównania między badaniami wskazują na podobną skuteczność obu
+      schematów dawkowania (punkt 5.1).
+
+      Produkt leczniczy zawiera 3,34 mg sodu na ml, co odpowiada 0,2% zalecanej przez WHO
+      maksymalnej 2 g dobowej dawki sodu u osób dorosłych.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+      Brak dowodów, by ondansetron podawany razem z innymi lekami indukował lub hamował
+      ich metabolizm. Specyficzne badania wykazały, że ondansetron nie wchodzi w interakcję z
+      alkoholem, temazepamem, furosemidem, alfentanilem, tramadolem (metabolizm), morfiną,
+      lignokainą, propofolem i tiopentalem.
+
+      Tramadol
+      Na drodze mechanizmu zależnego od serotoniny tramadol częściowo zmienia działanie
+      analgetyczne. W związku z tym, że ondansetron jest antagonistą receptora 5HT3, można
+      spodziewać się zaburzenia potencjału analgetycznego. Dodatkowo dane z niewielkich badań
+      wskazują, że ondansetron może zmniejszać działanie znieczulające tramadolu.
+
+      Leki hamujące działanie cytochromu P450
+      Ondansetron jest metabolizowany przez kilka enzymów wątrobowych cytochromu P-450:
+      CYP3A4, CYP2D6 i CYP1A2. Ze względu na mnogość enzymów metabolicznych, które
+      mogą metabolizować ondansetron, inhibicja enzymu lub zmniejszona aktywność jednego z
+      enzymów (np. brak genetyczny CYP2D6) jest normalnie wyrównywana przez inne enzymy i
+      powinna prowadzić do małej lub nieznaczącej zmiany w całkowitym klirensie ondansetronu
+      lub zapotrzebowaniu na dawkę.
+
+      Induktory CYP3A4:
+      U pacjentów leczonych silnymi induktorami CYP3A4 (tzn. fenytoiną, karbamazepiną i
+      ryfampicyną) klirens po podaniu doustnym ondansetronu był zwiększony, a stężenie
+      ondansetronu we krwi było zmniejszone.
+      Leki wydłużające odstęp QT (np. antracykliny)
+      Stosowanie ondansetronu w połączeniu z lekami wydłużającymi odstęp QT może prowadzić
+      do dodatkowego wydłużenia odstępu QT. Równoczesne stosowanie ondansetronu i leków
+      kardiotoksycznych, (np. antracyklin takich jak deksorubicyna czy daunorubicyna, lub
+      trastuzamabu), antybiotyków (takich jak erytromycyna lub ketokonazol), leków przeciw-
+      arytmicznych (takich jak amiodaron) i leków beta-adrenolitycznych (takich jak atenolol lub
+      tymolol) może zwiększać ryzyko arytmii (punkt 4.4).
+
+      Leki serotonergiczne (w tym SSRI i SNRI)
+      Po wprowadzeniu do obrotu otrzymano zgłoszenia opisujące pacjentów z zespołem
+      serotoninowym (w tym zaburzony stan psychiczny, niestabilność autonomiczna i zaburzenia
+      nerwowo-mięśniowe) po równoczesnym podaniu ondansetronu i innych leków
+      serotoninergicznych (w tym SSRI oraz SNRI). (Patrz Specjalne ostrzeżenia i środki
+      ostrożności dotyczące stosowania).
+
+      Apomorfina
+      W związku ze zgłoszeniami dotyczącymi głębokiego niedociśnienia i utraty przytomności w
+      przypadku jednoczesnego podawania ondansetronu i chlorowodorku apomorfiny,
+      równoczesne podawanie apomorfiny jest przeciwwskazane.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+      Kobiety w wieku rozrodczym:
+      Kobiety w wieku rozrodczym powinny rozważyć zastosowanie antykoncepcji.
+
+      Ciąża:
+      Na podstawie doświadczenia z badań epidemiologicznych, podejrzewa się, że ondansetron
+      podawany w pierwszym trymestrze ciąży wywołuje deformacje twarzoczaszki.
+      W jednym z badań kohortowych, które obejmowało 1,8 miliona kobiet w pierwszym
+      trymestrze ciąży, stosowanie ondansteronu powiązano ze zwiększonym ryzykiem deformacji
+      twarzoczaszki [3 dodatkowe przypadki na 10 000 leczonych kobiet; skorygowane ryzyko
+      względne, 1,24 (95% CI 1,03-1,48)].
+      Dostępne badania epidemiologiczne w zakresie deformacji serca wykazują sprzeczne wyniki.
+      Badania na zwierzętach nie wskazują na bezpośrednie lub pośrednie niepożądane działanie
+      dotyczące toksyczności reprodukcyjnej.
+      Ondansetronu nie należy stosować podczas pierwszego trymestru ciąży.
+
+      Karmienie piersią:
+      Badania na zwierzętach wykazały, że ondansetron przenika do mleka (patrz punkt 5.3).
+      Dlatego zaleca się, aby matki przyjmujące ondansetron nie karmiły piersią.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+      W trakcie badań psychomotorycznych nie potwierdzono niekorzystnego wpływu
+      ondansetronu, ani nie stwierdzono, by wywoływał on sedację. Biorąc pod uwagę
+      farmakologię ondansetronu nie należy spodziewać się negatywnego wpływu na tego typu
+      aktywności. W związku z tym uznać należy, że Ondansetron B. Braun 2 mg/ml nie wywiera
+      lub wywiera nieistotny wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn.
+
+4.8   Działania niepożądane
+
+      Zastosowano następującą terminologię częstości występowania:
+      bardzo często: (≥1/10);
+      często: (≥1/100 do <1/10);
+      niezbyt często: (≥1/1000 do <1/100);
+rzadko: (≥1/10 000 do <1/1000);
+bardzo rzadko: (<1/10 000).
+Nie znana: (częstość nie może być określona na podstawie dostępnych danych)
+
+Zdarzenia bardzo częste, częste i niezbyt częste zostały na ogół określone w oparciu o wyniki
+badań klinicznych oryginalnego produktu leczniczego. Uwzględniono częstość występowania
+dla placebo. Zdarzenia rzadkie i bardzo rzadkie zostały na ogół określone w oparciu o
+spontaniczne zgłoszenia po wprowadzeniu do obrotu oryginalnego produktu leczniczego.
+
+Biorąc pod uwagę standardowe zalecane dawki ondansetronu oszacowano następujące
+częstości występowania zdarzeń niepożądanych.
+Zaburzenia układu immunologicznego
+Rzadko:         Reakcje nadwrażliwości typu wczesnego, czasem ciężkie, w tym
+                anafilakasja. Reakcje anafilaktyczne mogą być śmiertelne.
+
+Zaburzenia układu nerwowego
+Bardzo często: Ból głowy
+Niezbyt często: Bezwolne zaburzenia ruchowe takie jak reakcje pozapiramidowe, np. napad
+                przymusowego patrzenia z rotacją gałek /reakcje dystoniczne i dyskineza bez
+                definitywnych dowodów na trwały stan kliniczny, oraz zaobserwowano
+                napady (np., drgawki epileptyczne), chociaż nieznany jest farmakologiczny
+                mechanizm mogący wytłumaczyć udział ondansetronu w ich wywołaniu.
+Rzadko:         Zawroty głowy w trakcie szybkiego podania dożylnego
+
+Zaburzenia psychiczne
+Bardzo rzadko: Depresja
+
+Zaburzenia oka
+Rzadko:        Tymczasowe zaburzenia widzenia (np., zamazane widzenie) występujące
+               zwykle podczas szybkiego podania dożylnego.
+Bardzo rzadko: Przejściowa ślepota, występująca zwykle podczas podania dożylnego.
+               Większość zgłoszonych przypadków ślepoty ustępowała w ciągu 20 minut.
+               Większość z tych pacjentów otrzymywała leki chemioterapeutyczne, w tym
+               cisplastynę. Niektóre przypadki przejściowej ślepoty zgłaszano jako
+               pochodzenia korowego.
+
+Zaburzenia serca
+Niezbyt często: Ból w klatce piersiowej z lub bez obniżenia odcinka ST, zaburzenia rytmu
+                serca i bradykardia. Zaburzenia rytmu serca mogą być śmiertelne w skutkach
+                u niektórych pacjentów.
+Rzadko:         Wydłużenie odstępu QT (w tym torsade de pointes).
+Nieznana:       niedokrwienie mięśnia sercowego (patrz punkt 4.4).
+
+Zaburzenia naczyniowe
+Często:         Uczucie „uderzenia krwi” lub gorąca.
+Niezbyt często: Niedociśnienie tętnicze.
+
+Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia
+Niezbyt często: Czkawka.
+
+Zaburzenia żołądka i jelit
+Często:        Wiadomo, że ondansetron przedłuża czas pasażu jelitowego i dlatego może
+               powodować zaparcia u niektórych pacjentów.
+      Zaburzenia wątrobowe i dróg żółciowych
+      Niezbyt często: Bezobjawowe zwiększenie wyników badania czynności wątroby. Reakcje te
+                      były często obserwowane u pacjentów poddanych chemioterapii cisplatyną.
+
+      Zaburzenia skóry i tkanki podskórnej
+      Niezbyt często: Reakcje alergiczne wokół miejsca wstrzyknięcia (np. wysypka, pokrzywka,
+                      swędzenie).
+
+      Zaburzenia ogólne i stany w miejscu podania
+      Często:        Miejscowe reakcje w miejscu wstrzyknięcia dożylnego.
+
+      Dzieci
+      Profil działań niepożądanych u dzieci i młodzieży był porównywalny do profilu
+      obserwowanego u dorosłych.
+
+      Zgłaszanie podejrzewanych działań niepożądanych
+
+      Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych
+      działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do
+      ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu
+      medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za
+      pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów
+      Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów
+      Biobójczych
+      Al. Jerozolimskie 181C
+      PL-02 222 Warszawa
+      Tel.: + 48 22 49 21 301
+      Faks: + 48 22 49 21 309
+      strona internetowa: https://smz.ezdrowie.gov.pl
+      Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+      Objawy
+      Jak dotychczas jest niewiele danych na temat przedawkowania ondansetronu. Niemniej
+      jednak w większości przypadków objawy były podobne do tych, które występowały u
+      pacjentów otrzymujących normalne dawki (patrz punkt 4.8). Zaobserwowane objawy
+      obejmują zaburzenia widzenia, ciężkie zaparcia, niedociśnienie tętnicze i epizody
+      naczynioruchowe z przejściowym blokiem przedsionkowo-komorowym drugiego stopnia. W
+      każdym przypadku objawy ustępowały całkowicie.
+      Ondansetron wydłuża odstęp QT, przy czym wydłużenie te zależne jest od wielkości dawki.
+      W razie przedawkowania zaleca się monitorowanie EKG.
+
+      Dzieci i młodzież
+      Po przypadkowym przedawkowaniu ondansetronu w postaci doustnej (szacunkowa przyjęta
+      dawka przekraczająca 4 mg/kg mc.) u niemowląt i dzieci w wieku od 12 miesięcy do 2 lat
+      zgłaszano objawy odpowiadające zespołowi serotoninowemu.
+
+      Leczenie
+      Nie ma specyficznego antidotum w przypadku przedawkowania ondansetronu. Dlatego też
+      we wszystkich przypadkach podejrzenia przedawkowania należy stosować leczenie
+      objawowe i wspomagające.
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+      Grupa farmakoterapeutyczna: leki przeciwwymiotne i zapobiegające nudnościom; antagoniści
+      receptora serotoninowego 5HT3
+      Kod ATC: A04AA01
+
+      Mechanizm działania
+
+      Ondansetron jest silnym, wybiórczym antagonistą receptora 5HT3 (5-hydroksytryptaminy).
+      Dokładny mechanizm działania w hamowaniu nudności i wymiotów nie jest znany. Środki
+      chemioterapeutyczne i radioterapia mogą powodować uwalnianie 5HT w jelicie cienkim,
+      zapoczątkowując odruch wymiotny w następstwie pobudzenia dośrodkowych włókien nerwu
+      błędnego przez receptory 5HT3. Ondansetron blokuje inicjowanie tego odruchu. Pobudzenie
+      włókien dośrodkowych nerwu błędnego może także powodować uwalnianie 5HT w area
+      postrema, zlokalizowanej na dnie IV komory, co może wywołać wymioty także na drodze
+      pobudzenia ośrodkowego. Zatem działanie ondansetronu hamujące nudności i wymioty
+      spowodowane chemioterapią i radioterapią wynika prawdopodobnie z jego antagonistycznego
+      wpływu na receptory 5HT3 neuronów znajdujących się zarówno w obwodowym jak i
+      ośrodkowym układzie nerwowym. Chociaż mechanizm działania ondansetronu w
+      nudnościach i wymiotach okresu pooperacyjnego nie jest znany, to może on być podobny do
+      działania w nudnościach i wymiotach wywołanych środkami cytotoksycznymi.
+      Ondansetron nie zmienia stężeń prolaktyny w osoczu.
+
+      Efekt farmakodynamiczny
+      Rola ondansetronu w hamowaniu wymiotów wywołanych przez opioidy nie jest ustalona.
+
+      Wpływ ondansetronu na wydłużenie odstępu QT oceniono w randomizowanym
+      kontrolowanym badaniu z podwójną ślepą próbą, w ramach którego podawano placebo i
+      moksifloksacynę. Badanie objęło 58 zdrowych mężczyzn i kobiet. Ondansetron w dawkach 8
+      mg i 32 mg podawano we wlewie dożylnym przez okres 15 minut. Przy najwyższej dawce
+      testowej 32 mg maksymalna średnia (limit górny 90% Cl) różnica w długości odstępu QT cF
+      w porównaniu z grupą placebo po korekcie linii podstawowej wyniosła 19,6 (21,5) msek.
+      Przy najniższej dawce testowej 8 mg maksymalna średnia (limit górny 90% Cl) różnica w
+      długości odstępu QT cF w porównaniu z grupą placebo po korekcie linii podstawowej
+      wyniosła 5,8 (7,8) msek. W niniejszym badaniu nie mierzono wartości QT cF większych niż
+      480 msek i nie stwierdzono wydłużenia odstępu QT cF powyżej 60 msek. Nie stwierdzono
+      znaczących zmian w zmierzonych za pomocą elektrokadriografii odstępów PR lub QRS.
+
+      Dzieci
+      Nudności i wymioty wywołane przez chemioterapię
+      Skuteczność ondansetronu w leczeniu wymiotów i nudności wywołanych przez chemioterapię
+      przeciwnowotworową oceniono w randomizowanym badaniu z podwójnie ślepą próbą
+      obejmującym 415 pacjentów w wieku od 1 roku do 18 lat (S3AB3006). W dniu podania
+      chemioterapii pacjenci otrzymywali ondansetron 5 mg/m2 pc. dożylnie + ondansetron 4 mg
+      doustnie po 8-12 godzinach lub ondansetron 0,45 mg/kg mc. dożylnie + placebo doustnie po
+      8-12 godzinach. Po zakończeniu chemioterapii obie grupy otrzymały 4 mg ondansetronu
+      doustnie w postaci płynu dwa razy na dobę przez 3 dni. W dniu chemioterapii, w którym
+      wystąpiły najcięższe działania niepożądane, wymioty powstrzymane zostały w 49% (5 mg/m2
+      pc. dożylnie + ondansetron 4 mg doustnie) lub w 41% przypadków (0,45 mg/kg mc. dożylnie
+      + placebo doustnie). Po zakończeniu chemioterapii obie grupy otrzymały 4 mg ondansetronu
+      doustnie w postaci płynu dwa razy na dobę przez 3 dni. Nie stwierdzono różnicy w ogólnej
+      częstości ani naturze działań niepożądanych pomiędzy dwiema badanymi grupami.
+Randomizowane badanie z podwójnie ślepą próbą z kontrolą placebo (S3AB4003)
+obejmujące 438 pacjentów w wieku od 1 do 17 lat wykazało całkowite powstrzymanie
+wymiotów w najgorszym dniu chemioterapii:
+• u 73% pacjentów, kiedy ondansetron był podawany dożylnie w dawce 5 mg/m2 pc. w
+skojarzeniu z 2-4 mg deksametazonu doustnie;
+• u 71% pacjentów, kiedy ondansetron był podawany w postaci doustnego płynu w dawce
+8 mg + 2-4 mg deksametazonu doustnie w dni chemioterapii.
+
+Po zakończeniu chemioterapii obie grupy otrzymały 4 mg ondansetronu doustnie w postaci
+płynu dwa razy na dobę przez 2 dni.
+Nie stwierdzono różnicy w ogólnej częstości ani naturze działań niepożądanych pomiędzy
+dwiema badanymi grupami.
+
+Skuteczność ondansetronu u 75 dzieci w wieku od 6 do 48 miesięcy zbadano w otwartym,
+nieporównawczym badaniu z jednym ramieniem (S3A40320). Wszystkie dzieci otrzymały
+trzy dawki ondansetronu po 0,15 mg/kg mc. dożylnie, podawane 30 minut przed
+rozpoczęciem chemioterapii, a następnie po czterech i po ośmiu godzin od podania pierwszej
+dawki. Całkowite powstrzymanie wymiotów uzyskano u 56% pacjentów.
+Inne otwarte, nieporównawcze badanie z jednym ramieniem (S3A239) oceniło skuteczność
+jednej dawki ondansetronu 0,15 mg/kg mc. dożylnie, po której podano dwie doustne dawki
+ondansetronu 4 mg u dzieci w wieku < 12 lat i 8 mg u dzieci w wieku ≥ 12 lat (ogólna liczba
+dzieci n= 28). Całkowite powstrzymanie wymiotów uzyskano u 42% pacjentów.
+
+Nudności i wymioty pooperacyjne
+Skuteczność pojedynczej dawki ondansetronu w zapobieganiu pooperacyjnym nudnościom i
+wymiotom zbadano w randomizowanym badaniu z podwójnie ślepą próbą i kontrolą placebo
+obejmującym 670 dzieci w wieku od 1 do 24 miesięcy (wiek postkoncepcyjny ≥ 44 tygodnie,
+masa ciała ≥ 3 kg). Pacjenci objęci badaniem mieli być poddani planowanej operacji w
+znieczuleniu ogólnym, a ich stan przedoperacyjny według klasyfikacji ASA wynosił ≤ III.
+Pacjentom podano pojedynczą dawkę ondansetronu 0,1 mg/kg mc. w ciągu pięciu minut po
+rozpoczęciu znieczulenia. Odsetek pacjentów, u których wystąpił co najmniej jeden epizod
+wymiotów w okresie 24-godzinnym (analiza ITT) był wyższy w grupie przyjmującej placebo
+niż w grupie otrzymującej ondansetron ((28% w porównaniu do 11%, p <0,0001).
+
+Przeprowadzono cztery badania z podwójnie ślepą próbą i kontrolą placebo obejmujące 1469
+pacjentów płci męskie i żeńskiej (w wieku od 2 do 12 lat) poddawanych znieczuleniu
+ogólnemu. Pacjentów losowo przydzielono do grupy otrzymującej pojedyncze dawki
+ondansetronu dożylnie (0,1 mg/kg mc. dla dzieci o masie ciała 40 kg lub mniejszej, 4 mg dla
+dzieci o masie ciała powyżej 40 kg; liczba pacjentów = 735)) lub do grupy przyjmującej
+placebo (liczba pacjentów = 734). Ondansetron podawano przez co najmniej 30 sekund,
+bezpośrednio przed lub po rozpoczęciu znieczulenia. Ondansetron był znacząco bardziej
+skuteczny niż placebo w zapobieganiu nudności i wymiotów. Wyniki powyższych badań są
+zestawione w Tabeli 3.
+
+Tabela 3 Zapobieganie i leczenie nudności i wymiotów pooperacyjnych – Odpowiedź
+terapeutyczna po 24 godzinach
+
+    Badanie        Punkt końcowy       Ondansetron %         Placebo %        Wartość-p
+
+    S3A380               CR                  68                  39            ≤ 0,001
+
+    S3GT09               CR                  61                  35            ≤ 0,001
+
+    S3A381               CR                  53                  17            ≤ 0,001
+         S3GT11          brak nudności            64                51             0,004
+
+         S3GT11         brak wymiotów             60                47             0,004
+
+      CR = brak epizodów wymiotów, ratowanie lub wycofanie
+
+5.2   Właściwości farmakokinetyczne
+
+      Właściwości farmakokinetyczne ondansetronu nie ulegają zmianie przy wielokrotnym
+      podawaniu.
+      Nie ustalono bezpośredniej korelacji między stężeniem w osoczu, a działaniem
+      przeciwwymiotnym.
+
+      Wchłanianie
+      Po podaniu doustnym, ondansetron jest biernie i całkowicie wchłaniany z przewodu
+      pokarmowego i podlega efektowi pierwszego przejścia przez wątrobę (biodostępność na
+      poziomie około 60%). Maksymalne stężenie leku w osoczu wynosi 30 ng/ml i występuje w
+      ciągu około 1,5 godziny po podaniu dawki 8 mg. Dla dawek powyżej 8 mg wzrost stężenia
+      ondansetronu w organizmie jest większy niż proporcjonalny; może to odzwierciedlać pewną
+      redukcję efektu pierwszego przejściu przez wątrobę przy wyższych dawkach doustnych.
+      Biodostępność po podaniu doustnym jest nieznacznie zwiększona podczas obecności
+      pokarmu, ale związki zobojętniające kwas nie mają na nią wpływu.
+      Dożylny wlew ondansetronu w dawce 4 mg podany przez 5 minut powoduje maksymalne
+      stężenie leku w osoczu równe około 65 ng/ml. Po domięśniowym podaniu ondansetronu,
+      maksymalne stężenie leku w osoczu wynosi około 25 ng/ml i występuje w ciągu 10 minut od
+      wstrzyknięcia.
+
+      Dystrybucja
+      Rozmieszczenie ondansetronu po podaniu doustnym, domięśniowym i dożylnym jest
+      podobne, przy stałej objętości dystrybucji równej około 140 l. Po podaniu domięśniowym i
+      dożylnym ondansetronu występuje taka sama ekspozycja w organizmie.
+      Ondansetron wiąże się z białkami w umiarkowanym stopniu (70-76%).
+
+      Biotransformacja
+      Ondansetron jest usuwany z krążenia układowego głównie przez metabolizm w wątrobie na
+      wielu szlakach enzymatycznych. Brak enzymu CYP2D6 (polimorfizm debryzochinowy) nie
+      wpływa na farmakokinetykę ondansetronu.
+
+      Eliminacja
+      Mniej niż 5% wchłoniętej dawki jest wydalane w moczu w postaci niezmienionej. Okres
+      półtrwania w surowicy wynosi około 3 godzin.
+
+      Farmakokinetyka w specjalnych populacjach pacjentów
+      Dzieci i młodzież (w wieku od 1 miesiąca do 17 lat)
+      U dzieci w wieku od 1 do 4 miesięcy (n=19) poddanych operacji, klirens normalizowany
+      względem masy ciała był około 30% wolniejszy niż u pacjentów w wieku od 5 do 24
+      miesięcy (n=22) ale porównywalny z obserwowanym u pacjentów w wieku od 3 do 12 lat.
+      Okres półtrwania u populacji pacjentów w wieku od 1 do 4 miesięcy wynosił średnio 6,7
+      godziny w porównaniu do 2,9 godziny u pacjentów w wieku od 5 do 24 miesięcy i od 3 do 12
+      lat. Różnicę w parametrach farmakokinetycznych w grupie pacjentów w wieku od 1 do 4
+      miesięcy można częściowo wyjaśnić wyższą zawartością całkowitej wody w organizmie u
+      noworodków i niemowląt i wyższą objętością dystrybucji dla leków rozpuszczalnych w
+      wodzie, takich jak ondansetron.
+U dzieci w wieku od 3 do 12 lat poddawanych planowanej operacji w znieczuleniu ogólnym,
+bezwzględne wartości zarówno dla klirensu jak i objętości dystrybucji ondansetronu były
+obniżone w porównaniu z wartościami u pacjentów dorosłych. Oba parametry wzrastały
+liniowo wraz z masą ciała i w wieku 12 lat były zbliżone do wartości dla osób dorastających.
+Kiedy klirens i objętości dystrybucji znormalizowano względem masy ciała, wartości tych
+parametrów były podobne w różnych grupach wiekowych. Stosowanie dawek w zależności
+od masy ciała kompensuje różnice powiązane z wiekiem i jest skuteczne w normalizowaniu
+stężenia leku w organizmie dzieci.
+
+Analizę parametrów farmakokinetyki populacyjnej przeprowadzono u 428 pacjentów
+(pacjenci leczeni przeciwnowotworowo, pacjenci operowani i zdrowi ochotnicy) w wieku od
+1 miesiąca do 44 lat po dożylnym podaniu ondansetronu. W oparciu o tę analizę, ekspozycja
+ogólnoustrojowa (AUC) po doustnym lub dożylnym podaniu ondansetronu dzieciom i
+młodzieży była porównywalna do dorosłych, za wyjątkiem niemowląt w wieku od 1 do 4
+miesięcy. Objętość była powiązana z wiekiem i była niższa u dorosłych niż u niemowląt i
+dzieci. Klirens był zależny od masy ciała ale nie od wieku, z wyjątkiem niemowląt w grupie
+wiekowej od 1 do 4 miesięcy. Trudno jest stwierdzić czy doszło do dodatkowego obniżenia
+klirensu zależnego od wieku u niemowląt w wieku od 1 do 4 miesięcy, czy była to po prostu
+zmienność nieodłącznie związana z małą liczbą pacjentów w tej grupie wiekowej objętych
+badaniem. Ponieważ pacjentom w wieku poniżej 6 miesięcy podaje się tylko pojedynczą
+dawkę w leczeniu nudności i wymiotów pooperacyjnych, istnieje małe prawdopodobieństwo,
+by obniżony klirens był znaczący klinicznie.
+
+Pacjenci w podeszłym wieku
+We wczesnych badaniach fazy I obejmujących zdrowych ochotników w podeszłym wieku
+wykazano nieznaczne, zależne od wieku zmniejszenie klirensu oraz zwiększenie okresu
+półtrwania ondansetronu. Jednakże znaczna zmienność międzyosobnicza spowodowała
+znaczące nakładanie się parametrów farmakokinetycznych u młodszych (< 65 lat) i starszych
+pacjentów (≥ 65 lat), nie zaobserwowano też ogólnych różnic w zakresie bezpieczeństwa i
+skuteczności stosowania pomiędzy grupami młodszych i starszych pacjentów z chorobą
+nowotworową włączonych do badań klinicznych obejmujących CINV, które uzasadniałyby
+zalecanie odmiennego schematu dawkowania u pacjentów w podeszłym wieku.
+Biorąc pod uwagę najnowsze modelowania stężenia w osoczu oraz zależności odpowiedzi od
+ekspozycji dla ondansetronu, przewiduje się większy wpływ na QTcF u pacjentów w wieku
+≥ 75 lat niż u młodszych dorosłych pacjentów. Podano specjalne informacje na temat
+dawkowania u pacjentów w wieku ponad 65 lat i ponad 75 lat (patrz punkt 4.2).
+
+Pacjenci z zaburzeniem czynności nerek
+U pacjentów z zaburzeniem czynności nerek (klirens kreatyniny 15-60 ml/min) zarówno
+klirens ogólnoustrojowy, jak i objętość dystrybucji są zmniejszone po dożylnym podaniu
+ondansetronu, powodując nieznaczne i nieznaczące klinicznie wydłużenie okresu półtrwania
+w fazie eliminacji (5,4 godz.). Badanie obejmujące pacjentów z ciężkim zaburzeniem
+czynności nerek wymagających systematycznych hemodializ (badanych w okresach
+pomiędzy dializami) wykazało, że farmakokinetyka ondansetronu podawanego dożylnie jest
+zasadniczo niezmieniona.
+
+Niewydolność wątroby
+U pacjentów z ciężką niewydolnością wątroby, po doustnym, dożylnym lub domięśniowym
+podaniu leku klirens ondansetronu jest znacznie zmniejszony, okres półtrwania wydłużony
+(15-32 godz.), a biodostępność po podaniu doustnym zbliża się do 100% ze względu na
+zmniejszony metabolizm.
+      Różnice w zależności od płci
+      Obserwuje się różnice w dyspozycji ondansetronu w zależności od płci. U kobiet po
+      doustnym podaniu wchłanianie jest większe, mniejszy klirens i mniejsza objętość dystrybucji
+      niż u mężczyzn (z poprawką na masę ciała).
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+      W badaniach przedklinicznych nie wykryto żadnych szczególnych zagrożeń dla ludzi,
+      w oparciu o rutynowe badania bezpieczeństwa, farmakologii, toksyczności wielokrotnych
+      dawek, genotoksyczności, rakotwórczości i toksycznego wpływu na rozrodczość.
+
+      Ondansetron i jego metabolity gromadzą się w mleku szczurów, stosunek stężeń
+      mleko/osocze wynosił 5,2:1.
+
+      Badanie na sklonowanych ludzkich kanałach jonowych serca wykazały, że ondansetron może
+      wpływać na repolaryzację serca poprzez blokadę kanałów potasowych HERG. Znaczenie
+      kliniczne tego wyniku jest niepewne.
+
+
+6.    DANE FARMACEUTYCZNE
+
+6.1   Wykaz substancji pomocniczych
+
+      Sodu chlorek
+      Sodu cytrynian dwuwodny
+      Kwas cytrynowy jednowodny
+      Woda do wstrzykiwań
+
+6.2   Niezgodności farmaceutyczne
+
+      Nie wolno mieszać tego leku z innymi lekami, z wyjątkiem tych wymienionych w
+      punkcie 6.6.
+
+6.3   Okres ważności
+
+      Przed otwarciem:
+      Szklane ampułki o pojemności 2 ml: 36 miesięcy
+      Szklane ampułki o pojemności 4 ml: 24 miesiące
+      Ampułki z polietylenu (LDPE): 24 miesiące
+      Wstrzyknięcie:
+      Po pierwszym otwarciu produkt należy zużyć natychmiast.
+
+      Infuzja:
+      Wykazano chemiczną i fizyczną stabilność w trakcie używania przez 48 godzin w temp.
+      25°C, z roztworami wymienionymi w punkcie 6.6.
+
+      Z mikrobiologicznego punktu widzenia, produkt powinien zostać zużyty natychmiast. Jeśli
+      nie zostanie zużyty natychmiast, okres i warunki przechowywania rozcieńczonego produktu
+      przed użyciem są ustalane przez użytkownika i zazwyczaj nie przekraczają 24 godzin w temp.
+      2 do 8°C, chyba, że rozcieńczenie nastąpiło w kontrolowanych i zwalidowanych warunkach
+      jałowych.
+
+      Rozcieńczone roztwory należy przechowywać z dala od światła.
+6.4   Specjalne środki ostrożności podczas przechowywania
+
+      Przechowywać ampułki w opakowaniu zewnętrznym w celu ochrony przed światłem.
+
+      Ampułki z polietylenu (LDPE): Nie przechowywać w temperaturze powyżej 25oC.
+      Szklane ampułki: Brak specjalnych zaleceń dotyczących przechowywania produktu
+      leczniczego
+
+      Warunki przechowywania dla rozcieńczonego produktu leczniczego, patrz punkt 6.3.
+
+6.5   Rodzaj i zawartość opakowania
+
+         Ampułki z bezbarwnego szkła typu I o zawartości 2 ml, 4 ml
+          dostarczane w opakowaniach zawierających         5 x 2 ml, 10 x 2 ml
+                                                           5 x 4 ml, 10 x 4 ml
+
+         Ampułki z polietylenu (LDPE) o zawartości        4 ml
+          dostarczane w opakowaniach zawierających         20 x 4 ml
+
+      Ampułki wykonane z LDPE są specjalnie przystosowane do strzykawek wyposażonych w
+      złącza Luer lock i Luer fit.
+
+      Nie wszystkie rodzaje opakowań muszą znajdować się w obrocie.
+
+6.6   Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego
+      do stosowania
+
+      Wyłącznie do jednorazowego użytku. Po użyciu opakowanie i pozostałości produktu
+      leczniczego należy wyrzucić.
+
+      Przed użyciem (również po rozcieńczeniu) należy ocenić roztwór wizualnie. Do użycia
+      nadaje się jedynie przezroczysty roztwór praktycznie pozbawiony nierozpuszczalnych
+      cząstek.
+
+      Wszelkie resztki niewykorzystanego produktu lub jego odpady należy usunąć w sposób
+      zgodny z lokalnymi przepisami.
+
+      Rozcieńczenie
+      Ondansetron 2 mg/ml można rozcieńczać z następującymi roztworami do wlewów, do
+      osiągnięcia wartości stężenia ondansetronu wyszczególnionych w punkcie 4.2:
+      Roztwór chlorku sodu 9 mg/ml (0,9% w/v)
+      Roztwór glukozy 50 mg/ml (5% w/v)
+      Roztwór mannitolu 100 mg/ml (10% w/v)
+      Roztwór Ringera
+
+      Uwaga:
+      Roztworu do wstrzykiwań nie wolno sterylizować w autoklawie!
+7.    PODMIOT   ODPOWIEDZIALNY                   POSIADAJĄCY          POZWOLENIE     NA
+      DOPUSZCZENIE DO OBROTU
+
+      B. Braun Melsungen AG
+      Carl-Braun-Strasse 1
+      34212 Melsungen
+      Niemcy
+
+
+8.    NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+      Pozwolenie nr 15717
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO
+      OBROTU/ DATA PRZEDŁUŻENIA POZWOLENIA
+
+      Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 02.07. 2009 r.
+      Data ostatniego przedłużenia pozwolenia: 04.03.2016
+
+
+10.   DATA ZMIANY TEKSTU CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+      2022-04-08
+

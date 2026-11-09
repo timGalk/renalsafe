@@ -1,0 +1,838 @@
+                     CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.      NAZWA PRODUKTU LECZNICZEGO
+
+Rocuronium B. Braun, 10 mg/ml, roztwór do wstrzykiwań/do infuzji
+
+
+2.      SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+1 ml roztworu do wstrzykiwań lub do infuzji zawiera 10 mg rokuroniowego bromku.
+Każda ampułka z 5 ml roztworu zawiera 50 mg rokuroniowego bromku.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań lub do infuzji
+
+Przejrzysty, bezbarwny lub jasno-brązowożółty roztwór.
+pH roztworu: 3,8 do 4,2
+Osmolalność: 270-310 mOsmol/kg.
+
+
+4.      SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1     Wskazania do stosowania
+
+Bromek rokuronium stanowi u dorosłych i dzieci (od niemowląt do nastolatków, 0 do < 18. roku
+życia) uzupełnienie znieczulenia ogólnego i stosowany jest w celu ułatwienia intubacji dotchawiczej
+podczas rutynowej indukcji sekwencyjnej oraz w celu wywołania zwiotczenia mięśni szkieletowych w
+czasie zabiegu.
+U dorosłych zalecany jest także w celu ułatwienia intubacji dotchawiczej podczas szybkiej indukcji
+sekwencyjnej oraz jako produkt leczniczy uzupełniający do krótkotrwałego stosowania podczas opieki
+na oddziale intensywnej opieki medycznej celu ułatwienia intubacji i wentylacji mechanicznej.
+
+Patrz również punkt 4.2 i 5.1.
+
+4.2     Dawkowanie i sposób podawania
+
+Dawkowanie
+Podobnie jak w przypadku innych leków blokujących przewodnictwo nerwowo-mięśniowe,
+dawkowanie bromku rokuronium powinno być dostosowane indywidualnie do pacjenta. Przy
+określaniu dawki należy uwzględnić stosowaną metodę znieczulenia, oczekiwany czas trwania
+zabiegu, metodę sedacji oraz oczekiwany czas trwania wentylacji mechanicznej, możliwe interakcje z
+innymi lekami podawanymi równocześnie, a także stan pacjenta. Zaleca się zastosowanie
+odpowiedniej techniki monitorowania przewodnictwa nerwowo- mięśniowego w celu kontrolowania
+stopnia blokady nerwowo-mięśniowej oraz powrotu napięcia mięśniowego.
+
+Zabiegi chirurgiczne
+Wziewne leki znieczulające nasilają działanie zwiotczające bromku rokuronium. Działanie to nabiera
+znaczenia klinicznego wraz z trwaniem znieczulenia, gdy stężenie leków wziewnych osiągnie
+odpowiednią wartość w tkance. W rezultacie, w trakcie długotrwałych znieczuleń wziewnych
+(dłuższych niż 1 godzina) konieczna jest modyfikacja dawkowania produktu poprzez podawanie
+mniejszych dawek podtrzymujących w dłuższych odstępach czasowych lub też zmniejszenie
+szybkości infuzji bromku rokuronium.
+Dorośli
+Poniższe zalecenia dotyczące dawkowania produktu u dorosłych pacjentów mogą służyć jako ogólne
+wytyczne dla intubacji dotchawiczej oraz zwiotczenia mięśni podczas krótko- lub długotrwałych
+zabiegów chirurgicznych, jak również do stosowania na oddziałach intensywnej opieki medycznej.
+Produkt przeznaczony jest wyłącznie do jednorazowego zastosowania.
+
+Intubacja dotchawicza:
+Podczas rutynowego znieczulenia z zastosowaniem standardowej dawki intubacyjnej wynoszącej
+0,6 mg bromku rokuronium na kg masy ciała, u prawie wszystkich pacjentów w ciągu 60 sekund
+uzyskuje się odpowiednie warunki do intubacji. W celu ułatwienia intubacji dotchawiczej podczas
+szybkiej indukcji sekwencyjnej znieczulenia zaleca się stosowanie bromku rokuronium w dawce
+1,0 mg na kg masy ciała, po podaniu której w czasie 60 sekund u prawie wszystkich pacjentów
+osiągnięte zostają warunki odpowiednie do intubacji. Jeżeli dawka 0,6 mg bromku rokuronium na
+kg masy ciała jest stosowana w szybkiej indukcji sekwencyjnej znieczulenia, zaleca się intubację
+pacjenta w ciągu 90 sekund po podaniu bromku rokuronium.
+
+Dawkowanie podtrzymujące:
+Zalecana dawka podtrzymująca wynosi 0,15 mg bromku rokuronium na kg masy ciała. W przypadku
+długotrwałego znieczulenia wziewnego powinna być zmniejszona do 0,075- 0,1 mg bromku
+rokuronium na kg masy ciała.
+Zalecane jest stosowanie dawek podtrzymujących, gdy reakcja skurczowa mięśni na bodziec powraca
+do 25% wartości kontrolnej, lub gdy obserwuje się 2 lub 3 odpowiedzi na stymulację ciągiem czterech
+impulsów.
+
+Ciągła infuzja:
+W przypadku podawania bromku rokuronium w postaci ciągłej infuzji zaleca się zastosowanie dawki
+nasycającej 0,6 mg bromku rokuronium na kg masy ciała oraz rozpoczęcie infuzji, gdy blokada
+nerwowo- mięśniowa zaczyna ustępować. Szybkość infuzji należy dostosować do utrzymania reakcji
+skurczowej mięśni na bodziec na poziomie 10% wartości kontrolnej lub utrzymania 1 do 2 odpowiedzi
+na stymulację ciągiem czterech impulsów.
+U dorosłych poddanych znieczuleniu dożylnemu szybkość infuzji wymagana do utrzymania blokady
+nerwowo - mięśniowej na powyższym poziomie wynosi 0,3- 0,6 mg/kg mc./h. W przypadku
+znieczulenia wziewnego szybkość infuzji wynosi 0,3- 0,4 mg/kg mc./h.
+Ponieważ wymagania dotyczące szybkości infuzji różnią się w zależności od indywidualnych cech
+pacjenta oraz zastosowanej metody znieczulenia, niezbędne jest ciągłe monitorowanie blokady
+nerwowo - mięśniowej.
+
+Dawkowanie u kobiet w ciąży:
+U pacjentek poddanych cesarskiemu cięciu zaleca się stosowanie bromku rokuronium wyłącznie w
+dawce 0,6 mg na kg masy ciała, ponieważ nie ma danych dotyczących stosowania dawki 1,0 mg/kg
+mc. w tej grupie pacjentów.
+Zniesienie blokady nerwowo- mięśniowej wywołanej przez leki zwiotczające mięśnie może być
+zahamowane lub niezadowalające u pacjentek przyjmujących sole magnezu podczas leczenia zatrucia
+ciążowego, ponieważ sole magnezu nasilają blokadę nerwowo- mięśniową. Dlatego u tych pacjentek
+należy zmniejszyć dawkę bromku rokuronium i miareczkować produkt, aż do uzyskania odpowiedzi
+w postaci reakcji skurczowej.
+
+Dzieci i młodzież
+U noworodków (0 – 27 dnia), niemowląt (28 dni - 2 miesiące), małych dzieci (3 – 23 miesiące) dzieci
+(2-11 lat) oraz młodzieży (12 do ≤ 17 lat) zalecane dawki intubacyjne stosowane podczas
+standardowego znieczulenia oraz dawki podtrzymujące zbliżone są do stosowanych u dorosłych
+pacjentów.
+Niemniej jednak czas działania dawki intubacyjnej będzie dłuższy w przypadku noworodków i
+niemowląt, niż u dzieci (patrz punkt 5.1)
+W przypadku ciągłej infuzji, u dzieci i młodzieży za wyjątkiem dzieci przeprowadza się infuzję z
+identyczną szybkością, jak u pacjentów dorosłych. Konieczne może okazać się zwiększenie szybkości
+infuzji u dzieci.
+
+                                                 2
+Doświadczenie w zakresie stosowania bromku rokuronium w szybkiej infuzji sekwencyjnej u dzieci
+jest ograniczone. Z tego powodu nie zaleca się stosowania bromku rokuronium u dzieci i młodzieży w
+celu ułatwienia intubacji dotchawiczej za pomocą szybkiej indukcji sekwencyjnej
+
+Pacjenci w podeszłym wieku, pacjenci ze schorzeniami wątroby i (lub) dróg żółciowych i (lub)
+niewydolnością nerek:
+Standardowa dawka intubacyjna dla pacjentów w podeszłym wieku oraz pacjentów ze schorzeniami
+wątroby i (lub) dróg żółciowych i (lub) niewydolnością nerek podczas rutynowego znieczulenia
+wynosi 0,6 mg bromku rokuronium na kg masy ciała. Jeżeli u pacjenta przewiduje się wystąpienie
+przedłużonego działania leku, należy rozważyć zastosowanie dawki 0,6 mg na kg masy ciała do
+szybkiej indukcji sekwencyjnej znieczulenia. Warunki odpowiednie dla intubacji mogą nie być
+osiągnięte w ciągu 90 sekund po podaniu bromku rokuronium. Niezależnie od zastosowanej techniki
+znieczulenia, zalecana dawka podtrzymująca dla tych pacjentów wynosi 0,075- 0,1 mg bromku
+rokuronium na kg masy ciała, a zalecana szybkość infuzji - 0,3- 0,4 mg/kg mc./h (patrz punkt „Ciągła
+infuzja”).
+
+Pacjenci z nadwagą i otyli:
+W przypadku zastosowania produktu u pacjentów z nadwagą lub otyłych (definiowanych jako
+pacjenci z masą ciała o 30 lub więcej procent większą niż należna masa ciała), dawki należy obliczyć
+w oparciu o beztłuszczową masę ciała.
+
+Procedury intensywnej opieki medycznej
+
+Intubacja dotchawicza
+W przypadku intubacji dotchawiczej należy zastosować identyczne dawki, jak opisane powyżej dla
+zabiegów chirurgicznych.
+
+Sposób podawania
+Podanie dożylne
+Bromek rokuronium podaje się dożylnie (iv.) w postaci bolusa lub wlewu ciągłego (w celu uzyskania
+dalszych informacji patrz punkt 6.6)
+
+4.3    Przeciwwskazania
+
+Zastosowanie bromku rokuronium jest przeciwwskazane u pacjentów z nadwrażliwością na bromek
+rokuronium, jony bromkowe lub którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1.
+
+4.4    Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Bromek rokuronium powinien być używany wyłącznie przez doświadczony personel medyczny,
+wykwalifikowany w stosowaniu leków zwiotczających mięśnie. Niezbędna jest stała dostępność
+odpowiednich warunków oraz osób posiadających doświadczenie w intubacji dotchawiczej oraz
+sztucznej wentylacji.
+Ponieważ bromek rokuronium powoduje porażenie mięśni oddechowych, niezbędne jest wspomaganie
+wentylacji u pacjentów leczonych produktem, aż do samoistnego przywrócenia czynności
+oddechowych. Podobnie jak w przypadku innych leków zwiotczających mięśnie, należy uwzględnić
+możliwość wystąpienia trudności podczas intubacji, szczególnie w przypadku stosowania techniki
+szybkiej indukcji sekwencyjnej.
+Podobnie jak w przypadku innych leków zwiotczających mięśnie, podczas stosowania bromku
+rokuronium odnotowano występowanie zjawiska powtórnego zwiotczenia mięśni (rekuraryzacji). W
+celu uniknięcia powikłań będących skutkiem rekuraryzacji, zaleca się usunięcie rurki intubacyjnej
+wyłącznie po stwierdzeniu ustąpienia blokady nerwowo-mięśniowej. Należy uwzględnić również inne
+czynniki mogące wywołać rekuraryzację po ekstubacji w fazie pooperacyjnej (np. interakcje pomiędzy
+lekami lub stan pacjenta). Jeśli nie jest to element standardowej praktyki klinicznej, należy rozważyć
+zastosowanie środka znoszącego zwiotczenie mięśni (jak sugammadex lub inhibitory acetylocholino
+esterazy), szczególnie w przypadkach zwiększonego ryzyka wystąpienia rekuraryzacji.
+
+
+                                                  3
+Niezwykle ważne jest upewnienie się, że pacjent oddycha samoistnie, głęboko i regularnie zanim
+zezwoli się na opuszczenie przez niego sali operacyjnej.
+Po podaniu leków zwiotczających mięśnie mogą wystąpić reakcje anafilaktyczne (patrz wyżej).
+Zawsze należy zastosować odpowiednie środki ostrożności w celu przeciwdziałania tego typu
+reakcjom. Szczególnie istotne jest to w przypadku zaistniałych uprzednio reakcji anafilaktycznych na
+leki zwiotczające mięśnie. Z uwagi na odnotowane przypadki wystąpienia alergicznej reakcji
+krzyżowej należy wówczas zastosować specjalne środki ostrożności.
+Dawki większe niż 0,9 mg bromku rokuronium na kg masy ciała mogą przyspieszać czynność serca;
+to działanie leku może neutralizować bradykardię wywołaną przez inne leki stosowane w znieczuleniu
+lub przez stymulację nerwu błędnego.
+U pacjentów leczonych na oddziałach intensywnej opieki medycznej odnotowywano przedłużone
+porażenie i (lub) osłabienie mięśni szkieletowych w następstwie długotrwałego stosowania leków
+zwiotczających mięśnie. W celu wykluczenia przedłużonego czasu trwania blokady nerwowo-
+mięśniowej i (lub) przedawkowania zaleca się monitorowanie przewodnictwa nerwowo- mięśniowego
+podczas stosowania leków zwiotczających mięśnie. Oprócz tego, pacjenci powinni być poddani
+odpowiedniemu znieczuleniu i sedacji. Ponadto, leki zwiotczające mięśnie powinny być
+miareczkowane do uzyskania pożądanego efektu u poszczególnych pacjentów. Wyżej wymienione
+procedury powinny być wykonywane pod nadzorem doświadczonego klinicysty znającego skutki
+stosowania produktu oraz biegłego w technikach monitorowania przewodnictwa nerwowo-
+mięśniowego.
+Regularnie obserwowano występowanie miopatii u pacjentów długotrwale przyjmujących
+niedepolaryzujące leki blokujące przewodnictwo nerwowo-mięśniowe równocześnie z
+kortykosteroidami. Okresy równoczesnego stosowania leków należy ograniczyć do niezbędnego
+minimum (Patrz punkt 4.5).
+W przypadku stosowania w celu intubacji suksametonium, stosowanie rokuronium może być
+zastosowane jedynie po całkowitym ustąpieniu blokady nerwowo-mięśniowej wywołanej podaniem
+suksametonium.
+
+Na farmakokinetykę i (lub) farmakodynamikę bromku rokuronium mogą wpływać następujące stany
+chorobowe:
+
+Choroby wątroby i (lub) dróg żółciowych oraz niewydolność nerek
+Bromek rokuronium jest wydalany z moczem i żółcią. Powinien być więc ostrożnie stosowany u
+pacjentów z klinicznie istotnymi chorobami wątroby i (lub) dróg żółciowych i (lub) niewydolnością
+nerek. W tych grupach pacjentów przedłużenie działania produktu obserwowano w przypadku
+stosowania dawek 0,6 mg bromku rokuronium na kg masy ciała.
+
+Spowolniony przepływ krwi
+Stany powiązane z przedłużonym czasem krążenia, jak choroby układu krążenia, zaawansowany wiek
+lub obrzęki skutkujące zwiększoną objętością dystrybucji mogą stanowić przyczynę opóźnionego
+rozpoczęcia działania produktu. Obniżony klirens osocza może również wydłużać działanie produktu.
+
+Choroby nerwowo-mięśniowe
+Podobnie jak w przypadku innych leków zwiotczających mięśnie, bromek rokuronium powinien być
+stosowany z niezwykłą ostrożnością u pacjentów z chorobami nerwowo- mięśniowymi lub z chorobą
+Heinego-Medina, ponieważ odpowiedź na leki zwiotczające mięśnie u tych chorych może być
+odmienna. Nasilenie i charakter zmian mogą być zróżnicowane. U pacjentów z miastenią lub
+miastenicznym zespołem Eatona - Lamberta, małe dawki bromku rokuronium mogą wykazywać
+intensywne działanie, należy więc dostosować dawkę bromku rokuronium, aż do uzyskania
+odpowiedzi.
+
+Hipotermia
+Podczas zabiegu chirurgicznego w warunkach hipotermii, działanie blokujące przewodnictwo
+nerwowo-mięśniowe wywołane bromkiem rokuronium jest zwiększone, a czas działania - wydłużony.
+
+
+
+
+                                                 4
+Otyłość
+Podobnie jak w przypadku innych leków zwiotczających mięśnie, bromek rokuronium może
+wykazywać wydłużony czas działania oraz przedłużony czas samoistnego przywrócenia napięcia
+mięśniowego u pacjentów z otyłością jeżeli stosuje się dawki obliczone w oparciu o rzeczywistą masę
+ciała.
+
+Oparzenia
+U pacjentów z oparzeniami rozwija się oporność na niedepolaryzujące leki zwiotczające mięśnie.
+Zaleca się dostosowanie dawki produktu do uzyskanego działania terapeutycznego.
+
+Stany mogące być przyczyną zwiększonego działania bromku rokuronium
+Hipokaliemia (np. po ciężkich wymiotach, biegunce lub leczeniu diuretykami), hipermagnezemia,
+hipokalcemia (po rozległych transfuzjach), hipoproteinemia, odwodnienie, kwasica, hiperkapnia i
+kacheksja.
+Istotne zaburzenia stężeń elektrolitów, zmiany pH krwi lub odwodnienie powinny w miarę możliwości
+zostać ustabilizowane.
+
+Produkt leczniczy zawiera mniej niż 1 mmol sodu (23 mg) w pojedynczej dawce, co kwalifikuje go
+jako „nie zawierający sodu”.
+
+4.5    Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Następujące leki wykazują wpływ na intensywność i (lub) długość działania niedepolaryzujących
+blokujących przewodnictwo nerwowo-mięśniowe produktów leczniczych:
+
+Wpływ innych produktów leczniczych na działanie bromku rokuronium
+Nasilenie działania:
+▪ Halogenowe lotne leki znieczulające wzmacniają efekt działania bromku rokuronium w zakresie
+  blokady nerwowo-mięśniowej. Widoczne jest to tylko w przypadku dawek podtrzymujących (patrz
+  punkt 4.2). spowolniony może być także proces znoszenia blokady przez inhibitory acetylocholino
+  esterazy.
+▪ Duże dawki: tiopentalu, metoheksitalu, ketaminy, fentanylu, kwasu gammahydroksymasłowego,
+  etomidatu i propofolu
+▪ Uprzednie podanie suksametonium (patrz punkt 4.4)
+▪ Długotrwałe równoczesne stosowanie kortykosteroidów i bromku rokuronium na oddziałach
+  intensywnej opieki medycznej może skutkować przedłużonym czasem trwania blokady nerwowo-
+  mięśniowej lub miopatii (patrz punkt 4.4 i 4.8).
+
+Inne produkty lecznicze:
+− antybiotyki: aminoglikozydy, linkozamidy (np. linkomycyna, klindamycyna), antybiotyki
+   polipeptydowe, antybiotyki acyloamino- penicylinowe, tetracykliny, duże dawki metronidazolu
+− diuretyki, tiamina, inhibitory MAO, chinidyna oraz jej izomer chinina, protamina, leki blokujące
+   receptory adrenergiczne, sole magnezu, leki blokujące kanały wapniowe, sole litu oraz leki
+   znieczulające stosowane miejscowo (lidokaina w postaci dożylnej, bupiwakaina stosowana
+   zewnątrzoponowo) oraz szybkie podanie fenytoiny lub czynników blokujących β.
+
+Odnotowano przypadki wystąpienia rekuraryzacji po pooperacyjnym zastosowaniu aminoglikozydów,
+linkozamidów, antybiotyków polipeptydowych, penicylin, chinidyny, chininy i soli magnezu (patrz
+punkt 4.4).
+
+Zmniejszenie działania leku:
+▪ Neostygmina, edrofonium, pirydostygmina, pochodne aminopirydyny
+▪ Uprzednie długotrwałe stosowanie kortykosteroidów, fenytoiny lub karbamazepiny
+▪ Inhibitory proteaz
+
+
+
+
+                                                 5
+Zmienny skutek:
+▪ Zastosowanie innych niedepolaryzujących leków blokujących przewodnictwo nerwowo-mięśniowe
+  w połączeniu z bromkiem rokuronium może spowodować zmniejszenie lub zwiększenie blokady
+  nerwowo-mięśniowej w zależności od kolejności podawania leków oraz zastosowanego leku
+  blokującego przewodnictwo nerwowo-mięśniowe.
+▪ Podanie suksametonium po zastosowaniu bromku rokuronium może skutkować wzmożeniem lub
+  osłabieniem blokującego przewodnictwo nerwowo-mięśniowe działania bromku rokuronium.
+
+Działanie rokuronium na inne leki:
+Jednoczesne zastosowanie leku z lidokainą może skutkować przyspieszeniem działania lidokainy.
+
+Dzieci
+Nie przeprowadzono oficjalnych badań dot. interakcji. Wymienione powyżej interakcje w przypadku
+pacjentów dorosłych oraz opisane specjalne ostrzeżenia i środki ostrożności (patrz punkt 4.4) należy
+uwzględnić również w przypadku dzieci.
+
+4.6     Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Istnieją ograniczone dane dotyczące stosowania bromku rokuronium u kobiet w okresie ciąży.
+Badania na zwierzętach dotyczące toksycznego wpływu na reprodukcję nie wykazały bezpośredniego
+ani pośredniego szkodliwego działania produktu (patrz punkt 5.3). Bromek rokuronium może być
+stosowany u kobiet w ciąży jedynie w przypadku bezwzględnej konieczności oraz po stwierdzeniu
+przez lekarza, że oczekiwane korzyści przewyższają potencjalne ryzyko.
+
+Cięcie cesarskie
+U pacjentek poddawanych cesarskiemu cięciu bromek rokuronium można stosować jako element
+techniki intubacji sekwencyjnej, nie przewiduje się komplikacji w trakcie intubacji, podana zostala
+wystarczająca dawka środka znieczulającego lub po zastosowaniu sumatonium. Potwierdzono
+bezpieczeństwo stosowania bromku rokuronium u pacjentek poddawanych cesarskiemu cięciu w
+dawce 0,6 mg/ kg masy ciała. Dawki takie nie wykazują wpływu na wynik skali Apgar, napięcie
+mięśniowe płodu lub adaptację układu krążenia i oddechowego.
+Badania krwi pępowinowej wskazują, iż przez łożysko przechodzą jedynie niewielkie ilości bromku
+rokuronium, nie powodujące klinicznie jawnych działań niepożądanych u noworodka.
+
+Uwaga 1: Badania dotyczące zastosowania dawki 1,0 mg/kg mc. przeprowadzono podczas szybkiej
+indukcji sekwencyjnej znieczulenia, jednak nie u pacjentek poddanych cesarskiemu cięciu.
+
+Uwaga 2: W przypadku pacjentów otrzymujących sole magnezu w leczeniu toksemii lub w czasie
+ciąży proces znoszenia blokady nerwowo-mięśniowej wywołanej środkami blokującymi
+przewodnictwo nerwowo-mięśniowe może być spowolniony lub niewystarczający. W związku z tym
+w tych przypadkach dawki bromku rokuronium należy zmniejszyć i miareczkować.
+
+Karmienie piersią
+Nie wiadomo, czy bromek rokuronium lub jego metabolity przenikają do mleka ludzkiego. Inne leki z
+tej grupy wykazywały niewielką zdolność do przenikania do mleka kobiet karmiących piersią oraz
+wnikania do organizmu karmionego dziecka. Badania na zwierzętach wykazały przenikanie produktu
+do mleka kobiet karmiących piersią w znikomej ilości.
+Należy podjąć decyzję, czy przerwać karmienie piersią czy przerwać leczenie bromkiem rokuronium
+lub powstrzymać się od niego, biorąc pod uwagę korzyści płynące z karmienia piersią dla dziecka oraz
+korzyści z leczenia dla kobiety.
+
+Płodność
+Brak jest danych dotyczących wpływu bromku rokuronium na płodność.
+
+
+
+
+                                                  6
+4.7    Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Bromek rokuronium wykazuje istotny wpływ na zdolność prowadzenia pojazdów mechanicznych i
+obsługiwania urządzeń mechanicznych w ruchu. Nie zaleca się obsługiwania potencjalnie
+niebezpiecznych urządzeń mechanicznych lub prowadzenia samochodu w czasie pierwszych 24
+godzin po pełnym zniesieniu blokady nerwowo - mięśniowej wywołanej przez bromek rokuronium. W
+związku z tym, że bromek rokuronium stosowany jest jako uzupełnienie w znieczuleniu ogólnym, w
+przypadku pacjentów ambulatoryjnych należy przestrzegać standardowych środków ostrożności jak w
+przypadku znieczulenia ogólnego.
+
+4.8    Działania niepożądane
+
+Częstość występowania działań niepożądanych została sklasyfikowana w poniższych kategoriach:
+
+Niezbyt często /    (> 1/10.000 < 1/100)
+rzadko
+Bardzo rzadko       (< 1/10.000)
+Częstość            (Częstość nie może być określona na podstawie dostępnych danych)
+nieznana
+Częstości oszacowano w oparciu o raporty z badań porejestracyjnych oraz na podstawie literatury.
+Nadzór porejestracyjny nie daje precyzyjnych danych liczbowych. W związku z tym częstość
+występowania podzielono nie na pięć, ale na trzy kategorie częstości.
+
+Najczęściej występującymi działaniami niepożądanymi są ból i/lub miejscowe zmiany w okolicy
+miejsca podania, zaburzenia czynności życiowych oraz przedłużony czas trwania blokady nerwowo-
+mięśniowej. Najczęściej występującym ciężkim działaniem niepożądanym obserwowanym w trakcie
+badań porejestracyjnych były „reakcje anafilaktyczne i anafilaktoidalne” i towarzyszące im objawy.
+Patrz także poniżej.
+
+Zaburzenia układu immunologicznego
+Bardzo rzadko:
+   • reakcje nadwrażliwości;
+   • reakcja anafilaktyczna*;
+   • reakcje anafilaktoidalne;
+   • wstrząs anafilaktyczny;
+   • wstrząs anafilaktoidalny.
+
+Zaburzenia układu nerwowego
+Bardzo rzadko:
+   • porażenie wiotkie.
+
+Zaburzenia serca
+Niezbyt często / rzadko:
+    • tachykardia.
+Częstość nieznana:
+    • zespół Kounisa.
+
+Zaburzenia naczyniowe
+Niezbyt często / rzadko:
+    • niskie ciśnienie krwi.
+Bardzo rzadko:
+    • zapaść krążeniowa i wstrząs;
+    • uderzenia gorąca.
+
+
+
+
+                                                 7
+Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia
+Bardzo rzadko:
+   • skurcz oskrzeli.
+Częstość nieznana:
+   • bezdech;
+   • niewydolność oddechowa.
+
+Zaburzenia skóry i tkanki podskórnej
+Bardzo rzadko:
+   • wysypka, wysypka rumieniowata;
+   • obrzęk naczyniowo-sercowy;
+   • pokrzywka;
+   • świąd;
+   • wykwity.
+
+Zaburzenia mięśniowo-szkieletowe, tkanki łącznej i kości
+Bardzo rzadko:
+   • osłabienie mięśni szkieletowych (po długotrwałym stosowaniu na oddziale intensywnej
+       opieki);
+   • miopatia steroidowa (po długotrwałym stosowaniu na oddziale intensywnej opieki) (patrz
+       punkt 4.4).
+
+Zaburzenia ogólne i stany w miejscu podania
+Bardzo rzadko:
+   • obrzęk twarzy.
+
+Niezbyt często / rzadko:
+    • brak skuteczności;
+    • obniżony efekt działania / odpowiedź terapeutyczna;
+    • zwiększony efekt działania / odpowiedź terapeutyczna;
+    • ból miejscu podania i/lub reakcje miejscowe*.
+
+Badania diagnostyczne:
+Bardzo rzadko:
+   • zwiększone stężenie histaminy*.
+
+Urazy, zatrucia i powikłania po zabiegach
+Bardzo rzadko:
+   • komplikacje dróg oddechowych w trakcie znieczulenia.
+
+Niezbyt często / rzadko:
+    • przedłużony czas trwania blokady nerwowo- mięśniowej*;
+    • wydłużony czas wychodzenia ze znieczulenia.
+
+Dzieci
+Meta analiza 11 badań klinicznych obejmujących dzieci (n=704), którym podawano bromek
+rokuronium (w dawkach do 1 mg/kg) wykazała, że tachykardia występowała jako działanie
+niepożądane z częstością 1,4%.
+
+*Informacje dotyczące niektórych działań niepożądanych
+
+Anafilaksja
+Mimo iż częstość występowania była bardzo rzadka, to jednak odnotowano ciężkie reakcje
+anafilaktyczne / anafilaktoidalne na leki zwiotczające mięśnie, w tym bromek rokuronium. Wśród
+reakcji anafilaktycznych / anafilaktoidalnych odnotowano: skurcz oskrzeli, zmiany sercowo-
+naczyniowe (np. niskie ciśnienie krwi, tachykardia, zapaść krążeniowa – wstrząs), a także zmiany
+
+                                                 8
+skórne (np. obrzęk naczynioruchowy, pokrzywka). W niektórych przypadkach reakcje te prowadziły
+do zgonu pacjenta. Z uwagi na możliwy poważny charakter tego typu reakcji, należy zawsze
+uwzględnić możliwość ich wystąpienia i podjąć konieczne środki ostrożności.
+
+Odczyny w miejscu wstrzyknięcia
+Podczas szybkiej indukcji sekwencyjnej znieczulenia odnotowano występowanie bólu w miejscu
+wstrzyknięcia leku, szczególnie w przypadkach niepełnej utraty świadomości przez pacjenta oraz
+podczas stosowania propofolu jako produktu leczniczego indukującego znieczulenie. Podczas badań
+klinicznych odnotowano ból w miejscu podania u 16% pacjentów poddanych szybkiej indukcji
+sekwencyjnej znieczulenia z zastosowaniem propofolu oraz u mniej niż 0,5% pacjentów poddanych
+szybkiej indukcji sekwencyjnej z zastosowaniem fentanylu i tiopentalu.
+
+Zwiększone stężenie histaminy
+Ponieważ leki blokujące przewodnictwo nerwowo-mięśniowe wykazują zarówno miejscowe, w
+miejscu podania, jak i ogólne działanie indukujące uwalnianie histaminy, możliwe jest wystąpienie
+świądu oraz reakcji rumieniowych w miejscu podania leku i (lub) uogólnionej reakcji histaminowej
+(anafilaktoidalnej) (patrz także wyżej w punkcie reakcje anafilaktyczne)..
+
+Podczas badań klinicznych obserwowano jedynie nieznaczne zwiększenie stężenia histaminy w
+osoczu po podaniu bolusa bromku rokuronium w dawce 0,3- 0,9 mg na kg masy ciała.
+
+Przedłużony czas trwania bloku nerwowo-mięśniowego
+Najczęstszym działaniem niepożądanym wywołanym niedepolaryzującymi lekami blokującymi
+przewodnictwo nerwowo-mięśniowe jest przedłużenie czasu działania farmakologicznego leku ponad
+pożądany okres. Objawy mogą mieć zróżnicowany charakter, od osłabienia mięśni szkieletowych po
+całkowity i długotrwały paraliż mięśni szkieletowych skutkujący niewydolnością oddechową lub
+bezdechem.
+
+Miopatia
+Przypadki miopatii obserwowano po podaniu różnych środków blokujących przewodnictwo nerwowo-
+mięśniowe na oddziałach intensywnej opieki w połączeniu z kortykosteroidami (patrz punkt 4.4).
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C, 02-222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9    Przedawkowanie
+
+Objawy
+Głównym symptomem przedawkowania jest przedłużony blok nerwowo-mięśniowy.
+
+W badaniach na zwierzętach, ciężką depresję układu krążenia ostatecznie prowadzącą do zapaści
+sercowej odnotowano jedynie przy podawaniu dawki kumulacyjnej wynoszącej 750 x ED90 (135 mg
+na kg masy ciała).
+
+Leczenie
+W przypadku przedawkowania oraz przedłużonej blokady nerwowo- mięśniowej należy kontynuować
+wspomaganie wentylacji oraz sedację pacjenta. Znane są dwie metody zniesienia blokady nerwowo-
+mięśniowej: (1) Pacjentom dorosłym można podać sugammedex w celu zniesienia dużego
+
+                                                 9
+(głębokiego) bloku. Dawka sugammedex-u zależeć będzie od poziomu blokady nerwowo-mięśniowej.
+(2) W przypadku rozpoczęcia spontanicznego wyjścia ze znieczulenia podać można inhibitory
+acetylocholino esterazy (np. neostygmina, edrofonium, pirydostygmina) lub sugammedex, w
+odpowiednich dawkach. Jeżeli stosowanie leków hamujących acetylocholinesterazę nie znosi blokady
+nerwowo- mięśniowej wywołanej przez bromek rokuronium, należy kontynuować sztuczną
+wentylację aż do pojawienia się samoistnego oddychania. Powtarzanie dawki inhibitorów
+acetylocholinesterazy może być niebezpieczne dla pacjenta.
+
+
+5.      WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1     Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: leki zwiotczające mięśnie, leki działające obwodowo, inne
+czwartorzędowe związki amoniowe
+kod ATC: M03AC09
+
+Efekt farmakodynamiczny
+Bromek rokuronium jest nie depolaryzującym lekiem wywołującym blokadę nerwowo- mięśniową, o
+średnio długim czasie działania i szybkim początku działania, posiadającym wszystkie
+charakterystyczne dla tej klasy leków cechy działania (kuraropodobne). Działa konkurencyjnie na
+poziomie nikotynowego receptora cholinergicznego w płytce motorycznej.
+Wartość ED90 (dawka wymagana do uzyskania 90% zniesienia reakcji skurczowej kciuka na
+stymulację nerwu łokciowego) podczas znieczulenia zrównoważonego wynosi około 0,3 mg na
+kg masy ciała.
+
+Skuteczność kliniczna i bezpieczeństwo stosowania
+Rutynowa praktyka lekarska
+W czasie 60 sekund po podaniu dożylnym dawki 0,6 mg bromku rokuronium na kg masy ciała (2 x
+ED90 w znieczuleniu zrównoważonym), warunki umożliwiające intubację osiąga się u prawie
+wszystkich pacjentów. U 80% tych pacjentów warunki intubacji ocenia się jako znakomite. W ciągu 2
+minut osiągane jest uogólnione porażenie mięśni odpowiednie dla przeprowadzenia wszelkiego typu
+zabiegów. Kliniczny czas działania (czas do samoistnego powrotu do wartości 25% kontrolnej reakcji
+skurczowej na bodziec) po tej dawce wynosi 30 - 40 minut. Całkowity czas działania (czas do
+samoistnego powrotu do wartości 90% kontrolnej reakcji skurczowej) wynosi 50 minut. Średni czas
+samoistnego powrotu reakcji skurczowej od 25% do 75 % (wskaźnik ustąpienia działania) po podaniu
+bolusa dawki 0,6 mg bromku rokuronium na kg masy ciała wynosi 14 minut.
+W przypadku niższych dawek bromku rokuronium, wynoszących 0,3 - 0,45 mg na kg masy ciała
+(1 - 1 ½ x 2 x ED 90), początek działania jest wolniejszy, a czas działania ulega skróceniu (13-26 min).
+Po podaniu 0,45 mg bromku rokuronium na kg masy ciała, zadowalające warunki do intubacji osiąga
+się po 90 sekundach.
+
+Intubacja w stanach zagrożenia życia
+Podczas szybkiej indukcji sekwencyjnej znieczulenia z zastosowaniem propofolu lub fentanylu lub
+tiopentalu, warunki odpowiednie do intubacji osiąga się w ciągu 60 sekund, odpowiednio u 93 i 96 %
+pacjentów, po podaniu bromku rokuronium w dawce 1,0 mg na kg masy ciała. W tych grupach, u 70%
+pacjentów warunki do intubacji oceniane są jako znakomite. Kliniczny czas działania po tej dawce
+wynosi 1 godzinę, w czasie której blokada nerwowo - mięśniowa może być bezpiecznie zniesiona. Po
+podaniu bromku rokuronium w dawce 0,6 mg na kg masy ciała, warunki odpowiednie do intubacji
+uzyskuje się w ciągu 60 sekund u 81% i 75% pacjentów podczas szybkiej indukcji sekwencyjnej przy
+znieczuleniu z zastosowaniem, odpowiednio, propofolu lub fentanylu lub tiopentalu.
+Dawki większe niż 1 mg bromku rokuronium na kg masy ciała nie poprawiają w sposób dostrzegalny
+warunków intubacji, jednak czas działania produktu ulega przedłużeniu.
+Dawki większe niż 4 x ED 90 nie były badane.
+
+
+
+
+                                                   10
+Intensywna opieka medyczna
+Zastosowanie rokuronium na oddziale intensywnej opieki medycznej oceniano w dwóch otwartych
+badaniach klinicznych. U łącznej liczby 95 dorosłych pacjentów zastosowano dawkę początkową 0,6
+mg bromku rokuronium na kg masy ciała, a następnie ciągły wlew dożylny 0,2-0,5 mg/kg mc./h w
+ciągu pierwszej godziny podawania, aż do powrotu reakcji skurczowej do wartości 10% reakcji
+kontrolnej lub powrocie stymulacji ciągiem czterech impulsów do wartości 1 lub 2. Dawki leku
+dostosowywano indywidualnie aż do uzyskania pożądanej reakcji. W czasie kolejnych godzin
+podawania zmniejszano dawki produktu pod kontrolą stymulacji ciągiem czterech impulsów. W
+badaniach oceniano stosowanie produktu w okresie do 7 dni.
+
+Podczas badań stwierdzono odpowiedni stan zablokowania przewodnictwa nerwowo-mięśniowego,
+jednak obserwowano znaczną zmienność godzinowej szybkości wlewu pomiędzy poszczególnymi
+pacjentami oraz przedłużony czas trwania blokady nerwowo- mięśniowej.
+
+Czas powrotu stymulacji ciągiem czterech impulsów do wartości 0,7 nie wykazuje istotnego związku
+z łącznym czasem trwania infuzji. Po ciągłej infuzji trwającej 20 godzin lub dłużej, mediana czasu
+pomiędzy powrotem T2 w stymulacji ciągiem czterech impulsów i powrotem wartości stymulacji
+ciągiem czterech impulsów do 0,7 wykazywała zmienność w granicach 0,8 do 12,5 godz. u pacjentów
+bez niewydolności wielonarządowej i 1,2 - 25,5 godz. u pacjentów z niewydolnością wielonarządową.
+
+Dzieci i młodzież
+Średni czas rozpoczęcia działania leku po zastosowaniu dawki 0,6 mg/kg mc. u niemowląt i dzieci jest
+krótszy, niż u dorosłych pacjentów. W porównaniu przeprowadzonym dla dzieci w różnym wieku
+stwierdzono, że średni czas rozpoczęcia działania leku u noworodków i młodzieży (1 min) jest
+odrobinę dłuższy, niż w przypadku niemowląt, małych dzieci i dzieci (odpowiednio 0,4, 0,6 i 0,8 min).
+Czas trwania znieczulenia i czas potrzebny na wyjście ze znieczulenia jest krótszy w przypadku dzieci
+w porównaniu z noworodkami i pacjentami dorosłymi. Porównując różne grupy wiekowe
+stwierdzono, że przywrócenie T3 jest wydłużone u noworodków i niemowląt (56,7 i 60,7 min) w
+stosunku do małych dzieci, dzieci i młodzieży (odpowiednio 45,3, 37,6 i 42,9 min).
+
+Średni czas wprowadzenia do znieczulenia (SD) i czas działania klinicznego po podaniu dawki 0,6
+mg/kg rokuronium w początkowej dawce intubacyjnej* w przypadku znieczulania z zastosowaniem
+sewofluranu / tlenku azotawego oraz izofluranu / tlenku azotawego (podtrzymanie) (dzieci i młodzież)
+grupa PP
+
+                                  Czas potrzebny do uzyskania        Czas potrzebny do
+                                  maksymalnej blokady** (min)        przywrócenia T3** (min)
+Noworodki (0-27 dni)              0,98 (0,62)                        56,69 (37,04)
+n=10                                                                 n=9
+Niemowlęta (28 dni – 2            0,44 (0,19)                        60,71 (16,52)
+miesiące)                         n=10                               n=11
+n=11
+Małe dzieci (3 – 23 miesiące)     0,59 (0,27)                        45,46 (12,94)
+n=30                              n=28                               n=27
+Dzieci (2 – 11 lat)               0,84 (0,29)                        37,58 (11,82)
+n=34                              n=34
+Młodzież (12 – 17 lat)            0,98 (0,38)                        42,90 (15,83)
+n=31                                                                 n=30
+
+* Dawka rokuronium podana w czasie 5 sekund
+** Obliczona od zakończenia podawania dawki intubacyjnej rokuronium
+
+Specjalne populacje pacjentów
+Czas działania dawki podtrzymującej wynoszącej 0,15 mg bromku rokuronium na kg masy ciała może
+być nieznacznie dłuższy w przypadku zastosowania znieczulenia za pomocą enfluranu i izofluranu u
+pacjentów w podeszłym wieku i osób ze schorzeniami wątroby lub nerek (ok. 20 minut), niż u
+pacjentów bez zaburzenia czynności narządów wydalniczych poddanych znieczuleniu dożylnemu
+                                                 11
+(około 13 minut). Nie obserwowano kumulacji działania (stopniowe narastanie działania w czasie)
+przy powtarzaniu dawki podtrzymującej w zalecanym zakresie.
+
+Pacjenci poddani zabiegom chirurgicznym serca i naczyń
+U pacjentów poddanych zabiegom chirurgicznym serca i naczyń najczęściej występującymi zmianami
+w układzie sercowo - naczyniowym podczas maksymalnej wartości blokady po otrzymaniu bromku
+rokuronium w dawce 0,6 - 0,9 mg na kg masy ciała są: nieznaczne i kliniczne nieistotne
+przyspieszenie akcji serca do 9% oraz zwiększenie średniego ciśnienia tętniczego do 16% wartości
+kontrolnej.
+
+Antagoniści
+Zastosowanie inhibitorów acetylocholinesterazy, takich jak neostygmina, pirydostygmina czy
+edrofonium, powoduje działanie antagonistyczne w stosunku do bromku rokuronium.
+
+5.2     Właściwości farmakokinetyczne
+
+Dystrybucja i eliminacja
+Po podaniu dożylnym pojedynczej dawki bromku rokuronium, profil stężenia leku w osoczu przebiega
+w trzech fazach wykładniczych. U dorosłych średni (95% Cl) okres półtrwania w fazie eliminacji
+wynosi 77 (66-80) minut, Objętość dystrybucji w stanie stacjonarnym wynosi 203 (193-214) ml/kg
+mc., a klirens osoczowy ma wartość 3,7 (3.5-3.9) ml/kg mc./min.
+
+W przypadku podawania produktu w postaci ciągłej infuzji w celu ułatwienia wentylacji mechanicznej
+w czasie 20 godzin lub dłuższym, średni okres półtrwania w fazie eliminacji oraz średnia objętość
+dystrybucji w stanie stacjonarnym są zwiększone. W kontrolowanych badaniach klinicznych
+stwierdzono dużą zmienność pomiędzy pacjentami, zależną od istoty i rozległości niewydolności
+narządu oraz indywidualnych cech pacjenta. U pacjentów z niewydolnością wielonarządową średni
+(±SD) okres półtrwania w fazie eliminacji wynosił 21.5 (±3.3) godz., objętość dystrybucji w stanie
+stacjonarnym - 1.5 (±0.8) l/kg mc. a klirens osoczowy- 2.1 (±0.8) ml/kg mc./min..
+Bromek rokuronium jest wydalany z moczem i żółcią. Wydalanie z moczem osiąga wartość 40% w
+czasie 12-24 godzin. Po wstrzyknięciu znakowanej radioizotopowo dawki bromku rokuronium,
+średnio 47% radioizotopu wydalane jest z moczem i 43 % z kałem po 9 dniach. Około 50 % dawki
+produktu powraca do postaci bromku rokuronium.
+
+Metabolizm
+Nie stwierdzono obecności metabolitów w osoczu.
+
+Dzieci i młodzież
+Pozorna objętość dystrybucji u niemowląt (3-12 miesięcy) jest większa, niż u starszych dzieci (1-8 lat)
+oraz dorosłych. U dzieci w wieku 3-8 lat klirens jest większy, zaś okres półtrwania w fazie eliminacji-
+krótszy o 20 minut, w porównaniu z pacjentami dorosłymi i dziećmi w wieku poniżej 3 lat.
+
+Farmakokinetykę (PK) bromku rokuronium u dzieci i młodzieży (n=146) w wieku do 17 lat oceniano
+w ramach analizy populacyjnej zbiorczych danych dotyczących farmakokinetyki z dwóch badań
+klinicznych w warunkach znieczulenia sewofluranem (indukcyjne) i izofluranem/podtlenkiem azotu
+(podtrzymujące). Wykazano, że wszystkie parametry farmakokinetyczne były liniowo proporcjonalne
+do masy ciała, co odzwierciedlono podobnym klirensem (CL; l/kg/godz.). Objętość dystrybucji (l/kg) i
+okres półtrwania w fazie eliminacji (godz.) maleją wraz z wiekiem (lata). Parametry
+farmakokinetyczne standardowych pacjentów w grupie dzieci i młodzieży podsumowano poniżej:
+
+
+
+
+                                                  12
+Oszacowane parametry farmakokinetyczne (PK) bromku rokuronium u standardowych pacjentów w
+grupie dzieci i młodzieży podczas stosowania sewofluranu i podtlenku azotu (indukcyjne) oraz
+izofluranu/podtlenku azotu (podtrzymujące)
+                                              Zakres wieku pacjenta
+                    Noworodki         Niemowlęta      Małe dzieci     Starsze dzieci      Młodzież
+                     urodzone o
+                       czasie
+  Parametry PK       (do 27 dni)     (od 28 dni do    (od 3 do 23      (od 2 do 11      (od 11 do 17
+                                      2 miesięcy)      miesięcy)           lat)              lat)
+ CL
+ (l/kg/godz.)       0,31 (0,07)      0,30 (0,08)        0,33 (0,10)    0,35 (0,09)      0,29 (0,14)
+
+ Objętość
+                    0,42 (0,06)      0,31 (0,03)        0,23 (0,03)    0,18 (0,02)      0,18 (0,01)
+ dystrybucji
+ (l/kg)
+ t½β (godz.)         1,1 (0,2)        0,9 (0,3)          0,8 (0,2)      0,7 (0,2)        0,8 (0,3)
+
+Pacjenci w podeszłym wieku i pacjenci z zaburzeniami czynności nerek
+Klirens osocza u pacjentów w podeszłym wieku oraz u pacjentów z zaburzeniami czynności nerek jest
+w niewielkim stopniu zmniejszony, w porównaniu z młodszymi pacjentami z normalną czynnością
+nerek. W przypadku pacjentów z chorobami wątroby średni czas biologicznego półtrwania jest
+wydłużony o 30 minut, a średni klirens osocza obniżony o 1 ml/kg/min. (patrz także punkt 4.2).
+
+5.3     Przedkliniczne dane o bezpieczeństwie
+
+Dane niekliniczne, uzyskane na podstawie konwencjonalnych badań farmakologicznych dotyczących
+bezpieczeństwa stosowania, toksyczności po podaniu wielokrotnym, genotoksyczności, toksycznego
+wpływu na reprodukcję i rozwój potomstwa nie ujawniają występowania szczególnego zagrożenia dla
+człowieka.
+Nie przeprowadzono badań dotyczących potencjalnego działania rakotwórczego bromku rokuronium.
+
+
+6.      DANE FARMACEUTYCZNE
+
+6.1     Wykaz substancji pomocniczych
+
+Glukonolakton
+Sodu octan trójwodny
+Sodu cytrynian dwuwodny
+Woda do wstrzykiwań
+
+6.2     Niezgodności farmaceutyczne
+
+Udokumentowano niezgodność fizyczną bromku rokuronium w przypadku dodawania do roztworów
+zawierających następujące leki: amfoterycyna, amoksycylina, azatiopryna, cefazolin, kloksacylina,
+deksametazon, diazepam, enoksymon, erytromycyna, famotydyna, furosemid, sól sodowa
+bursztynianu hydrokortyzonu, insulina, intralipid, metoheksital, metyloprednizolon, sól sodowa
+bursztynianu prednizolonu, tiopental, trimetoprim i wankomycyna.
+
+Produktu leczniczego nie wolno mieszać z innymi lekami poza podanymi w punkcie 6.6.
+
+6.3     Okres ważności
+
+Zamknięta ampułka: 18 miesięcy
+
+Po pierwszym otwarciu: Produkt powinien być zużyty natychmiast po otwarciu ampułki.
+
+                                                   13
+Po rozcieńczeniu:
+Gotowy do użycia roztwór o stężeniu 5,0 mg/ml lub 0,1 mg/ml (rozcieńczony roztworem do infuzji
+chlorku sodu o stężeniu 9 mg/ml (0,9%) lub glukozy o stężeniu 50 mg/ml (5%)) wykazuje stabilność
+chemiczną i fizyczną przez 24 godziny w temperaturze pokojowej z dostępem światła w
+opakowaniach ze szkła, PE oraz PVC.
+Z uwagi na zagrożenie mikrobiologiczne, produkt powinien być użyty natychmiast. W przypadku gdy
+to nie nastąpi, za czas i warunki przechowywania roztworu gotowego do użycia odpowiedzialny jest
+użytkownik. Zwykle czas przechowywania nie powinien przekraczać 24 godzin w temperaturze 2 -
+8°C, chyba że rozcieńczenie odbywa się w kontrolowanych i zwalidowanych warunkach
+aseptycznych.
+
+6.4    Specjalne środki ostrożności podczas przechowywania
+
+Nie przechowywać w temperaturze powyżej 25°C.
+
+W celu zapoznania się z warunkami przechowywania produktu leczniczego po rozcieńczeniu, patrz
+punkt 6.3.
+
+6.5    Rodzaj i zawartość opakowania
+
+Ampułki z bezbarwnego polietylenu (LDPE) o pojemności 5 ml
+
+Rodzaje opakowań:
+Opakowanie zawierające 20 ampułek po 5 ml.
+
+Nie wszystkie rodzaje opakowań muszą znajdować się w obrocie.
+
+6.6    Szczególne środki ostrożności dotyczące usuwania i przygotowania leku do stosowania
+
+Wszelkie resztki niewykorzystanego produktu należy wylać.
+
+Roztwór należy obejrzeć przed użyciem. Przeznaczony do użycia może być wyłącznie przejrzysty
+roztwór, bez widocznych cząstek.
+
+Wykazano zgodność leku Rocuronium B. Braun z następującymi roztworami do infuzji: sodu chlorek
+9 mg/ml (0,9 %) oraz glukoza 50 mg/ml (5%).
+
+Jeżeli bromek rokuronium podawany jest przy użyciu tej samej linii infuzyjnej z innymi lekami,
+istotne jest odpowiednie przepłukanie linii infuzyjnej (np. za pomocą roztworu chlorku sodu do infuzji
+o stężeniu 9 mg/ml (0,9%)) pomiędzy podawaniem bromku rokuronium, a stosowaniem leków, dla
+których wykazano niezgodność z bromkiem rokuronium, lub w przypadku których nie określono
+zgodności z bromkiem rokuronium.
+
+Wszelkie resztki niewykorzystanego produktu leczniczego lub jego odpady należy usunąć w sposób
+zgodny z lokalnymi przepisami.
+
+Ampułki wykonane z LDPE są przeznaczone do stosowania łącznie ze strzykawkami wyposażonymi
+w złącza typu Luer Lock i Luer fit.
+
+
+7.     PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+       DOPUSZCZENIE DO OBROTU
+
+B.Braun Melsungen AG
+Carl-Braun-Strasse 1
+34212 Melsungen
+Niemcy
+
+                                                  14
+8.     NUMER(-Y) POZWOLENIA(Ń) NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr 16144
+
+
+9.     DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO
+       OBROTU / DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 10.11.2009
+Data ostatniego przedłużenia pozwolenia: 15.01.2013
+
+
+10.    DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+       CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+2020-02-28
+
+
+
+
+                                              15
+

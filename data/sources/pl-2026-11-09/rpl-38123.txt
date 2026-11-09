@@ -1,0 +1,503 @@
+                    CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Atracurium Kalceks, 10 mg/ml, roztwór do wstrzykiwań/do infuzji
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+1 ml roztworu zawiera 10 mg atrakuriowego bezylanu.
+Jedna ampułka (2,5 ml) zawiera 25 mg atrakuriowego bezylanu.
+Jedna ampułka (5 ml) zawiera 50 mg atrakuriowego bezylanu.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań/do infuzji.
+
+Klarowny, od bezbarwnego do żółtawego roztwór, bez widocznych cząstek.
+pH roztworu 3,30-3,65, osmolarność 10-30 mOsmol/kg.
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Produkt leczniczy jest stosowany jako wspomaganie podczas znieczulenia ogólnego w celu
+umożliwienia intubacji dotchawiczej, podczas zabiegów chirurgicznych lub prowadzenia
+kontrolowanej wentylacji w celu zwiotczenia mięśni szkieletowych, u pacjentów w oddziałach
+intensywnej terapii w celu ułatwienia mechanicznej wentylacji.
+
+4.2   Dawkowanie i sposób podawania
+
+Dawkowanie
+
+Dorośli
+
+Wstrzyknięcia dożylne
+Atrakuriowy bezylan podaje się we wstrzyknięciach dożylnych. Zalecana dawka dla osób dorosłych
+wynosi od 0,3 mg/kg mc. do 0,6 mg/kg mc. (zależnie od wymaganego czasu trwania pełnego bloku)
+i zapewnia odpowiednie zwiotczenie przez 15 do 35 minut.
+Intubację dotchawiczą można zazwyczaj wykonać przed upływem 90 sekund od dożylnego podania
+dawki od 0,5 mg/kg mc. do 0,6 mg/kg mc.
+Czas trwania pełnego bloku można przedłużyć podając w miarę potrzeby dodatkowe dawki 0,1 mg/kg
+mc. do 0,2 mg/kg mc. Podawanie kolejnych dodatkowych dawek nie nasila blokowania
+przewodnictwa nerwowo-mięśniowego.
+
+Cesarskie cięcie:
+Atrakuriowy bezylan nadaje się do utrzymania zwiotczenia mięśni podczas cesarskiego cięcia,
+ponieważ w zalecanych dawkach (0,3-0,6 mg/kg mc.) nie przenika przez łożysko w klinicznie istotnej
+ilości.
+
+Samoistny powrót przewodnictwa nerwowo-mięśniowego następuje po około 35 minutach, gdy
+funkcja nerwowo-mięśniowa powróci do 95% wartości początkowej (mierzonej przez przywrócenie
+odpowiedzi tężcowej). Blokadę przewodnictwa nerwowo-mięśniowego, wywołaną przez atrakuriowy
+bezylan, można szybko odwrócić bez obawy wystąpienia objawów rekuraryzacji, stosując
+standardowe dawki produktów z grupy inhibitorów cholinoesterazy, takich jak neostygmina
+i edrofonium, poprzedzone podaniem atropiny lub podane jednocześnie z atropiną.
+
+Infuzja ciągła
+Po podaniu pierwszej dawki od 0,3 mg/kg mc. do 0,6 mg/kg mc. w szybkim wstrzyknięciu dożylnym,
+atrakuriowy bezylan można stosować w postaci infuzji ciągłej w dawce od
+0,3 mg/kg mc./godzinę do 0,6 mg/kg mc./godzinę w celu utrzymania blokady przewodnictwa
+nerwowo-mięśniowego podczas długotrwałych zabiegów chirurgicznych.
+Atrakuriowy bezylan można podawać w zalecanych dawkach w postaci infuzji ciągłej podczas
+operacji kardiochirurgicznych z użyciem aparatu do krążenia pozaustrojowego.
+Obniżenie ciepłoty ciała do temperatury 25 do 26°C zmniejsza szybkość unieczynniania atrakurium,
+dlatego w tym przypadku można utrzymywać pełną blokadę przewodnictwa nerwowo-mięśniowego,
+stosując w postaci infuzji mniej więcej połowę dawki zalecanej w normotermii.
+
+Dzieci i młodzież
+Dawki stosowane u dzieci w wieku powyżej 1 miesiąca są w przeliczeniu na masę ciała takie same,
+jak u osób dorosłych.
+Ze względu na brak wystarczających danych nie zaleca się podawania atrakuriowego
+bezylanu noworodkom (patrz punkt 5.1).
+
+Pacjenci w podeszłym wieku
+Pacjentom w podeszłym wieku podaje się standardowe dawki. Zaleca się jednak powolne podawanie
+dawki początkowej, o wielkości bliskiej dolnej granicy zakresu dawek zalecanych.
+
+Pacjenci z zaburzeniem czynności nerek lub wątroby
+Atrakuriowy bezylan można podawać w standardowych dawkach pacjentom w każdym stadium
+zaawansowania niewydolności nerek lub wątroby, w tym również w stadiach krańcowych.
+
+Pacjenci z chorobami sercowo-naczyniowymi
+Osobom z klinicznie istotnymi objawami chorób sercowo-naczyniowych dawkę początkową należy
+wstrzykiwać powoli przez co najmniej 60 sekund.
+
+Pacjenci w oddziałach intensywnej terapii
+Podawanie atrakuriowego bezylanu można rozpocząć początkową dawką od 0,3 mg/kg mc. do
+0,6 mg/kg mc. podaną w szybkim wstrzyknięciu dożylnym, po czym w celu utrzymania blokady
+przewodnictwa nerwowo-mięśniowego atrakuriowygo bezylan można stosować w postaci ciągłej
+infuzji w dawce od 11 mikrogramów /kg mc./minutę do 13 mikrogramów /kg mc./minutę (0,65 mg/kg
+mc./godzinę do 0,78 mg/kg mc./godzinę). Jednakże podczas stosowania produktu występują duże
+indywidualne różnice wielkości skutecznych dawek. W miarę upływu czasu wielkość skutecznej
+dawki może ulegać zmianie. U niektórych pacjentów różnice wielkości skutecznych dawek wahają się
+od bardzo małych, jak np. 4,5 mikrogramów /kg mc./minutę (0,27 mg/kg mc./godzinę) do bardzo
+dużych, jak np. 29,5 mikrogramów /kg mc./minutę (1,77 mg/kg mc./godzinę).
+
+Długość czasu podawania produktu nie ma wpływu na szybkość samoistnego powrotu przewodnictwa
+nerwowo-mięśniowego u pacjentów w oddziałach intensywnej terapii. Po około 60 minutach (zakres
+od 32 do 108 minut) uzyskuje się spontaniczny powrót odpowiedzi skurczowej mięśni mierzonej
+metodą ciągu czterech impulsów do wartości > 0,75 (stosunek amplitudy czwartego skurczu do
+amplitudy pierwszego).
+
+Monitorowanie pacjentów
+W celu indywidualnego ustalenia wymaganej dawki produktu zaleca się monitorowanie
+przewodnictwa nerwowo-mięśniowego podczas podawania, tak jak się to czyni w przypadku
+wszystkich innych leków blokujących przewodnictwo nerwowo-mięśniowe.
+
+Sposób podawania
+Wstrzyknięcia dożylne lub infuzja.
+Instrukcja dotycząca rozcieńczania produktu leczniczego przed podaniem, patrz punkt 6.6.
+
+4.3   Przeciwwskazania
+
+Nadwrażliwość na atrakurium, cisatrakurium lub na którąkolwiek substancję pomocniczą wymienioną
+w punkcie 6.1.
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Tak jak wszystkie inne leki blokujące przewodnictwo nerwowo-mięśniowe, atrakuriowy bezylan
+poraża mięśnie oddechowe oraz inne mięśnie szkieletowe, nie wpływając na świadomość.
+Ten produkt leczniczy należy stosować wraz z odpowiednimi lekami znieczulającymi ogólnie.
+Produkt może być podawany przez doświadczonego anestezjologa lub pod jego ścisłą kontrolą,
+w warunkach umożliwiających wykonanie intubacji dotchawiczej i prowadzenie sztucznej wentylacji.
+
+Podczas podawania atrakuriowego bezylanu u części pacjentów może dojść do uwalniania histaminy.
+Dlatego atrakuriowy bezylan należy stosować ostrożnie u pacjentów, u których na podstawie wywiadu
+stwierdza się możliwość wystąpienia nadwrażliwości na histaminę. W szczególności u pacjentów
+z alergią i astmą oskrzelową w wywiadzie może wystąpić skurcz oskrzeli.
+
+Należy również zachować ostrożność podczas podawania atrakuriowego bezylanu pacjentom, którzy
+wykazywali nadwrażliwość na inne leki blokujące przewodnictwo nerwowo-mięśniowe, ze względu
+na dużą częstotliwość występowania nadwrażliwości krzyżowej (większej niż 50%) między lekami
+blokującymi przewodnictwo nerwowo-mięśniowe (patrz punkt 4.3).
+
+Atrakuriowy bezylan podany w zalecanych dawkach nie wykazuje istotnego wpływu na
+przewodnictwo w nerwie błędnym i zwojach nerwowych. W konsekwencji ten produkt podawany
+w zalecanym zakresie dawek nie wywiera klinicznie istotnego wpływu na czynność serca i nie
+przeciwdziała bradykardii wywoływanej lekami znieczulającymi lub pobudzeniem nerwu błędnego
+podczas operacji.
+
+Pacjenci z miastenią, innymi zaburzeniami przewodnictwa nerwowo-mięśniowego lub poważnymi
+zaburzeniami elektrolitowymi wykazują zwiększoną wrażliwość na działanie atrakuriowego bezylanu,
+podobnie jak na pozostałe leki zwiotczające, wywołujące blok niedepolaryzacyjny.
+
+Atrakuriowy bezylan należy wstrzykiwać przez co najmniej 60 sekund pacjentom, u których istnieje
+zwiększone ryzyko nagłego obniżenia ciśnienia tętniczego krwi, np. pacjentom z hipowolemią.
+
+Atrakuriowy bezylan podlega unieczynnieniu w wysokim pH i dlatego nie należy go w tej samej
+strzykawce łączyć z tiopentalem lub innymi lekami o odczynie zasadowym.
+
+W przypadku wyboru żyły o małej średnicy jako miejsca podania, po wstrzyknięciu atrakuriowego
+bezylanu, żyłę tę należy przepłukać izotonicznym roztworem chlorku sodu. Gdy przez założoną na
+stałe igłę lub kaniulę podaje się atrakuriowy bezylan i inne leki znieczulające, po wstrzyknięciu
+każdego leku należy każdorazowo dokonać przepłukania odpowiednią objętością izotonicznego
+roztworu chlorku sodu.
+
+Ponieważ atrakuriowy bezylan jest związkiem hipotonicznym, nie wolno podawać go do kaniuli
+przeznaczonej do przetaczania krwi.
+
+Badania dotyczące występowania hipertermii złośliwej u predysponowanych zwierząt (świnie) oraz
+badania kliniczne dotyczące występowania jej objawów u predysponowanych pacjentów wykazują, że
+atrakuriowy bezylan nie powoduje tego zespołu.
+Pacjenci z oparzeniami mogą wykazywać oporność na działanie atrakurium oraz innych leków
+zwiotczających wywołujących blok niedepolaryzacyjny. U takich pacjentów może być konieczne
+podanie zwiększonych dawek produktu leczniczego, zależnie od upływu czasu od chwili oparzenia
+oraz jego rozległości.
+
+Pacjenci na oddziałach intensywnej terapii
+Podanie zwierzętom laboratoryjnym dużych dawek laudanozyny, jednego z metabolitów atrakurium,
+związane było z wystąpieniem przemijającego obniżenia ciśnienia tętniczego oraz, u niektórych
+gatunków, z pobudzeniem ośrodkowego układu nerwowego. Mimo, że u pacjentów otrzymujących
+atrakurium znajdujących się w oddziałach intensywnej terapii obserwowano napady drgawek, nie
+ustalono związku przyczynowego między występowaniem tych drgawek a laudanozyną (patrz punkt
+4.8).
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Jednoczesne zastosowanie wziewnych leków znieczulających, np. halotanu, izofluranu lub enfluranu,
+może nasilić blokadę przewodnictwa nerwowo-mięśniowego wywołaną przez atrakuriowy bezylan.
+Tak jak i pozostałe leki zwiotczające wywołujące blok niedepolaryzacyjny, również atrakuriowy
+bezylan może nasilać i (lub) wydłużać czas trwania blokady przewodnictwa nerwowo-mięśniowego
+w wyniku interakcji z następującymi lekami:
+-     antybiotykami, w tym aminoglikozydami, polimyksynami, spektynomycyną, tetracyklinami,
+      linkomycyną i klindamycyną;
+-     przeciwarytmicznymi: propranololem, antagonistami kanału wapniowego, lidokainą,
+      prokainamidem i chinidyną;
+-     moczopędnymi: furosemidem i prawdopodobnie mannitolem, tiazydowymi lekami
+      moczopędnymi i acetazolamidem;
+-     siarczanem magnezu;
+-     ketaminą;
+-     solami litu;
+-     blokującymi zwoje nerwowe: trimetafanem, heksametonium.
+
+Niektóre leki mogą niekiedy zaostrzyć lub ujawnić utajoną miastenię lub nawet wywołać zespół
+miasteniczny, czego następstwem może być zwiększona wrażliwość na działanie tego produktu
+leczniczego. Do tych leków należą różne antybiotyki, leki beta-adrenolityczne (propranolol,
+oksprenolol), leki przeciwarytmiczne (prokainamid, chinidyna), leki przeciwreumatyczne
+(chlorochina, penicylamina), trimetafan, chloropromazyna, steroidy, fenytoina i sole litu.
+
+U pacjentów, którym długotrwale podaje się leki przeciwdrgawkowe (fenytoinę, karbamazepinę),
+moment wystąpienia blokady niedepolaryzacyjnej przewodnictwa nerwowo-mięśniowego może
+zostać opóźniony, a okres jej trwania skrócony.
+
+Podawanie atrakuriowego bezylanu w skojarzeniu z innymi lekami niedepolaryzującymi
+powodującymi wystąpienie blokady przewodnictwa nerwowo-mięśniowego może spowodować
+blokadę tego przewodnictwa w nadmiernym stopniu do oczekiwanego po podaniu równoważnej
+dawki samego atrakuriowego bezylanu. Działanie synergiczne może być różne, zależnie od
+stosowania różnych skojarzeń leków.
+
+Leków zwiotczających wywołujących blok depolaryzacyjny, takich jak suksametonium, nie należy
+stosować do przedłużania zwiotczenia wywołanego przez leki powodujące blok niedepolaryzacyjny,
+takie jak atrakuriowy bezylan, ponieważ może to doprowadzić do powstania nadmiernie
+przedłużającej się i złożonej blokady, której zniesienie inhibitorami cholinoesterazy może być trudne.
+
+Leczenie z zastosowaniem inhibitorów acetylocholinoesterazy, powszechnie wykorzystywanych
+w terapii choroby Alzheimera (np. donepezyl) może skrócić czas trwania oraz zmniejszyć nasilenie
+bloku przewodnictwa nerwowo-mięśniowego wywołanego przez atrakuriowy bezylan.
+
+4.6   Wpływ na płodność, ciążę i laktację
+Płodność
+Nie przeprowadzono badań dotyczących wpływu produktu leczniczego na płodność.
+
+Ciąża
+Badania na zwierzętach wykazały, że atrakuriowy bezylan nie wywiera istotnego wpływu na rozwój
+płodu.
+
+Ten produkt leczniczy, tak jak wszystkie leki blokujące przewodnictwo nerwowo-mięśniowe, należy
+podawać kobietom ciężarnym jedynie wtedy, gdy oczekiwana korzyść dla matki przewyższa
+potencjalną możliwość wystąpienia zagrożenia dla płodu.
+
+Ten produkt leczniczy można stosować w celu utrzymania zwiotczenia mięśni podczas cesarskiego
+cięcia, gdyż podany w zalecanych dawkach nie przenika przez łożysko w ilości istotnej klinicznie.
+
+Karmienie piersią
+Nie wiadomo, czy atrakuriowy bezylan przenika do mleka kobiet karmiących piersią.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Nie dotyczy stosowania atrakuriowego bezylanu.
+Atrakuriowy bezylan jest zawsze stosowany jednocześnie ze lekami wywołującymi znieczulenie
+ogólne, dlatego obowiązują zwykłe środki ostrożności związane z wpływem znieczulenia ogólnego na
+sprawność psychofizyczną pacjenta.
+
+4.8   Działania niepożądane
+
+Najczęściej obserwowanymi działaniami niepożądanymi występującymi w trakcie stosowania są
+niedociśnienie tętnicze (łagodne, przemijające) oraz zaczerwienienie skóry, które są powiązane
+z uwalnianiem histaminy. Bardzo rzadko, ciężkie reakcje anafilaktyczne lub anafilaktoidalne
+obserwowano u pacjentów, u których zastosowano atrakuriowy bezylan w skojarzeniu z jednym lub
+więcej lekiem znieczulającym.
+
+Następujące działania niepożądane zostały uszeregowane według klasyfikacji układów i narządów
+MedDRA oraz konwencji MedDRA dotyczącej częstości:
+bardzo często (≥ 1/10), często (≥ 1/100 do < 1/10), niezbyt często (≥ 1/1 000 do < 1/100), rzadko
+(≥ 1/10 000 do < 1/1 000), bardzo rzadko (< 1/10 000), częstość nieznana (częstość nie może być
+określona na podstawie dostępnych danych).
+
+ Bardzo częste, częste i niezbyt częste występowanie działań niepożądanych określono na
+ podstawie danych z badań klinicznych. Rzadkie i bardzo rzadkie występowanie działań
+ niepożądanych określono na podstawie danych ze zgłoszeń spontanicznych.
+ Zaburzenia naczyniowe
+                                                   Niedociśnienie tętnicze (łagodne,
+ Często                                            przemijające)*, zaczerwienienie skóry*
+
+ Zaburzenia układu oddechowego, klatki
+ piersiowej i śródpiersia
+
+ Niezbyt często                                    Skurcz oskrzeli*
+
+ Dane uzyskane po wprowadzeniu produktu do obrotu
+ Zaburzenia układu immunologicznego
+
+ Bardzo rzadko                                     Reakcja anafilaktyczna, reakcja anafilaktoidalna
+                                                   w tym wstrząs, niewydolność krążenia
+                                                   i zatrzymanie akcji serca
+
+ Bardzo rzadko opisywano ciężkie reakcje anafilaktyczne lub rzekomoanafilaktyczne u pacjentów
+ otrzymujących atrakurium jednocześnie z jednym lub więcej lekami znieczulającymi.
+ Zaburzenia układu nerwowego
+
+ Częstość nieznana                                 Drgawki
+
+ Zgłaszano występowanie napadów drgawek u pacjentów leczonych w oddziałach intensywnej
+ terapii otrzymujących atrakuriowy bezylan jednocześnie z innymi lekami. U pacjentów tych
+ z reguły występowały dodatkowe przyczyny predysponujące do napadów drgawkowych (np. uraz
+ głowy, obrzęk mózgu, wirusowe zapalenie mózgu, encefalopatia z niedotlenienia lub mocznica).
+ Nie udowodniono związku przyczynowego z zastosowaniem laudanozyny (metabolitu
+ atrakuriowego bezylanu). W badaniach klinicznych nie wykazano korelacji między stężeniem
+ laudanozyny a występowaniem napadów drgawek.
+ Zaburzenia skóry i tkanki podskórnej
+
+ Rzadko                                            Pokrzywka
+ Zaburzenia mięśniowo-szkieletowe i tkanki
+ łącznej
+
+ Częstość nieznana                                 Miopatia, osłabienie siły mięśniowej
+
+ Opisywano wystąpienie osłabienia siły mięśniowej i miopatii po długotrwałym podawaniu leków
+ zwiotczających mięśnie szkieletowe u ciężko chorych pacjentów na oddziałach intensywnej terapii.
+ Pacjenci w większości otrzymywali jednocześnie kortykosteroidy. Nie ustalono związku
+ przyczynowego z podawaniem atrakuriowego bezylanu.
+
+      *Działanie niepożądane powiązane z uwalnianiem histaminy.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane do Departamentu Monitorowania Niepożądanych
+Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych
+i Produktów Biobójczych
+Al. Jerozolimskie 181C
+PL-02 222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9     Przedawkowanie
+
+Objawy
+Nadmiernie przedłużone porażenie mięśni i jego następstwa są głównymi objawami przedawkowania.
+
+Postępowanie
+Do chwili powrotu samoistnej wydolnej czynności oddechowej niezbędne jest utrzymanie drożności
+dróg oddechowych oraz zastosowanie wentylacji z dodatnim ciśnieniem wdechowym.
+Należy zastosować środki wywołujące pełne uśpienie, ponieważ świadomość pacjenta nie jest
+wyłączona. Podanie inhibitorów acetylocholinoesterazy wraz z atropiną lub glikopironium w chwili,
+gdy wystąpią oznaki samoistnego powrotu przewodnictwa nerwowo-mięśniowego, może ten powrót
+przyspieszyć.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: leki zwiotczające mięśnie, inne czwartorzędowe związki amoniowe.
+Kod ATC: M 03AC04
+
+Mechanizm działania
+Atrakuriowy bezylan jest związkiem wysoce swoistym, blokującym konkurencyjnie przewodnictwo
+nerwowo-mięśniowe lub wywołującym blok niedepolaryzacyjny.
+
+Działanie farmakodynamiczne
+Atrakuriowy bezylan nie wywołuje bezpośredniego działania na ciśnienie węwnątrzgałkowe i może
+być stosowany podczas okulistycznych zabiegów chirurgicznych.
+
+Dzieci i młodzież
+Ograniczone dane z literatury wskazują na zmienność w czasie wystąpienia i czasu trwania działania
+atrakuriowego bezylanu u noworodków w porównaniu z dziećmi (patrz punkt 4.2).
+
+5.2   Właściwości farmakokinetyczne
+
+Wchłanianie
+Wchłonięcie z osocza atrakuriowego bezylanu było badane po podaniu w pojedynczym wstrzynięciu,
+jak również jako infuzja. Atrakurium zaczyna działać po okołu 2-3 minutach, czas trwania działania to
+45 minut.
+
+Dystrybucja
+Okres półtrwania atrakuriowego bezylanu wynosi 19,9 (±0,6) minut, a objętość dystrybucji 0,16 l/kg.
+Atrakuriowy bezylan wiąże się z białkami osocza w 82%.
+Badania wstępne wykazały, że atrakuriowy bezylan nie przenika przez łożysko w istotnym stopniu.
+
+Metabolizm
+Atrakuriowy bezylan podlega unieczynnieniu w reakcji typu Hofmanna - nieenzymatycznym procesie
+rozkładu zachodzącym w warunkach fizjologicznych wartości pH i w temperaturze ciała –
+z wytworzeniem nieaktywnych produktów rozpadu oraz poprzez hydrolizę wiązań estrowych przez
+nieswoiste esterazy.
+
+W badaniach osocza krwi pacjentów z niedoborem pseudocholinoesterazy, unieczynnienie
+atrakuriowego bezylanu pozostawało niezmienne.
+
+Zmiany pH krwi i temperatury ciała w granicach fizjologicznych nie powodują znaczących zmian
+w czasie działania atrakurium.
+
+Eliminacja
+Zakończenie bloku nerwowo-mięśniowego wywołanegoprzez atrakuriowy bezylan nie zależy od
+metabolizmu wątroby lub nerek, ani od wydalania. Dlatego jest mało prawdopodobne, że zaburzenia
+nerek, wątroby lub krążenia mają wpływ na czas działania.
+Okres półtrwania atrakurium w fazie eliminacji wynosi około 20 minut, a objętość dystrybucji
+0,16 l/kg.
+Hemofiltracja i hemodiafiltracja mają minimalny wpływ na stężenie atrakuriowego bezylanu i jego
+metabolitów, w tym laudanozyny w osoczu. Wpływ hemodializy i hemoperfuzji na stężenie
+atrakurium i jego metabolitów w osoczu jest nieznany.
+
+Stężenie metabolitów jest większe u pacjentów leczonych w oddziałach intensywnej terapii, u których
+występują zaburzenia w czynności wątroby i (lub) nerek (patrz punkt 4.4). Te metabolity nie
+przyczyniają się do blokady nerwowo-mięśniowej.
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+Mutagenność
+Atrakuriowy bezylan nie wykazywał mutagenności u bakterii i w komórkach szpiku szczurów.
+W badaniach in vitro wykazano niewielką aktywność mutagenną w komórkach ssaków tylko
+w stężeniach cytotoksycznych.
+Ze względu na naturę narażenia człowieka na atrakuriowy bezylan, u pacjentów poddawanych
+zwiotczeniu mięśni podczas zabiegów chirurgicznych, zagrożenie mutagennością należy uznać za
+nieistotne.
+
+Rakotwórczość
+Nie przeprowadzono badań nad rakotwórczym działaniem produktu.
+
+
+6.    DANE FARMACEUTYCZNE
+
+6.1   Wykaz substancji pomocniczych
+
+Kwas benzenosulfonowy (do ustalenia pH)
+Woda do wstrzykiwań
+
+6.2   Niezgodności farmaceutyczne
+
+Atrakuriowy bezylan podlega unieczynnieniu w wysokim pH i dlatego nie należy go w tej samej
+strzykawce łączyć z roztworami o odczynie zasadowym (np. z roztworem tiopentalu).
+Ten produkt leczniczy jest roztworem hipotonicznym, dlatego nie wolno podawać go do kaniuli
+przeznaczonej do przetaczania krwi.
+Nie mieszać produktu leczniczego z innymi produktami leczniczymi, oprócz wymienionych
+w punkcie 6.6.
+
+6.3   Okres ważności
+
+Okres ważności przed pierwszym otwarciem
+2 lata
+Do użytku jednorazowego. Po pierwszym otwarciu opakowania bezpośredniego: zużyć natychmiast.
+
+Okres ważności po rozcieńczeniu
+Przeprowadzono chemiczne i fizyczne badania stabilności w chlorku sodu jako płynie do infuzji
+trwające 24 godziny w temperaturze 25°C oraz w innych powszechnie używanych płynach do infuzji
+przez 4 lub 8 godzin w temperaturze 25°C (patrz punkt 6.6).
+
+Z mikrobiologicznego punktu widzenia, chyba że metoda rozcieńczania wyklucza ryzyko skażenia
+mikrobiologicznego, produkt powinien być zużyty natychmiast. Jeśli nie jest zużyty natychmiast, za
+czas i warunki przechowywania odpowiada użytkownik.
+
+6.4   Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w lodówce (2°C – 8°C). Nie zamrażać.
+Przechowywać w oryginalnym opakowaniu w celu ochrony przed światłem.
+Warunki przechowywania produktu leczniczego po pierwszym otwarciu, patrz punkt 6.3.
+Warunki przechowywania produktu leczniczego po rozcieńczeniu, patrz punkt 6.3 i 6.6.
+
+6.5   Rodzaj i zawartość opakowania
+
+5,0 ml ampułka z bezbarwnego szkła typu I, z linią łamania lub punktem (OPC) zawierająca 2,5 ml
+lub 5,0 ml roztworu w tekturowym pudełku.
+Ampułki zapakowane są w osłonkę z PVC. Osłonka zapakowana jest w tekturowe pudełko.
+
+Opakowania: 1 lub 5 ampułek.
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+6.6   Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+      stosowania
+
+Przed użyciem roztwór należy obejrzeć. Należy używać wyłącznie klarownych roztworów, wolnych
+od cząstek.
+
+Atrakuriowy bezylan jest kompatybilny z następującymi płynami do infuzji:
+                 Płyn do infuzji                                     Trwałość
+ Roztwór chlorku sodu do infuzji (9 mg/ml)                          24 godziny
+ Roztwór glukozy do infuzji (50 mg/ml)                                8 godzin
+ Roztwór Ringera do wstrzykiwań dożylnych                             8 godzin
+ Roztwór chlorku sodu (1,8 mg/ml) i roztwór                           8 godzin
+ glukozy (40 mg/ml) do infuzji
+ Roztwór Ringera z dodatkiem mleczanu                                4 godziny
+
+Po rozcieńczeniu jednym z wymienionych płynów w taki sposób, aby stężenie atrakuriowego
+bezylanu wynosiło 0,5 mg/ml lub więcej, otrzymane roztwory są trwałe w świetle dziennym
+odpowiednio jak podano wyżej, jeśli przechowuje się je w temperaturze poniżej 25°C.
+Wszelkie niewykorzystane resztki produktu leczniczego lub jego odpady należy usunąć zgodnie
+z lokalnymi przepisami.
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+AS KALCEKS
+Krustpils iela 71E
+1057 Rīga
+Łotwa
+Tel.: +371 67083320
+E mail: kalceks@kalceks.lv
+
+
+8.    NUMERY POZWOLEŃ NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr: 24531
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 25 stycznia 2018
+Data ostatniego przedłużenia pozwolenia:
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+

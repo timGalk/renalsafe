@@ -1,0 +1,525 @@
+                     CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Metoclopramide hameln, 5 mg/ml, roztwór do wstrzykiwań
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Każda 1 ml roztworu zawiera metoklopramidu chlorowodorek jednowodny w ilości
+odpowiadającej 5 mg chlorowodorku metoklopramidu.
+
+Każda ampułka o pojemności 2 ml zawiera metoklopramidu chlorowodorek jednowodny w
+ilości odpowiadającej 10 mg chlorowodorku metoklopramidu.
+
+Substancja pomocnicza o znanym działaniu:
+Każdy 1 ml roztworu zawiera do 3,19 mg sodu – patrz punkt 4.4.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań.
+Produkt leczniczy jest przejrzystym, bezbarwnym roztworem, wolnym od widocznych cząstek stałych.
+pH 3,0 – 5,0
+Osmolarność 270 – 310 mOsmol/kg
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Dorośli:
+
+Produkt leczniczy Metoclopramide hameln jest wskazany do stosowania u dorosłych w:
+      Zapobieganiu nudnościom i wymiotom po zabiegach chirurgicznych (ang. PONV -
+       post operative nausea and vomiting).
+      Objawowym leczeniu nudności i wymiotów, w tym nudności i wymiotów związanych z
+       ostrym napadem migreny.
+      Zapobieganiu nudnościom i wymiotom związanym z radioterapią (ang. RINV -
+       radiotherapy induced nausea and vomiting).
+
+Dzieci i młodzież:
+
+Produkt leczniczy Metoclopramide hameln jest wskazany do stosowania u dzieci i młodzieży
+(w wieku 1-18 lat) w:
+      Zapobieganiu opóźnionym nudnościom i wymiotom po chemioterapii (ang. CINV -
+       chemotherapy induced nausea and vomiting), jako lek drugiego rzutu.
+      Leczeniu nudności i wymiotów występujących po zabiegach chirurgicznych (PONV), jako lek
+       drugiego rzutu.
+
+Nie zaleca się stosowania u dzieci i młodzieży w innych wskazaniach.
+
+
+                                                 1
+4.2   Dawkowanie i sposób podawania
+
+Dorośli wszystkie wskazania
+W celu zapobiegania PONV zalecana pojedyncza dawka wynosi 10 mg.
+Objawowe leczenie nudności i wymiotów, w tym nudności i wymiotów związanych z ostrym napadem
+migreny oraz zapobieganie nudnościom i wymiotom związanym z radioterapią (RINV): zalecana dawka
+pojedyncza wynosi 10 mg, którą można powtarzać do trzech razy na dobę.
+
+Maksymalna zalecana dawka dobowa wynosi 30 mg lub 0,5 mg/kg mc.
+
+Produkt leczniczy w postaci roztworu do wstrzykiwań należy stosować możliwie jak najkrócej, a
+następnie należy możliwie jak najszybciej zastosować leczenie doustne lub doodbytnicze.
+
+Maksymalny zalecany czas trwania leczenia wynosi 5 dni.
+
+Dzieci i młodzież (w wieku 1–18 lat, wszystkie wskazania)
+Zalecana dawka wynosi 0,1 do 0,15 mg/kg mc., powtarzana do trzech razy na dobę drogą dożylną.
+Maksymalna dawka dobowa wynosi 0,5 mg/kg mc.
+
+Tabela dawkowania
+
+           Wiek              Masa ciała        Dawka             Częstość
+           1-3 lat           10-14 kg          1 mg              Do 3 razy na dobę
+           3-5 lat           15-19 kg          2 mg              Do 3 razy na dobę
+           5-9 lat           20-29 kg          2,5 mg            Do 3 razy na dobę
+           9-18 lat          30-60 kg          5 mg              Do 3 razy na dobę
+           15-18 lat         ponad 60 kg       10 mg             Do 3 razy na dobę
+
+
+Maksymalny czas trwania leczenia wynosi 48 godzin w przypadku leczenia nudności i wymiotów
+po zabiegach chirurgicznych (PONV).
+
+Maksymalny czas trwania leczenia wynosi 5 dni w przypadku zapobiegania opóźnionym
+nudnościom i wymiotom po chemioterapii (CINV).
+
+Sposób podawania
+
+Roztwór może być podawany dożylnie lub domięśniowo.
+Dawki dożylne powinny być podawane w postaci powolnego bolusa (co najmniej przez 3 minuty).
+Należy zachować co najmniej 6-godzinny odstęp pomiędzy dwoma podaniami, nawet w przypadku
+wymiotów lub odrzucenia dawki (patrz punkt 4.4).
+
+Szczególne grupy pacjentów
+
+Pacjenci w podeszłym wieku
+U pacjentów w podeszłym wieku należy rozważyć zmniejszenie dawki w zależności od czynności
+nerek i wątroby oraz ogólnego stanu zdrowia.
+
+Niewydolność nerek
+U pacjentów z krańcową niewydolnością nerek (klirens kreatyniny ≤15 ml/min), należy zmniejszyć
+dawkę dobową o 75%.
+
+
+                                                2
+U pacjentów z umiarkowaną lub ciężką niewydolnością nerek (klirens kreatyniny 15-60 ml/min),
+należy zmniejszyć dawkę dobową o 50% (patrz punkt 5.2).
+
+Niewydolność wątroby
+U pacjentów z ciężką niewydolnością wątroby, należy zmniejszyć dawkę o 50% (patrz punkt 5.2).
+
+Dzieci i młodzież
+Metoklopramid jest przeciwwskazany do stosowania u dzieci w wieku poniżej 1. roku życia
+(patrz punkt 4.3).
+
+4.3   Przeciwwskazania
+
+      Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą,
+       wymienioną w punkcie 6.1
+      Krwawienie, niedrożność lub perforacja przewodu pokarmowego, w przypadku
+       których pobudzenie perystaltyki może stanowić ryzyko
+      Stwierdzony lub podejrzewany guz chromochłonny, ze względu na ryzyko wystąpienia
+       ciężkich epizodów nadciśnienia tętniczego
+      Dyskineza późna wywołana lekami neuroleptycznymi lub metoklopramidem w wywiadzie
+      Padaczka (zwiększona częstość i intensywność napadów drgawek)
+      Choroba Parkinsona
+      Jednoczesne stosowanie lewodopy lub agonistów receptorów dopaminergicznych (patrz
+       punkt 4.5)
+      Methemoglobinemia indukowana metoklopramidem w wywiadzie lub niedobór
+       reduktazy NADH cytochromu b5
+      Stosowanie u dzieci w wieku poniżej 1. roku życia, ze względu na zwiększone
+       ryzyko wystąpienia zaburzeń pozapiramidowych (patrz punkt 4.2 i 4.4).
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Zaburzenia neurologiczne
+Mogą wystąpić objawy pozapiramidowe, zwłaszcza u dzieci i młodzieży, i (lub) po podaniu dużych
+dawek. Reakcje te występują zwykle na początku leczenia i mogą wystąpić po jednorazowym podaniu
+produktu. W razie wystąpienia objawów pozapiramidowych należy natychmiast przerwać stosowanie
+metoklopramidu. Objawy te zwykle są całkowicie odwracalne po odstawieniu produktu, ale mogą
+wymagać leczenia objawowego (stosowanie benzodiazepin u dzieci i (lub) leków stosowanych w
+chorobie Parkinsona o działaniu antycholinergicznym u dorosłych).
+
+Należy przestrzegać co najmniej sześciogodzinnego odstępu pomiędzy kolejnymi dawkami
+metoklopramidu określonego w punkcie 4.2, nawet w przypadku wystąpienia wymiotów i odrzucenia
+dawki, aby uniknąć przedawkowania.
+
+Długotrwałe leczenie metoklopramidem może wywołać dyskinezy późne, potencjalnie nieodwracalne,
+zwłaszcza u pacjentów w podeszłym wieku. Czas leczenia nie powinien przekraczać 3 miesięcy ze
+względu na ryzyko wystąpienia dyskinezy późnej (patrz punkt 4.8). W razie wystąpienia
+klinicznych objawów dyskinezy późnej należy przerwać leczenie.
+
+Zgłaszano występowanie złośliwego zespołu neuroleptycznego podczas leczenia metoklopramidem
+w skojarzeniu z lekami neuroleptycznymi oraz samym metoklopramidem (patrz punkt 4.8). W razie
+wystąpienia objawów złośliwego zespołu neuroleptycznego należy natychmiast przerwać
+stosowanie metoklopramidu i rozpocząć odpowiednie leczenie.
+
+Należy zachować szczególną ostrożność w przypadku pacjentów z zaburzeniami neurologicznymi i
+pacjentów przyjmujących inne leki działające na ośrodkowy układ nerwowy (patrz punkt 4.3).
+
+Metoklopramid może również nasilić objawy choroby Parkinsona.
+
+                                                3
+Methemoglobinemia
+Zgłaszano przypadki methemoglobinemii, która może być powiązana z niedoborem reduktazy NADH
+cytochromu b5. W takich przypadkach należy natychmiast i na stałe odstawić metoklopramid
+i włączyć odpowiednie środki (jak na przykład leczenie błękitem metylenowym).
+
+Zaburzenia serca
+Zgłaszano występowanie poważnych działań niepożądanych dotyczących układu krążenia, w tym
+przypadki zapaści krążeniowej, ciężkiej bradykardii, zatrzymania akcji serca i wydłużenia odstępu
+QT po podaniu metoklopramidu we wstrzyknięciu, zwłaszcza dożylnie (patrz punkt 4.8).
+
+Należy zachować szczególną ostrożność podczas podawania chlorowodorku metoklopramidu,
+zwłaszcza drogą dożylną, osobom w podeszłym wieku, pacjentom z "zespołem chorego węzła
+zatokowego" lub innymi zaburzeniami przewodzenia w sercu (w tym wydłużeniem odstępu QT),
+pacjentom z niewyrównanymi zaburzeniami równowagi elektrolitowej, bradykardią oraz pacjentom
+przyjmującym inne leki, o których wiadomo, że wydłużają odstęp QT (np. leki przeciwarytmiczne
+klasy IA i III, trójpierścieniowe leki przeciwdepresyjne, makrolidy, leki przeciwpsychotyczne
+(patrz punkt 4.8)).
+
+Dożylne dawki należy podawać w powolnym bolusie przez co najmniej 3 minuty, aby zmniejszyć
+ryzyko wystąpienia działań niepożądanych (np. niedociśnienie tętnicze, akatyzja).
+
+Niewydolność nerek i wątroby
+U pacjentów z niewydolnością nerek lub ciężką niewydolnością wątroby zalecane jest
+zmniejszenie dawki (patrz punkt 4.2).
+
+Sód
+Produkt zawiera mniej niż 1 mmol (23 mg) sodu na ampułkę (2 ml), to znaczy produkt uznaje się
+za „wolny od sodu”.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Leki, których jednoczesne stosowanie jest przeciwwskazane
+Lewodopa lub agoniści dopaminy i chlorowodorek metoklopramidu działają na siebie
+antagonistycznie (patrz punkt 4.3).
+
+Substancje, których jednoczesne stosowanie nie jest zalecane
+Alkohol nasila działanie uspokajające chlorowodorku metoklopramidu.
+
+Leki, których jednoczesne stosownaie należy uwzględnić
+Ze względu na działanie prokinetyczne chlorowodorku metoklopramidu, może wystąpić zmiana
+stopnia wchłaniania innych leków.
+
+Leki przeciwcholinergiczne i pochodne morfiny
+Leki przeciwcholinergiczne i pochodne morfiny w skojarzeniu z chlorowodorkiem metoklopramidem
+mogą wykazywać wzajemny antagonizm na motorykę przewodu pokarmowego.
+
+Leki hamujące czynność ośrodkowego układu nerwowego (pochodne morfiny, leki przeciwlękowe,
+leki przeciwhistaminowe H1 o działaniu sedacyjnym, leki przeciwdepresyjne o działaniu sedacyjnym,
+barbiturany, klonidyna i jej pochodne)
+Nasilenie działania uspokajającego leków hamujących ośrodkowy układ nerwowy i chlorowodorku
+metoklopramidu.
+
+Leki neuroleptyczne
+Chlorowodorek metoklopramidu może wzmacniać działanie innych neuroleptyków wywołujące
+objawy pozapiramidowe.
+
+                                                  4
+Leki serotoninergiczne
+Jednoczesne stosowanie chlorowodorku metoklopramidu z lekami serotoninergicznymi,
+takimi jak SSRI może zwiększyć ryzyko wystąpienia zespołu serotoninowego.
+
+Digoksyna
+Chlorowodorek metoklopramidu może zmniejszyć biodostępność digoksyny. Wymagana jest
+bardzo dokładna kontrola stężenia digoksyny w osoczu.
+
+Cyklosporyna
+Chlorowodorek metoklopramidu zwiększa biodostępność cyklosporyny (Cmax o 46% i ekspozycję o
+22%). Wymagana jest bardzo dokładna kontrola stężenia cyklosporyny w osoczu. Kliniczne
+znaczenie tego faktu nie jest znane.
+
+Miwakurium i suksametonium
+Metoklopramid we wstrzyknięciu może przedłużyć czas trwania blokady przewodnictwa
+mięśniowo- nerwowego (poprzez zahamowanie cholinesterazy osoczowej).
+
+Silne inhibitory CYP2D6
+Podczas jednoczesnego stosowania z silnymi inhibitorami CYP2D6, takimi jak fluoksetyna lub
+paroksetyna, zwiększa się stężenie chlorowodorku metoklopramidu. Chociaż znaczenie kliniczne jest
+niepewne, pacjentów należy obserwować w celu wykrycia działań niepożądanych.
+
+Ryfampicyna
+W opublikowanym badaniu przeprowadzonym na 12 zdrowych ochotnikach podawanie 600 mg
+ryfampicyny przez 6 dni prowadziło do zmniejszenia ekspozycji na metoklopramid w osoczu (pole
+pod krzywą AUC) i maksymalnego stężenia (Cmax) odpowiednio o 68% i 35%.
+Mimo tego, że znaczenie kliniczne nie jest pewne, w przypadku stosowania metoklopramidu z
+ryfampicyną lub z innymi silnymi induktorami (np. karbamazepiną, fenobarbitalem, fenytoiną),
+pacjenci powinni być monitorowani pod kątem możliwego braku działania przeciwwymiotnego.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Duża liczba danych dotyczących kobiet w ciąży (ponad 1000 przypadków narażenia) wskazuje na
+brak toksycznego wpływu na rozwój i fetotoksyczności. Chlorowodorek metoklopramidu może być
+stosowany w ciąży, jeśli jest to klinicznie uzasadnione. Ze względu na właściwości farmakologiczne
+(podobnie jak inne neuroleptyki), w przypadku podawania chlorowodorku metoklopramidu pod
+koniec ciąży nie można wykluczyć wystąpienia zespołu pozapiramidowego u noworodka. Należy
+unikać stosowania chlorowodorku metoklopramidu pod koniec ciąży. W przypadku stosowania
+chlorowodorku metoklopramidu należy prowadzić obserwację noworodków.
+
+Karmienie piersią
+Metoklopramid przenika do mleka kobiecego w niewielkim stopniu. Nie można wykluczyć
+wystąpienia działań niepożądanych u niemowląt karmionych piersią. Z tego względu stosowanie
+chlorowodorku metoklopramidu w czasie karmienia piersią nie jest zalecane. Należy rozważyć
+przerwanie leczenia chlorowodorkiem metoklopramidu u kobiet karmiących piersią.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Metoclopramide hameln wywiera umiarkowany wpływ na zdolność prowadzenia pojazdów i
+obsługiwania maszyn.
+
+Chlorowodorek metoklopramidu może wywołać senność, zawroty głowy, dyskinezy i dystonie,
+które mogą zaburzać widzenie oraz zdolność prowadzenia pojazdów i obsługiwania maszyn.
+
+4.8   Działania niepożądane
+
+                                                 5
+Działania niepożądane są wymienione według klasyfikacji układów i narządów. Częstości
+występowania są zdefiniowane następująco: bardzo często (≥1/10), często (≥1/100 do <1/10),
+niezbyt często (≥1/1000 do <1/100), rzadko (≥1/10 000 do <1/1000), bardzo rzadko (<1/10 000),
+częstość nieznana (nie może być określona na podstawie dostępnych danych).
+
+ Klasyfikacja układów i Częstość              Działania niepożądane
+ narządów
+ Zaburzenia krwi i układu chłonnego
+                             Nieznana         Methemoglobinemia, która może być
+                                              powiązana z niedoborem reduktazy NADH
+                                              cytochromu b5, szczególnie u noworodków
+                                              (patrz punkt 4.4)
+
+                                              Sulfhemoglobinemia, głównie po
+                                              jednoczesnym stosowaniu dużych dawek
+                                              produktów leczniczych uwalniających siarkę
+ Zaburzenia układu immunologicznego
+                           Niezbyt            Nadwrażliwość
+                           często
+                           Nieznana           Reakcja anafilaktyczna (w tym wstrząs
+                                              anafilaktyczny, zwłaszcza po podaniu
+                                              dożylnej postaci produktu)
+ Zaburzenia endokrynologiczne *
+                            Niezbyt           Brak miesiączki; hiperprolaktynemia
+                            często
+                            Rzadko            Mlekotok
+                            Nieznana          Ginekomastia
+ Zaburzenia psychiczne
+                            Często            Depresja
+                            Niezbyt           Omamy
+                            często
+                            Rzadko            Dezorientacja
+                            Nieznana          Myśli samobójcze
+ Zaburzenia układu nerwowego
+                            Bardzo            Senność
+                            często
+                            Często             Zaburzenia pozapiramidowe (szczególnie
+                                               u dzieci i młodzieży i młodych dorosłych
+                                               (lub) w razie przekroczenia zalecanej
+                                               dawki, nawet po podaniu pojedynczej
+                                               dawki) (patrz punkt 4.4); objawy
+                                               choroby Parkinsona;
+                                               akatyzja;
+                               Niezbyt         Dystonia (w tym zaburzenia widzenia i
+                               często          napady przymusowego patrzenia w
+                                               górę), dyskineza, obniżony poziom
+                                               świadomości
+                               Rzadko          Drgawki, szczególnie u pacjentów z
+                                               padaczką
+                               Nieznana        Dyskineza późna, która może być
+                                               długotrwała, w trakcie lub po
+                                               długotrwałym leczeniu, zwłaszcza u
+                                               pacjentów w podeszłym wieku (patrz punkt
+                                               4.4); złośliwy zespół neuroleptyczny (patrz
+                                               punkt 4.4)
+
+                                                6
+ Zaburzenia serca
+                               Niezbyt         Bradykardia, szczególnie po podaniu
+                               często          dożylnym
+                               Nieznana        Zatrzymanie akcji serca, następujące krótko
+                                               po podaniu produktu we wstrzyknięciu i
+                                               które może nastąpić w wyniku bradykardii
+                                               (patrz punkt 4.4); blok przedsionkowo-
+                                               komorowy; zahamowanie zatokowe,
+                                               zwłaszcza po podaniu dożylnym; wydłużenie
+                                               odstępu QT w zapisie EKG; torsade de
+                                               pointes,
+ Zaburzenia naczyniowe
+                               Często          Spadek ciśnienia tętniczego, zwłaszcza po
+                                               zastosowaniu postaci dożylnej produktu
+                               Nieznana        Wstrząs; omdlenie po podaniu dożylnym.
+                                               Ostre nadciśnienie tętnicze u pacjentów z
+                                               guzem chromochłonnym (patrz punkt 4.3),
+                                               Przemijające zwiększenie ciśnienia krwi
+ Zaburzenia żołądka i jelit
+                             Często          Biegunka
+ Zaburzenia ogólne i stany w miejscu podania
+                             Czesto          Astenia
+
+* Zaburzenia endokrynologiczne podczas długotrwałego leczenia w powiązaniu z hiperprolaktynemią
+(brak miesiączki, mlekotok, ginekomastia).
+
+Następujące reakcje czasami powiązane występują z większą częstością po stosowaniu dużych dawek:
+      Objawy pozapiramidowe: ostra dystonia i dyskineza, objawy choroby Parkinsona, akatyzja,
+       nawet po podaniu pojedynczej dawki produktu leczniczego, szczególnie u dzieci i młodzieży i
+       młodych dorosłych (patrz punkt 4.4).
+      Senność, obniżony poziom świadomości, splątanie, omamy.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka
+stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny
+zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu
+Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów
+Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie
+181C 02-222
+Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+Objawy
+Może dojść do wystąpienia objawów pozapiramidowych, senności, obniżenia poziomu świadomości,
+dezorientacji, omamów i zatrzymania krążenia i oddychania.
+
+Postępowanie
+
+
+
+
+                                                7
+W razie wystąpienia objawów pozapiramidowych powiązanych z przedawkowaniem lub nie,
+stosuje się leczenie objawowe (u dzieci podaje się benzodiazepiny, u dorosłych benzodiazepiny
+i (lub) leki stosowane w chorobie Parkinsona o działaniu antycholinergicznym).
+
+Objawowe leczenie i ciągłą obserwację czynności układu sercowo-naczyniowego i układu
+oddechowego należy dostosować do stanu klinicznego pacjenta.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: Leki stosowane w zaburzeniach czynnościowych przewodu
+pokarmowego; Leki propulsywne, kod ATC: A03FA01
+
+Chlorowodorek metoklopramidu jest podstawionym benzamidem. Wśród jego różnorodnych
+właściwości wykorzystuje się działanie przeciwwymiotne. Działanie przeciwwymiotne jest wynikiem
+dwóch mechanizmów działających na poziomie ośrodkowym:
+
+- antagonizm receptorów dopaminowych D2 w strefie wyzwalania chemoreceptorów i w ośrodku
+wymiotnym w rdzeniu przedłużonym, odpowiedzialnym za wywoływanie wymiotów apomorfiną;
+- antagonizm receptorów serotoninergicznych 5HT3 i agonizm receptorów 5HT4 odpowiedzialny za
+wymioty wywołane chemioterapią.
+
+Oprócz działania ośrodkowego, metoklopramid poprzez obwodowy mechanizm działania wywiera
+stymulujący wpływ na motorykę przewodu pokarmowego. Obserwuje się działanie
+antydopaminergiczne i wzmocnienie działania acetylocholiny, co skutkuje przyspieszeniem
+opróżniania żołądka i zwiększeniem ciśnienia w dolnym zwieraczu przełyku. Chlorowodorek
+metoklopramidu nie ma wpływu na wydzielanie żołądkowe.
+
+5.2   Właściwości farmakokinetyczne
+
+Po podaniu domięśniowym względna dostępność biologiczna w porównaniu z podaniem dożylnym
+wynosi od 60 do 100%. Maksymalne stężenia w osoczu jest osiągane w ciągu 0,5 do 2 godzin.
+
+Objętość dystrybucji wynosi 2-3 l/kg; 13-22% jest związana z białkami osocza.
+
+Metoklopramid jest wydalany głównie z moczem, zarówno w postaci niezmienionej, jak i w postaci
+sprzężonej z siarczanami lub glukuronidami. Głównym metabolitem jest koniugat siarkowy N-4.
+Okres półtrwania w osoczu wynosi od 5 do 6 godzin, niezależnie od drogi podania.
+Niewydolność nerek
+U pacjentów z ciężką niewydolnością nerek, klirens metoklopramidu zmniejsza się o 70%,
+natomiast zwiększa się okres półtrwania w fazie eliminacji (około 10 godzin dla klirensu
+kreatyniny 10-50 ml/min i 15 godzin dla klirensu kreatyniny <10 ml/min).
+
+Niewydolność wątroby
+U pacjentów z marskością wątroby, zaobserwowano kumulację metoklopramidu, związaną z
+50% redukcją jego klirensu osoczowego.
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+Badania na zwierzętach nie wskazują na istnienie zagrożenia dla bezpieczeństwa ludzi. Wniosek ten
+jest oparty na danych z badań farmakologicznych w odniesieniu do bezpieczeństwa i danych
+dotyczących toksyczności po podaniu wielokrotnym, genotoksyczności, rakotwórczości i toksycznego
+wpływu na rozrodczość.
+
+
+                                                 8
+6.        DANE FARMACEUTYCZNE
+
+6.1       Wykaz substancji pomocniczych
+
+Sodu chlorek
+Kwas cytrynowy jednowodny
+Sodu cytrynian
+Woda do wstrzykiwań
+Kwas solny stężony (do ustalenia pH)
+Sodu wodorotlenek (do ustalenia pH)
+
+6.2       Niezgodności farmaceutyczne
+
+Nie mieszać tego produktu leczniczego z innymi produktami leczniczymi.
+
+6.3       Okres ważności
+
+3 lata.
+
+6.4       Specjalne środki ostrożności podczas przechowywania
+
+Brak specjalnych zaleceń dotyczących temperatury przechowywania produktu leczniczego.
+Przechowywać ampułki w opakowaniu zewnętrznym w celu ochrony przed światłem.
+
+6.5       Rodzaj i zawartość opakowania
+
+Ampułki z bezbarwnego, neutralnego szkła typu I o pojemności 2 ml, pakowane po 10 ampułek w
+tekturowym pudełku.
+
+6.6       Specjalne środki ostrożności dotyczące usuwania
+
+Bez specjalnych wymagań.
+
+Wszelkie niewykorzystane resztki produktu leczniczego lub jego odpady należy usunąć zgodnie z
+lokalnymi przepisami.
+
+
+7.        PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA OPUSZCZENIE
+          DO OBROTU
+
+hameln pharma gmbh
+Inselstraße 1
+31787 Hameln
+Niemcy
+
+
+8.        NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr 27016
+
+
+9.        DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+          I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 11.04.2022
+
+
+                                                  9
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+08/2024
+
+
+
+
+                                 10
+

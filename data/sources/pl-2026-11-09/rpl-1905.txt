@@ -1,0 +1,725 @@
+                    CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+DIGOXIN WZF, 250 mikrogramów (μg), tabletki
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Każda tabletka zawiera 250 mikrogramów digoksyny (Digoxinum).
+
+Substancja pomocnicza o znanym działaniu: laktoza jednowodna 156,75 mg.
+
+Pełny wykaz substancji pomocniczych, patrz: punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Tabletka
+
+Tabletki Digoxin WZF są barwy białej (dopuszczalny odcień szarawy), okrągłe, płaskie ze ściętym
+obrzeżem, z jednostronnie umieszczoną kreską dzielącą tabletkę na połowę.
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Migotanie przedsionków z szybką czynnością komór, w przebiegu niewydolności mięśnia sercowego.
+
+Zaawansowana niewydolność mięśnia sercowego w skojarzeniu z innymi lekami.
+
+Leczenie niektórych nadkomorowych zaburzeń rytmu, szczególnie przewlekłego trzepotania
+i migotania przedsionków.
+
+4.2   Dawkowanie i sposób podawania
+
+Podanie doustne.
+
+Dawki produktu należy ustalać indywidualnie, w zależności od wieku, masy ciała oraz czynności
+nerek pacjenta. Podane poniżej dawki mają charakter orientacyjny.
+
+Z uwagi na różnice w biodostępności postaci doustnej i dożylnej digoksyny, podczas zmiany postaci
+z tabletek na roztwór do wstrzykiwań dożylnych, dawkowanie powinno być zmniejszone o 33%.
+
+Dorośli z przewlekłą niewydolnością serca bez towarzyszących nadkomorowych zaburzeń rytmu
+serca:
+
+Nie jest konieczne podawanie dawki nasycającej. Zwykle stosuje się od 125 do 250 μg na dobę
+u pacjentów z prawidłową czynnością nerek. U pacjentów w podeszłym wieku należy rozważyć
+stosowanie dawki mniejszej 62,5 μg na dobę.
+
+
+
+
+                                                                                                    1
+Dawkowanie w przypadku migotania lub trzepotania przedsionków u dorosłych i dzieci w wieku
+powyżej 10 lat:
+
+Przyspieszone doustne nasycenie
+Jeżeli medycznie jest uzasadnione, szybkie nasycenie można osiągać na kilka sposobów, takich jak:
+
+Jednorazowa dawka od 750 do 1500 μg.
+
+W przypadku ryzyka wystąpienia działania toksycznego, np. u pacjentów w podeszłym wieku,
+doustną dawkę nasycającą należy podać w kilku dawkach podzielonych, zachowując sześć godzin
+przerwy pomiędzy podaniem kolejnych dawek oraz oceniając efekt kliniczny u pacjenta przed
+podaniem kolejnej dawki digoksyny.
+
+Stopniowe doustne nasycenie
+Od 250 do 750 μg na dobę należy podawać przez okres jednego tygodnia. Następnie zaleca się
+podawanie dawki podtrzymującej.
+
+Uwaga: wybór metody nasycania zależy od stanu pacjenta.
+
+Dawka podtrzymująca
+
+Dawkę podtrzymującą można wyliczyć korzystając ze wzoru:
+
+
+
+
+Gdzie:
+% eliminowany na dobę = 14 + Ccr /5
+
+Ccr - jest klirensem kreatyniny, korygowanym na 70 kg masy ciała lub 1,73 m2 powierzchni ciała.
+Jeżeli znane jest tylko stężenie kreatyniny w osoczu, Ccr można obliczyć stosownie do wieku
+w przybliżeniu:
+
+   dla mężczyzn:
+
+
+
+
+Uwaga: jeśli kreatynina jest oznaczana w mikromolach/l, to można zamienić na mg/100 ml (mg%)
+w następujący sposób:
+
+
+
+
+Gdzie 113,12 jest masą cząsteczkową kreatyniny.
+
+ dla kobiet - uzyskany wynik należy pomnożyć przez 0,85.
+Uwaga: powyższe wzory nie nadają się do obliczenia klirensu kreatyniny u dzieci.
+
+
+
+
+                                                                                                    2
+W praktyce oznacza to, że dla większości pacjentów dawka podtrzymująca wynosi od 125 do 250 μg
+digoksyny na dobę. U pacjentów podatnych, u których występują nasilone działania niepożądane,
+zaleca się stosowanie mniejszych dawek, tj. 62,5 μg na dobę.
+Niektórzy pacjenci wymagają jednak zastosowania większych dawek.
+
+Wcześniaki, niemowlęta i dzieci w wieku poniżej 10 lat (jeżeli nie otrzymywali glikozydów
+nasercowych w ciągu ostatnich 2 tygodni):
+
+U noworodków, szczególnie wcześniaków, klirens nerkowy digoksyny jest mniejszy - dlatego poza
+ogólnymi uwagami dotyczącymi dawkowania, należy zmniejszyć dawkę.
+
+Poza okresem noworodkowym, dzieci wymagają proporcjonalnie większych dawek digoksyny
+w przeliczeniu na masę lub powierzchnię ciała niż pacjenci dorośli, jak podano w schemacie poniżej.
+U dzieci powyżej 10 lat stosuje się dawki jak u osób dorosłych, biorąc pod uwagę masę ciała.
+
+Doustna dawka nasycająca:
+Powinna być podana według poniżej przedstawionego schematu:
+Wcześniaki o masie ciała < 1,5 kg:                        25 mikrogramów/kg mc. na dobę
+Wcześniaki o masie ciała od 1,5 kg do 2,5 kg:             30 mikrogramów/kg mc. na dobę
+Noworodki oraz dzieci w wieku do 2 lat:                   45 mikrogramów/kg mc. na dobę
+Dzieci w wieku od 2 do 5 lat:                             35 mikrogramów/kg mc. na dobę
+Dzieci w wieku od 5 do 10 lat:                            25 mikrogramów/kg mc. na dobę
+
+Dawka nasycająca powinna być podawana w dawkach podzielonych - przy czym pierwsza dawka
+powinna stanowić połowę całkowitej dawki leku, a następne powinny być podawane co 4 do 8 godzin,
+oceniając efekt kliniczny przed podaniem kolejnej dawki.
+
+Leczenie podtrzymujące:
+Dawkę podtrzymującą należy podawać według poniższego schematu:
+
+Wcześniaki: dawka dobowa = 20% dawki 24-godzinnej nasycającej (dożylnej lub doustnej).
+Noworodki urodzone o czasie i dzieci w wieku do 10 lat: dawka dobowa = 25% 24-godzinnej dawki
+nasycającej (dożylnej lub doustnej).
+
+Powyższy schemat należy traktować jako ogólną wskazówkę. Podczas podawania produktu należy
+określać stężenie digoksyny w surowicy i korygować dawki w zależności od otrzymanych wyników.
+
+Jeśli glikozydy naparstnicy były stosowane w ciągu ostatnich dwóch tygodni, należy się spodziewać,
+że optymalne dawki nasycające będą mniejsze niż podane powyżej dawki zalecane.
+
+Stosowanie u pacjentów w podeszłym wieku
+Pogarszająca się na ogół czynność nerek oraz niska masa ciała pacjentów w podeszłym wieku
+wpływają na farmakokinetykę digoksyny powodując większe prawdopodobieństwo podniesienia
+stężenia digoksyny we krwi i związanej z nim toksyczności. Dlatego też zaleca się okresowe
+oznaczanie stężenia digoksyny w surowicy i unikanie hipokaliemii.
+
+Zalecenia dotyczące dawkowania digoksyny u pacjentów z chorobami nerek lub otrzymujących
+leki moczopędne - patrz punkt: 4.4.
+
+Badania:
+Wyniki badań określających stężenie digoksyny w osoczu mogą być wyrażone w nanogramach/ml
+(ng/ml) lub jednostkach układu SI nanomolach/l (nmol/l). Aby dokonać przeliczenia ng/ml na nmol/l,
+należy pomnożyć ng/ml przez 1,28.
+Stężenie digoksyny w osoczu może być oznaczane metodami radioimmunologicznymi.
+Krew przeznaczona do badania powinna być pobrana po 6 lub więcej godzinach od przyjęcia ostatniej
+dawki digoksyny.
+
+
+                                                                                                      3
+Kilka analiz wykonanych post hoc u pacjentów z niewydolnością serca biorących udział w badaniach
+Digitalis Investigation Group wykazało, że optymalne stężenie digoksyny w osoczu wynosi od
+0,5 ng/ml (0,64 nanomoli/l) do 1,0 ng/ml (1,28 nanomoli/l).
+Objawy toksyczności digoksyny występują częściej, gdy stężenie digoksyny w osoczu jest większe niż
+2 ng/ml, mogą jednak pojawić się przy niższych stężeniach w osoczu.
+Podczas dokonywania analizy wyników badań, należy również wziąć pod uwagę stężenie potasu
+w osoczu oraz czynność gruczołu tarczowego.
+
+Inne glikozydy, w tym metabolity digoksyny, mogą zaburzać wyniki badań.
+
+4.3   Przeciwwskazania
+
+Nadwrażliwość na substancję czynną, inne glikozydy nasercowe lub na którykolwiek substancję
+pomocniczą wymienioną w punkcie 6.1.
+
+Okresowo występujący całkowity blok serca lub blok przedsionkowo-komorowy II stopnia, zwłaszcza
+z napadami Stokesa-Adamsa w wywiadzie.
+
+Niemiarowości wywołane zatruciem glikozydami nasercowymi.
+
+Niemiarowości nadkomorowe z dodatkową drogą przewodzenia przedsionkowo-komorowego, takie
+jak zespół Wolffa-Parkinsona-White'a.
+
+Częstoskurcz komorowy, migotanie komór.
+
+Kardiomiopatia przerostowa ze zwężeniem drogi odpływu komory lewej, chyba że występują
+migotanie przedsionków i niewydolność krążenia, ale nawet wtedy digoksynę należy stosować
+ostrożnie.
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Toksyczne działania digoksyny mogą wywołać zaburzenia rytmu, z których niektóre mogą także
+przypominać niemiarowości będące wskazaniem do zastosowania tego leku. Przykładowo,
+częstoskurcz przedsionkowy ze zmiennym blokiem przedsionkowo-komorowym wymaga zachowania
+szczególnej ostrożności, gdyż klinicznie rytm ten przypomina migotanie przedsionków.
+
+Pacjentom przyjmującym digoksynę nie wolno wstrzykiwać dożylnie soli wapnia.
+
+W niektórych przypadkach zatokowo-przedsionkowych zaburzeń przewodnictwa (tj. zespół chorego
+węzła) digoksyna może wywoływać lub nasilać bradykardię zatokową bądź powodować blok
+zatokowo-przedsionkowy.
+
+W podjęciu decyzji o dalszym leczeniu digoksyną może być pomocne oznaczenie stężenia digoksyny
+w osoczu, lecz dawki toksyczne innych glikozydów mogą wywoływać reakcję krzyżową i wpływać na
+wyniki badań. Bardziej odpowiednie może być czasowe odstawienie digoksyny i obserwacja pacjenta.
+
+Jeżeli pacjent stosował glikozydy nasercowe w okresie ostatnich dwóch tygodni, należy ponownie
+rozważyć zalecenia dotyczące dawek nasycających i zastosować mniejszą dawkę.
+U pacjentów w podeszłym wieku lub ze zmniejszonym klirensem nerkowym należy rozważyć
+zmniejszenie dawek, zarówno nasycających, jak i podtrzymujących.
+
+Hipoksja, hipokaliemia, hipomagnezemia i znacznego stopnia hiperkalcemia zwiększają wrażliwość
+mięśnia sercowego na glikozydy nasercowe.
+Podawanie digoksyny pacjentom z chorobami tarczycy wymaga zachowania ostrożności.
+W niedoczynności tarczycy dawki nasycające i podtrzymujące digoksyny powinny być zmniejszone.
+W nadczynności tarczycy powstaje względna oporność na digoksynę i należy wtedy zwiększyć
+
+
+                                                                                                 4
+dawkę; w miarę uzyskiwania kontroli nadczynności tarczycy, dawkowanie digoksyny należy
+zmniejszać.
+
+Pacjenci z zespołem złego wchłaniania lub po zabiegach rekonstrukcyjnych na przewodzie
+pokarmowym mogą wymagać większych dawek digoksyny.
+
+W przypadku toksycznego działania digoksyny znacznie zwiększa się ryzyko wywołania
+niebezpiecznych zaburzeń rytmu podczas wykonywania kardiowersji prądem stałym i jest ono
+proporcjonalne do zastosowanej w kardiowersji energii.
+Jeśli u pacjenta stosującego digoksynę planowana jest kardiowersja elektryczna, produkt należy
+odstawić minimum 24 godziny przed zabiegiem. W stanach nagłych, takich jak zatrzymanie krążenia,
+gdy ma być zastosowana kardiowersja, należy użyć najmniejszej skutecznej energii. Nie należy
+stosować kardiowersji elektrycznej u pacjentów z niemiarowościami, które pojawiły się po
+zastosowaniu glikozydów nasercowych.
+
+Digoksyna działa korzystnie w niemiarowościach prawdopodobnie dlatego, że w pewnym stopniu
+wywołuje blok przewodzenia przedsionkowo-komorowego. Jednak przy obecności niecałkowitego
+bloku przedsionkowo-komorowego należy spodziewać się szybkiego pogłębienia się bloku.
+W całkowitym bloku, zastępczy rytm komorowy może ulec stłumieniu.
+
+Podawanie digoksyny w okresie bezpośrednio po zawale serca nie jest przeciwwskazane.
+Zastosowanie leków inotropowych u takich pacjentów może jednak skutkować niepożądanym
+zwiększeniem zapotrzebowania mięśnia sercowego na tlen oraz niedokrwieniem, a wyniki niektórych
+retrospektywnych badań sugerują, że podanie digoksyny może wiązać się ze zwiększonym ryzykiem
+zgonu. Stwierdzono, że u pacjentów z hipokaliemią po zawale mięśnia sercowego i niestabilnych
+kardiologicznie istnieje ryzyko wystąpienia niemiarowości.
+
+Należy unikać leczenia digoksyną pacjentów z niewydolnością serca ze współistniejącą skrobiawicą
+serca. Jeżeli jednak zastosowanie innego alternatywnego leczenia nie jest możliwe, digoksynę należy
+stosować ostrożnie, kontrolując rytm komorowy u pacjentów ze skrobiawicą serca i migotaniem
+przedsionków.
+
+Digoksyna może wywołać zwężenie naczyń i dlatego należy unikać jej stosowania u pacjentów
+z zapaleniem mięśnia sercowego.
+
+Pacjenci z beri-beri serca mogą nie wykazywać właściwej odpowiedzi na digoksynę, dopóki niedobór
+tiaminy nie zostanie jednocześnie leczony. Publikowane informacje wskazują, że digoksyna może
+hamować wychwyt tiaminy w miocytach w przypadku choroby beri-beri serca.
+
+Digoksyny nie należy stosować w przypadku zaciskającego zapalenia osierdzia, dopóki nie uzyska się
+kontroli rytmu komorowego w przypadku migotania komór lub poprawy zaburzeń skurczowych serca.
+
+Digoksyna poprawia tolerancję wysiłkową u pacjentów z zaburzeniami czynności skurczowej lewej
+komory i prawidłowym rytmem zatokowym. Może to być związane, ale nie musi, z poprawą profilu
+hemodynamicznego. Stwierdzono, że korzyści dla pacjentów z niemiarowościami nadkomorowymi są
+bardziej znaczące w spoczynku niż po wysiłku.
+U pacjentów stosujących leki moczopędne i inhibitory konwertazy angiotensyny lub tylko leki
+moczopędne, odstawienie digoksyny powoduje pogorszenie stanu klinicznego.
+
+Zastosowanie dawek terapeutycznych digoksyny może powodować wydłużenie odstępu PR
+i obniżenie odcinka ST w elektrokardiogramie.
+
+Digoksyna może powodować fałszywie dodatnie zmiany w zespołach ST-T na obrazie EKG podczas
+przeprowadzania testów. Zmiany te odzwierciedlają spodziewane działanie produktu i nie wskazują na
+jego toksyczność.
+
+
+
+                                                                                                      5
+U pacjentów otrzymujących digoksynę należy okresowo badać stężenia elektrolitów we krwi
+i czynność nerek (stężenie kreatyniny w osoczu); częstość badania zależna jest od stanu klinicznego
+pacjenta.
+
+Pomimo, że u wielu pacjentów z przewlekłą zastoinową niewydolnością serca doraźne zastosowanie
+digoksyny przynosi korzyści, u wielu z tych pacjentów nie obserwuje się stałej, znamiennej lub trwałej
+poprawy hemodynamicznej. Dlatego też istotna jest ocena indywidualnej reakcji każdego pacjenta
+przy długookresowej terapii digoksyną.
+
+Pacjenci z ciężką niewydolnością oddechową mogą wykazywać zwiększoną wrażliwość mięśnia
+sercowego na glikozydy naparstnicy.
+
+Każda tabletka zawiera 156,75 mg laktozy jednowodnej. Ze względu na zawartość laktozy, produkt
+nie powinien być stosowany u pacjentów z rzadko występującą dziedziczną nietolerancją galaktozy,
+niedoborem laktazy typu Lapp lub zespołem złego wchłaniania glukozy-galaktozy.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Wystąpienie interakcji zależy od stopnia wydalania leku przez nerki, wiązania przez tkanki, wiązania
+z białkami osocza, dystrybucji w organizmie, stopnia wchłaniania digoksyny i wrażliwości na tę
+substancję. Należy wziąć pod uwagę możliwość wystąpienia interakcji podczas stosowania terapii
+złożonych, a w przypadkach jakichkolwiek wątpliwości należy określić stężenie digoksyny.
+
+Digoksyna w skojarzeniu z lekami blokującymi receptory beta-adrenergiczne może powodować
+wydłużenie czasu przewodzenia przedsionkowo-komorowego.
+
+Leki powodujące hipokaliemię lub wewnątrzkomórkowy niedobór potasu mogą powodować
+zwiększoną wrażliwość na digoksynę; należą do nich leki moczopędne, sole litu, kortykosteroidy oraz
+karbenoksolon.
+
+Pacjenci otrzymujący digoksynę są bardziej wrażliwi na działanie suksametonium, które nasila
+hiperkaliemię.
+
+Wapń wstrzyknięty szybko dożylnie może wywołać ciężką niemiarowość u pacjentów stosujących
+digoksynę.
+
+Stężenie digoksyny w osoczu zwiększa się podczas jednoczesnego stosowania następujących leków:
+alprazolamu, amiodaronu, flekainidu, gentamycyny, indometacyny, itrakonazolu, prazosyny,
+propafenonu, chinidyny, chininy, spironolaktonu, antybiotyków makrolidowych (np. erytromycyny
+i klarytromycyny), tetracykliny (i prawdopodobnie innych antybiotyków), trimetoprimu, propantelinu,
+atorwastatyny, cyklosporyny, epoprostenolu (przemijająco) i karwedylolu.
+
+Stężenie digoksyny w osoczu zmniejsza się podczas jednoczesnego stosowania następujących leków:
+adrenaliny (epinefryny), leków zobojętniających, środków przeczyszczających, kaolin-pektyny,
+kolestyraminy, akarbozy, salbutamolu, sulfasalazyny, neomycyny, ryfampicyny, niektórych
+cytostatyków, fenytoiny, metoklopramidu, penicylaminy, produktów zawierających wyciąg
+z dziurawca zwyczajnego (Hypericum perforatum).
+
+Antagoniści kanału wapniowego mogą zwiększać lub nie zmieniać stężenia digoksyny w osoczu.
+Werapamil, felodypina i tiapamil zwiększają stężenie digoksyny w osoczu. Nifedypina i diltiazem
+mogą zwiększać lub nie wpływać na stężenie digoksyny w osoczu. Isradypina nie zmienia stężenia
+digoksyny w osoczu. Inhibitory konwertazy angiotensyny (inhibitory ACE) mogą także zwiększać lub
+nie zmieniać stężenia digoksyny w osoczu.
+
+Milrinon nie wpływa na stężenie digoksyny w surowicy w stanie stacjonarnym.
+
+
+
+                                                                                                       6
+Digoksyna jest substratem glikoproteiny P. Zatem inhibitory glikoproteiny P mogą zwiększać stężenie
+digoksyny we krwi poprzez nasilanie jej wchłaniania i (lub) zmniejszanie klirensu nerkowego (patrz
+punkt 5.2).
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Stosowanie digoksyny w ciąży nie jest przeciwwskazane, jednak dawkowanie i kontrola mogą być
+mniej przewidywalne u kobiet w ciąży niż u kobiet nie będących w ciąży, przy czym niektóre
+pacjentki mogą wymagać stosowania większych dawek w okresie ciąży. Stosowanie digoksyny
+u kobiet w ciąży jest dopuszczalne tylko w przypadku, jeśli w opinii lekarza korzyść dla matki
+przeważa nad potencjalnym zagrożeniem dla płodu.
+
+Pomimo dużego narażenia na produkty naparstnicy przed urodzeniem, nie zaobserwowano
+znamiennych działań niepożądanych u płodu lub noworodka, gdy stężenia digoksyny w osoczu
+utrzymywane są w zakresie normy. Przypuszcza się, że digoksyna poprzez bezpośredni wpływ na
+błonę mięśniową macicy, może być przyczyną wcześniactwa i małej masy urodzeniowej dzieci.
+Digoksyna podawana matce może być stosowana do leczenia częstoskurczu u płodu oraz zastoinowej
+niewydolności serca.
+
+Odnotowano działania niepożądane u płodów, w przypadkach gdy u ich matek stwierdzano zatrucie
+digoksyną.
+
+Karmienie piersią
+Digoksyna przenika do mleka kobiecego w minimalnych ilościach, dlatego karmienie piersią nie jest
+przeciwwskazane.
+
+Płodność
+Nie ma danych dotyczących wpływu na płodność lub działania teratogennego digoksyny.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Obserwowano zaburzenia ze strony ośrodkowego układu nerwowego i zaburzenia widzenia
+u pacjentów przyjmujących digoksynę, dlatego powinni oni zachować ostrożność podczas
+prowadzenia pojazdów i obsługiwania maszyn.
+
+4.8   Działania niepożądane
+
+Poniżej wymienione działania niepożądane pogrupowano, biorąc pod uwagę podział na układy oraz
+częstość występowania.
+Częstość występowania zdefiniowano w następujący sposób: bardzo często (≥ 1/10), często (≥ 1/100
+do < 1/10), niezbyt często (≥ 1/1000 do < 1/100), rzadko (≥ 1/10 000 do < 1/1000), bardzo rzadko
+(< 1/10 000), nieznana (częstość nie może być określona na podstawie dostępnych danych). Częstość
+określana jako bardzo często, często i niezbyt często była zasadniczo podana na podstawie badań
+klinicznych. Wzięto również pod uwagę przypadki po podaniu placebo. Działania niepożądane
+występujące z częstością rzadko i bardzo rzadko, a także pojedyncze przypadki, zamieszczono
+w oparciu o raporty otrzymane w ramach nadzoru nad bezpieczeństwem farmakoterapii.
+
+Zaburzenia krwi i układu chłonnego:
+Bardzo rzadko: małopłytkowość.
+
+Zaburzenia metabolizmu i odżywiania:
+Bardzo rzadko: anoreksja.
+
+Zaburzenia psychiczne:
+Niezbyt często: depresja.
+Bardzo rzadko: psychoza, apatia, splątanie.
+
+                                                                                                    7
+Zaburzenia układu nerwowego:
+Często: zaburzenia ośrodkowego układu nerwowego, zawroty głowy.
+Bardzo rzadko: ból głowy.
+
+Zaburzenia oka:
+Często: zaburzenia widzenia (niewyraźne widzenie lub widzenie w żółtym kolorze).
+
+Zaburzenia serca:
+Często: arytmia, zaburzenia przewodzenia, bigeminia, trigeminia, wydłużenie odstępu PR,
+bradykardia zatokowa.
+Bardzo rzadko: nadkomorowa tachyarytmia, częstoskurcze przedsionkowe (z blokiem lub bez bloku
+serca), węzłowa tachykardia, arytmia komorowa, przedwczesne skurcze komorowe, obniżenie odcinka
+ST.
+
+Zaburzenia żołądka i jelit:
+Często: nudności i wymioty, biegunka.
+Bardzo rzadko: niedokrwienie jelit, martwica jelit.
+
+Zaburzenia skóry i tkanki podskórnej:
+Często: wysypki skórne w postaci pokrzywki lub przypominające płonicę; może im towarzyszyć
+znacznego stopnia eozynofilia.
+
+Zaburzenia układu rozrodczego i piersi:
+Bardzo rzadko: ginekomastia (po długotrwałym stosowaniu).
+
+Zaburzenia ogólne i stany w miejscu podania:
+Bardzo rzadko: osłabienie, zmęczenie, złe samopoczucie.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C
+02-222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+e-mail: ndl@urpl.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+Objawy toksyczności są zasadniczo podobne do zamieszczonych w punkcie 4.8. - Działania
+niepożądane, ale mogą występować częściej i o większym nasileniu.
+
+Objawy toksyczności digoksyny występują częściej w przypadku stężenia powyżej
+2,0 nanogramów/ml (2,56 nanomol/l), aczkolwiek mogą wystąpić indywidualne różnice. Jednak
+w przypadku podjęcia decyzji, czy objawy występujące u pacjenta wywołane zostały przez digoksynę,
+należy ocenić ważne czynniki, takie jak stan kliniczny, stężenie elektrolitów w osoczu oraz czynność
+tarczycy.
+
+Dorośli
+Według klinicznych obserwacji, przedawkowanie digoksyny w ilości 10 do 15 mg u dorosłych bez
+współistniejącej choroby serca było śmiertelne dla połowy pacjentów.
+
+                                                                                                   8
+Objawy ze strony serca
+Występują częściej i mają cięższy przebieg zarówno po zatruciu ostrym, jak i przewlekłym. Objawy
+ze strony serca występują zwykle po 3 do 6 godzinach po przedawkowaniu i mogą utrzymywać się
+przez 24 godziny lub dłużej. Toksyczne działanie digoksyny może powodować wystąpienie różnego
+rodzaju niemiarowości. U niektórych pacjentów często występują jednocześnie różnego rodzaju
+zaburzenia rytmu serca. Mogą wystąpić napadowe częstoskurcze komorowe z blokiem
+przedsionkowo-komorowym, przyspieszenie rytmu węzłowego, spowolnione migotanie przedsionków
+(z niewielkimi zmianami rytmu komór) oraz dwukierunkowa komorowa tachykardia.
+
+Przedwczesne skurcze komorowe są zazwyczaj najwcześniej i najczęściej występującymi
+zaburzeniami rytmu serca. Bigeminia i trigeminia również występują często.
+
+Bradykardia zatokowa i inne bradyarytmie występują często.
+
+Bloki serca stopnia I, II i III i rozkojarzenie przedsionkowo-komorowe również występują często.
+
+Wczesne objawy toksyczności przejawiają się tylko wydłużeniem odstępu PR.
+
+Tachykardia komorowa może być również objawem toksyczności.
+
+Zatrzymanie serca w wyniku asystolii lub migotania przedsionków po zastosowaniu digoksyny ma
+zazwyczaj złe rokowanie.
+
+Hipokaliemia może przyczynić się do wystąpienia toksyczności.
+
+Inne działania niepożądane
+Po ostrym masywnym przedawkowaniu digoksyny może wystąpić hiperkaliemia w wyniku
+hamowania pompy sodowo-potasowej.
+
+Zaburzenia żołądkowo-jelitowe występują często, zarówno po przedawkowaniu ostrym, jak
+i przewlekłym. Według danych literaturowych objawy ze strony serca dotyczą około połowy
+pacjentów. Anoreksja, nudności i wymioty odnotowano u prawie 80%. Objawy te występują
+najczęściej we wczesnym okresie po przedawkowaniu.
+
+Objawy neurologiczne i zaburzenia widzenia występują zarówno po zatruciu ostrym, jak
+i przewlekłym. Zawroty głowy, różnego rodzaju zaburzenia ośrodkowego układu nerwowego,
+zmęczenie, złe samopoczucie występują bardzo często. Najczęstszym zaburzeniem widzenia jest
+zaburzenie widzenia barw (dominuje widzenie w żółtym kolorze). Objawy neurologiczne i zaburzenia
+widzenia mogą utrzymywać się nawet po ustąpieniu innych objawów zatrucia.
+
+Po zatruciu przewlekłym mogą dominować objawy niespecyficzne, inne niż ze strony serca, takie jak
+złe samopoczucie i osłabienie.
+
+Dzieci
+W przypadku dzieci w wieku od 1 do 3 lat bez współistniejącej choroby serca po przedawkowaniu
+digoksyny w ilości od 6 do 10 mg odnotowano zgon u połowy pacjentów.
+Większość objawów toksyczności po podaniu digoksyny u dzieci występuje krótko po fazie
+nasycającej.
+
+Zaburzenia serca
+Niemiarowości lub mieszane rodzaje niemiarowości, które występują u dorosłych, mogą wystąpić
+u dzieci. Zatokowa tachykardia, nadkomorowa tachykardia oraz szybkie migotanie przedsionków
+występuje rzadziej u dzieci w porównaniu z dorosłymi.
+
+U dzieci bardziej prawdopodobne jest wystąpienie zaburzeń przewodzenia przedsionkowo-
+komorowego lub zatokowej bradykardii.
+
+                                                                                                    9
+Ektopia komorowa występuje rzadziej, jednak w przypadku masywnego przedawkowania,
+odnotowywano przyspieszenie czynności komór i migotanie przedsionków.
+
+Każda arytmia lub zmiany przewodzenia w sercu, które rozwijają się u dziecka przyjmującego
+digoksynę należy przypisywać digoksynie do momentu wyjaśnienia przyczyn.
+
+Inne działania niepożądane
+Częstość innych działań niepożądanych niż ze strony serca jest podobna do obserwowanych
+u dorosłych: zaburzenia żołądkowo-jelitowe, ośrodkowego układu nerwowego, zaburzenia widzenia.
+Nudności i wymioty nie występują często u niemowląt i małych dzieci.
+
+Działania niepożądane obserwowane po stosowaniu zalecanych dawek – zmniejszenie masy ciała
+u starszych dzieci i brak prawidłowego rozwoju i wzrostu u niemowląt i małych dzieci, bóle brzucha
+związane z niedokrwieniem żyły krezkowej, senność i zaburzenia zachowania, w tym zaburzenia
+psychotyczne odnotowywano po przedawkowaniu.
+
+Leczenie
+Po połknięciu, przypadkowym lub samobójczym digoksyny należy przeprowadzić płukanie żołądka,
+aby zapobiec dalszemu wchłanianiu.
+
+Pacjenci po połknięciu dużej ilości digoksyny powinni otrzymać dużą dawkę węgla aktywowanego,
+aby zapobiec wiązaniu się i wchłanianiu digoksyny.
+
+W przypadku zastosowania ponad 25 mg digoksyny przez osobę dorosłą, bez choroby serca,
+obserwuje się zgon lub postępujące objawy toksyczne reagujące tylko na leczenie przeciwciałami Fab
+skierowanymi przeciw digoksynie.
+W przypadku przyjęcia digoksyny w dawce powyżej 10 mg u dzieci w wieku od 1 do 3 lat bez
+stwierdzonej choroby serca, zaniechanie podania przeciwciał Fab może zakończyć się zgonem
+dziecka.
+
+Hipokaliemię należy wyrównać. W przypadkach połknięcia znacznych ilości digoksyny może pojawić
+się hiperkaliemia w wyniku uwalniania potasu z mięśni szkieletowych. Dlatego też przed podaniem
+potasu w przypadku przedawkowania digoksyny, należy określić stężenie potasu w osoczu.
+
+W przypadku wystąpienia bradyarytmii można podać atropinę, ale konieczne może okazać się
+przeprowadzenie stymulacji serca. Niemiarowości komorowe mogą reagować na podawanie lidokainy
+lub fenytoiny.
+
+Dializa nie jest skuteczną metodą usuwania digoksyny z organizmu.
+
+W przypadkach poważnego zatrucia digoksyną, digitoksyną lub innymi glikozydami, jeśli inne
+metody nie są skuteczne, należy podać dożylnie przeciwciała Fab skierowane przeciw digoksynie.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: leki stosowane w chorobach serca, glikozydy nasercowe,
+kod ATC: C01AA05
+
+Digoksyna zwiększa kurczliwość mięśnia sercowego. Działanie to jest proporcjonalne do dawki
+w dolnym jej zakresie, dlatego już przy stosowaniu małych dawek osiągany jest pewien efekt;
+obserwowany jest on nawet w zdrowym mięśniu sercowym, chociaż nie przynosi on wtedy żadnych
+korzyści fizjologicznych. Główne działanie digoksyny polega na swoistym blokowaniu trifosfatazy
+adenozynowej, a przez to wymiany jonów sodowych i potasowych (Na+/K+), w wyniku czego
+zmieniona dystrybucja jonów po obu stronach błony komórkowej powoduje zwiększenie napływu
+
+                                                                                                  10
+jonów wapnia i zwiększenie stężenia wapnia w czasie sprzężenia pobudzenie-skurcz. Siła działania
+digoksyny zwiększa się przy małym stężeniu jonów potasu zewnątrzkomórkowego, natomiast
+hiperkaliemia wywiera przeciwne działanie.
+
+Digoksyna hamuje mechanizm wymiany jonów Na+/K+ w komórkach autonomicznego układu
+nerwowego, co prowadzi do pośredniego wpływu na czynność serca. W wyniku nasilenia bodźców
+eferentnych z nerwu błędnego zmniejsza się napięcie układu współczulnego i zwalnia się
+przewodzenie bodźców w przedsionkach i węźle przedsionkowo-komorowym. Stąd główne korzystne
+działanie digoksyny polega na zwolnieniu pracy komór.
+
+Pośrednie zmiany kurczliwości mięśnia sercowego wynikają także z modyfikacji podatności żył
+spowodowanej przez zmienioną aktywność układu wegetatywnego oraz bezpośrednią stymulację
+układu żylnego. Pełna odpowiedź układu krążenia na digoksynę jest wypadkową między
+wymienionymi działaniami bezpośrednimi i pośrednimi i może różnić się u poszczególnych
+pacjentów. W obecności niektórych niemiarowości nadkomorowych, największe znaczenie ma
+neurogenne zwolnienie przewodzenia przedsionkowo-komorowego.
+
+Stopień aktywacji neurohormonalnej występującej u pacjentów z niewydolnością serca związany jest
+z pogorszeniem klinicznym i zwiększonym ryzykiem zgonu.
+Digoksyna zmniejsza aktywację zarówno układu współczulnego, jak i układu renina-angiotensyna,
+niezależnie od działania inotropowego i w ten sposób może zwiększać szansę przeżycia pacjenta. Nie
+jest jasne, czy działanie takie jest związane z bezpośrednim hamującym wpływem na układ
+współczulny, czy też ze zwiększeniem wrażliwości odruchu z baroreceptorów.
+
+5.2   Właściwości farmakokinetyczne
+
+Wchłanianie
+Po podaniu doustnym digoksyna ulega wchłanianiu w żołądku i w górnej części jelita cienkiego.
+Wchłanianie opóźnia obecność pokarmu, lecz całkowita ilość wchłoniętego leku pozostaje
+niezmieniona.
+
+Dystrybucja
+Po przyjęciu doustnym produktu, działanie rozpoczyna się w ciągu 0,5 do 2 godzin i osiąga
+maksimum w ciągu 2 do 6 godzin. Dostępność biologiczna digoksyny w postaci tabletek wynosi około
+63%.
+Początkowa dystrybucja digoksyny z kompartmentu centralnego do obwodowego trwa zazwyczaj 6 do
+8 godzin. Mogą wystąpić wahania stężenia digoksyny w osoczu, zależnie od stopnia eliminacji
+digoksyny z organizmu. Objętość dystrybucji jest duża (Vd = 510 litrów u zdrowych ochotników), co
+wskazuje na silne wiązanie digoksyny przez tkanki. Największe stężenia digoksyny występują
+w sercu, wątrobie i nerkach, przy czym stężenie w sercu osiąga wartości 30-krotnie większe od
+stężenia w krwi obwodowej. Pomimo, że stężenie digoksyny w mięśniach szkieletowych jest znacznie
+mniejsze, należy pamiętać, że są one ważnym rezerwuarem produktu, gdyż stanowią 40% całkowitej
+masy ciała. Z niewielkiej części digoksyny krążącej w osoczu, około 25% jest związane z białkami.
+
+Eliminacja
+Digoksyna jest wydalana głównie w moczu w postaci niezmienionej.
+
+Digoksyna jest substratem dla glikoproteiny P. Jako białko wypływające na zewnętrzną błonę
+enterocytów, glikoproteina P może ograniczać wchłanianie digoksyny. Glikoproteina P w kanalikach
+nerkowych staje się ważnym czynnikiem w wydalaniu digoksyny przez nerki (patrz punkt 4.5.).
+
+Wykazano, że całkowity klirens digoksyny jest wprost proporcjonalnie związany z czynnością nerek,
+a procentowa utrata dobowa odzwierciedla klirens kreatyniny.
+Całkowity i nerkowy klirens digoksyny wynosi odpowiednio 193 ± 25 ml/min i 152 ± 24 ml/min
+w zdrowej populacji kontrolnej.
+
+
+
+                                                                                                   11
+U niewielkiego odsetka osób digoksyna podana doustnie ulega przemianie przez florę bakteryjną jelita
+grubego do produktów redukcji digoksyny, które nie wykazują działania nasercowego. U tych osób do
+40% podanej dawki może ulegać wydaleniu w postaci produktów redukcji digoksyny w moczu.
+Klirens nerkowy dwóch głównych metabolitów, dihydrodigoksyny i digoksygeniny wynosi:
+79  13 ml/min i 100  26 ml/min.
+
+Okres półtrwania digoksyny w fazie końcowej eliminacji u pacjentów z prawidłową czynnością nerek
+wynosi 30 do 40 godzin i przedłuża się u pacjentów z zaburzeniami czynności nerek, natomiast
+u pacjentów z bezmoczem może wynosić 100 godzin.
+
+W okresie noworodkowym klirens nerkowy digoksyny jest mniejszy, dlatego należy dokonywać
+korekty dawkowania. Szczególnie dotyczy to wcześniaków, gdyż klirens nerkowy odzwierciedla
+stopień dojrzałości nerek. Klirens digoksyny wynosi 65,6 ± 30 ml/min/1,73 m2 powierzchni ciała
+w wieku 3 miesięcy w porównaniu do zaledwie 32 ± 7 ml/min/1,73 m2 powierzchni ciała w wieku
+1 tygodnia. Poza okresem bezpośrednio po urodzeniu, dzieci generalnie wymagają podawania dawek
+proporcjonalnie większych niż dorośli w przeliczeniu na masę i powierzchnię ciała.
+
+Ponieważ większość digoksyny związana jest w tkankach poza krwią, nie można jej skutecznie usunąć
+z organizmu podczas krążenia pozaustrojowego. Ponadto tylko 3% dawki digoksyny jest usuwane
+z organizmu podczas pięciu godzin hemodializy.
+
+5.3      Przedkliniczne dane o bezpieczeństwie
+
+Nie ma danych dotyczących działania mutagennego lub rakotwórczego digoksyny.
+
+
+6.       DANE FARMACEUTYCZNE
+
+6.1      Wykaz substancji pomocniczych
+
+Laktoza jednowodna
+Skrobia ziemniaczana
+Powidon K-25
+Talk
+Magnezu stearynian
+
+6.2      Niezgodności farmaceutyczne
+
+Nie dotyczy.
+
+6.3      Okres ważności
+
+3 lata
+
+6.4      Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w temperaturze poniżej 25°C. Chronić od światła i wilgoci.
+
+6.5      Rodzaj i zawartość opakowania
+
+Blistry z folii Aluminum/PVC w tekturowym pudełku.
+30 tabletek.
+
+6.6      Specjalne środki ostrożności dotyczące usuwania i przygotowywania produktu leczniczego
+         do stosowania
+
+Bez specjalnych wymagań.
+
+                                                                                                 12
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+Warszawskie Zakłady Farmaceutyczne Polfa S.A.
+ul. Karolkowa 22/24; 01-207 Warszawa
+
+
+8.    NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr R/0377
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 09.08.1969 r.
+Data ostatniego przedłużenia pozwolenia: 22.07.2013 r.
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+
+
+
+                                                                              13
+

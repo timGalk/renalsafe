@@ -1,0 +1,749 @@
+                    CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1. NAZWA PRODUKTU LECZNICZEGO
+
+Biodacyna, 125 mg/ml, roztwór do wstrzykiwań i infuzji
+Biodacyna, 250 mg/ml, roztwór do wstrzykiwań i infuzji
+
+
+2. SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Biodacyna, 125 mg/ml, każdy ml roztworu zawiera 125 mg amikacyny (Amikacinum) w postaci
+amikacyny disiarczanu.
+Biodacyna, 250 mg/ml, każdy ml roztworu zawiera 250 mg amikacyny (Amikacinum) w postaci
+amikacyny disiarczanu.
+
+Substancje pomocnicze o znanym działaniu: sodu pirosiarczyn i sód.
+Biodacyna, 125 mg/ml, każdy ml roztworu zawiera 3,73 mg (0,16 mmol) sodu.
+Biodacyna, 250 mg/ml, każdy ml roztworu zawiera 7,49 mg (0,32 mmol) sodu.
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3. POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań i infuzji
+
+Bezbarwny lub jasnożółty wodny roztwór.
+
+
+4. SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Biodacyna jest przeznaczona do krótkotrwałego leczenia ciężkich zakażeń wywołanych przez bakterie
+wrażliwe na amikacynę (w tym bakterie oporne na inne antybiotyki aminoglikozydowe):
+- zakażenia dróg oddechowych,
+- zakażenia kości i stawów,
+- zakażenia skóry i tkanek miękkich,
+- zakażenia wewnątrz jamy brzusznej, w tym zapalenie otrzewnej,
+- zakażenia ran po oparzeniach i ran pooperacyjnych (również w chirurgii naczyniowej),
+- ciężkie, powikłane i nawracające zakażenia dróg moczowych (w niepowikłanych zakażeniach
+   amikacynę stosuje się tylko wtedy, gdy wywołujące je bakterie są oporne na inne antybiotyki),
+- posocznice, najczęściej w skojarzeniu z antybiotykiem -laktamowym,
+- zakażenia ośrodkowego układu nerwowego.
+
+Należy uwzględnić oficjalne wytyczne dotyczące prawidłowego stosowania leków
+przeciwbakteryjnych.
+
+4.2   Dawkowanie i sposób podawania
+
+W leczeniu większości zakażeń zalecane jest podanie domięśniowe, jednak w zakażeniach
+zagrażających życiu oraz u pacjentów, u których nie jest możliwe podanie domięśniowe, można
+produkt podać dożylnie, albo w krótkim wstrzyknięciu trwającym 2 do 3 minut (bolus) albo w infuzji
+(0,25% przez 30 minut).
+
+
+
+
+                                                                                                     1
+Dawkowanie
+
+Po podaniu zalecanej dawki, w niepowikłanych zakażeniach wywołanych przez wrażliwe
+drobnoustroje, reakcja organizmu na leczenie powinna nastąpić w ciągu 24 do 48 godzin.
+
+Jeśli reakcja na leczenie nie wystąpi w ciągu trzech do pięciu dni, należy rozważyć zastosowanie
+leczenia alternatywnego.
+
+Przed wyliczeniem właściwej dawki należy określić masę ciała pacjenta.
+
+Należy kontrolować czynność nerek poprzez badanie stężenia kreatyniny w surowicy lub obliczenie
+klirensu endogennej kreatyniny. Wartość stężenia azotu mocznikowego we krwi (BUN) jest w tym
+przypadku mniej wiarygodna. Ponowną ocenę czynności nerek należy wykonywać okresowo podczas
+trwania leczenia.
+
+Jeśli jest to możliwe, należy oznaczać stężenie amikacyny w surowicy, aby uzyskać jej odpowiedni,
+nie nazbyt wysoki, poziom. Zaleca się, aby w trakcie leczenia oznaczać co pewien czas w surowicy
+zarówno stężenie maksymalne, jak i minimalne występujące tuż przed podaniem kolejnej dawki.
+Należy unikać wystąpienia stężenia maksymalnego (30-90 minut po wstrzyknięciu) powyżej 35 µg/ml
+i minimalnego stężenia (tuż przed podaniem kolejnej dawki) powyżej 10 µg/ml. Należy odpowiednio
+dostosować dawkowanie. U pacjentów z prawidłową czynnością nerek produkt można podawać raz na
+dobę; maksymalne stężenie w surowicy w tym przypadku może przekroczyć 35 µg/ml.
+
+Leczenie trwa zwykle 7 do 10 dni. Całkowita dopuszczalna dawka dobowa amikacyny dla wszystkich
+dróg podania wynosi 15 do 20 mg/kg mc./dobę i nie należy jej przekraczać. W ciężkich i powikłanych
+zakażeniach, gdy czas leczenia jest dłuższy niż 10 dni, należy ponownie ocenić zastosowanie
+disiarczanu amikacyny podawanego we wstrzyknięciach; jeśli zapadnie decyzja o kontynuacji
+leczenia, należy kontrolować czynność nerek, słuch i czynność narządu równowagi oraz stężenie
+amikacyny w surowicy.
+
+Jeśli w ciągu 3 do 5 dni nie nastąpi wyraźna odpowiedź kliniczna, leczenie należy przerwać
+i ponownie określić wrażliwość drobnoustrojów powodujących zakażenie. Brak reakcji na leczenie
+może być związane z opornością drobnoustroju lub z występowaniem ognisk zakażenia
+wymagających chirurgicznego drenażu.
+
+Wcześniaki
+Dawka zalecana dla wcześniaków wynosi 7,5 mg/kg mc. co 12 godzin (patrz punkty 4.4 i 5.2).
+
+Noworodki
+Zalecana nasycająca dawka początkowa wynosi 10 mg/kg mc., następnie 7,5 mg/kg mc. co 12 godzin
+(patrz punkty 4.4 i 5.2).
+
+Niemowlęta od 4 tygodnia życia i dzieci do 12 lat
+Zalecana dawka domięśniowa lub dożylna (powolna infuzja) u dzieci z prawidłową czynnością nerek
+wynosi 15 do 20 mg/kg mc./dobę, podawana raz na dobę lub po 7,5 mg/kg mc. co 12 godzin.
+Podczas leczenia zapalenia wsierdzia i u pacjentów z neutropenią przebiegającą z gorączką produkt
+należy podawać dwa razy na dobę, ze względu na brak dostępnych danych potwierdzających
+skuteczność podawania produktu raz na dobę.
+
+Dorośli i dzieci w wieku powyżej 12 lat
+Zalecana dawka domięśniowa lub dożylna dla dorosłych i młodzieży z prawidłową czynnością nerek
+(klirensem kreatyniny ≥50 ml/min) wynosi 15 mg/kg mc./dobę i można ją podawać w jednorazowej
+dawce dobowej lub w dwóch równych dawkach podzielonych, wynoszących 7,5 mg/kg mc.,
+podawanych co 12 godzin. Nie należy przekraczać całkowitej dawki dobowej wynoszącej 1,5 g.
+Podczas leczenia zapalenia wsierdzia i u pacjentów z neutropenią przebiegającą z gorączką produkt
+należy podawać dwa razy na dobę, ze względu na brak wystarczających danych potwierdzających
+skuteczność podawania produktu raz na dobę.
+
+                                                                                                    2
+Pacjenci w podeszłym wieku
+Amikacyna jest wydalana przez nerki. Jeśli jest to możliwe, należy określić czynność nerek
+i dostosować dawkowanie, jak to opisano w punkcie dotyczącym dawkowania u pacjentów z
+zaburzeniami czynności nerek.
+
+Zakażenia zagrażające życiu i (lub) zakażenia wywołane przez Pseudomonas
+Dawkę u dorosłych można zwiększyć do 500 mg co osiem godzin, ale nie powinna przekraczać
+1,5 g/dobę i nie powinna być podawana dłużej niż 10 dni. Nie należy przekraczać maksymalnej
+całkowitej dawki dla dorosłych, wynoszącej 15 g.
+
+Zakażenia dróg moczowych (inne niż zakażenia wywołane przez Pseudomonas)
+Podaje się 7,5 mg/kg mc./dobę w dwóch równych dawkach podzielonych (odpowiadających 250 mg
+dwa razy na dobę u dorosłych). Ponieważ aktywność amikacyny zwiększa się wraz z pH, można
+jednocześnie podawać środki alkalizujące.
+
+Zaburzenia czynności nerek
+U pacjentów z zaburzeniami czynności nerek, gdy klirens kreatyniny jest mniejszy niż 50 ml/min, nie
+jest wskazane podanie zalecanej całkowitej dawki dobowej amikacyny w pojedynczej dawce,
+ponieważ pacjent będzie długotrwale narażony na wysokie stężenie minimalne. Należy zapoznać się
+z zamieszczonymi poniżej informacjami o dostosowywaniu dawkowania u pacjentów z zaburzeniami
+czynności nerek.
+
+U pacjentów z zaburzeniami czynności nerek, otrzymujących zwykle amikacynę dwa lub trzy razy na
+dobę, należy, jeśli to możliwe, monitorować stężenie amikacyny w surowicy za pomocą odpowiednich
+metod oznaczania. U pacjentów z zaburzeniami czynności nerek można dostosować dawkę albo
+podając zwykłą dawkę rzadziej, albo podając zmniejszoną dawkę i nie zmieniając przerw między
+dawkami.
+
+Obie metody są oparte na wartościach klirensu kreatyniny lub stężenia kreatyniny w surowicy, gdyż te
+wartości korelują z okresami półtrwania aminoglikozydów u pacjentów ze zmniejszoną czynnością
+nerek. Stosując te schematy dawkowania należy uważnie obserwować stan kliniczny pacjenta i
+kontrolować parametry laboratoryjne, a w razie konieczności zmodyfikować schemat dawkowania,
+uwzględniając przeprowadzaną dializę.
+
+Zwykłe dawki podawane rzadziej
+Jeśli klirens kreatyniny nie jest znany, a stan pacjenta jest stabilny, przerwy (w godzinach) pomiędzy
+zwykłymi pojedynczymi dawkami (czyli odpowiadające podawaniu pacjentowi z prawidłową
+czynnością nerek dawki 7,5 mg/kg mc. dwa razy na dobę) można wyliczyć przez pomnożenie stężenia
+kreatyniny w surowicy pacjenta (w mg/100 ml) przez dziewięć; tzn. jeśli stężenie kreatyniny
+w surowicy wynosi 2 mg/100 ml, zalecaną dawkę pojedynczą (7,5 mg/kg mc.) należy podawać co
+18 godzin.
+
+                                                          Przerwa pomiędzy dawkami amikacyny
+    Stężenie kreatyniny w surowicy
+                                                                   7,5 mg/kg mc. i.m.
+              [mg/100 ml]
+                                                                       [godziny]
+                   1,5                                                    13,5
+                   2,0                                                     18
+                   2,5                                                    22,5
+                   3,0                          ×9                         27
+                   3,5                                                    31,5
+                   4,0                                                     36
+                   4,5                                                    40,5
+                   5,0                                                     45
+                   5,5                                                    49,5
+                   6,0                                                     54
+
+
+                                                                                                      3
+Zmniejszone dawki podawane ze zwykłymi przerwami
+Jeśli czynność nerek jest zaburzona i jest wskazane podawanie siarczanu amikacyny we
+wstrzyknięciach, ze zwykłymi przerwami, dawkę należy zmniejszyć. U tych pacjentów należy
+oznaczyć stężenie amikacyny w surowicy, aby zapewnić precyzyjne podanie i uniknąć nadmiernego
+stężenia amikacyny w surowicy. Jeśli oznaczanie amikacyny w surowicy nie jest możliwe, a stan
+pacjenta jest stabilny, wówczas najłatwiej dostępnymi parametrami określenia stopnia zaburzenia
+czynności nerek do wykorzystania jako wskaźniki w określeniu dawkowania, są wartości stężenia
+kreatyniny w surowicy i klirensu kreatyniny.
+
+Leczenie należy rozpocząć podając zwykłą dawkę 7,5 mg/kg mc., jako dawkę nasycającą. Jest ona
+taka sama jak dawka zwykle zalecana dla pacjenta z prawidłową czynnością nerek, tak jak to opisano
+powyżej.
+
+Aby określić wielkość dawki podtrzymującej podawanej co 12 godzin, dawkę nasycającą należy
+zmniejszyć proporcjonalnie do zmniejszenia klirensu kreatyniny pacjenta:
+
+dawka podtrzymująca podawana co 12 godzin =
+
+       = obserwowany klirens kreatyniny pacjenta [ml/min] × wyliczona dawka nasycająca [mg]
+                             prawidłowy klirens kreatyniny [ml/min]
+
+Alternatywnym orientacyjnym sposobem określania zmniejszonych dawek podawanych co 12 godzin
+(dla pacjentów, u których znane są wartości stężenia stacjonarnego kreatyniny w surowicy) jest
+podzielenie zwykłej dawki przez stężenie kreatyniny w surowicy pacjenta.
+
+Powyższe schematy dawkowania nie są sztywnymi zalecaniami, lecz stanowią wskazówki, jak
+dawkować produkt, gdy oznaczenie stężeń amikacyny w surowicy nie jest możliwe.
+
+W związku z możliwością znacznej zmiany czynności nerek w trakcie terapii, należy często oznaczać
+stężenie kreatyniny w surowicy i w razie konieczności modyfikować schemat dawkowania.
+
+Sposób podawania
+Amikacyny siarczan można podawać domięśniowo lub dożylnie.
+
+Zalecenia dotyczące podawania dożylnego
+Dorosłym produkt należy podawać po odpowiednim rozcieńczeniu, w powolnej infuzji trwającej od
+30 do 60 minut.
+U dzieci objętość użytego rozpuszczalnika zależy od dawki amikacyny tolerowanej przez pacjenta.
+Roztwór zwykle podaje się w ciągu 30 do 60 minut. Niemowlęta powinny otrzymywać infuzję przez
+1 do 2 godzin.
+
+Amikacyny nie należy mieszać z innymi lekami, lecz podawać oddzielnie, zgodnie z zalecaną dawką
+i drogą podania.
+
+Sposób przygotowania roztworów do infuzji, patrz punkt 6.6.
+
+4.3   Przeciwwskazania
+
+-     Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną
+      w punkcie 6.1.
+-     Miastenia.
+-     Nadwrażliwość lub ciężkie reakcje toksyczności występujące w przeszłości po podaniu
+      jakiegokolwiek aminoglikozydu mogą być przeciwwskazaniem do stosowania wszelkich
+      aminoglikozydów, gdyż może wystąpić nadwrażliwość krzyżowa na leki tej grupy.
+
+
+
+
+                                                                                                     4
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Należy zachować ostrożność u pacjentów ze stwierdzoną wcześniej niewydolnością nerek lub
+uszkodzeniem słuchu lub narządu przedsionkowego. Jeśli pacjent otrzymuje aminoglikozydy
+pozajelitowo, należy uważnie obserwować jego stan kliniczny, ze względu na możliwe działanie
+ototoksyczne i nefrotoksyczne tych produktów. Nie potwierdzono bezpieczeństwa stosowania
+amikacyny przez okres dłuższy niż 14 dni. Należy przestrzegać środków ostrożności związanych
+z dawkowaniem i zapewnić odpowiedni poziom nawodnienia.
+
+U pacjentów z niewydolnością nerek lub zmniejszonym przesączaniem kłębuszkowym należy ocenić
+czynność nerek zwykłymi metodami przed rozpoczęciem leczenia, a następnie okresowo w trakcie
+terapii. Należy zmniejszyć dawki dobowe i (lub) wydłużyć przerwy między dawkami, w zależności od
+stężenia kreatyniny w surowicy, aby uniknąć nadmiernej kumulacji leku we krwi i ograniczyć do
+minimum ryzyko ototoksyczności. Regularne kontrolowanie stężenia leku w surowicy i czynności
+nerek jest szczególnie istotne u pacjentów w podeszłym wieku, u których zaburzenia czynności nerek
+mogą występować bez ewidentnych zmian wyników rutynowych badań przesiewowych, tj. oznaczeń
+stężenia mocznika we krwi i kreatyniny w surowicy.
+
+Jeżeli leczenie ma trwać siedem dni lub dłużej u pacjentów z zaburzeniami czynności nerek lub 10 dni
+u innych pacjentów, należy przed leczeniem wykonać audiogram i powtarzać to badanie w trakcie
+terapii. Leczenie amikacyną należy przerwać, jeśli wystąpią szumy uszne lub subiektywna utrata
+słuchu albo jeżeli audiogramy kontrolne wykazują znaczącą utratę odpowiedzi na dźwięki o wysokiej
+częstotliwości.
+
+Neurotoksyczność i ototoksyczność
+U pacjentów leczonych aminoglikozydami może wystąpić neurotoksyczność, objawiająca się jako
+przedsionkowa i (lub) obustronna słuchowa ototoksyczność. Ryzyko wystąpienia ototoksyczności
+indukowanej aminoglikozydami jest wyższe u pacjentów z niewydolnością nerek oraz u tych, którzy
+otrzymują wysokie dawki leku lub są leczeni przez dłuższy czas (ponad 5-7 dni). Zazwyczaj najpierw
+pojawia się utrata słyszenia dźwięków o wysokiej częstotliwości i można ją wykryć wyłącznie
+w badaniach audiometrycznych. Mogą się pojawić zawroty głowy, które mogą stanowić objaw
+uszkodzenia narządu przedsionkowego. Do innych możliwych objawów neurotoksyczności należą:
+drętwienie, mrowienie skóry, drżenia mięśniowe i drgawki. Ryzyko ototoksyczności wywołanej przez
+aminoglikozydy zwiększa się wraz ze stopniem narażenia na długotrwale utrzymujące się wysokie
+zarówno maksymalne jak i minimalne stężenie w surowicy. U pacjentów, u których rozwijają się
+uszkodzenia ślimaka lub narządu przedsionkowego, mogą nie występować w trakcie terapii objawy
+ostrzegawcze toksycznych uszkodzeń nerwu VIII. Całkowita lub częściowa nieodwracalna,
+obustronna głuchota lub zawroty głowy powodujące niepełnosprawność chorego mogą się pojawić po
+odstawieniu produktu. Zmiany spowodowane ototoksycznością indukowaną przez aminoglikozydy są
+zwykle nieodwracalne.
+Zwiększone ryzyko ototoksyczności występuje u pacjentów z mutacjami mitochondrialnymi DNA
+(zwłaszcza z zastąpieniem nukleotydu od 1555 A do G w genie rRNA 12S), nawet jeśli stężenie
+aminoglikozydów w surowicy podczas leczenia mieści się w zalecanym zakresie. U tych pacjentów
+należy rozważyć zastosowanie alternatywnych metod leczenia. U pacjentów, u których w wywiadzie
+stwierdzono istotne mutacje lub głuchotę wywołaną przez aminoglikozydy, należy rozważyć
+zastosowanie alternatywnych metod leczenia lub badań genetycznych przed podaniem.
+
+Stosowanie amikacyny należy starannie rozważyć u pacjentów z alergią na aminoglikozydy
+w wywiadzie lub u pacjentów z subklinicznym uszkodzeniem nerek lub nerwu VIII spowodowanym
+wcześniejszym podawaniem leków nefrotoksycznych i (lub) ototoksycznych, takich jak
+streptomycyna, dihydrostreptomycyna, gentamycyna, tobramycyna, kanamycyna, bekanamycyna,
+neomycyna, polimyksyna B, kolistyna, cefalorydyna lub wiomycyna, ponieważ działania toksyczne
+mogą się sumować.
+U tych pacjentów amikacynę można stosować tylko wtedy, gdy w opinii lekarza korzyści
+terapeutyczne przeważają ryzyko.
+
+Toksyczny wpływ na układ nerwowo-mięśniowy
+
+                                                                                                   5
+Obserwowano blokadę nerwowo-mięśniową i porażenie oddychania po wstrzykiwaniu pozajelitowym,
+podaniu miejscowym (np. w płynach irygacyjnych stosowanych w ortopedii, do przemywania jamy
+brzusznej lub w miejscowym leczeniu ropni) oraz podaniu doustnym aminoglikozydów. Należy wziąć
+pod uwagę możliwość porażenia oddychania podczas podawania aminoglikozydów jakąkolwiek
+drogą, zwłaszcza u pacjentów otrzymujących środki znieczulające, leki blokujące przewodnictwo
+nerwowo-mięśniowe (patrz punkt 4.5) lub u pacjentów, którym przetoczono duże ilości krwi z
+dodatkiem cytrynianu jako środka przeciwzakrzepowego. Jeżeli dojdzie do porażenia przewodnictwa
+nerwowo-mięśniowego, sole wapnia mogą odwrócić porażenie oddychania, ale może być konieczne
+zastosowanie mechanicznego wspomagania wentylacji. Blokadę przewodnictwa nerwowo-
+mięśniowego i porażenie mięśni obserwowano u zwierząt laboratoryjnych otrzymujących duże dawki
+amikacyny.
+
+Amiakcyny nie należy stosować u pacjentów z miastenią. Aminoglikozydy należy stosować ostrożnie
+u pacjentów z chorobami mięśni, takimi jak parkinsonizm, ponieważ leki te mogą nasilać osłabienie
+mięśni ze względu na kuraropodobne działanie na połączenie nerwowo-mięśniowe.
+
+Toksyczny wpływ na nerki
+Aminoglikozydy mogą działać nefrotoksycznie. Toksyczny wpływ na nerki jest niezależny od stężenia
+w osoczu (Cmax). Ryzyko wystąpienia nefrotoksyczności jest zwiększone u pacjentów
+z niewydolnością nerek oraz u tych, którzy otrzymują duże dawki leku lub są leczeni przez dłuższy
+czas. W trakcie leczenia należy dbać o dobre nawodnienie pacjenta. Należy kontrolować czynność
+nerek rutynowymi metodami przed rozpoczęciem i codziennie w trakcie leczenia. Dawkę należy
+zmniejszyć, jeśli wystąpią objawy zaburzenia czynności nerek, takie jak: występowanie w moczu
+wałeczków, białych lub czerwonych krwinek, albuminuria, zmniejszenie klirensu kreatyniny,
+zmniejszenie ciężaru właściwego moczu, zwiększenie we krwi stężenia azotu mocznikowego (BUN),
+zwiększenie w surowicy stężenia kreatyniny, skąpomocz. Jeśli narasta azotemia lub stopniowo
+zmniejsza się objętość oddawanego moczu, leczenie należy przerwać.
+
+U pacjentów w podeszłym wieku zaburzenie czynności nerek może nie uwidaczniać się w wynikach
+rutynowych badań przesiewowych, takich jak oznaczenie stężenia azotu mocznikowego we krwi
+i kreatyniny w surowicy. Bardziej przydatnym badaniem może być wówczas oznaczenie klirensu
+kreatyniny. Monitorowanie czynności nerek u pacjentów w podeszłym wieku w trakcie leczenia
+aminoglikozydami jest szczególnie istotne.
+
+Zalecane jest dokładne kontrolowanie czynności nerek i czynności VIII nerwu czaszkowego,
+zwłaszcza u pacjentów z potwierdzonymi zaburzeniami czynności nerek lub u których podejrzewa się
+takie zaburzenia na początku leczenia, a także u pacjentów z początkowo prawidłową czynnością
+nerek, u których objawy niewydolności rozwinęły się w trakcie terapii. W miarę możliwości należy
+monitorować stężenie amikacyny w surowicy, aby zapewnić jego prawidłową wartość i uniknąć
+wystąpienia stężenia, które może być toksyczne. Należy wykonać badanie moczu z określeniem jego
+ciężaru właściwego, zwiększonego wydzielania białek i obecności komórek lub wałeczków. Należy
+okresowo wykonywać oznaczenia stężenia azotu mocznikowego we krwi, stężenia kreatyniny w
+surowicy lub klirensu kreatyniny. W miarę możliwości należy wykonywać seryjne audiogramy u
+pacjentów w wieku, który pozwala na takie badania, zwłaszcza z grupy wysokiego ryzyka. Jeśli
+wystąpią objawy ototoksyczności (zawroty głowy, zaburzenia równowagi, szumy uszne, huczenie w
+uszach lub utrata słuchu) lub nefrotoksyczności, konieczne jest odstawienie leku lub skorygowanie
+jego dawkowania.
+
+Należy unikać równoczesnego i (lub) następującego po kolei podawania ogólnego, doustnego lub
+miejscowego innych produktów o działaniu neurotoksycznym lub nefrotoksycznym, w tym zwłaszcza
+bacytracyny, cisplatyny, amfoterycyny B, cefalorydyny, paromomycyny, wiomycyny, polimyksyny B,
+kolistyny, wankomycyny czy innych aminoglikozydów. Do innych czynników, które mogą zwiększać
+ryzyko toksyczności, należą zaawansowany wiek i odwodnienie pacjenta.
+
+Inaktywacja aminoglikozydów jest istotna klinicznie wyłącznie u pacjentów z ciężką niewydolnością
+nerek. Inaktywacja może dalej przebiegać w próbkach płynów ustrojowych pobranych do badań, co
+
+
+                                                                                                    6
+może prowadzić do niedokładnych odczytów stężeń aminoglikozydów. Z takimi próbkami należy
+postępować we właściwy sposób (natychmiast badać, zamrozić lub potraktować beta-laktamazą).
+
+Reakcje alergiczne
+Produkt zawiera sodu pirosiarczyn, który rzadko może wywoływać ciężkie reakcje nadwrażliwości,
+w tym reakcje anafilaktyczne i zagrażające życiu lub mniej ciężkie napady astmy u wrażliwych
+pacjentów. Ogólna częstość występowania nadwrażliwości na siarczyny w populacji ogólnej jest
+niezbyt częsta i prawdopodobnie niska. Nadwrażliwość na siarczyny obserwuje się częściej
+u pacjentów chorych na astmę.
+
+Inne informacje
+Aminoglikozydy szybko i prawie całkowitemu wchłaniają się po podaniu miejscowym podczas
+zabiegów chirurgicznych, z wyjątkiem podania do pęcherza moczowego. Zgłaszano przypadki
+występowania nieodwracalnej głuchoty, niewydolności nerek oraz zgonu spowodowanego blokadą
+nerwowo-mięśniową, po przepłukiwaniu aminoglikozydami zarówno małego, jak i dużego pola
+operacyjnego.
+
+Podobnie jak w przypadku innych antybiotyków, stosowanie amikacyny może doprowadzić do
+nadmiernego rozrostu niewrażliwych na nią drobnoustrojów. W takim wypadku należy podjąć
+właściwe leczenie.
+
+Po podaniu amikacyny do ciała szklistego (we wstrzyknięciu do oka) raportowano występowanie
+zawału plamki, niekiedy prowadzącego do trwałej utraty wzroku.
+
+Stosowanie u dzieci
+Aminoglikozydy należy stosować ostrożnie u wcześniaków i noworodków ze względu na
+niedojrzałość nerek u tych pacjentów, co powoduje wydłużenie okresu półtrwania w surowicy leków z
+tej grupy.
+
+Produkt leczniczy zawiera sodu pirosiarczyn (E 223)
+Produkt rzadko może powodować ciężkie reakcje nadwrażliwości i skurcz oskrzeli.
+
+Produkt leczniczy zawiera sód
+Produkt Biodacyna, 125 mg/ml, zawiera 3,73 mg (0,16 mmol) sodu w 1 ml, co odpowiada 0,19%
+zalecanej przez WHO maksymalnej 2 g dobowej dawki sodu u osób dorosłych.
+Maksymalna dobowa dawka tego produktu (1,5 g amikacyny, tj. 12 ml roztworu) zawiera 44,76 mg
+(1,95 mmol) sodu, co odpowiada 2,24% zalecanej przez WHO maksymalnej 2 g dobowej dawki sodu
+u osób dorosłych.
+1 mmol (23 mg) sodu znajduje się w 6 ml produktu Biodacyna, 125 mg/ml.
+
+Produkt Biodacyna, 250 mg/ml, zawiera 7,49 mg (0,32 mmol) sodu w 1 ml, co odpowiada 0,38%
+zalecanej przez WHO maksymalnej 2 g dobowej dawki sodu u osób dorosłych.
+Maksymalna dobowa dawka tego produktu (1,5 g amikacyny, tj. 6 ml roztworu) zawiera 44,94 mg
+(1,95 mmol) sodu, co odpowiada 2,25% zalecanej przez WHO maksymalnej 2 g dobowej dawki sodu
+u osób dorosłych.
+1 mmol (23 mg) sodu znajduje się w 3 ml produktu Biodacyna, 250 mg/ml.
+
+Należy to wziąć pod uwagę u pacjentów ze zmniejszoną czynnością nerek i u pacjentów
+kontrolujących zawartość sodu w diecie.
+
+Zawartość sodu pochodzącego z rozcieńczalnika powinna być brana pod uwagę w obliczeniu
+całkowitej zawartości sodu w przygotowanym rozcieńczeniu produktu. W celu uzyskania dokładnej
+informacji dotyczącej zawartości sodu w roztworze wykorzystanym do rozcieńczenia produktu, należy
+zapoznać się z charakterystyką produktu leczniczego stosowanego rozcieńczalnika.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+
+                                                                                                 7
+Ze względu na możliwość sumowania się działań, należy unikać jednoczesnego lub następującego po
+kolei stosowania innych produktów, które mogą działać nefro-, neuro- lub ototoksycznie, szczególnie
+bacytracyny, cisplatyny, amfoterycyny B, cyklosporyny, takrolimusu, cefalorydyny, paromomycyny,
+wiomycyny, polimyksyny B, kolistyny, wankomycyny lub innych aminoglikozydów, zarówno
+podawanych ogólnie jak i miejscowo. Zwiększoną nefrotoksyczność raportowano po jednoczesnym
+podaniu pozajelitowym antybiotyków aminoglikozydowych i cefalosporyn. Jednoczesne stosowanie
+cefalosporyn może fałszywie zawyżać oznaczenia kreatyniny w surowicy. Jeśli nie jest możliwe
+unikanie takiego połączenia, należy prowadzić staranną kontrolę.
+Ryzyko ototoksyczności jest zwiększone, gdy amikacynę stosuje się razem z szybko działającymi
+lekami moczopędnymi, zwłaszcza jeśli lek moczopędny jest podawany dożylnie. Leki moczopędne
+mogą nasilać toksyczność aminoglikozydów poprzez zmianę stężeń antybiotyku w surowicy i
+tkankach. Do takich leków zaliczają się furosemid i kwas etakrynowy, które same są substancjami
+ototoksycznymi. Może dojść do nieodwracalnej utraty słuchu.
+
+Indometacyna może powodować zwiększenie stężenia amikacyny w osoczu u noworodków.
+
+U pacjentów z ciężką niewydolnością nerek może dojść do zmniejszenia aktywności
+aminoglikozydów, jeżeli równocześnie podawane są leki z grupy penicylin.
+
+In vitro dodanie aminoglikozydów do antybiotyków beta-laktamowych (penicylin lub cefalosporyn)
+może doprowadzić do istotnej wzajemnej inaktywacji tych substancji. Może również dojść do
+zmniejszenia aktywności w surowicy w przypadku równoczesnego podania aminoglikozydu lub leku
+z grupy penicylin podawanych in vivo oddzielnymi drogami. Inaktywacja aminoglikozydów jest
+istotna klinicznie wyłącznie u pacjentów z ciężką niewydolnością nerek. Inaktywacja może dalej
+przebiegać w próbkach płynów ustrojowych pobranych do badań, co może prowadzić do
+niedokładnych odczytów stężenia aminoglikozydów. Z takimi próbkami należy postępować we
+właściwy sposób (natychmiast badać, zamrozić lub dodać beta-laktamazy).
+
+Jeśli aminoglikozydy są podawane równocześnie z bisfosfonianami, zwiększa się ryzyko
+hipokalcemii.
+
+Jeśli aminoglikozydy są podawane równocześnie ze związkami platyny, zwiększa się ryzyko
+nefrotoksyczności.
+
+Równocześnie podawana tiamina (witamina B1) może ulegać rozkładowi w wyniku reakcji
+z reaktywnym pirosiarczynem sodu zawartym w produkcie.
+
+Jednoczesne podawanie amikacyny z lekami zwiotczającymi mięśnie lub środkami znieczulającymi
+(w tym eter, halotan, tubokuraryna, sukcynylocholina, dekametonium, atrakurium, rokuronium,
+wekuronium lub u pacjentów, którym przetoczono duże ilości krwi z dodatkiem cytrynianu jako
+środka przeciwzakrzepowego) może spowodować blokadę nerwowo-mięśniową prowadzącą do
+depresji oddechowej. Jeżeli dojdzie do blokady nerwowo-mięśniowej, sole wapnia mogą ją odwrócić.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Amikacynę można podawać kobietom w ciąży i noworodkom tylko w razie wyraźnej konieczności i
+pod nadzorem lekarza (patrz punkt 4.4).
+Dostępne dane dotyczące stosowania aminoglikozydów w ciąży są ograniczone. Aminoglikozydy
+mogą powodować uszkodzenie płodu. Aminoglikozydy przenikają przez łożysko i notowano
+występowanie całkowitej, nieodwracalnej, obustronnej wrodzonej głuchoty u dzieci, których matki
+otrzymywały streptomycynę podczas ciąży. Chociaż nie notowano niepożądanego działania na płód
+lub noworodka, gdy kobieta w ciąży była leczona innymi aminoglikozydami, jednak występuje ryzyko
+uszkodzeń. Jeśli amikacynę stosuje się podczas ciąży lub jeśli pacjentka zajdzie w ciążę w trakcie
+przyjmowania produktu, należy ją uprzedzić o możliwym zagrożeniu dla płodu.
+
+Karmienie piersią
+
+                                                                                                      8
+Nie wiadomo, czy amikacyna przenika do mleka kobiecego. Należy podjąć decyzję, czy przerwać
+karmienie piersią, czy zakończyć leczenie.
+
+Płodność
+Podczas badań nad toksycznym wpływem na reprodukcję u myszy i szczurów nie stwierdzono
+wpływu na płodność ani toksycznego działania na płód.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Nie przeprowadzono badań nad wpływem produktu na zdolność prowadzenia pojazdów
+i obsługiwania maszyn. Niektóre działania niepożądane mogą osłabiać u pacjenta zdolność
+prowadzenia pojazdów i obsługiwania maszyn (patrz punkt 4.8).
+
+4.8   Działania niepożądane
+
+Działania niepożądane uporządkowano według klasyfikacji układów i narządów; do określenia
+częstości występowania zastosowano następującą klasyfikację:
+bardzo często: (1/10), często: (1/100 do <1/10), niezbyt często: (1/1000 do <1/100), rzadko:
+(1/10 000 do <1/1000), bardzo rzadko: (<1/10 000), częstość nieznana: (nie może być określona na
+podstawie dostępnych danych).
+
+                                           Częstość
+ Klasyfikacja układów i narządów                                   Działania niepożądane
+                                           występowania
+ Zakażenia i zarażenia pasożytnicze        Niezbyt często          Nadkażenia lub kolonizacja
+                                                                   przez bakterie lekooporne lub
+                                                                   drożdżakia
+ Zaburzenia krwi i układu chłonnego        Rzadko                  Niedokrwistość, eozynofilia
+ Zaburzenia układu immunologicznego        Częstość nieznana       Odpowiedź anafilaktyczna
+                                                                   (reakcja anafilaktyczna, wstrząs
+                                                                   anafilaktyczny i reakcja
+                                                                   rzekomoanafilaktyczna),
+                                                                   nadwrażliwość
+ Zaburzenia metabolizmu i odżywiania       Rzadko                  Hipomagnezemia
+ Zaburzenia układu nerwowego               Rzadko                  Drżeniea, parestezjaa, ból
+                                                                   głowy, zaburzenie równowagia
+                                           Częstość nieznana       Porażeniea
+ Zaburzenia oka                            Rzadko                  Ślepotab, zawał siatkówkib
+ Zaburzenia ucha i błędnika                Rzadko                  Szumy usznea, niedosłucha
+                                           Częstość nieznana       Głuchota, głuchota nerwowo-
+                                                                   czuciowa a
+ Zaburzenia naczyniowe                     Rzadko                  Niedociśnienie
+ Zaburzenia układu oddechowego, klatki     Częstość nieznana       Bezdech, skurcz oskrzeli
+ piersiowej i śródpiersia
+ Zaburzenia żołądka i jelit                Niezbyt często          Nudności, wymioty
+ Zaburzenia skóry i tkanki podskórnej      Niezbyt często          Wysypka
+                                           Rzadko                  Świąd, pokrzywka
+ Zaburzenia mięśniowo-szkieletowe i        Rzadko                  Bóle stawów, drżenia mięśnia
+ tkanki łącznej
+ Zaburzenia nerek i dróg moczowych         Rzadko                  Skąpomocza, zwiększenie
+                                                                   stężenia kreatyniny we krwia,
+                                                                   albuminuriaa, azotemiaa,
+                                                                   erytrocyty w moczua, leukocyty
+                                                                   w moczua
+                                           Częstość nieznana       Ostra niewydolność nerek,
+                                                                   toksyczna nefropatia,
+
+
+                                                                                                      9
+                                                                   występowanie komórek w
+                                                                   moczua
+
+
+    Zaburzenia ogólne i stany w miejscu    Rzadko                  Gorączka
+    podania
+
+a
+ Patrz punkt 4.4.
+b
+ Amikacyna nie jest przeznaczona do podania do ciałka szklistego. Zawał siatkówki i ślepotę
+odnotowano po podaniu amikacyny do ciałka szklistego (wstrzyknięcie do oka).
+
+Wszystkie aminoglikozydy mogą działać ototoksycznie i nefrotoksycznie oraz mogą blokować
+przewodnictwo nerwowo-mięśniowe. Działanie takie występuje częściej u pacjentów z zaburzeniami
+czynności nerek, u pacjentów leczonych innymi lekami oto- lub nefrotoksycznymi oraz u pacjentów
+leczonych przez dłuższy czas i (lub) większymi dawkami niż zalecane (patrz punkt 4.4).
+
+Zmiany czynności nerek na ogół ustępują po przerwaniu podawania leku.
+
+Działanie toksyczne na VIII nerw czaszkowy może prowadzić do utraty słuchu, utraty zdolności do
+utrzymania równowagi lub do obu tych powikłań. Amikacyna wpływa przede wszystkim na czynność
+słuchową. Uszkodzenie ślimaka obejmuje niesłyszenie wysokich tonów, pojawia się zazwyczaj przed
+kliniczną utratą słuchu i może być wykryte w badaniach audiometrycznych (patrz punkt 4.4).
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C
+02-222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9     Przedawkowanie
+
+Przedawkowanie pociąga za sobą ogólne ryzyko działań nefro-, oto- i neurotoksycznych (blokady
+przewodnictwa nerwowo-mięśniowego). Jeśli nastąpi blokada przewodnictwa nerwowo-mięśniowego
+z zatrzymaniem oddychania, konieczne jest podjęcie właściwego leczenia, które obejmuje podanie
+jonów wapnia (np. w postaci glukonianu lub laktobionianu w 10–20% roztworze) (patrz punkt 4.4). W
+razie przedawkowania lub wystąpienia objawów toksyczności, w usunięciu amikacyny z krwi może
+pomóc dializa otrzewnowa lub hemodializa.
+Stężenie amikacyny można również zmniejszyć metodą ciągłej hemofiltracji tętniczo-żylnej.
+U noworodka można również rozważyć przetoczenie wymienne krwi.
+
+
+5.     WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1     Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: lek przeciwbakteryjny do stosowania ogólnego, kod ATC: J01GB06
+
+Amikacyny siarczan jest antybiotykiem aminoglikozydowym, który działa na szerokie spektrum
+bakterii Gram-ujemnych, w tym Pseudomonas spp., Escherichia coli, Proteus spp. (szczepy indolo-
+
+                                                                                                  10
+dodatnie i indolo-ujemne), Klebsiella-Enterobacter-Serratia spp., Salmonella, Shigella, Mima-
+Herellae, Citrobacter freundii oraz Providencia spp.
+
+Wiele szczepów bakterii Gram-ujemnych opornych na gentamycynę i tobramycynę może wykazywać
+in vitro wrażliwość na amikacynę. Główną Gram-dodatnią bakterią wrażliwą na amikacynę jest
+Staphylococcus aureus, w tym szczepy oporne na metycylinę. Amikacyna wykazuje pewne działanie
+na inne bakterie Gram-dodatnie, w tym niektóre szczepy Streptococcus pyogenes, enterokoki
+i Diplococcus pneumoniae.
+
+5.2   Właściwości farmakokinetyczne
+
+Amikacyna jest szybko wchłaniana po wstrzyknięciu domięśniowym. Maksymalne stężenie
+w surowicy, wynoszące w przybliżeniu 11 mg/l do 23 mg/l, osiągane jest godzinę po domięśniowym
+podaniu dawki wynoszącej odpowiednio 250 mg i 500 mg. Po 10 godzinach po wstrzyknięciu stężenie
+wynosi odpowiednio 0,3 mg/l i 2,1 mg/l.
+
+Dwadzieścia procent lub mniej amikacyny wiąże się z białkami surowicy, a stężenie bakteriobójcze
+dla wrażliwych drobnoustrojów utrzymuje się przez 10 do 12 godzin.
+
+Amikacyna szybko dyfunduje do płynów zewnątrzkomórkowych i jest wydalana z moczem w postaci
+niezmienionej, głównie w procesie przesączania kłębuszkowego. Okres półtrwania u osób z
+prawidłową czynnością nerek wynosi od dwóch do trzech godzin.
+
+Po podaniu domięśniowym dawki 250 mg, około 65% jest wydalane w ciągu sześciu godzin, a 91%
+w ciągu 24 godzin. Średnie stężenie w moczu wynosi 563 mg/l w ciągu pierwszych 6 godzin
+i 163 mg/l, w ciągu 6 do 12 godzin. Średnie stężenie w moczu po domięśniowym podaniu 500 mg
+wynosi średnio 832 mg/l w ciągu pierwszych sześciu godzin.
+
+Po podaniu zdrowym osobom dorosłym pojedynczej dawki 500 mg w postaci infuzji dożylnej w ciągu
+30 minut, średnie stężenie w surowicy w momencie zakończenia infuzji wynosi 38 mg/l. Powtarzane
+infuzje nie powodują kumulacji leku.
+
+Po podaniu pozajelitowym amikacynę wykryto w płynie mózgowo-rdzeniowym, płynie opłucnowym,
+płynie owodniowym i w jamie otrzewnej.
+
+Dane z badań z zastosowaniem wielokrotnie podawanych w ciągu doby dawek pokazują, że stężenia
+amikacyny w płynie mózgowo-rdzeniowym u zdrowych niemowląt stanowią 10 do 20% stężeń
+w surowicy i mogą osiągnąć 50% w zapaleniu opon mózgowych.
+
+Podanie domięśniowe i dożylne
+U noworodków, a szczególnie u wcześniaków, zmniejszone jest wydalanie amikacyny przez nerki.
+
+W pojedynczym badaniu z udziałem noworodków (1-6 dni po urodzeniu) pogrupowanych według
+urodzeniowej masy ciała (<2000, 2000-3000 i >3000 g) amikacyna była podawana domięśniowo
+i (lub) dożylnie w dawce 7,5 mg/kg mc. Klirens u noworodków >3000 g wyniósł 0,84 ml/min/kg,
+a okres półtrwania w fazie eliminacji wynosił około 7 godzin. W tej grupie początkowa objętość
+dystrybucji i objętość dystrybucji w stanie równowagi wynosiła odpowiednio 0,3 ml/kg i 0,5 mg/kg.
+W grupie noworodków o niższej masie urodzeniowej klirens/kg był mniejszy, a okres półtrwania
+dłuższy. Wielokrotne powtarzanie dawek co 12 godzin we wszystkich powyższych grupach nie
+powodowało kumulowania się amikacyny po 5 dniach.
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+Nie ma dodatkowych istotnych danych.
+
+
+6.    DANE FARMACEUTYCZNE
+
+                                                                                                    11
+6.1   Wykaz substancji pomocniczych
+
+Sodu cytrynian dwuwodny
+Sodu pirosiarczyn (E 223)
+Kwas siarkowy
+Woda do wstrzykiwań
+
+6.2   Niezgodności farmaceutyczne
+
+Amikacyny nie należy mieszać w jednej strzykawce lub zestawie do infuzji z innymi produktami ze
+względu na możliwość wystąpienia niezgodności.
+
+W przypadku podawania z innym antybiotykiem, leki należy wstrzykiwać w różne miejsca ciała lub
+podawać w oddzielnych infuzjach.
+
+6.3   Okres ważności
+
+3 lata
+Roztwór rozcieńczony można przechowywać 24 godziny w temperaturze od 2°C do 8°C.
+
+6.4   Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w temperaturze do 25°C. Chronić od światła.
+Przechowywanie rozcieńczonego roztworu – patrz punkt 6.3.
+
+6.5   Rodzaj i zawartość opakowania
+
+Szklana ampułka, umieszczona w tekturowym pudełku razem z ulotką informacyjną dla pacjenta.
+Opakowanie jednostkowe zawiera 1 ampułkę.
+
+  Całkowita zawartość                                         Objętość roztworu
+                      Stężenie roztworu amikacyny
+ amikacyny w ampułce                                             w ampułce
+        250 mg                  125 mg/ml                           2 ml
+        500 mg                  250 mg/ml                           2 ml
+          1g                    250 mg/ml                           4 ml
+
+6.6   Specjalne środki ostrożności dotyczące usuwania i przygotowywania produktu leczniczego
+      do stosowania
+
+Przed podaniem domięśniowym nie ma konieczności rozcieńczania produktu.
+Jasnożółta barwa roztworu nie ma wpływu na bezpieczeństwo stosowania produktu.
+
+Przygotowanie roztworów do infuzji dożylnych
+Infuzje dożylne przygotowuje się przez rozcieńczenie zawartości ampułki w jednym z powszechnie
+stosowanych płynów infuzyjnych tak, by uzyskać stężenie antybiotyku w zakresie od 2,5 do 5 mg/ml,
+np. 500 mg amikacyny można rozcieńczyć w 100 lub 200 ml jednego z następujących roztworów:
+0,9% roztwór chlorku sodu,
+5% roztwór glukozy,
+5% roztwór glukozy z 0,9% roztworem chlorku sodu (2:1),
+5% roztwór glukozy z 0,2% roztworem chlorku sodu,
+płyn Ringera z mleczanami.
+
+U noworodków, niemowląt i dzieci należy stosować infuzje o mniejszej objętości, dostosowane do
+masy ciała pacjenta.
+
+
+
+                                                                                                  12
+Przygotowane roztwory do infuzji, niezawierające środka konserwującego, można przechować
+w temperaturze od 2°C do 8°C nie dłużej niż 24 godziny.
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+Zakłady Farmaceutyczne POLPHARMA SA
+ul. Pelplińska 19
+83-200 Starogard Gdański
+
+
+8.    NUMERY POZWOLEŃ NA DOPUSZCZENIE DO OBROTU
+
+125 mg/ml
+Pozwolenie nr R/0614
+
+250 mg/ml
+Pozwolenie nr R/0613
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 21.02.1989 r.
+Data ostatniego przedłużenia pozwolenia: 12.12.2011 r.
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+01.07.2025 r.
+
+
+
+
+                                                                                           13
+

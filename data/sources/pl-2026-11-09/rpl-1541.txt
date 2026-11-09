@@ -1,0 +1,680 @@
+                     CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.   NAZWA PRODUKTU LECZNICZEGO
+
+Colistin TZF, 1 000 000 IU, liofilizat do sporządzania roztworu do wstrzykiwań, infuzji i inhalacji
+
+
+2.   SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Jedna fiolka zawiera 1 000 000 IU (około 80 mg) kolistymetatu sodowego (Colistimethatum
+natricum).
+
+W produkcie stosowany jest 5% nadmiar substancji czynnej z powodu zmniejszania się jej aktywności
+w okresie ważności leku.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.   POSTAĆ FARMACEUTYCZNA
+
+Liofilizat do sporządzania roztworu do wstrzykiwań, infuzji i inhalacji.
+Liofilizat barwy białej lub kremowej, w postaci krążka lub jego fragmentów różnej wielkości.
+
+
+4.   SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1 Wskazania do stosowania
+
+    Colistin TZF w postaci roztworu do wstrzykiwań i infuzji jest wskazany do stosowania u
+     dorosłych i dzieci, w tym u noworodków, w leczeniu ciężkich zakażeń wywołanych wybranymi
+     tlenowymi drobnoustrojami chorobotwórczymi Gram-ujemnymi, u pacjentów z ograniczonymi
+     opcjami leczenia (patrz punkty 4.2, 4.4, 4.8 i 5.1).
+
+    Colistin TZF w postaci roztworu do inhalacji jest wskazany do stosowania u dorosłych oraz dzieci
+     i młodzieży z mukowiscydozą w leczeniu przewlekłych zakażeń płuc wywołanych przez
+     Pseudomonas aeruginosa (patrz punkt 5.1).
+
+Należy uwzględnić oficjalne wytyczne dotyczące właściwego stosowania leków przeciwbakteryjnych.
+
+4.2 Dawkowanie i sposób podawania
+
+Roztwór do wstrzykiwań i infuzji
+
+Dobierając dawkę do podawania i czas trwania leczenia należy uwzględniać ciężkość zakażenia
+i odpowiedź kliniczną. Należy przestrzegać wytycznych dotyczących leczenia.
+
+Dawka jest wyrażana w jednostkach międzynarodowych (IU) kolistymetatu sodowego. Na końcu tego
+punktu załączono tabelę do przeliczania dawki kolistymetatu sodowego, wyrażonej w IU, na
+kolistymetat sodowy w mg oraz na mg aktywności kolistyny zasady (ang. colistin base activity, CBA).
+
+Dawkowanie
+
+Poniższe zalecenia dotyczące dawkowania opracowano na podstawie ograniczonych populacyjnych
+danych farmakokinetycznych u pacjentów w stanie krytycznym (patrz punkt 4.4).
+Dorośli i młodzież
+Dawka podtrzymująca wynosi 9 mln IU/dobę, w 2-3 dawkach podzielonych.
+
+U pacjentów w stanie krytycznym należy podać dawkę nasycającą 9 milionów IU.
+Nie określono, jaki powinien być najwłaściwszy odstęp czasu do podania pierwszej dawki
+podtrzymującej.
+
+Modelowanie wskazuje, że w niektórych przypadkach, u pacjentów z dobrą czynnością nerek, może
+być konieczne podawanie dawki nasycającej i podtrzymującej do 12 mln IU. Doświadczenie kliniczne
+z takimi dawkami jest jednak skrajnie ograniczone i nie określono bezpieczeństwa stosowania.
+
+Dawka nasycająca dotyczy pacjentów z prawidłową czynnością nerek i z zaburzeniami czynności
+nerek, w tym pacjentów poddawanych leczeniu nerkozastępczemu.
+
+Zaburzenia czynności nerek
+W zaburzeniach czynności nerek konieczne jest dostosowanie dawki, ale dostępne dane
+farmakokinetyczne dotyczące pacjentów z zaburzeniami czynności nerek są bardzo ograniczone.
+
+Następujący sposób dostosowywania dawki proponuje się jako wytyczną.
+
+U pacjentów z klirensem kreatyniny <50 mL/min zaleca się zmniejszenie dawki.
+Zaleca się podawanie dwa razy na dobę.
+
+            Klirens kreatyniny
+                                               Dawka dobowa
+                 [mL/min]
+                  <50-30                      5,5 do 7,5 mln IU
+                  <30-10                      4,5 do 5,5 mln IU
+                    <10                           3,5 mln IU
+       mln IU = milion IU
+
+Hemodializa i ciągła hemofiltracja lub hemodiafiltracja
+Wydaje się, że kolistyna podlega dializie przeprowadzanej za pomocą konwencjonalnej hemodializy i
+ciągłej dożylnej hemofiltracji lub hemodiafiltracji (ang. Continuous venovenous haemofiltration,
+CVVHF, ang. Continuous venovenous haemodiafiltration, CVVHDF). Dostępne dane pochodzące z
+badań populacyjnych farmakokinetyki z udziałem bardzo małej liczby pacjentów poddawanych
+leczeniu nerkozastępczemu, są skrajnie ograniczone. Nie można podać dokładnych zaleceń
+dotyczących dawkowania. Można rozważyć poniższe schematy.
+
+Hemodializa
+Dni bez HD: 2,25 mln IU/dobę (2,2 do 2,3 mln IU/dobę).
+Dni z HD: 3 mln IU w dniach z hemodializą, do podawania po sesji HD.
+Zalecane jest podawanie dwa razy na dobę.
+
+CVVHF lub CVVHDF
+Jak u pacjentów z prawidłową czynnością nerek. Zalecane jest podawanie trzy razy na dobę.
+
+Zaburzenia czynności wątroby
+Brak danych dotyczących pacjentów z zaburzeniami czynności wątroby. Należy zachować ostrożność
+podczas podawania kolistymetatu sodowego u tych pacjentów.
+
+Osoby w podeszłym wieku
+Uważa się, że u pacjentów w podeszłym wieku z prawidłową czynnością nerek modyfikacja
+dawkowania nie jest konieczna.
+
+
+                                                 2
+                                                                   PL_ztw21.03.2019 PRAC09.06.2023 v3
+Dzieci i młodzież
+Dane potwierdzające schemat dawkowania u dzieci i młodzieży są bardzo ograniczone. Podczas
+doboru dawki należy uwzględnić dojrzałość nerek. Dawkę należy określić na podstawie
+beztłuszczowej masy ciała.
+
+Dzieci o masie ciała ≤40 kg
+75 000 do 150 000 IU/kg mc./dobę, w 3 dawkach podzielonych.
+
+U dzieci o masie ciała większej niż 40 kg należy rozważyć zastosowanie zaleceń dotyczących
+dawkowania u dorosłych.
+
+Stosowanie dawek >150 000 IU/kg mc./dobę zgłaszano u dzieci z mukowiscydozą.
+
+Brak danych dotyczących stosowania lub wielkości dawki nasycającej u dzieci w stanie krytycznym.
+
+Nie określono zaleceń dotyczących dawkowania u dzieci z zaburzeniami czynności nerek.
+
+Sposób podawania
+
+Kolistymetat sodowy w postaci roztworu do wstrzykiwań i infuzji można podawać dożylnie (we
+wstrzyknięciach lub w infuzji) lub domięśniowo.
+Sposób sporządzania roztworów – patrz punkt 6.6.
+
+Podanie dożylne
+Kolistymetat sodowy zwykle podaje się w infuzji dożylnej w 50 mL roztworu przez około 30 minut
+lub we wstrzyknięciu dożylnym (dawkę do 2 mln IU) w 10 mL roztworu przez co najmniej 5 minut.
+
+Podanie domięśniowe
+Jeśli podanie dożylne jest niemożliwe, kolistymetat sodowy można podać domięśniowo (wstrzykiwać
+powoli w duże mięśnie).
+
+Produktu COLISTIN TZF nie należy podawać dooponowo i dokomorowo.
+
+Roztwór do inhalacji
+
+Zaleca się podawanie kolistymetatu sodowego pod nadzorem lekarzy z odpowiednim doświadczeniem w
+zakresie jego stosowania.
+
+Dawkowanie
+
+Dawkowanie należy dostosować w zależności od ciężkości choroby i odpowiedzi klinicznej.
+
+Poniżej przedstawiono zalecany zakres dawek.
+
+Podawanie w postaci inhalacji
+
+Dorośli, młodzież i dzieci w wieku ≥2 lat
+Od 1 do 2 mln IU dwa do trzech razy na dobę (maksymalnie 6 mln IU/dobę).
+
+Dzieci w wieku <2 lat
+Od 0,5 do 1 mln IU dwa razy na dobę (maksymalnie 2 mln IU/dobę).
+
+
+
+
+                                                3
+                                                                   PL_ztw21.03.2019 PRAC09.06.2023 v3
+Należy przestrzegać odpowiednich wytycznych klinicznych dotyczących schematów leczenia, w tym
+czasu trwania leczenia, częstości i jednoczesnego podawania innych leków przeciwbakteryjnych.
+
+Osoby w podeszłym wieku
+Uważa się, że dostosowanie dawki nie jest konieczne.
+
+Zaburzenia czynności nerek
+Uważa się, że modyfikacja dawki nie jest konieczna, jednak zaleca się zachowanie ostrożności u
+pacjentów z zaburzeniami czynności nerek (patrz punkty 4.4 i 5.2).
+
+Zaburzenia czynności wątroby
+Uważa się, że modyfikacja dawki nie jest konieczna.
+
+Sposób podawania
+
+Do podania wziewnego.
+Roztwór do inhalacji należy sporządzać w odpowiednim inhalatorze (dostępny w aptekach).
+Kolistymetat sodowy w roztworze wodnym ulega hydrolizie do substancji czynnej, kolistyny.
+Specjalne ostrzeżenia dotyczące usuwania i postępowania z przygotowanymi roztworami, patrz
+punkt 6.6.
+
+Jeśli pacjent stosuje inne rodzaje leczenia, powinien je stosować w kolejności zalecanej przez
+lekarza.
+
+Tabela przeliczenia dawek
+
+W UE dawka kolistymetatu sodowego musi być przepisywana i podawana wyłącznie w jednostkach
+międzynarodowych (IU). Na oznakowaniu produktu podana jest liczba IU w fiolce.
+
+Z powodu różnych sposobów wyrażania dawki w odniesieniu do mocy, dochodziło do zamieszania i
+błędów w leczeniu. W Stanach Zjednoczonych i innych częściach świata dawka jest wyrażana w
+miligramach aktywności kolistyny zasady (mg CBA).
+
+Poniższa tabela przeliczeniowa jest przygotowana w celach informacyjnych, a wartości należy
+traktować tylko jako nominalne i przybliżone.
+
+                            Tabela przeliczenia kolistymetatu sodowego
+
+                                Moc                   ≈ masa kolistymetatu
+                          IU        ≈ mg CBA            sodowego [mg]*
+                        12 500         0,4                       1
+                       150 000          5                       12
+                      1 000 000         34                      80
+                      4 500 000        150                     360
+                      9 000 000        300                     720
+                         * Nominalna moc substancji leczniczej = 12 500 IU/mg
+
+
+4.3 Przeciwwskazania
+
+Nadwrażliwość na kolistymetat sodowy lub inne polimyksyny, lub którąkolwiek substancję
+pomocniczą wymienioną w punkcie 6.1.
+
+
+
+
+                                                   4
+                                                                      PL_ztw21.03.2019 PRAC09.06.2023 v3
+4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Należy rozważyć podawanie dożylne kolistymetatu sodowego razem z innym lekiem
+przeciwbakteryjnym, gdy jest to możliwe, biorąc pod uwagę pozostałą wrażliwość drobnoustroju lub
+drobnoustrojów objętych leczeniem. Ze względu na to, że zgłaszano rozwój oporności na kolistynę
+podawaną dożylnie, w szczególności w przypadku stosowania w monoterapii, aby zapobiec
+rozwojowi oporności należy rozważyć jednoczesne podawanie z innym lekiem przeciwbakteryjnym.
+
+Dane kliniczne dotyczące skuteczności i bezpieczeństwa stosowania dożylnego kolistymetatu
+sodowego są ograniczone. Zalecane dawki we wszystkich podgrupach są w równym stopniu oparte na
+ograniczonych danych (dane kliniczne oraz farmakokinetyczne i farmakodynamiczne). W
+szczególności ograniczone są dostępne dane dotyczące bezpieczeństwa stosowania dużych dawek
+(>6 mln IU/dobę) oraz stosowania dawki nasycającej i dawek dla specjalnych populacji (pacjenci z
+zaburzeniami czynności nerek i dzieci i młodzież). Kolistymetat sodowy należy stosować tylko wtedy,
+gdy inne, częściej przepisywane antybiotyki nie są skuteczne lub nie są właściwe.
+
+U każdego pacjenta należy kontrolować czynność nerek na początku leczenia i regularnie w czasie
+leczenia. Dawkę kolistymetatu sodowego należy dostosować zgodnie z klirensem kreatyniny (patrz
+punkt 4.2). Pacjenci z hipowolemią lub otrzymujący inne potencjalnie nefrotoksyczne leki, znajdują
+się w grupie zwiększonego ryzyka nefrotoksyczności spowodowanej kolistyną (patrz punkty 4.5 i
+4.8). Nefrotoksyczność zgłaszano w niektórych badaniach jako powiązaną z dawką skumulowaną i
+czasem trwania leczenia. Należy rozważyć korzyści wynikające z przedłużonego czasu trwania
+leczenia wobec zwiększonego ryzyka toksyczności dla nerek.
+
+Należy zachować ostrożność podczas podawania kolistymetatu sodowego niemowlętom w wieku
+<1 roku życia, ponieważ czynność nerek w tej grupie wiekowej nie jest w pełni dojrzała. Ponadto nie
+jest znany wpływ niedojrzałej czynności nerek i metabolizmu na przekształcanie kolistymetatu
+sodowego w kolistynę.
+
+Zgłoszono kilka przypadków rzekomego zespołu Barttera u dzieci i osób dorosłych po dożylnym
+podaniu kolistymetatu sodowego. W podejrzewanych przypadkach należy rozpocząć monitorowanie
+stężeń elektrolitów w surowicy i wdrożyć odpowiednie postępowanie, jednak normalizacja zaburzeń
+równowagi elektrolitowej może nie zostać osiągnięta bez przerwania podawania kolistymetatu
+sodowego.
+
+Jeśli wystąpi reakcja alergiczna, należy bezwzględnie przerwać leczenie kolistymetatem sodowym i
+wdrożyć odpowiednie działania.
+
+Zgłaszano, że duże stężenie kolistymetatu sodowego w surowicy, które może być spowodowane
+przedawkowaniem lub niezmniejszeniem dawki u pacjentów z zaburzeniami czynności nerek,
+prowadziło do wystąpienia objawów działania neurotoksycznego, takich jak parestezje twarzy,
+osłabienie mięśni, zawroty głowy, niewyraźna mowa, niestabilność naczynioruchowa, zaburzenia
+widzenia, splątanie, psychoza i bezdech. Należy prowadzić obserwację w celu wykrycia parestezji
+okołoustnych i parestezji kończyn, będących oznakami przedawkowania (patrz punkt 4.9).
+
+Jak wiadomo, kolistymetat sodowy zmniejsza ilość acetylocholiny uwalnianej z presynaptycznych
+połączeń nerwowo-mięśniowych i u pacjentów z miastenią należy go stosować z zachowaniem
+największej ostrożności i tylko w razie wyraźnej konieczności.
+
+Zgłaszano zatrzymanie czynności oddechowej po podaniu domięśniowym kolistymetatu sodowego.
+Zaburzenia czynności nerek zwiększają prawdopodobieństwo wystąpienia bezdechu i blokady
+nerwowo-mięśniowej po podaniu kolistymetatu sodowego.
+
+U pacjentów z porfirią kolistymetat sodowy należy stosować ze skrajną ostrożnością.
+
+
+                                                 5
+                                                                    PL_ztw21.03.2019 PRAC09.06.2023 v3
+Zapalenie okrężnicy i rzekomobłoniaste zapalenie okrężnicy związane ze stosowaniem antybiotyków
+zgłaszano po zastosowaniu prawie każdego z leków przeciwbakteryjnych i może ono również
+wystąpić po zastosowaniu kolistymetatu sodowego. Ich nasilenie może być od umiarkowanego do
+zagrażającego życiu. Ważne jest, aby wziąć pod uwagę takie rozpoznanie u pacjentów, u których w
+czasie stosowania lub po stosowaniu kolistymetatu sodowego występuje biegunka (patrz punkt 4.8).
+Należy rozważyć przerwanie leczenia i podanie swoistego leczenia przeciwko Clostridioides difficile.
+Nie należy podawać produktów leczniczych hamujących perystaltykę.
+
+U pacjentów otrzymujących kolistymetat sodowy w postaci inhalacji może niekiedy wystąpić skurcz
+oskrzeli. Zapobieganie wystąpieniu lub leczenie skurczu oskrzeli polega na podawaniu odpowiedniego
+leku z grupy agonistów receptorów β2-adrenergicznych.
+
+4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Należy zachować dużą ostrożność podczas jednoczesnego stosowania dożylnego kolistymetatu
+sodowego z innymi lekami, które mogą być nefrotoksyczne lub neurotoksyczne.
+
+Należy zachować ostrożność podczas jednoczesnego stosowania z innymi postaciami kolistymetatu
+sodowego, ze względu na małe doświadczenie i prawdopodobieństwo sumarycznej toksyczności.
+
+Nie przeprowadzono badań in vivo dotyczących interakcji. Mechanizm przekształcania kolistymetatu
+sodowego w substancję czynną, kolistynę, nie jest opisany. Mechanizm klirensu kolistyny, w tym w
+nerkach, jest w równym stopniu nieznany. Kolistymetat sodowy ani kolistyna nie indukowały
+aktywności żadnego z badanych enzymów P 450 (CYP) (CYP1A2, 2B6, 2C8, 2C9, 2C19 i 3A4/5) w
+badaniach in vitro w ludzkich hepatocytach.
+
+Należy brać pod uwagę możliwość występowania interakcji lekowych podczas jednoczesnego
+podawania produktu leczniczego Colistin TZF z lekami o znanym hamującym lub indukującym
+działaniu na enzymy metabolizujące leki lub z lekami, o których wiadomo, że są substratami
+nerkowych mechanizmów nośnikowych.
+
+Ze względu na wpływ kolistyny na uwalnianie acetylocholiny, u pacjentów otrzymujących
+kolistymetat sodowy, należy z zachowaniem ostrożności stosować niedepolaryzujące leki
+zwiotczające mięśnie, ponieważ ich działanie może być wydłużone (patrz punkt 4.4).
+
+U pacjentów z miastenią należy zachować ostrożność podczas jednoczesnego leczenia kolistymetatem
+sodowym i makrolidami, takimi jak azytromycyna i klarytromycyna, lub fluorochinolonami, takimi
+jak norfloksacyna i cyprofloksacyna (patrz punkt 4.4).
+
+4.6 Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Z uwagi na wysoką toksyczność, przenikanie kolistymetatu sodowego przez łożysko oraz brak
+odpowiednio liczebnych, dobrze kontrolowanych badań u ludzi, lek może być stosowany u kobiet w
+ciąży jedynie wtedy, gdy w opinii lekarza korzyść terapeutyczna dla matki przeważa nad zagrożeniem
+dla płodu.
+
+Karmienie piersią
+Kolistymetat sodowy przenika do mleka ludzkiego. U kobiet karmiących piersią należy go stosować
+ostrożnie, tylko w razie bezwzględnej konieczności.
+
+Płodność
+Badania przeprowadzone na szczurach i myszach nie wykazały teratogennego działania kolistymetatu
+sodowego.
+
+
+                                                 6
+                                                                    PL_ztw21.03.2019 PRAC09.06.2023 v3
+4.7 Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Kolistymetat sodowy może powodować osłabienie sprawności psychofizycznej. Pacjenta należy
+ostrzec, że w czasie leczenia mogą wystąpić takie objawy niepożądane, jak zawroty głowy, zaburzenia
+widzenia. Pacjent nie powinien wówczas prowadzić pojazdów ani obsługiwać maszyn.
+
+4.8 Działania niepożądane
+
+Zaburzenia metabolizmu i odżywiania
+Po dożylnym podaniu kolistymetatu sodowego wystąpienie rzekomego zespołu Barttera zgłaszano
+z częstością nieznaną (patrz punkt 4.4).
+
+Zaburzenia układu nerwowego
+Przemijające zaburzenia czucia (parestezje w obrębie twarzy), zawroty głowy, zaburzenia mowy,
+zaburzenia widzenia, stan splątania, psychozy mogą pojawić się u pacjentów otrzymujących duże
+dawki leku, u pacjentów z niewydolnością nerek, którym niewłaściwie zmniejszono dawkę leku oraz u
+pacjentów otrzymujących jednocześnie leki typu kurary lub leki o działaniu neurotoksycznym.
+Zmniejszenie dawki leku łagodzi powyżej opisane zaburzenia.
+
+Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia
+Bezdech.
+
+Zaburzenia skóry i tkanki podskórnej
+Alergiczne wysypki skórne. Jeśli pojawi się wysypka, lek należy odstawić.
+
+Zaburzenia nerek i dróg moczowych
+Zaburzenia czynności nerek − mogą wystąpić zarówno u pacjentów z prawidłową czynnością nerek,
+jak i z niewydolnością nerek, otrzymujących większe niż zalecane dawki leku i (lub) przyjmujących
+jednocześnie inne antybiotyki działające nefrotoksycznie. Zaburzenia te zwykle ustępują po
+odstawieniu leku.
+
+Zaburzenia ogólne i stany w miejscu podania
+Podrażnienie w miejscu wstrzyknięcia, gorączka.
+
+Działania niepożądane mogące wystąpić po podaniu w postaci inhalacji
+Skurcz oskrzeli, ból w gardle lub jamie ustnej, spowodowany nadwrażliwością lub zakażeniem
+drożdżakami Candida albicans, wysypki skórne spowodowane nadwrażliwością.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C
+02-222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9 Przedawkowanie
+
+
+
+                                                  7
+                                                                    PL_ztw21.03.2019 PRAC09.06.2023 v3
+Przedawkowanie kolistymetatu sodowego może doprowadzić do porażenia przekaźnictwa nerwowo-
+mięśniowego, które może wywołać następujące objawy: stan splątania, zawroty głowy, ataksję,
+oczopląs, zaburzenia mowy, letarg lub bezdech. W wyniku porażenia mięśni oddechowych może
+dojść do zatrzymania oddychania, a w konsekwencji nawet i do śmierci.
+Ponadto przedawkowanie kolistymetatu sodowego może spowodować ostrą niewydolność nerek
+objawiającą się zmniejszeniem objętości oddawanego moczu, zwiększeniem stężenia azotu
+pozabiałkowego i kreatyniny w surowicy krwi.
+
+Jeśli pojawią się powyższe objawy, lek należy natychmiast odstawić, monitorować podstawowe
+czynności życiowe (oddech, tętno, ciśnienie tętnicze) i w razie konieczności zastosować leczenie
+objawowe.
+
+
+5.   WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1 Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: leki przeciwbakteryjne do stosowania ogólnego, inne leki
+przeciwbakteryjne, polimyksyny.
+Kod ATC: J 01 XB 01
+
+Mechanizm działania
+
+Kolistyna jest cyklicznym polipeptydowym lekiem przeciwbakteryjnym, należącym do grupy
+polimyksyn. Działanie polimyksyn polega na uszkadzaniu błony komórkowej, czego fizjologicznym
+następstwem jest śmierć bakterii. Polimyksyny działają wybiórczo na bakterie Gram-ujemne, które
+mają hydrofobową błonę zewnętrzną.
+
+Oporność
+
+Bakterie oporne charakteryzują się modyfikacją grup fosforanowych lipopolisacharydów, poprzez
+podstawienie etanoloaminą lub aminoarabinozą. W naturalnie opornych bakteriach Gram-ujemnych,
+takich jak Proteus mirabilis i Burkholderia cepacia, wszystkie lipidy fosforanowe są podstawione
+etanoloaminą lub aminoarabinozą.
+
+Między kolistyną (polimyksyną E) a polimyksyną B można spodziewać się występowania oporności
+krzyżowej. Ze względu na to, że mechanizm działania polimyksyn różni się od mechanizmu działania
+innych leków przeciwbakteryjnych, można się spodziewać, że oporność na kolistynę i polimyksyny
+nie spowoduje wystąpienia oporności na inne grupy leków.
+
+Zależności farmakokinetyczno-farmakodynamiczne
+
+Zgłaszano, że polimyksyny mają zależne od stężenia działanie bakteriobójcze na wrażliwe bakterie.
+Uznaje się, że współczynnik fAUC/MIC jest powiązany ze skutecznością kliniczną.
+
+Wartości graniczne wg EUCAST
+                        Wrażliwość (S) Oporność (R) a
+Acinetobacter             S ≤2                R >2 mg/L
+Enterobacteriaceae        S ≤2                R >2 mg/L
+Pseudomonas spp.          S ≤4                R >4 mg/L
+a
+ Wartości graniczne dotyczą dawek 2-3 mln IU × 3. Może być konieczna dawka nasycająca
+(9 mln IU).
+
+
+                                                  8
+                                                                     PL_ztw21.03.2019 PRAC09.06.2023 v3
+Wrażliwość
+
+Występowanie nabytej oporności może różnić się w zależności od regionu geograficznego i czasu
+zbierania próbek, a uzyskanie informacji o oporności szczepów na danym obszarze jest pożądane,
+szczególnie podczas leczenia ciężkich zakażeń. Wskazana jest porada eksperta, szczególnie wtedy,
+gdy lokalna częstość występowania oporności jest taka, że użyteczność leku − co najmniej w
+niektórych rodzajach zakażeń − jest wątpliwa.
+
+ Gatunki zwykle wrażliwe
+ Acinetobacter baumannii
+ Haemophilus influenzae
+ Klebsiella spp.
+ Pseudomonas aeruginosa
+ Gatunki, wśród których może wystąpić problem oporności nabytej
+ Stenotrophomonas maltophilia
+ Achromobacter xylosoxidans (dawniej Alcaligenes xylosoxidans)
+ Drobnoustroje o oporności naturalnej
+ Burkholderia cepacia i gatunki pokrewne
+ Proteus spp.
+ Providencia spp.
+ Serratia spp.
+
+5.2 Właściwości farmakokinetyczne
+
+Informacje dotyczące właściwości farmakokinetycznych kolistymetatu sodowego i kolistyny są
+ograniczone. Istnieją przesłanki, że właściwości farmakokinetyczne u pacjentów w stanie krytycznym
+różnią się od właściwości farmakokinetycznych u pacjentów z mniej nasilonymi zaburzeniami
+fizjologicznymi, czy u zdrowych ochotników. Następujące dane są oparte na badaniach z zastosowaniem
+HPLC, w celu określenia stężenia kolistymetatu sodowego (kolistyny) w osoczu.
+
+Po infuzji kolistymetatu sodowego, nieczynny prolek ulega przekształceniu w czynną kolistynę.
+Wykazano, że maksymalne stężenie kolistyny w osoczu u pacjentów w stanie krytycznym występuje z
+opóźnieniem do 7 godzin po podaniu kolistymetatu sodowego.
+
+Dystrybucja
+
+Objętość dystrybucji kolistyny u zdrowych osób jest mała i odpowiada w przybliżeniu objętości płynu
+pozakomórkowego (ang. extracellular fluid, ECF). Objętość dystrybucji jest istotnie zwiększona u
+pacjentów w stanie krytycznym. Wiązanie z białkami jest umiarkowane i zmniejsza się przy
+większych stężeniach. Jeśli u pacjenta nie występuje zapalenie opon mózgowo-rdzeniowych,
+przenikanie do płynu mózgowo-rdzeniowego (PMR) jest minimalne, ale zwiększa się w zapaleniu
+opon.
+
+Zarówno kolistymetat sodowy, jak i kolistyna mają liniową farmakokinetykę w zakresie dawek
+istotnych klinicznie.
+
+Po podaniu kolistymetatu sodowego pacjentom z mukowiscydozą w dawce 7,5 mg/kg mc. na dobę, w
+dawkach podzielonych, w 30 minutowych infuzjach, maksymalne stężenie wynosiło 23 ± 6 mg/L, zaś
+stężenie minimalne po 8 godzinach od podania wynosiło 4,5 ± 4 mg/L. Po podaniu kolistymetatu
+sodowego pacjentom z podobnymi schorzeniami w dawce 2 mln IU co 8 godzin przez 12 dni,
+maksymalne stężenie wynosiło 12,9 mg/L (5,7–29,6 mg/L), zaś stężenie minimalne wynosiło
+2,76 mg/L (1,0–6,2 mg/L).
+U zdrowych ochotników otrzymujących kolistymetat sodowy we wstrzyknięciu dożylnym w dawce
+150 mg (tj. około 2 mln IU) stężenie maksymalne 18 mg/L obserwowano po 10 minutach.
+
+
+                                                 9
+                                                                    PL_ztw21.03.2019 PRAC09.06.2023 v3
+Antybiotyk przenika do wątroby, nerek, tkanki mózgowej, serca i mięśni. Objętość dystrybucji u
+pacjentów z mukowiscydozą w jednym z badań określono na 0,09 L/kg.
+
+Metabolizm
+
+W warunkach in vivo kolistymetat sodowy jest przekształcany do zasady. Około 80% podanej dawki
+wykrywane jest w moczu w postaci niezmienionej. Nie stwierdzono wydalania żółcią, co świadczy o
+tym, że pozostała część leku jest unieczynniana w tkankach. Jednak mechanizm tych procesów jest
+nieznany.
+
+Eliminacja
+
+Szacuje się, że około 30% kolistymetatu sodowego jest przekształcane do kolistyny u zdrowych osób,
+klirens zależy od klirensu kreatyniny, a gdy czynność nerek słabnie, większa część kolistymetatu
+sodowego jest przekształcana do kolistyny.
+
+Kolistymetat sodowy jest wydalany przez nerki − około 40% podanej dawki w ciągu pierwszych
+8 godzin, a około 80% po 24 godzinach.
+U pacjentów z bardzo słabą czynnością nerek (klirens kreatyniny <30 mL/min) stopień przekształcania
+może wynosić 60-70%. Kolistymetat sodowy jest wydalany głównie przez nerki poprzez przesączanie
+kłębuszkowe. U zdrowych osób 60%-70% kolistymetatu sodowego jest wydalane w postaci
+niezmienionej z moczem, w ciągu 24 godzin.
+
+Eliminacja czynnej kolistyny nie jest w pełni opisana. Kolistyna ulega rozległemu kanalikowemu
+wchłanianiu zwrotnemu w nerkach i może być usunięta inną drogą niż przez nerki lub podlega
+metabolizmowi nerkowemu z możliwą kumulacją w nerkach. Klirens kolistyny zmniejsza się w
+zaburzeniach czynności nerek, prawdopodobnie z powodu zwiększonego przekształcania
+kolistymetatu sodowego.
+
+Okres półtrwania kolistyny u zdrowych osób i u osób z mukowiscydozą wynosi odpowiednio około
+3 godziny i 4 godziny, z klirensem całkowitym wynoszącym około 3 L/godzinę. U pacjentów w stanie
+krytycznym zgłaszano, że okres półtrwania jest wydłużony o około 9-18 godzin.
+
+Wydalanie kolistymetatu sodowego po podaniu w inhalacji nie było badane. U pacjentów z
+mukowiscydozą po podawaniu dawki 1 mln IU w postaci inhalacji dwa razy na dobę przez 3 miesiące
+nie wykryto kolistymetatu sodowego w moczu.
+
+Kinetyka kolistymetatu sodowego jest podobna u dzieci i dorosłych (w tym u osób w podeszłym
+wieku) z prawidłową czynnością nerek. Z ograniczonych badań u noworodków wynika, że kinetyka
+kolistymetatu sodowego jest podobna do kinetyki antybiotyku u dzieci i dorosłych. Jednak z uwagi na
+możliwość osiągania większych stężeń maksymalnych i dłuższego okresu półtrwania, należy
+regularnie kontrolować stężenie antybiotyku w surowicy.
+
+5.3 Przedkliniczne dane o bezpieczeństwie
+
+Brak danych dotyczących kancerogennego działania kolistymetatu sodowego. W badaniach in vitro
+wykonanych na ludzkich limfocytach stwierdzono indukcję aberracji chromosomalnej. Działanie to
+prawdopodobnie zależy od indeksu mitotycznego, który również był obserwowany.
+
+Badania dotyczące toksycznego wpływu na reprodukcję wykonane na szczurach i myszach nie
+wykazały teratogennego działania kolistymetatu sodowego. Jednak u królików w okresie
+organogenezy po domięśniowym podaniu kolistymetatu sodowego w dawkach 0,5- i 1,2-krotnie
+większych od maksymalnych dobowych dawek stosowanych u ludzi, obserwowano w kilku
+przypadkach (2,7%) wrodzone zniekształcenie stopy u płodu oraz zwiększenie liczby resorpcji.
+
+                                                10
+                                                                   PL_ztw21.03.2019 PRAC09.06.2023 v3
+6.   DANE FARMACEUTYCZNE
+
+6.1 Wykaz substancji pomocniczych
+
+Nie zawiera.
+
+6.2 Niezgodności farmaceutyczne
+
+Kolistymetat sodowy wykazuje niezgodności fizykochemiczne z erytromycyną, hydrokortyzonem,
+karbenicyliną, cefalotyną, cefalorydyną, kanamycyną, chlorowodorkiem linkomycyny. Roztworów
+kolistymetatu sodowego nie należy mieszać z innymi lekami.
+
+6.3 Okres ważności
+
+3 lata
+
+Po otwarciu fiolki i sporządzeniu roztworu
+Zgodnie z zasadami poprawnego postępowania roztwór należy podawać bezpośrednio po
+sporządzeniu.
+
+Roztwór do wstrzykiwań sporządzony w sposób opisany poniżej (patrz punkt 6.6) zachowuje
+trwałość przez 24 godziny w temperaturze 2ºC do 8ºC (lodówka).
+
+Sporządzony roztwór do infuzji należy zużyć w ciągu 24 godzin.
+
+Sporządzony roztwór do inhalacji należy podawać bezpośrednio po przygotowaniu.
+
+6.4 Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w temperaturze poniżej 25°C. Chronić przed światłem.
+Warunki przechowywania produktu leczniczego po sporządzeniu roztworu, patrz punkt 6.3.
+
+6.5 Rodzaj i zawartość opakowania
+
+Fiolki szklane o pojemności nominalnej 10 mL, produkowane z rurek szklanych I klasy
+hydrolitycznej. Fiolki zamknięte są korkami z gumy bromobutylowej i kapslami aluminiowymi.
+Opakowanie zawiera 1 fiolkę lub 20 fiolek.
+
+6.6 Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+    stosowania
+
+Roztwór jest przeznaczony do jednorazowego użycia.
+Niezużyty roztwór należy wyrzucić.
+Sporządzony roztwór należy przed użyciem obejrzeć w celu sprawdzenia, czy jest przejrzysty i czy nie
+znajdują się w nim nierozpuszczone cząstki. Roztwór można użyć tylko, jeśli jest przejrzysty i wolny
+od zanieczyszczeń.
+Wszelkie resztki niewykorzystanego produktu lub jego odpady należy usunąć w sposób zgodny z
+lokalnymi przepisami.
+
+Podanie dożylne i domięśniowe
+
+Roztwór do infuzji
+
+
+                                                11
+                                                                   PL_ztw21.03.2019 PRAC09.06.2023 v3
+Zawartość fiolki rozpuścić w około 2 mL wody do wstrzykiwań, delikatnie wstrząsając − nie dopuścić
+do spienienia roztworu. Roztwór ten rozcieńczyć 0,9% roztworem chlorku sodu do około 50 mL do
+100 mL i podawać w infuzji dożylnej.
+
+Roztwór do wstrzykiwań dożylnych
+Zawartość fiolki rozpuścić w około 2 mL wody do wstrzykiwań, delikatnie wstrząsając − nie dopuścić
+do spienienia roztworu. Roztwór ten rozcieńczyć 0,9% roztworem chlorku sodu do około 10 mL i
+podawać w powolnym wstrzyknięciu dożylnym.
+
+Roztwór do wstrzykiwań domięśniowych
+Zawartość fiolki rozpuścić w około 2 mL wody do wstrzykiwań, delikatnie wstrząsając − nie dopuścić
+do spienienia roztworu. Roztwór ten można jeszcze rozcieńczyć wodą lub 0,9% roztworem chlorku
+sodu do około 5 mL.
+
+Podanie wziewne
+
+Roztwór do inhalacji
+Odpowiednią dawkę kolistymetatu sodowego rozpuścić w 2 do 4 mL wody do wstrzykiwań lub
+0,9% roztworu chlorku sodu. Podawać w inhalatorze.
+
+
+7.   PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA DOPUSZCZENIE
+     DO OBROTU
+
+Tarchomińskie Zakłady Farmaceutyczne „Polfa” Spółka Akcyjna
+ul. A. Fleminga 2
+03-176 Warszawa
+
+
+8.   NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr R/3665
+
+
+9.   DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU I
+     DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 25.11.1975 r.
+Data ostatniego przedłużenia pozwolenia: 10.03.2014 r.
+
+
+10. DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU CHARAKTERYSTYKI
+    PRODUKTU LECZNICZEGO
+
+
+
+
+                                                12
+                                                                  PL_ztw21.03.2019 PRAC09.06.2023 v3
+

@@ -1,0 +1,760 @@
+                     CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Amiokordin, 50 mg/ml, roztwór do wstrzykiwań
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+1 ml roztworu zawiera 50 mg amiodaronu chlorowodorku (Amiodaroni hydrochloridum), co
+odpowiada 47,33 mg amiodaronu.
+3 ml roztworu (1 ampułka) zawiera 150 mg amiodaronu chlorowodorku, co odpowiada 141,98 mg
+amiodaronu.
+
+Substancja pomocnicza o znanym działaniu:
+1 ml roztworu zawiera 20,2 mg alkoholu benzylowego,
+3 ml roztworu (1 ampułka) zawiera 60,6 mg alkoholu benzylowego.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań
+Przezroczysty, lekko żółty, roztwór
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Amiodaron podaje się dożylnie, jeśli konieczne jest uzyskanie szybkiego działania leku lub jeśli
+podawanie doustne leku nie jest możliwe.
+
+Leczenie groźnych dla życia zaburzeń rytmu serca:
+-    zaburzenia rytmu w przebiegu zespołu Wolffa-Parkinsona-White’a
+-    migotanie i trzepotanie przedsionków, napadowe tachyarytmie nadkomorowe: częstoskurcz
+     nadkomorowy i węzłowy, jeśli inne leki nie mogą być zastosowane
+-    komorowe zaburzenia rytmu (częstoskurcz komorowy, migotanie komór), jeśli inne leki
+     przeciwarytmiczne są nieskuteczne.
+
+4.2   Dawkowanie i sposób podawania
+
+Amiokordin, roztwór do wstrzykiwań należy stosować wyłącznie w ośrodkach intensywnej opieki
+dysponujących możliwością monitorowania kardiologicznego, defibrylacji i stymulacji serca. Lek
+należy stosować w infuzji dożylnej. W przypadku infuzji ciągłej lub powtarzanej, amiodaron należy
+podawać przez centralny dostęp żylny, aby uniknąć niepożądanych reakcji w miejscu podania (patrz
+punkt 4.8).
+
+Ze względu na ryzyko wystąpienia ciężkiego niedociśnienia tętniczego i zapaści krążeniowej,
+amiodaron we wstrzyknięciu dożylnym można podawać tylko w nagłych sytuacjach, jeśli inne leki są
+nieskuteczne, wyłącznie w oddziale intensywnej terapii, prowadząc ciągłe monitorowanie
+elektrokardiograficzne. Stosowana dawka wynosi około 5 mg/kg masy ciała. Za wyjątkiem
+przypadków resuscytacji krążeniowo-oddechowej pacjentów z migotaniem komór, gdy defibrylacja
+nie jest skuteczna, wstrzyknięcie dawki amiodaronu powinno trwać minimum 3 minuty.
+Produkt leczniczy Amiokordin, roztwór do wstrzykiwań, wykazuje niezgodność z fizjologicznym
+roztworem sodu chlorku i może być stosowany wyłącznie z 5% roztworem glukozy. Roztwór
+amiodaronu o stężeniu mniejszym niż 300 mg (2 ampułki) w 500 ml 5% roztworu glukozy nie jest
+stabilny i nie należy go stosować.
+
+Infuzja dożylna
+Dawka nasycająca: zwykle dawka nasycająca wynosi 5 mg/kg mc. podana w 250 ml 5% roztworu
+glukozy w infuzji trwającej od 20 minut do 2 godzin. Infuzję można powtarzać 2 do 3 razy na dobę.
+Szybkość infuzji należy ustalić na podstawie uzyskanego skutku działania leku.
+Działanie terapeutyczne pojawia się w ciągu kilku pierwszych minut i następnie stopniowo słabnie,
+dlatego w celu jego przedłużenia należy kontynuować podawanie leku w infuzji.
+
+Dawka podtrzymująca: 10-20 mg/kg mc./dobę (zazwyczaj 600 do 800 mg/24 godziny do dawki 1200
+mg/24 godziny) w infuzji w 250 ml 5% roztworu glukozy przez kilka dni. W każdym przypadku
+należy dążyć do podawania minimalnej skutecznej dawki.
+
+Zmiana z podawania dożylnego na doustne: gdy tylko zostanie uzyskany pożądany skutek
+terapeutyczny należy rozpocząć jednoczesne podawanie doustne amiodaronu w zwykłej dawce
+nasycającej (3 x 200 mg na dobę). Dawkę podawaną dożylnie należy zmniejszać stopniowo.
+
+Dawkowanie w nagłych sytuacjach: stosuje się 150-300 mg amiodaronu w 10-20 ml 5% roztworu
+glukozy w powolnym, trwającym co najmniej 3 minuty wstrzyknięciu.
+Następne wstrzyknięcie można powtórzyć nie wcześniej niż po 15 minutach, nawet jeżeli w
+pierwszym wstrzyknięciu podano tylko roztwór z jednej ampułki (150 mg) ze względu na ryzyko
+wystąpienia zapaści krążeniowej. Jeżeli konieczne jest podanie następnych dawek amiodaronu, należy
+je podawać w infuzji dożylnej.
+
+Resuscytacja krążeniowo-oddechowa
+W szczególnym przypadku resuscytacji krążeniowo-oddechowej pacjenta z migotaniem komór
+opornym na defibrylację, pierwszą dawkę 300 mg (lub 5 mg/kg) amiodaronu, rozcieńczając
+odpowiednią objętość roztworu produktu Amiokordin w 20 ml 5% roztworu glukozy, podaje się w
+formie bolusu dożylnego. W przypadku utrzymywania się migotania komór można rozważyć dożylne
+podanie dodatkowej dawki amiodaronu, wynoszącej 150 mg (lub 2,5 mg/kg).
+
+Nie należy mieszać innych leków z amiodaronem w tej samej strzykawce. Nie należy wstrzykiwać
+innych leków w ten sam dostęp żylny.
+
+Stosowanie u pacjentów w podeszłym wieku
+Nie ma szczegółowych danych dotyczących dawkowania u osób w podeszłym wieku.
+Jednak u pacjentów w podeszłym wieku należy zachować szczególne środki ostrożności ze względu
+na możliwość wystąpienia ciężkiej bradykardii lub zaburzeń przewodzenia.
+
+Dzieci i młodzież
+Nie ustalono bezpieczeństwa stosowania i skuteczności amiodaronu u dzieci. Dlatego też, nie zaleca
+się stosowania leku u tych pacjentów. Dostępne obecnie dane są opisane w punktach 5.1. i 5.2.
+Ze względu na obecność alkoholu benzylowego, przeciwwskazane jest podawanie dożylne produktu
+Amiokordin noworodkom, niemowlętom i dzieciom w wieku do 3 lat (szczegółowe informacje w
+punkcie 4.4).
+
+Niezgodności farmaceutyczne – patrz punkt 6.2.
+
+4.3   Przeciwwskazania
+     Nadwrażliwość na jod, amiodaron lub na którąkolwiek substancję pomocniczą wymienioną w
+      punkcie 6.1
+     Bradykardia zatokowa, blok zatokowo-przedsionkowy i zespół chorego węzła zatokowego, z
+      wyjątkiem osób z wszczepionym stymulatorem serca (ryzyko zahamowania czynności węzła)
+     Blok przedsionkowo-komorowy II lub III stopnia, z wyjątkiem osób z wszczepionym
+      stymulatorem
+     Blok dwu–lub trójwiązkowy, z wyjątkiem osób z wszczepionym stymulatorem serca lub
+      założonym tymczasowym układem stymulacyjnym
+     Jednoczesne stosowanie z innymi lekami, które mogą powodować zaburzenia rytmu serca typu
+      torsade de pointes (patrz punkt 4.5)
+     Choroby tarczycy
+     Ciąża
+     Okres karmienia piersią
+     Zapaść krążeniowa, ciężkie niedociśnienie tętnicze
+     Dożylne podanie leku jest przeciwwskazane w przypadku niedociśnienia, ciężkiej niewydolności
+      układu oddechowego, kardiomiopatii zastoinowej lub niewydolności serca (możliwe zaostrzenie)
+     Ze względu na obecność alkoholu benzylowego, podawanie dożylne amiodaronu jest
+      przeciwwskazane u noworodków, niemowląt i dzieci w wieku do 3 lat
+
+Powyższe przeciwwskazania nie mają zastosowania, jeśli amiodaron jest stosowany w oddziale
+intensywnej terapii, w resuscytacji krążeniowo-oddechowej nagłego zatrzymania krążenia w
+przebiegu migotania komór, jeśli defibrylacja nie jest skuteczna.
+
+4.4    Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Amiodaron może być podawany dożylnie wyłącznie w oddziale intensywnej terapii, gdzie stan
+kliniczny pacjenta jest stale monitorowany (zapis EKG, wartości ciśnienia tętniczego).
+
+W przypadku, gdy tylko jest to możliwe, amiodaron podawany dożylnie należy stosować przez
+centralny dostęp żylny, aby uniknąć reakcji niepożądanych w miejscu podania (patrz punkt 4.8).
+
+Należy zwrócić uwagę na wszelkie objawy niedociśnienia, ciężkiej niewydolności oddechowej,
+niewyrównanej lub ciężkiej niewydolności serca.
+
+Szczegółowe informacje dotyczące wstrzyknięć dożylnych
+Ze względu na ryzyko zaburzeń hemodynamicznych (ciężkie niedociśnienie, zapaść
+krążeniowa) wstrzyknięcie dożylne nie jest zalecane rutynowo. Jeśli tylko jest to możliwe,
+preferowana jest infuzja dożylna.
+
+Amiodaron może być podawany we wstrzyknięciu dożylnym tylko w nagłych sytuacjach, gdy inne
+leki są nieskuteczne, wyłącznie w oddziale intensywnej terapii, gdzie stan pacjenta jest ciągle
+monitorowany (zapis EKG, wartości ciśnienia tętniczego).
+
+Dawka wynosi około 5 mg na kg masy ciała. Amiodaron powinien być podawany we wstrzyknięciu
+dożylnym trwającym co najmniej 3 minuty z wyjątkiem przypadków resuscytacji krążeniowo-
+oddechowej związanej z migotaniem komór, gdy defibrylacja nie jest skuteczna. Następne
+wstrzyknięcie można powtórzyć nie wcześniej niż po 15 minutach, nawet jeżeli w pierwszym
+wstrzyknięciu podano tylko roztwór z jednej ampułki (150 mg), ze względu na ryzyko wystąpienia
+nieodwracalnej zapaści krążeniowej.
+
+Jeżeli konieczne jest podanie następnych dawek amiodaronu, należy je podawać w infuzji dożylnej.
+Nie należy mieszać innych leków z amiodaronem w tej samej strzykawce. Nie należy wstrzykiwać
+innych leków w ten sam dostęp żylny.
+Zaburzenia czynności serca (patrz punkt 4.8)
+Działanie farmakologiczne amiodaronu powoduje zmiany w badaniu EKG: wydłużenie odstępu QT
+(związane z wydłużeniem okresu repolaryzacji), z możliwym powstaniem fali U. Jednak te zmiany nie
+świadczą o zatruciu amiodaronem.
+Donoszono o wystąpieniu nowego typu zaburzeń rytmu serca lub pogorszeniu leczonych zaburzeń
+rytmu serca, czasami prowadzących do zgonu. Ważne jest, ale trudne do rozróżnienia, czy wynika to z
+braku skuteczności leku, który wykazuje działanie proarytmiczne, czy jest to związane z nasileniem
+zaburzeń rytmu serca. Rzadziej donoszono o działaniu proarytmicznym amiodaronu niż innych leków
+przeciwarytmicznych. Działanie proarytmiczne amiodaronu występuje zwłaszcza jako rezultat
+interakcji z lekami wydłużającymi odstęp QT i (lub) w przypadku zaburzeń elektrolitowych (patrz
+punkty 4.5 i 4.8). Niezależnie od wydłużenia odstępu QT, amiodaron wykazuje małą aktywność
+wywoływania zaburzeń rytmu serca typu torsade de pointes.
+
+Ciężka bradykardia i blok serca (patrz punkt 4.5)
+
+Podczas stosowania schematów zawierających sofosbuwir jednocześnie z amiodaronem
+zaobserwowano zagrażające życiu przypadki bradykardii i bloku serca.
+Bradykardia występowała zwykle w ciągu kilku godzin do dni, ale obserwowano także przypadki, w
+których ten czas był dłuższy, najczęściej do 2 tygodni od rozpoczęcia leczenia HCV.
+
+Pacjentom stosującym schemat zawierający sofosbuwir należy podawać amiodaron wyłącznie wtedy,
+gdy stosowanie innych alternatywnych leków przeciwarytmicznych jest przeciwwskazane lub nie są
+one tolerowane.
+
+Jeśli jednoczesne stosowanie amiodaronu jest konieczne, zaleca się monitorowanie czynności serca u
+pacjentów w warunkach szpitalnych przez pierwsze 48 godzin od rozpoczęcia jednoczesnego
+podawania; a następnie częstość pracy serca powinna być monitorowana w warunkach
+ambulatoryjnych lub samodzielnie przez pacjenta, codziennie przez co najmniej pierwsze 2 tygodnie
+leczenia.
+
+Ze względu na długi okres półtrwania amiodaronu należy również monitorować czynność serca w
+sposób opisany powyżej u pacjentów, którzy przerwali stosowanie amiodaronu w ciągu ostatnich
+kilku miesięcy i mają rozpocząć stosowanie schematu zawierającego sofosbuwir.
+
+Należy powiadomić wszystkich pacjentów przyjmujących amiodaron w skojarzeniu ze schematem
+zawierającym sofosbuwir o ryzyku wystąpienia objawów bradykardii i bloku serca oraz o
+konieczności niezwłocznego zwrócenia się o pomoc lekarską w przypadku ich wystąpienia.
+
+Zaburzenia układu oddechowego (patrz punkt 4.8)
+Wystąpienie duszności oraz nieproduktywnego kaszlu może być związane z toksycznym działaniem
+na płuca, takim jak wystąpienie śródmiąższowego zapalenia płuc. Bardzo rzadko zgłaszano przypadki
+śródmiąższowego zapalenia płuc po zastosowaniu amiodaronu drogą dożylną. W przypadku
+podejrzenia takiego rozpoznania u pacjenta, u którego wystąpiła duszność wysiłkowa, zarówno jako
+jedyny objaw, jak i związana z pogorszeniem ogólnego stanu pacjenta (zmęczenie, utrata masy ciała,
+gorączka), należy wykonać badanie radiologiczne klatki piersiowej. W takim przypadku należy
+ponownie ocenić zasadność dalszego leczenia amiodaronem, ponieważ śródmiąższowe zapalenie płuc
+jest zazwyczaj odwracalne po wczesnym odstawieniu amiodaronu (objawy kliniczne ustępują
+zazwyczaj po upływie 3 do 4 tygodni, z następową stopniową poprawą wyników badań
+radiologicznych oraz badań czynnościowych płuc, w okresie kilku miesięcy). Należy rozważyć także
+rozpoczęcie stosowania kortykosteroidów.
+Zgłaszano kilka bardzo rzadkich przypadków ciężkich powikłań oddechowych, czasami prowadzących
+do zgonu, występujących zwykle bezpośrednio po zabiegu chirurgicznym (zespół ostrej niewydolności
+oddechowej dorosłych). Może być to związane z interakcją tlenu podawanego w dużym stężeniu (patrz
+poniżej i punkty 4.5 oraz 4.8).
+Znieczulenie (patrz punkty 4.5 i 4.8)
+Przed zabiegiem chirurgicznym należy poinformować anestezjologa o stosowaniu przez pacjenta
+amiodaronu.
+
+Zaburzenia czynności wątroby (patrz punkt 4.8)
+Zaleca się regularne, ścisłe monitorowanie czynności wątroby (oznaczenie aktywności
+aminotransferaz) podczas leczenia amiodaronem, począwszy od momentu rozpoczęcia leczenia.
+Dawkowanie amiodaronu należy zmniejszyć lub zakończyć leczenie w przypadku zwiększenia
+aktywności aminotransferaz 3-krotnie powyżej górnej granicy normy, co może świadczyć o
+wystąpieniu ostrych, ciężkich zaburzeń czynności wątroby (w tym ciężkiej niewydolności komórek
+wątrobowych lub niewydolności wątroby, czasami prowadzących do zgonu) lub przewlekłych
+zaburzeń czynności wątroby. Mogą one wystąpić zarówno podczas stosowania doustnego, jak i
+dożylnego oraz w ciągu 24 godzin od dożylnego podania amiodaronu . Kliniczne i biologiczne objawy
+przewlekłych zaburzeń czynności wątroby mogą mieć niewielkie nasilenie (możliwe powiększenie
+wątroby, zwiększenie aktywności aminotransferaz 1,5 do 5 razy powyżej górnej granicy normy). Te
+nieprawidłowości zwykle ustępują po odstawieniu amiodaronu. Zgłaszano jednak przypadki
+zakończone zgonem.
+
+Ciężkie reakcje skórne
+Należy natychmiast przerwać leczenie amiodaronem, jeśli podczas jego stosowania pojawią się
+reakcje skórne mogące wskazywać na wystąpienie zespołu Stevensa-Johnsona (SJS - Stevens-
+Johnson syndrome) (postępująca wysypka z pęcherzami lub zmiany na błonach śluzowych, gorączka i
+ból stawów) lub toksycznego martwiczego oddzielania się naskórka (TEN - Toxic Epidermal
+Necrolysis) (ciężka, gwałtownie przebiegająca choroba, objawiająca się pękającymi olbrzymimi
+pęcherzami podnaskórkowymi, rozległymi nadżerkami na skórze, spełzaniem dużych płatów naskórka
+oraz gorączką), lub pęcherzowego zapalenia skóry i reakcji polekowej z eozynofilią i objawami
+uogólnionymi (DRESS). Objawy te mogą zagrażać życiu pacjenta, a nawet prowadzić do zgonu.
+
+Zaburzenia oka (patrz punkt 4.8)
+W przypadku wystąpienia niewyraźnego widzenia lub pogorszenia widzenia należy niezwłocznie
+przeprowadzić kompletne badanie okulistyczne, w tym badanie dna oka oftalmoskopem. Stwierdzenie
+neuropatii nerwu wzrokowego i (lub) zapalenia nerwu wzrokowego wymaga odstawienia leczenia
+amiodaronem ze względu na możliwość progresji do utraty wzroku.
+
+Interakcje z innymi lekami (patrz punkt 4.5)
+Nie jest zalecane jednoczesne stosowanie amiodaronu z następującymi lekami: leki beta-
+adrenolityczne, antagoniści wapnia zwalniający rytm serca (werapamil, diltiazem), drażniące leki
+przeczyszczające, które mogą powodować hipokaliemię.
+
+Przeszczep serca
+W badaniach retrospektywnych stosowanie amiodaronu przed przeszczepem serca u biorcy
+przeszczepu, wykazało zwiększone ryzyko wystąpienia pierwotnej dysfunkcji przeszczepu (PGD, ang.
+Primary Graft Dysfunction).
+
+Pierwotna dysfunkcja przeszczepu (PGD) jest zagrażającym życiu powikłaniem przeszczepu serca,
+które charakteryzuje się zaburzeniami lewej komory, prawej komory lub zaburzeniami
+dwukomorowymi i występuje w ciągu pierwszych 24 godzin po przeszczepie, dla której nie ma
+możliwej do zidentyfikowania wtórnej przyczyny (patrz punkt 4.8). Ciężka postać PGD może być
+nieodwracalna.
+U pacjentów znajdujących się na liście oczekujących na przeszczep serca należy jak najwcześniej
+przed przeszczepem rozważyć zastosowanie alternatywnego leku przeciwarytmicznego.
+
+Dzieci i młodzież
+Nie ustalono bezpieczeństwa stosowania i skuteczności amiodaronu u dzieci. Dlatego też, nie zaleca
+się stosowania leku u tych pacjentów. Dostępne obecnie dane są opisane w punktach 5.1 i 5.2. Produkt
+Amiokordin w postaci roztworu do wstrzykiwań zawiera alkohol benzylowy o stężeniu 20 mg/ml
+(patrz punkt 6.1). Ponieważ alkohol benzylowy u noworodków, niemowląt i dzieci w wieku do
+3 lat może powodować reakcje toksyczne i alergiczne, przeciwwskazane jest podawanie dożylne
+produktu w tych grupach wiekowych. Po podaniu dożylnym roztworów zawierających ten konserwant
+donoszono o występowaniu „zespołu śmiertelnych zaburzeń oddechowych” (ang. „gasping
+syndrome”), zakończonego zgonem u noworodków (dzieci przed ukończeniem pierwszego miesiąca
+życia). Objawy obejmują nagłe wystąpienie „zespołu śmiertelnych zaburzeń oddechowych”,
+niedociśnienia tętniczego, bradykardii i zapaści sercowo-krążeniowej.
+
+Specjalne ostrzeżenia dotyczące niektórych składników leku
+Amiokordin, roztwór do wstrzykiwań, zawiera 20,2 mg alkoholu benzylowego w każdym ml
+roztworu. 3 ml roztworu (1 ampułka) zawiera 60,6 mg alkoholu benzylowego.
+Alkohol benzylowy może powodować reakcje alergiczne.
+Dożylne podawanie alkoholu benzylowego noworodkom wiąże się z ryzykiem ciężkich działań
+niepożądanych i śmierci (tzw. „gasping syndrome”). Minimalna ilość alkoholu benzylowego, przy
+której mogą wystąpić objawy toksyczności jest nieznana.
+U małych dzieci istnieje zwiększone ryzyko z powodu kumulacji. Dodatkowe informacje znajdują się
+powyżej (patrz punkt 4.4 ,,Dzieci i młodzież'').
+Duże objętości alkoholu benzylowego należy podawać z ostrożnością i tylko w razie konieczności,
+zwłaszcza u pacjentów z zaburzeniami czynności nerek lub wątroby, z powodu ryzyka kumulacji i
+toksyczności (kwasica metaboliczna).
+Kobiety w ciąży lub karmiące piersią powinny skontaktować się z lekarzem przed zastosowaniem
+produktu leczniczego, gdyż duża ilość alkoholu benzylowego może gromadzić się w ich organizmie i
+powodować działania niepożądane (tzw. kwasicę metaboliczną).
+
+4.5    Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Interakcje farmakodynamiczne
+
+     Leki wywołujące zaburzenia rytmu serca typu torsade de pointes lub wydłużające odstęp QT
+      o Leki wywołujące zaburzenia rytmu serca typu torsade de pointes
+      Stosowanie amiodaronu wraz z innymi lekami mogącymi spowodować zaburzenia rytmu serca
+      typu torsade de pointes jest przeciwwskazane (patrz punkt 4.3). Do tych leków należą:
+        - leki przeciwarytmiczne klasy IA (np.: chinidyna, dyzopiramid, prokainamid), sotalol,
+           bretylium, beprydyl,
+        - podawana dożylnie erytromycyna, kotrimoksazol lub pentamidyna (podana pozajelitowo),
+        - leki przeciwpsychotyczne, takie jak: chloropromazyna, tiorydazyna, flufenazyna, pimozyd,
+           haloperydol, amisulpiryd, sertindol,
+        - preparaty litu i trójpierścieniowe leki przeciwdepresyjne, np. doksepina, amitryptylina,
+        - niektóre leki przeciwhistaminowe: terfenadyna, astemizol, mizolastyna,
+        - leki przeciwmalaryczne: chinina, chlorochina, meflochina, halofantryna,winkamina,
+        - cyzapryd, niektóre leki neuroleptyczne.
+      o Leki wydłużające odstęp QT
+      Podczas jednoczesnego podawania amiodaronu i leków o znanym działaniu wydłużającym odstęp
+      QT należy ocenić stosunek korzyści do ryzyka u danego pacjenta, ponieważ może zwiększyć się
+      ryzyko zaburzeń rytmu serca typu torsade de pointes (patrz punkt 4.4). Należy monitorować stan
+      pacjenta, aby stwierdzić, czy nie wystąpiło wydłużenie odstępu QT.
+      U pacjentów otrzymujących amiodaron należy unikać podawania fluorochinolonów.
+
+     Leki zwalniające rytm serca, wywołujące zaburzenia automatyzmu lub przewodzenia serca
+      Nie zaleca się jednoczesnego stosowania amiodaronu z tymi lekami.
+      Leki beta-adrenolityczne oraz leki z grupy antagonistów wapnia spowalniających rytm serca
+      (werapamil, diltiazem) mogą spowodować zaburzenia automatyzmu węzła (znaczna bradykardia)
+      i zaburzenia przewodzenia.
+   Interakcje innych leków z amiodaronem (patrz punkt 4.4)
+    Jednoczesne podawanie amiodaronu ze schematami zawierającymi sofosbuwir może prowadzić
+    do poważnej, objawowej bradykardii.
+    Jeśli nie można uniknąć jednoczesnego ich stosowania zaleca się uważne monitorowanie pracy
+    serca pacjenta (patrz punkt 4.4).
+
+   Leki mogące wywołać hipokaliemię
+    Nie zaleca się jednoczesnego stosowania z następującymi lekami:
+     - drażniącymi lekami przeczyszczającymi wywołującymi hipokaliemię, co zwiększa ryzyko
+         wystąpienia zaburzeń rytmu serca typu torsade de pointes - należy stosować leki
+         przeczyszczające z innej grupy.
+    Należy zachować ostrożność podczas stosowania następujących leków w skojarzeniu z
+    amiodaronem:
+      - leki mogące wywołać hipokaliemię i (lub) hipomagnezemię: leki moczopędne,
+         kortykosteroidy (gliko-, mineralo-) stosowane ogólnoustrojowo, tetrakozaktyd,
+         amfoterycyna B podawana dożylnie.
+    Należy zapobiegać wystąpieniu hipokaliemii, a w przypadku jej stwierdzenia, należy uzupełnić
+    niedobór potasu oraz należy monitorować odstęp QT. W przypadku wystąpienia zaburzeń rytmu
+    typu torsade de pointes nie należy stosować leków przeciwarytmicznych (należy wdrożyć
+    stymulację komorową, można podawać magnez w infuzji dożylnej).
+
+   Znieczulenie ogólne (patrz punkty 4.4 oraz 4.8)
+    Obserwowano potencjalnie ciężkie powikłania u pacjentów poddawanych znieczuleniu
+    ogólnemu: bradykardia (nie reagująca na podanie atropiny), niedociśnienie, zaburzenia
+    przewodzenia, zmniejszenie pojemności minutowej serca.
+    Zgłaszano kilka bardzo rzadkich przypadków ciężkich powikłań oddechowych czasami
+    prowadzących do zgonu, występujących zwykle bezpośrednio po zakończeniu zabiegu
+    chirurgicznego (zespół ostrej niewydolności oddechowej dorosłych). Może być to związane z
+    interakcją z tlenem podawanym w dużym stężeniu. Przed zabiegiem chirurgicznym należy
+    poinformować anestezjologa o stosowaniu amiodaronu.
+
+Wpływ leku Amiokordin na inne produkty lecznicze
+
+Amiodaron i (lub) jego metabolit, deetyloamiodaron hamują CYP1A1, CYP1A2, CYP3A4, CYP2C9,
+CYP2D6 i glikoproteinę P i mogą zwiększać narażenie na ich substraty.
+Z powodu długiego okresu półtrwania amiodaronu, interakcje mogą być obserwowane nawet po kilku
+miesiącach od zakończenia leczenia amiodaronem.
+
+   Substraty glikoproteiny P
+    Amiodaron jest inhibitorem glikoproteiny P. Przypuszcza się, że jednoczesne stosowanie
+    amiodaronu z substratami glikoproteiny P wiąże się ze zwiększeniem narażenia organizmu na te
+    substraty.
+    - Glikozydy naparstnicy
+    Stosowanie amiodaronu u pacjentów leczonych długotrwale digoksyną może spowodować
+    zwiększenie stężenia digoksyny we krwi i wywołać objawy jej przedawkowania - zaburzenia
+    czynności węzła zatokowego, zaburzenia automatyzmu (nadmierna bradykardia) oraz zwolnienie
+    przewodzenia przedsionkowo-komorowego (działanie synergiczne). Dodatkowo możliwe jest
+    zwiększenie stężenia digoksyny w osoczu ze względu na zmniejszenie klirensu digoksyny.
+    Należy monitorować EKG oraz stężenie digoksyny w osoczu. Należy obserwować pacjenta, aby
+    stwierdzić, czy nie występują objawy kliniczne toksyczności glikozydów naparstnicy. Może być
+    konieczne dostosowanie dawki glikozydów naparstnicy.
+    - Dabigatran
+    Należy zachować ostrożność podczas jednoczesnego stosowania amiodaronu z dabigatranem ze
+    względu na ryzyko krwawienia. Może być konieczne dostosowanie dawki dabigatranu zgodnie z
+    jego wskazaniami.
+      Substraty CYP2C9
+       Amiodaron zwiększa stężenie substratów izoenzymu CYP2C9 w osoczu, takich jak warfaryna lub
+       fenytoina, przez hamowanie izoenzymu 2C9 cytochromu P450.
+       - Warfaryna
+       Skojarzenie warfaryny i amiodaronu może nasilać działanie doustnego leku
+       przeciwzakrzepowego, powodując ryzyko krwawienia. Konieczne jest ścisłe monitorowanie
+       czasu protrombinowego (międzynarodowy współczynnik znormalizowany - INR), aby
+       dostosować doustne dawki leków przeciwzakrzepowych, zarówno podczas leczenia
+       amiodaronem, jak i po zakończeniu leczenia amiodaronem.
+       - Fenytoina
+       Skojarzenie fenytoiny i amiodaronu może prowadzić do przedawkowania fenytoiny, wywołując
+       objawy neurologiczne. Należy ściśle monitorować stan kliniczny pacjenta i natychmiast po
+       wystąpieniu pierwszych objawów przedawkowania zmniejszyć dawkę fenytoiny oraz oznaczyć
+       stężenie fenytoiny w osoczu.
+
+      Substraty CYP2D6
+       - Flekainid
+       Jednoczesne stosowanie amiodaronu i flekainidu powoduje zwiększenie stężenia flekainidu w
+       osoczu na skutek hamowania izoenzymu 2D6 cytochromu P450. Dlatego należy dostosować
+       dawkowanie flekainidu.
+
+      Substraty CYP3A4
+       Jednoczesne stosowanie leków metabolizowanych przez cytochrom CYP3A4 i amiodaronu,
+       inhibitora CYP3A4, może powodować zwiększenie stężenia tych leków w osoczu i wystąpienie
+       ich toksyczności.
+       - Cyklosporyna
+       Jednoczesne stosowanie z amiodaronem może powodować zwiększenie stężenia cyklosporyny
+       w osoczu. Należy dostosować dawkę cyklosporyny.
+       - Fentanyl
+       Jednoczesne stosowanie z amiodaronem może nasilać działanie fentanylu i zwiększać ryzyko jego
+       toksycznego działania.
+       - Statyny
+       Podczas jednoczesnego stosowaniu amiodaronu ze statynami metabolizowanymi przez CYP3A4,
+       takimi jak symwastatyna, atorwastatyna i lowastatyna występuje zwiększone ryzyko toksycznego
+       wpływu na układ mięśniowy (np. rabdomioliza). Zaleca się stosowanie statyn nie
+       metabolizowanych przez CYP3A4 podczas leczenia amiodaronem.
+
+      - Inne leki metabolizowane przez CYP3A4:
+      lidokaina, syrolimus, takrolimus, syldenafil, midazolam, triazolam, dihydroergotamina, ergotamina,
+      kolchicyna.
+
+Wpływ innych produktów leczniczych na Amiokordin
+
+Inhibitory CYP3A4 oraz CYP2C8 mogą potencjalnie hamować metabolizm amiodaronu i zwiększać
+narażenie na amiodaron.
+Zaleca się unikanie inhibitorów CYP3A4 (np. soku grejpfrutowego oraz pewnych leków) podczas
+leczenia amiodaronem.
+
+4.6      Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Ze względu na wpływ amiodaronu na tarczycę płodu, stosowanie leku w okresie ciąży jest
+przeciwwskazane.
+Karmienie piersią
+Amiodaron przenika do mleka kobiecego w znaczących ilościach, dlatego stosowanie leku w okresie
+karmienia piersią jest przeciwwskazane.
+
+Płodność
+Brak danych dotyczących wpływu amiodaronu na płodność u ludzi.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Na podstawie danych dotyczących bezpieczeństwa stosowania nie stwierdzono, aby amiodaron
+powodował zaburzenia zdolności prowadzenia pojazdów i obsługiwania maszyn.
+
+4.8   Działania niepożądane
+
+Działania niepożądane są wymienione na podstawie klasyfikacji układów i narządów oraz zgodnie z
+następującą częstością występowania:
+bardzo często ≥1/10
+często ≥1/100 do <1/10
+niezbyt często ≥1/1 000 do <1/100
+rzadko ≥1/10 000 do <1/1 000
+bardzo rzadko <1/10 000
+częstość nieznana (częstość nie może być określona na podstawie dostępnych danych).
+
+Zaburzenia krwi i układu chłonnego
+Częstość nieznana:
+neutropenia, agranulocytoza
+
+Zaburzenia serca
+Często:
+bradykardia, zazwyczaj umiarkowana
+
+Bardzo rzadko:
+znaczna bradykardia, zatrzymanie czynności węzła zatokowego wymagające zakończenia leczenia
+amiodaronem, zwłaszcza u pacjentów z zaburzeniem czynności węzła zatokowego i (lub) u pacjentów
+w podeszłym wieku, wystąpienie nowego typu zaburzeń rytmu serca lub pogorszenie istniejących
+zaburzeń rytmu serca, czasami z zatrzymaniem akcji serca (patrz punkty 4.4 i 4.5).
+
+Częstość nieznana:
+częstoskurcz typu torsade de pointes (patrz punkt 4.4 oraz 4.5)
+
+Zaburzenia żołądka i jelit
+Bardzo rzadko:
+nudności
+
+Częstość nieznana:
+zapalenie trzustki lub ostre zapalenie trzustki
+
+Zaburzenia ogólne i stany w miejscu podania
+Często:
+reakcje niepożądane w miejscu podania leku, takie jak: ból, rumień, obrzęk, martwica, wynaczynienie
+krwi, naciek, stan zapalny, stwardnienie, zakrzepowe zapalenie żył, zapalenie żył, zapalenie tkanki
+łącznej, zakażenie, zmiany zabarwienia skóry
+
+Zaburzenia wątroby i dróg żółciowych (patrz punkt 4.4)
+Bardzo rzadko:
+izolowane, zazwyczaj umiarkowane zwiększenie aktywności aminotransferaz w surowicy (1,5 do 3
+razy powyżej górnego zakresu normy), występujące na początku leczenia (mogące powrócić do
+wartości prawidłowych po zmniejszeniu dawki leku lub samoistnie), ostre zaburzenia czynności
+wątroby z dużą aktywnością aminotransferaz w surowicy i (lub) żółtaczką, w tym niewydolność
+wątroby, czasami zakończona zgonem (patrz punkt 4.4).
+
+Zaburzenia układu immunologicznego
+Bardzo rzadko:
+wstrząs anafilaktyczny
+
+Częstość nieznana:
+obrzęk naczynioruchowy (obrzęk Quinckego).
+
+Zaburzenia endokrynologiczne (patrz punkt 4.4)
+Bardzo rzadko:
+zespół nieadekwatnego wydzielania hormonu antydiuretycznego (SIADH)
+
+Częstość nieznana:
+nadczynność tarczycy
+
+Zaburzenia układu nerwowego
+Bardzo rzadko:
+nieznaczne nadciśnienie wewnątrzczaszkowe (rzekomy guz mózgu), ból głowy
+
+Zaburzenia mięśniowo-szkieletowe i tkanki łącznej
+Częstość nieznana:
+ból odcinka lędźwiowo-krzyżowego kręgosłupa
+
+Zaburzenia oddechowe, klatki piersiowej i śródpiersia
+Bardzo rzadko:
+śródmiąższowe zapalenie płuc lub zwłóknienie płuc czasami prowadzące do zgonu (patrz punkt 4.4),
+ciężkie powikłania oddechowe (zespół ostrej niewydolności oddechowej dorosłych), czasami
+zakończone zgonem (patrz punkt 4.4 i 4.5), skurcz oskrzeli i (lub) bezdech w przypadku ciężkiej
+niewydolności oddechowej (zwłaszcza u pacjentów z astmą oskrzelową)
+
+Zaburzenia skóry i tkanki podskórnej
+Często:
+wyprysk
+
+Bardzo rzadko:
+nadmierna potliwość
+
+Częstość nieznana:
+pokrzywka, ciężkie reakcje skórne, takie jak toksyczne martwicze oddzielanie się naskórka (TEN) lub
+zespół Stevensa-Johnsona (SJS), pęcherzowe zapalenie skóry i reakcja polekowa z eozynofilią i
+objawami uogólnionymi (DRESS)
+
+Zaburzenia naczyniowe
+Często:
+obniżenie ciśnienia tętniczego, zwykle umiarkowane i przemijające - donoszono o przypadkach
+ciężkiego niedociśnienia tętniczego lub zapaści krążeniowej w następstwie przedawkowania leku lub
+zbyt szybkiego podania
+
+Bardzo rzadko:
+nagłe zaczerwienienie twarzy
+Zaburzenia oka
+Częstość nieznana:
+neuropatia i (lub) zapalenie nerwu wzrokowego, które może prowadzić do utraty wzroku (patrz punkt
+4.4)
+
+Zaburzenia psychiczne
+Często:
+zmniejszone libido
+
+Częstość nieznana:
+majaczenie (w tym splątanie), omamy
+
+Urazy, zatrucia i powikłania po zabiegach
+Częstość nieznana:
+pierwotna dysfunkcja przeszczepu po przeszczepie serca (patrz punkt 4.4)
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem
+Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych
+Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C, 02-222 Warszawa
+tel.: + 48 22 49 21 301, faks: + 48 22 49 21 309
+strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu lub przedstawicielowi
+podmiotu odpowiedzialnego w Polsce.
+
+4.9   Przedawkowanie
+
+Nie ma dostępnych danych dotyczących przedawkowania amiodaronu podawanego drogą dożylną.
+Istnieje niewiele doniesień dotyczących przedawkowania amiodaronu podawanego drogą doustną.
+Może wystąpić bradykardia zatokowa, blok przedsionkowo – komorowy, częstoskurcz komorowy,
+zaburzenia rytmu serca typu torsade de pointes, niewydolność krążenia, a także obniżenie ciśnienia i
+uszkodzenie wątroby.
+Zarówno amiodaron jak i jego metabolity nie są usuwane podczas dializy.
+Przedawkowanie leku wymaga fachowej pomocy lekarskiej, leczenie jest objawowe.
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1 Właściwości farmakodynamiczne
+Grupa farmakoterapeutyczna: leki przeciwarytmiczne, klasa III
+kod ATC; C 01 BD 01
+
+Właściwości przeciwarytmiczne
+Wydłużenie fazy 3 potencjału czynnościowego komórek mięśnia sercowego, powodujące zwolnienie
+przepływu jonów potasu (klasa III wg podziału Vaughana Williamsa).
+Zwolnienie czynności serca na skutek zmniejszenia automatyzmu węzła zatokowego, działanie to nie
+jest znoszone przez atropinę.
+Działanie blokujące receptory alfa- i beta-adrenergiczne.
+Zwolnienie przewodzenia w węźle zatokowo-przedsionkowym, przedsionkach i węźle
+przedsionkowo-komorowym - im szybszy rytm serca, tym działanie bardziej nasilone; brak wpływu
+na przewodzenie śródkomorowe.
+Wydłużenie okresu refrakcji i zmniejszenie pobudliwości komórek mięśnia sercowego na poziomie
+przedsionków, węzła przedsionkowo-komorowego i komór.
+Zwolnienie przewodzenia i wydłużenie okresu refrakcji w dodatkowych szlakach przedsionkowo-
+komorowych.
+Brak ujemnego działania inotropowego.
+
+Nie przeprowadzono kontrolowanych badań klinicznych z udziałem dzieci. W opublikowanych
+badaniach, bezpieczeństwo stosowania amiodaronu oceniono u 1118 dzieci z różnymi zaburzeniami
+rytmu serca.
+Następujące dawki leku zostały zastosowane w klinicznych badaniach pediatrycznych:
+
+Podanie dożylne:
+- dawka nasycająca: 5 mg/kg mc. podana w czasie od 20 minut do 2 godzin,
+- dawka podtrzymująca: 10 do 15 mg/kg mc./dobę podana w infuzji ciągłej trwającej od kilku godzin
+do kilku dni.
+W razie konieczności, można rozpocząć jednoczesne leczenie amiodaronem podawanym doustnie.
+
+Stosowanie amiodaronu w resuscytacji krążeniowo-oddechowej
+Bezpieczeństwo i skuteczność dożylnego stosowania amiodaronu u pacjentów z zatrzymaniem
+krążenia w warunkach pozaszpitalnych w mechanizmie migotania komór, gdy defibrylacja nie jest
+skuteczna, oceniano w dwóch badaniach przeprowadzonych z zastosowaniem podwójnie ślepej próby:
+w badaniu ARREST (porównanie amiodaronu z placebo) oraz badaniu ALIVE (porównanie
+amiodaronu z lidokainą). Pierwszorzędowym punktem końcowym w obu badaniach było przeżycie do
+momentu przyjęcia do szpitala. W badaniu ARREST 504 pacjentów z zatrzymaniem krążenia w
+warunkach pozaszpitalnych, w mechanizmie migotania komór lub częstoskurczu komorowego bez
+tętna, opornych na trzykrotną lub większą liczbę defibrylacji i adrenalinę, poddano randomizacji do
+zastosowania amiodaronu w dawce 300 mg, rozpuszczonego w 20 ml 5% glukozy, podanego w
+szybkim wstrzyknięciu do żyły obwodowej (246 pacjentów) lub placebo (258 pacjentów). Wśród 197
+pacjentów (39%), którzy przeżyli do momentu przyjęcia do szpitala, zastosowanie amiodaronu w
+istotny sposób zwiększało szansę na skuteczną resuscytację i przyjęcie do szpitala: 44% pacjentów w
+grupie, w której zastosowano amiodaron, w porównaniu do 34% w grupie, w której stosowano placebo
+[p=0,03]. Po dokonaniu korekty względem innych niezależnych czynników rokowniczych,
+skorygowana wartość ilorazu szans dla przeżycia do momentu przyjęcia do szpitala wyniosła 1,6 dla
+amiodaronu w porównaniu z grupą placebo (95% przedział ufności, 1,1 do 2,4; p=0,02).
+W grupie, w której stosowano amiodaron odnotowano częstsze występowanie niedociśnienia (59%
+wobec 25%, p=0,04) i bradykardii (41% wobec 25%, p=0,004) niż w grupie placebo.
+
+W badaniu ALIVE 347 pacjentów z migotaniem komór opornym na trzykrotną defibrylację, podaniem
+adrenaliny z następową, kolejną defibrylacją lub z nawrotem migotania komór po początkowej,
+skutecznej defibrylacji, zostało poddanych randomizacji do grup, w których stosowano amiodaron (5
+mg/kg szacowanej masy ciała, rozpuszczone w 30 ml 5% glukozy) z placebo odpowiadającym
+lidokainie lub lidokainę (1,5 mg/kg w stężeniu 10 mg/ml) z placebo odpowiadającym amiodaronowi,
+zwierającym ten sam rozpuszczalnik (polisorbat 80). Spośród 347 pacjentów włączonych do badania,
+w przypadku podania amiodaronu uzyskano istotne zwiększenie szansy skutecznej resuscytacji i
+przyjęcia do szpitala: 22,8% pacjentów w grupie, w której stosowano amiodaron (41 spośród 180
+pacjentów) i 12% w grupie, w której stosowano lidokainę (20 spośród 167 pacjentów) [p=0,009]. Po
+dokonaniu korekty względem innych czynników, mogących wpływać na prawdopodobieństwo
+przeżycia, skorygowana wartość ilorazu szans na przeżycie do momentu przyjęcia do szpitala u
+pacjentów otrzymujących amidaron, w porównaniu z pacjentami otrzymującymi lidokainę, wyniosła
+2,49 (95% przedział ufności, 1,28 do 4,85; p=0,007). Nie stwierdzono różnic pomiędzy grupami w
+zakresie odsetka pacjentów, którzy wymagali leczenia bradykardii z zastosowaniem atropiny lub
+leczenia presyjnego z zastosowaniem dopaminy, lub w zakresie odsetka pacjentów, którzy otrzymali
+dodatkowo lidokainę w próbie otwartej.
+
+5.2. Właściwości farmakokinetyczne
+Amiodaron jest głównie metabolizowany przez CYP3A4, a także przez CYP2C8.
+Amiodaron i jego metabolit, deetyloamiodaron, wykazuje in vitro potencjał hamowania CYP1A1,
+CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP3A4, CYP2A6, CYP2B6 oraz 2C8. Amiodaron i
+deetyloamiodaron mają również potencjał hamowania niektórych transporterów, takich jak
+glikoproteina P i organiczne transportery kationowe (OCT2) [jedno badanie wykazało 11%
+zwiększenie stężenia kreatyniny (substratu OCT2) w surowicy].
+Dane in vitro opisują interakcje amiodaronu z substratami CYP3A4, CYP2C9, CYP2D6 oraz
+glikoproteiny P.
+
+Stężenie amiodaronu podawanego dożylnie bardzo szybko zmniejsza się we krwi, z dużym
+wysyceniem tkanek. Maksymalne działanie we krwi występuje po około 15 minutach i utrzymuje się
+przez okres około 4 godzin.
+Złożona farmakokinetyka amiodaronu nie została całkowicie wyjaśniona. Głównym metabolitem jest
+deetyloamiodaron. Amiodaron silnie wiąże się z białkami osocza (> 95%). Wydalany jest głównie z
+kałem i w niewielkiej ilości z moczem. Badanie przeprowadzone zarówno na zdrowych ochotnikach,
+jak i osobach chorych, którym dożylnie podano amiodaron wykazało, że wyliczone objętości
+dystrybucji oraz całkowity klirens z osocza przy wykorzystaniu modelu dwukompartmentowego były
+podobne w obu grupach. Eliminacja amiodaronu po dożylnym podaniu okazała się zgodna z
+rozkładem dwuwykładniczym z fazą dystrybucji trwającą około 4 godzin. Bardzo duża objętość
+dystrybucji w połączeniu ze stosunkowo niewielką pozorną objętością w kompartmencie centralnym
+sugeruje znaczne rozmieszczenie tkankowe. Okres półtrwania po podaniu 400 mg amiodaronu w
+szybkim wstrzyknięciu dożylnym (bolusie) wyniósł w przybliżeniu 11 godzin.
+
+Nie przeprowadzono kontrolowanych badań z udziałem dzieci i młodzieży.
+W nielicznie opublikowanych, dostępnych danych dotyczących stosowania amiodaronu u dzieci, nie
+stwierdzono różnic w porównaniu z dorosłymi.
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+W 2-letnim badaniu rakotwórczości u szczurów, zaobserwowano u obu płci istotny klinicznie wpływ
+amiodaronu na wzrost guzów pęcherzykowych tarczycy [gruczolaki i (lub) raki]. Ponieważ nie
+stwierdzono mutagennego działania amiodaronu, przypuszcza się, że do indukcji tego typu nowotworu
+dochodzi raczej w wyniku mechanizmu epigenetycznego (dziedzicznych zmian w ekspresji genów nie
+wynikających ze zmian w sekwencji DNA) niż działania genotoksycznego. U myszy nie
+zaobserwowano raka, jednak pojawił się zależny od dawki pęcherzykowy rozrost tarczycy.
+Wystąpienie tych objawów w tarczycach szczurów i myszy najprawdopodobniej wiązało się z
+wpływem amiodaronu na syntezę i (lub) uwalnianie hormonów tarczycy. Znaczenie tych wyników w
+odniesieniu do ludzi jest małe.
+
+6.    DANE FARMACEUTYCZNE
+
+6.1   Wykaz substancji pomocniczych
+
+Alkohol benzylowy
+Polisorbat 80
+Woda do wstrzykiwań
+
+6.2   Niezgodności farmaceutyczne
+
+Produkt leczniczy nie powinien być mieszany z innymi lekami, z wyjątkiem leków wymienionych w
+punkcie 6.6.
+
+Stosowanie materiałów medycznych z plastiku zawierających DEHP (2-dwuetyloheksyloftalan), w
+obecności roztworu amiodaronu do podawania dożylnego, może prowadzić do uwalniania DEHP. W
+celu minimalizowania narażenia pacjenta na DEHP zaleca się wykonanie końcowego rozcieńczenia
+amiodaronu przed infuzją i podawanie leku stosując zestawy niezawierające DEHP.
+Produkt leczniczy Amiokordin podawany dożylnie wykazuje także niezgodność z fizjologicznym
+roztworem sodu chlorku i może być stosowany wyłącznie z 5% roztworem glukozy. Roztwór
+amiodaronu o stężeniu mniejszym niż 300 mg (2 ampułki) w 500 ml 5% roztworu glukozy nie jest
+stabilny i nie należy go stosować.
+
+6.3      Okres ważności
+
+2 lata
+
+6.4      Specjalne środki ostrożności podczas przechowywania
+
+Nie przechowywać w temperaturze powyżej 25°C.
+Przechowywać w oryginalnym opakowaniu w celu ochrony przed światłem.
+
+6.5      Rodzaj i zawartość opakowania
+
+Ampułki z bezbarwnego szkła z czerwonym pierścieniem, w tekturowym pudełku.
+5 ampułek po 3 ml
+
+6.6      Szczególne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego
+         do stosowania
+
+Bez specjalnych wymagań dotyczących usuwania.
+
+Instrukcje dotyczące przygotowania i obchodzenia się z produktem leczniczym:
+Produkt leczniczy Amiokordin, roztwór do wstrzykiwań, można mieszać jedynie z 5% roztworem
+glukozy.
+Należy podawać dożylnie w ciągu minimum 3 minut.
+Dawkę nasycającą we wlewie dożylnym należy podawać w 250 ml 5% glukozy przez czas od 20
+minut do 2 godzin.
+Dawkę podtrzymującą we wlewie dożylnym należy podawać w 250 ml 5% glukozy.
+Wlewy dożylne należy podawać przy użyciu pompy objętościowej poprzez centralny cewnik żylny.
+
+
+7.       PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+         DOPUSZCZENIE DO OBROTU
+
+KRKA, d. d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Słowenia
+
+
+8.       NUMER(Y) POZWOLENIA(Ń) NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr R/2726
+
+
+9.       DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO
+         OBROTU/ DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 24.06.1999 r.
+Data ostatniego przedłużenia pozwolenia: 19.11.2013 r.
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+

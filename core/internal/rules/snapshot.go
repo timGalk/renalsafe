@@ -18,6 +18,22 @@ type Snapshot struct {
 	digest string
 }
 
+var numberToken = regexp.MustCompile(`[0-9]+(?:[.,][0-9]+)?`)
+
+// Polish ChPLs use decimal commas. Treat each decimal as one number so a
+// fractional part cannot support an unrelated integer threshold or dose.
+// Numeric presence still cannot establish clinical meaning or unit association.
+func numericValues(text string) []float64 {
+	values := []float64{}
+	for _, token := range numberToken.FindAllString(text, -1) {
+		v, err := strconv.ParseFloat(strings.ReplaceAll(token, ",", "."), 64)
+		if err == nil && domain.Finite(v) {
+			values = append(values, v)
+		}
+	}
+	return values
+}
+
 func (s Snapshot) Digest() string { return s.digest }
 func (s Snapshot) Knowledge() domain.Knowledge {
 	var k domain.Knowledge
@@ -134,8 +150,7 @@ func load(b []byte, read func(string, string) ([]byte, error), allowSynthetic bo
 		}
 		// Numeric presence is a necessary grounding check, not semantic validation.
 		nums := map[float64]bool{}
-		for _, token := range regexp.MustCompile(`[0-9]+(?:\.[0-9]+)?`).FindAllString(r.Citation.Quote, -1) {
-			v, _ := strconv.ParseFloat(token, 64)
+		for _, v := range numericValues(r.Citation.Quote) {
 			nums[v] = true
 		}
 		if c := r.Conditions; c != nil {
@@ -163,8 +178,7 @@ func load(b []byte, read func(string, string) ([]byte, error), allowSynthetic bo
 		if r.Range.Upper != nil && !nums[*r.Range.Upper] {
 			return Snapshot{}, fmt.Errorf("upper threshold absent from quote")
 		}
-		for _, token := range regexp.MustCompile(`[0-9]+(?:\.[0-9]+)?`).FindAllString(r.DoseText, -1) {
-			v, _ := strconv.ParseFloat(token, 64)
+		for _, v := range numericValues(r.DoseText) {
 			if !nums[v] {
 				return Snapshot{}, fmt.Errorf("dose number absent from quote")
 			}

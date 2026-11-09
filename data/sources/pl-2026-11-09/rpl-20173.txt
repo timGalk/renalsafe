@@ -1,0 +1,903 @@
+                       CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Captopril Jelfa, 12,5 mg, tabletki
+Captopril Jelfa, 25 mg, tabletki
+Captopril Jelfa, 50 mg, tabletki
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Jedna tabletka zawiera 12,5 mg, 25 mg lub 50 mg kaptoprylu (Captoprilum).
+Substancja pomocnicza o znanym działaniu: jedna tabletka zawiera 42,15 mg, 84,30 mg lub 168,60 mg
+laktozy jednowodnej.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.      POSTAĆ FARMACEUTYCZNA
+
+Tabletka
+Captopril Jelfa, 12,5 mg: białe lub prawie białe, okrągłe, obustronnie wypukłe tabletki z rowkiem
+ułatwiającym dzielenie po jednej stronie.
+Captopril Jelfa, 25 mg: białe lub prawie białe, owalne, obustronnie wypukłe tabletki z rowkiem
+ułatwiającym dzielenie po jednej stronie i oznakowaniem „CTP 25” po drugiej stronie.
+Captopril Jelfa, 50 mg: białe lub prawie białe, owalne, obustronnie wypukłe tabletki z rowkiem
+ułatwiającym dzielenie po jednej stronie i oznakowaniem „CTP 50” po drugiej stronie.
+
+Linia podziału na tabletce ułatwia tylko jej rozkruszenie w celu łatwiejszego połknięcia, a nie podział na
+równe dawki.
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Nadciśnienie tętnicze.
+Przewlekła niewydolność serca z osłabieniem czynności skurczowej komór, w skojarzeniu z lekami
+moczopędnymi i, jeśli jest to właściwe, z glikozydami naparstnicy i beta-adrenolitykami (patrz punkty 4.3,
+4.4, 4.5 i 5.1).
+Zawał mięśnia sercowego:
+        - leczenie krótkotrwałe (4 tygodnie): kaptopryl zalecany jest u wszystkich pacjentów w stabilnym
+         stanie klinicznym, w ciągu 24 godzin od zawału mięśnia sercowego.
+        - długotrwała profilaktyka objawowej niewydolności serca: kaptopryl zalecany jest u pacjentów w
+         stabilnym stanie klinicznym, z bezobjawowym zaburzeniem czynności lewej komory serca
+         (frakcja wyrzutowa ≤ 40%).
+Nefropatia w przebiegu cukrzycy typu I: leczenie nefropatii cukrzycowej przebiegającej z białkomoczem
+u pacjentów z cukrzycą typu I. (Patrz punkt 5.1).
+
+4.2   Dawkowanie i sposób podawania
+
+Dawkowanie
+
+                                                                                                             1
+Dawkę należy określić indywidualnie, w zależności od reakcji pacjenta na leczenie.
+Zalecana, maksymalna dawka dobowa wynosi 150 mg na dobę.
+Kaptopryl można podawać przed, podczas i po posiłku.
+
+Nadciśnienie tętnicze:
+Zalecana dawka początkowa wynosi 25 do 50 mg na dobę, w dwóch dawkach podzielonych. Dawkę
+można stopniowo zwiększać, w odstępach co najmniej dwutygodniowych, do dawki 100 mg do 150 mg na
+dobę w dwóch dawkach podzielonych, aby osiągnąć docelowe ciśnienie krwi. Kaptopryl można stosować
+w monoterapii lub z innymi lekami przeciw nadciśnieniu, zwłaszcza z tiazydowymi lekami
+moczopędnymi (patrz punkty 4.3, 4.4, 4.5 i 5.1). Podawanie kaptoprylu raz na dobę może być właściwe w
+przypadku leczenia skojarzonego z lekami przeciw nadciśnieniu takimi jak tiazydowe leki moczopędne.
+
+U pacjentów z dużą aktywnością układu renina-angiotensyna-aldosteron (hipowolemia, nadciśnienie
+naczyniowo-nerkowe, niewyrównana niewydolność serca) zaleca się rozpoczęcie leczenia od pojedynczej
+dawki 6,25 mg lub 12,5 mg. Leczenie należy rozpoczynać pod ścisłym nadzorem lekarza. Następnie taką
+dawkę należy podawać 2 razy na dobę. Dawkę można stopniowo zwiększać do 50 mg na dobę, w jednej
+lub dwóch dawkach podzielonych, a w razie konieczności do 100 mg w jednej lub dwóch dawkach
+podzielonych.
+
+Niewydolność serca:
+Leczenie niewydolności serca kaptoprylem należy rozpoczynać pod ścisłym nadzorem lekarza.
+Zazwyczaj stosowana dawka początkowa wynosi 6,25 mg do 12,5 mg dwa lub trzy razy na dobę.
+Zwiększanie dawki do dawki podtrzymującej (75 mg do 150 mg na dobę) należy przeprowadzać
+w zależności od reakcji pacjenta, stanu klinicznego i tolerancji leku, do dawki maksymalnej 150 mg na
+dobę w dawkach podzielonych. Dawkę należy zwiększać stopniowo, w odstępach co najmniej
+dwutygodniowych, aby ocenić reakcję pacjenta.
+
+Zawał mięśnia sercowego:
+- Leczenie krótkotrwałe: stosowanie kaptoprylu należy rozpocząć w warunkach szpitalnych tak szybko,
+jak to możliwe po wystąpieniu objawów podmiotowych i (lub) przedmiotowych, u pacjentów stabilnych
+hemodynamicznie. Początkowo należy podać dawkę próbną 6,25 mg, po 2 godzinach 12,5 mg, a po
+12 godzinach 25 mg. Jeżeli u pacjenta nie stwierdza się niepożądanych objawów hemodynamicznych,
+począwszy od następnego dnia kaptopryl podawać należy w dawce 100 mg na dobę, w dwóch dawkach
+podzielonych, przez okres 4 tygodni. Pod koniec czterotygodniowego leczenia należy ponownie ocenić
+stan pacjenta przed podjęciem decyzji o leczeniu w okresie po przebytym zawale mięśnia sercowego.
+- Leczenie długotrwałe: jeżeli stosowania kaptoprylu nie rozpoczęto w ciągu pierwszych 24 godzin od
+wystąpienia ostrego zawału mięśnia sercowego, zaleca się rozpoczęcie leczenia między trzecią a szesnastą
+dobą po zawale, o ile wyrównano zaburzenia wymagające leczenia (stabilny stan hemodynamiczny
+i leczenie ewentualnego utrzymującego się niedokrwienia). Leczenie należy rozpocząć w warunkach
+szpitalnych pod ścisłym nadzorem lekarza (szczególnie dotyczącym kontroli ciśnienia tętniczego), do
+osiągnięcia dawki 75 mg. Początkowa dawka musi być mała (patrz punkt 4.4), szczególnie u pacjentów z
+prawidłowym lub obniżonym ciśnieniem tętniczym krwi w chwili rozpoczynania leczenia. Dawka
+początkowa wynosi 6,25 mg, następnie przez 2 doby podaje się 12,5 mg 3 razy na dobę, a następnie
+25 mg 3 razy na dobę o ile nie stwierdza się niepożądanych objawów hemodynamicznych. Dawka
+zalecana w celu osiągnięcia skutecznego działania kardioprotekcyjnego w leczeniu przewlekłym wynosi
+75 mg do 150 mg na dobę w dwóch lub trzech dawkach podzielonych. W przypadku objawowego
+niedociśnienia, np. na skutek niewydolności serca, można zmniejszyć dawkę leków moczopędnych i (lub)
+innych podawanych jednocześnie leków rozszerzających naczynia krwionośne, w celu utrzymania stałej
+dawki kaptoprylu. Jeżeli jest to konieczne, dawkę kaptoprylu należy dostosować do reakcji klinicznej
+pacjenta. Kaptopryl można podawać w skojarzeniu z innymi lekami stosowanymi w leczeniu zawału
+mięśnia sercowego, takimi jak leki trombolityczne, β-adrenolityczne i kwas acetylosalicylowy.
+
+Nefropatia w przebiegu cukrzycy typu I:
+
+                                                                                                        2
+Zalecana dawka dobowa kaptoprylu w przypadku nefropatii w przebiegu cukrzycy typu I wynosi
+75 do 100 mg w dawkach podzielonych. Jeżeli wymagane jest dalsze obniżenie ciśnienia tętniczego,
+dodać można inne leki przeciwnadciśnieniowe.
+
+Niewydolność nerek
+Ponieważ kaptopryl jest wydalany głównie przez nerki, u pacjentów z zaburzeniami czynności nerek
+dawkę należy zmniejszyć lub wydłużyć przerwę między dawkami. Jeżeli konieczne jest jednoczesne
+podawanie leków moczopędnych, u pacjentów z ciężką niewydolnością nerek zaleca się stosowanie
+diuretyków pętlowych (na przykład furosemidu) zamiast tiazydów moczopędnych.
+
+U pacjentów z zaburzeniami czynności nerek zaleca się następujące dawki dobowe, aby uniknąć
+kumulacji kaptoprylu.
+
+      Klirens kreatyniny           Dawka dobowa początkowa           Dawka dobowa maksymalna
+      (ml/min/1,73 m2)                      (mg)                              (mg)
+             > 40                          25 - 50                             150
+           21 - 40                           25                                100
+           10 - 20                          12,5                                75
+             < 10                           6,25                               37,5
+
+Pacjenci w podeszłym wieku
+Tak jak w przypadku innych leków przeciw nadciśnieniu, u pacjentów w podeszłym wieku z możliwym
+osłabieniem czynności nerek i zaburzeniami dotyczącymi innych narządów, należy rozważyć rozpoczęcie
+leczenia od mniejszej dawki początkowej (6,25 mg 2 razy na dobę) (patrz wyżej oraz punkt 4.4).
+Dawkę należy dostosować w zależności od uzyskiwanych wartości ciśnienia tętniczego. Należy podawać
+najmniejszą skuteczną dawkę.
+
+Dzieci i młodzież
+Nie w oceniono w pełni skuteczności i bezpieczeństwa stosowania kaptoprylu. Stosowanie produktu
+leczniczego u dzieci i młodzieży należy rozpoczynać pod ścisłym nadzorem lekarza. Dawka początkowa
+wynosi 0,3 mg/kg mc. W przypadku pacjentów wymagających szczególnych środków ostrożności (dzieci
+z zaburzeniami czynności nerek, wcześniaki, noworodki i niemowlęta, ponieważ ich czynność nerek jest
+inna niż u dzieci starszych i dorosłych) należy stosować dawkę początkową wynoszącą 0,15 mg/kg mc.
+Zazwyczaj kaptopryl podaje się dzieciom 3 razy na dobę, ale dawkę i odstęp między dawkami należy
+określić indywidualnie w zależności od reakcji pacjenta.
+
+4.3   Przeciwwskazania
+
+Nadwrażliwość na substancję czynną, inny inhibitor ACE. lub na którąkolwiek substancję
+pomocniczą wymienioną w punkcie 6.1.
+Obrzęk naczynioruchowy związany ze stosowaniem inhibitora ACE w wywiadzie.
+Dziedziczny lub idiopatyczny obrzęk naczynioruchowy.
+Drugi i trzeci trymestr ciąży (patrz punkty 4.4 oraz 4.6).
+
+Jednoczesne stosowanie produktu leczniczego Captopril Jelfa z produktami zawierającymi aliskiren jest
+przeciwwskazane u pacjentów z cukrzycą lub zaburzeniem czynności nerek (współczynnik przesączania
+kłębuszkowego, GFR<60 ml/min/1,73 m2) (patrz punkty 4.5 i 5.1).
+
+Jednoczesne stosowanie z produktem złożonym zawierającym sakubitryl i walsartan. Nie wolno
+rozpoczynać leczenia kaptoprylem wcześniej niż po upływie 36 godzin od przyjęcia ostatniej dawki
+produktu złożonego zawierającego sakubitryl i walsartan (patrz także punkty 4.4 i 4.5).
+
+
+
+                                                                                                        3
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Niedociśnienie tętnicze
+Inhibitory konwertazy angiotensyny mogą spowodować nadmierne zmniejszenie ciśnienia tętniczego
+krwi. U pacjentów z nadciśnieniem tętniczym bez powikłań, objawowe niedociśnienie tętnicze
+występuje rzadko. Prawdopodobieństwo jego wystąpienia jest większe u pacjentów z zaburzeniami
+gospodarki wodno-elektrolitowej, np. w następstwie: leczenia środkami moczopędnymi, ograniczenia
+spożycia soli w diecie, dializy, biegunki lub wymiotów, albo u pacjentów z ciężkim nadciśnieniem
+tętniczym renino-zależnym. U pacjentów z objawową niewydolnością serca, z lub bez towarzyszącej
+niewydolności nerek, obserwowano objawowe niedociśnienie. Jego wystąpienie jest najbardziej
+prawdopodobne u pacjentów z bardziej nasiloną niewydolnością serca, u których stosowane są duże
+dawki diuretyków pętlowych, u pacjentów z hiponatremią lub z zaburzeniem czynności nerek. U
+pacjentów ze zwiększonym ryzykiem wystąpienia objawowego niedociśnienia tętniczego należy ściśle
+kontrolować początkowy okres stosowania kaptoprylu oraz okresy zwiększenia dawki. Podobne środki
+ostrożności dotyczą pacjentów z chorobą niedokrwienną serca lub pacjentów z zaburzeniami krążenia
+mózgowego, u których nadmierne zmniejszenie ciśnienia tętniczego krwi może spowodować zawał
+mięśnia serca lub incydent naczyniowo-mózgowy.
+
+W razie wystąpienia niedociśnienia tętniczego należy pacjenta położyć. Jeśli jest to konieczne należy
+podać 0,9% roztwór NaCl we wlewie dożylnym. Przejściowa hipotonia nie jest przeciwwskazaniem do
+podawania dalszych dawek kaptoprylu. Zwykle można je podawać bez trudności po zwiększeniu
+ciśnienia tętniczego krwi w następstwie zwiększenia objętości płynów.
+
+U niektórych pacjentów z zastoinową niewydolnością serca, z prawidłowym lub zmniejszonym
+ciśnieniem tętniczym krwi, po podaniu kaptoprylu może wystąpić dalsze zmniejszenie ciśnienia
+tętniczego krwi. Takie działanie produktu leczniczego jest spodziewane i zwykle nie jest ono przyczyną
+przerwania jego stosowania. W razie wystąpienia objawów hipotonii może być konieczne
+zmniejszenie dawki lub przerwanie stosowania kaptoprylu.
+
+Zaburzenia czynności nerek, nadciśnienie naczyniowo - nerkowe
+W przypadkach zaburzeń czynności nerek (klirens kreatyniny < 40 ml/min), dawkę początkową
+kaptoprylu należy dostosować do wartości klirensu kreatyniny u danego pacjenta (patrz punkt 4.2), a
+następnie do reakcji pacjenta na leczenie. Rutynowa kontrola stężeń potasu i kreatyniny w surowicy
+stanowi część standardowego postępowania medycznego w odniesieniu do tych pacjentów.
+
+U pacjentów z objawową niewydolnością serca, niedociśnienie po podaniu dawki początkowej
+inhibitorów ACE może prowadzić do dalszego pogorszenia czynności nerek. W takich przypadkach
+obserwowano ostrą niewydolność nerek, zwykle odwracalną.
+
+U niektórych pacjentów z obustronnym zwężeniem tętnic nerkowych lub zwężeniem tętnicy jedynej
+czynnej nerki, którzy przyjmowali inhibitory ACE, obserwowano zwiększenie stężenia mocznika oraz
+kreatyniny w surowicy, zwykle odwracalne po zakończeniu leczenia. Dotyczy to szczególnie
+pacjentów z niewydolnością nerek. W razie występowania jednocześnie nadciśnienia naczyniowo-
+nerkowego istnieje zwiększone ryzyko rozwoju ciężkiego niedociśnienia i niewydolności nerek. U
+tych pacjentów leczenie należy rozpocząć pod ścisłym nadzorem lekarza, z zastosowaniem małych
+dawek i ostrożnym ich zwiększaniem.
+Jednoczesne podawanie leków moczopędnych w opisanych powyżej przypadkach może być
+czynnikiem predysponującym do wystąpienia powyższych powikłań, dlatego też należy przerwać
+leczenie diuretykami oraz monitorować parametry czynności nerek przez pierwsze tygodnie leczenia
+kaptoprylem.
+
+U niektórych pacjentów z nadciśnieniem tętniczym, u których nie stwierdzono wcześniej
+występowania żadnej choroby naczyniowej nerek, dochodziło do zwiększenia stężenia mocznika oraz
+
+                                                                                                      4
+kreatyniny w surowicy, szczególnie, gdy kaptopryl był podawany jednocześnie z lekiem
+moczopędnym. Jest to bardziej prawdopodobne u pacjentów z wcześniejszym zaburzeniem czynności
+nerek. Może być konieczne zmniejszenie dawki i (lub) przerwanie podawania leku moczopędnego i
+(lub) kaptoprylu.
+
+Białkomocz
+Białkomocz może wystąpić zwłaszcza u pacjentów z zaburzeniami czynności nerek lub przyjmujących
+duże dawki inhibitorów ACE.
+U 0,7% pacjentów przyjmujących kaptopryl obserwowano wydalanie białka z moczem większe niż 1 g na
+dobę. U większość pacjentów występowała choroba nerek lub stosowane były duże dawki kaptoprylu
+(więcej niż 150 mg na dobę), albo współistniały obie sytuacje. Zespół nerczycowy wystąpił u około 1/5
+pacjentów z białkomoczem. W większości przypadków białkomocz zmniejszał się lub ustępował w ciągu
+6 miesięcy, bez względu na to czy kaptopryl był nadal stosowany, czy nie. Parametry czynności nerek,
+takie jak stężenie azotu mocznikowego i kreatyniny we krwi, rzadko zmieniają się u pacjentów z
+białkomoczem.
+U pacjentów z chorobami nerek należy oznaczać stężenie białka w moczu przed rozpoczęciem leczenia
+oraz regularnie podczas leczenia.
+
+Pacjenci poddawani hemodializie
+U pacjentów poddawanych dializie z użyciem błon filtracyjnych o dużej przepuszczalności, którzy
+przyjmowali inhibitor ACE, obserwowano reakcje rzekomoanafilaktyczne. W tej grupie pacjentów
+należy rozważyć zastosowanie innego rodzaju błon dializacyjnych lub leku przeciwnadciśnieniowego z
+innej grupy.
+
+Stan po przeszczepieniu nerki
+Nie ma danych dotyczących stosowania kaptoprylu u pacjentów, którym w ostatnim czasie
+przeszczepiono nerkę.
+
+Zwężenie zastawki aortalnej i mitralnej/kardiomiopatia przerostowa
+Podobnie jak w przypadku innych inhibitorów konwertazy angiotensyny, kaptopryl należy podawać ze
+szczególną ostrożnością pacjentom ze zwężeniem zastawki mitralnej i zwężeniem drogi odpływu z
+lewej komory, tak jak ma to miejsce w przypadku zwężenia zastawki aortalnej lub kardiomiopatii
+przerostowej.
+
+Nadwrażliwość/obrzęk naczynioruchowy
+U pacjentów leczonych inhibitorami ACE, w tym kaptoprylem, zwłaszcza w pierwszym tygodniu
+leczenia, może wystąpić obrzęk naczynioruchowy twarzy, kończyn, warg, błon śluzowych, języka,
+głośni i (lub) krtani (patrz punkt 4.8). Objawy te mogą wystąpić w dowolnym momencie stosowania
+produktu leczniczego. Jednak w rzadkich przypadkach ciężki obrzęk naczynioruchowy może rozwinąć
+się po kilku miesiącach lub latach długotrwałego leczenia inhibitorem ACE. W przypadku
+wystąpienia obrzęku naczynioruchowego należy niezwłocznie przerwać stosowanie kaptoprylu i
+rozpocząć odpowiednią obserwację pacjenta, która powinna trwać do czasu całkowitego ustąpienia
+objawów.
+
+Obrzęk naczynioworuchowy języka, głośni lub krtani może spowodować niedrożność dróg
+oddechowych i prowadzić do zgonu. Należy natychmiast zastosować leczenie ratunkowe. Może ono
+obejmować podanie adrenaliny i (lub) utrzymanie drożności dróg oddechowych. Pacjent powinien
+znajdować się pod ścisłą kontrolą lekarską do całkowitego i trwałego ustąpienia objawów.
+
+W sytuacjach, gdy obrzęk obejmował jedynie twarz i wargi, zaburzenia ustępowały na ogół bez
+leczenia, chociaż w łagodzeniu objawów przydatne było podawanie leków przeciwhistaminowych.
+
+
+
+                                                                                                    5
+Częstość występowania obrzęku naczynioruchowego podczas stosowania inhibitorów konwertazy
+angiotensyny jest większa u pacjentów rasy czarnej w porównaniu do pacjentów innych ras.
+
+U pacjentów, u których w przeszłości występował obrzęk naczynioruchowy niezwiązany z
+przyjmowaniem inhibitora ACE, może istnieć większe ryzyko jego wystąpienia podczas stosowania
+inhibitora ACE (patrz punkt 4.3).
+
+Jednoczesne stosowanie inhibitorów ACE z produktem złożonym zawierającym sakubitryl i walsartan jest
+przeciwwskazane z powodu zwiększonego ryzyka obrzęku naczynioruchowego. Nie wolno rozpoczynać
+leczenia produktem złożonym zawierającym sakubitryl i walsartan wcześniej niż po upływie 36 godzin od
+przyjęcia ostatniej dawki kaptoprylu. Nie wolno rozpoczynać leczenia kaptoprylem wcześniej niż po
+upływie 36 godzin od przyjęcia ostatniej dawki produktu złożonego zawierającego sakubitryl i walsartan
+(patrz punkty 4.3 i 4.5).
+
+Jednoczesne stosowanie inhibitorów ACE z racekadotrylem, inhibitorami mTOR (np. syrolimusem,
+ewerolimusem, temsyrolimuemu) lub wildagliptyną może prowadzić do zwiększenia ryzyka obrzęku
+naczynioruchowego (np. obrzęku dróg oddechowych lub języka, z zaburzeniami oddychania lub bez)
+(patrz punkt 4.5). Należy zachować ostrożność rozpoczynając leczenie racekadotrylem, inhibitorami
+mTOR (np. syrolimusem, ewerolimusem, temsyrolimusem) lub wildagliptyną u pacjentów przyjmujących
+inhibitor ACE.
+
+Reakcje rzekomoanafilaktyczne podczas aferezy lipoprotein o małej gęstości (LDL)
+Rzadko, u pacjentów przyjmujących inhibitory ACE, podczas aferezy lipoprotein o małej gęstości z
+użyciem siarczanu dekstranu, występowały reakcje rzekomoanafilaktyczne, zagrażające życiu. Reakcji
+tych unika się, przerywając okresowo przyjmowanie inhibitora konwertazy przed kolejnymi zabiegami
+aferezy.
+
+Reakcje rzekomoanafilaktyczne podczas odczulania
+U pacjentów przyjmujących inhibitory ACE podczas odczulania (np. jadem owadów
+błonkoskrzydłych) występowały reakcje rzekomoanafilaktyczne. U tych samych pacjentów reakcji
+takich uniknięto poprzez czasowe odstawienie inhibitorów ACE, ale pojawiały się one ponownie po
+omyłkowym wznowieniu leczenia.
+
+Niewydolność wątroby
+Rzadko, stosowanie inhibitorów ACE było związane z zespołem rozpoczynającym się od żółtaczki
+cholestatycznej, postępującym do piorunującej martwicy wątroby i (czasami) zgonu. Etiopatogeneza
+tego zespołu nie jest znana. U pacjentów leczonych inhibitorami ACE, u których rozwinęła się
+żółtaczka lub zwiększyła się aktywność enzymów wątrobowych, należy przerwać stosowanie
+inhibitorów ACE oraz rozpocząć odpowiednie leczenie (patrz punkt 4.8).
+
+Neutropenia/agranulocytoza/małopłytkowość/niedokrwistość
+U pacjentów leczonych inhibitorami ACE obserwowano neutropenię/agranulocytozę, małopłytkowość i
+niedokrwistość. U pacjentów z prawidłową czynnością nerek i bez innych czynników ryzyka,
+neutropenia występowała rzadko. Kaptopryl należy stosować ze szczególną ostrożnością u pacjentów z
+kolagenozą naczyń, leczonych środkami immunosupresyjnymi, allopurynolem lub prokainamidem,
+albo u pacjentów, u których współistnieją powyższe sytuacje, szczególnie, gdy uprzednio występowało
+zaburzenie czynności nerek. U niektórych z tych pacjentów rozwijały się ciężkie infekcje, które w
+niektórych przypadkach były oporne na intensywne leczenie antybiotykami. Jeśli stosuje się kaptopryl
+u takich pacjentów, zaleca się okresowe badania liczby białych krwinek. Pacjentów należy
+poinformować, aby zgłaszali wszelkie objawy infekcji.
+
+Rasa
+
+
+                                                                                                     6
+Inhibitory ACE częściej powodują obrzęk naczynioruchowy u pacjentów rasy czarnej niż u pacjentów
+innych ras.
+Tak jak w przypadku innych inhibitorów ACE, kaptopryl może być mniej skuteczny w zmniejszaniu
+ciśnienia u pacjentów rasy czarnej, prawdopodobnie z powodu małej aktywności reninowej osocza
+obserwowanej w populacji pacjentów rasy czarnej z nadciśnieniem tętniczym.
+
+Autoimmunologiczny zespół insulinowy (IAS)
+W trakcie leczenia kaptoprylem występowały przypadki autoimmunologicznego zespołu insulinowego
+(IAS, ang. insulin autoimmune syndrome), w tym przypadki ciężkiej hipoglikemii (patrz punkt 4.8). Jeśli
+podejrzewa się IAS, należy przerwać leczenie kaptoprylem i zastosować odpowiednie leczenie.
+
+Kaszel
+U pacjentów leczonych inhibitorami ACE może wystąpić suchy, uporczywy kaszel, który ustępuje bez
+leczenia po odstawieniu leku. W przypadku diagnostyki różnicowej kaszlu należy wziąć pod uwagę
+etiologię jatrogenną.
+
+Ciężkie niepożądane reakcje skórne (SCARs)
+W związku z leczeniem kaptoprylem zgłaszano występowanie ciężkich skórnych działań niepożądanych
+(ang. severe cutaneous adverse reaction, SCAR), w tym zespołu Stevensa-Johnsona (ang. Stevens-
+Johnsons syndrome, SJS), które mogą zagrażać życiu lub prowadzić do zgonu. W momencie
+przepisywania leku, należy poinformować pacjentów o przedmiotowych i podmiotowych objawach tych
+działań, a potem bardzo uważnie obserwować pod kątem reakcji skórnych. Jeśli wystąpią jakiekolwiek
+objawy wskazujące na te reakcje, należy natychmiast odstawić kaptopryl i rozważyć zastosowanie
+alternatywnego leczenia.
+Jeśli u pacjenta podczas stosowania produktu leczniczego Captopril Jelfa wystąpiła ciężka reakcja
+niepożądana dotycząca skóry, taka jak SJS, leczenia tym produktem w żadnym momencie nie należy
+wznawiać.
+U dzieci początkowe objawy wysypki mogą być mylone z infekcją. Lekarze powinni rozważyć możliwość
+wystąpienia reakcji na produkt leczniczy Captopril Jelfa u dzieci, u których podczas terapii produktem
+leczniczym Captopril Jelfa wystąpią objawy wysypki i gorączki.
+
+
+Zabiegi chirurgiczne/znieczulenie
+U pacjentów poddawanych zabiegom chirurgicznym lub znieczuleniu z zastosowaniem środków
+powodujących niedociśnienie, kaptopryl może blokować powstawanie angiotensyny II wtórnie do
+kompensacyjnie uwolnionej reniny. Podawanie produktu leczniczego należy przerwać na jeden dzień
+przed operacją. W razie wystąpienia niedociśnienia, gdy rozważany jest ten mechanizm, można je
+skorygować poprzez zwiększenie objętości wewnątrznaczyniowej.
+
+Stężenie potasu w surowicy
+Inhibitory ACE mogą powodować hiperkaliemię, ponieważ hamują uwalnianie aldosteronu. Działanie to
+jest zazwyczaj nieistotne u pacjentów z prawidłową czynnością nerek. Jednak u pacjentów z zaburzeniami
+czynności nerek, cukrzycą, hipoaldosteronizmem, u pacjentów przyjmujących suplementy potasu (w tym
+substytuty soli kuchennej), leki moczopędne oszczędzające potas, heparynę, trimetoprym lub
+kotrimoksazol (będący skojarzeniem trimetoprimu z sulfametoksazolem), a zwłaszcza leczonych
+antagonistami aldosteronu lub antagonistami receptora angiotensyny II może wystąpić hiperkaliemia.
+Leki moczopędne oszczędzające potas i antagonistów receptora angiotensyny II należy stosować z
+zachowaniem ostrożności u pacjentów otrzymujących inhibitory ACE oraz należy kontrolować stężenie
+potasu w surowicy i czynność nerek (patrz punkt 4.5).
+
+Pacjenci z cukrzycą
+
+
+
+                                                                                                          7
+U pacjentów z cukrzycą, leczonych doustnymi lekami przeciwcukrzycowymi lub insuliną, należy
+ściśle kontrolować stężenie glukozy we krwi podczas pierwszego miesiąca stosowania inhibitora
+ACE (patrz punkt 4.5).
+
+Lit
+Nie zaleca się jednoczesnego stosowania litu i kaptoprylu (patrz punkt 4.5).
+
+Leki moczopędne oszczędzające potas, suplementy potasu lub substytuty soli zawierające potas
+Nie zaleca się stosowania kaptoprylu jednocześnie z diuretykami oszczędzającymi potas,
+suplementami potasu ani substytutami soli zawierającymi potas (patrz punkt 4.5).
+
+Ciąża
+Nie należy rozpoczynać leczenia inhibitorami ACE podczas ciąży. Jeśli kontynuacja leczenia inhibitorem
+ACE nie jest niezbędna, u pacjentek planujących ciążę należy zastosować leki przeciw nadciśnieniu
+o ustalonym profilu bezpieczeństwa w ciąży. W przypadku potwierdzenia ciąży należy natychmiast
+przerwać stosowanie inhibitorów ACE oraz, jeśli to konieczne, zastosować inną metodę leczenia (patrz
+punkty 4.3 i 4.6).
+
+Podwójna blokada układu renina-angiotensyna-aldosteron (RAA)
+Istnieją dowody, iż jednoczesne stosowanie inhibitorów konwertazy angiotensyny (ACE), antagonistów
+receptora angiotensyny II (AIIRA) lub aliskirenu zwiększa ryzyko niedociśnienia, hiperkaliemii oraz
+zaburzenia czynności nerek (w tym ostrej niewydolności nerek). W związku z tym nie zaleca się
+podwójnego blokowania układu RAA poprzez jednoczesne zastosowanie inhibitorów ACE, antagonistów
+receptora angiotensyny II lub aliskirenu (patrz punkty 4.5 i 5.1).
+Jeśli zastosowanie podwójnej blokady układu RAA jest absolutnie konieczne, powinno być prowadzone
+wyłącznie pod nadzorem specjalisty, a parametry życiowe pacjenta, takie jak: czynność nerek, stężenie
+elektrolitów oraz ciśnienie krwi powinny być ściśle monitorowane.
+U pacjentów z nefropatią cukrzycową nie należy stosować jednocześnie inhibitorów ACE oraz
+antagonistów receptora angiotensyny II.
+
+Laktoza
+Produkt leczniczy nie powinien być stosowany u pacjentów z rzadko występującą dziedziczną
+nietolerancją galaktozy, brakiem laktazy lub zespołem złego wchłaniania glukozy-galaktozy.
+
+Sód
+Produkt leczniczy zawiera mniej niż 1 mmol (23 mg) sodu w jednej tabletce, to znaczy produkt leczniczy
+uznaje się za „wolny od sodu”.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Leki zwiększające ryzyko obrzęku naczynioruchowego
+Jednoczesne stosowanie inhibitorów ACE i produktu złożonego zawierającego sakubitryl i walsartan jest
+przeciwwskazane, ponieważ zwiększa ryzyko obrzęku naczynioruchowego (patrz punkty 4.3 i 4.4).
+
+Jednoczesne stosowanie inhibitorów ACE z racekadotrylem, inhibitorami mTOR (np. syrolimusem,
+ewerolimusem, temsyrolimusem) lub wildagliptyną może prowadzić do zwiększenia ryzyka obrzęku
+naczynioruchowego (patrz punkt 4.4).
+
+Kotrimoksazol (trimetoprim+sulfametoksazol)
+U pacjentów przyjmujących jednocześnie kotrimoksazol (trimetoprim+sulfametoksazol) może wystąpić
+zwiększone ryzyko hiperkaliemii (patrz punkt 4.4).
+
+Leki moczopędne (diuretyki tiazydowe lub pętlowe)
+
+                                                                                                         8
+U pacjentów przyjmujących leki moczopędne, zwłaszcza u osób z zaburzeniami gospodarki wodno-
+elektrolitowej, może wystąpić nadmierne zmniejszenie ciśnienia tętniczego na początku leczenia
+inhibitorem ACE. Ryzyko wystąpienia niedociśnienia można zmniejszyć przez przerwanie
+przyjmowania diuretyku, zwiększenie objętości płynów lub spożycie soli przed rozpoczęciem leczenia
+z zastosowaniem małych, stopniowo zwiększanych dawek kaptoprylu.
+
+Leki moczopędne oszczędzające potas, suplementy potasu lub substytuty soli kuchennej zawierające potas
+Mimo że stężenie potasu w surowicy zazwyczaj utrzymuje się w zakresie wartości prawidłowych,
+u niektórych pacjentów leczonych kaptoprylem może wystąpić hiperkaliemia. Leki moczopędne
+oszczędzające potas (np. spironolakton, triamteren lub amiloryd), suplementy potasu lub substytuty soli
+kuchennej zawierające potas mogą prowadzić do istotnego zwiększenia stężenia potasu w surowicy.
+Należy również zachować ostrożność podając kaptopryl jednocześnie z innymi lekami zwiększającymi
+stężenie potasu w surowicy, takimi jak trimetoprim i kotrimoksazol (trimetoprim z sulfametoksazolem),
+ponieważ wiadomo, że trimetoprim działa jak lek moczopędny oszczędzający potas, taki jak amiloryd.
+Dlatego nie zaleca się leczenia skojarzonego kaptoprylem i wymienionymi wyżej lekami. Jeśli
+jednoczesne stosowanie tych leków jest wskazane, należy je podawać z zachowaniem ostrożności i
+często kontrolować stężenie potasu w surowicy.
+
+Cyklosporyna
+Podczas jednoczesnego stosowania inhibitorów ACE i cyklosporyny może wystąpić hiperkaliemia.
+Zaleca się kontrolowanie stężenia potasu w surowicy.
+
+Heparyna
+Podczas jednoczesnego stosowania inhibitorów ACE i heparyny może wystąpić hiperkaliemia. Zaleca
+się kontrolowanie stężenia potasu w surowicy.
+
+
+Lit
+Podczas jednoczesnego stosowania inhibitorów ACE obserwowano odwracalne zwiększenie stężenia
+litu w surowicy oraz zwiększenie jego toksyczności. Jednoczesne stosowanie leków moczopędnych z
+grupy tiazydów może zwiększać ryzyko toksycznego działania litu oraz nasilać już zwiększone ryzyko
+działania toksycznego litu podczas przyjmowania inhibitorów ACE. Nie zaleca się stosowania
+kaptoprylu z litem, jednak jeżeli stosowanie tych leków w skojarzeniu jest konieczne, należy często
+oznaczać stężenia litu w surowicy (patrz punkt 4.4).
+
+Niesteroidowe leki przeciwzapalne (NLPZ), w tym kwas acetylosalicylowy ≥ 3 g na dobę
+Stosowanie niesteroidowych leków przeciwzapalnych może zmniejszać hipotensyjne działanie
+inhibitorów ACE. Dodatkowo niesteroidowe leki przeciwzapalne stosowane jednocześnie z
+inhibitorami ACE wykazują działanie addycyjne prowadzące do zwiększenia stężenia potasu w
+surowicy, co może powodować pogorszenie czynności nerek. Działanie to jest zazwyczaj
+odwracalne. Rzadko może wystąpić ostra niewydolność nerek, szczególnie u pacjentów, u których
+występuje ryzyko rozwoju niewydolności nerek, to jest pacjentów w podeszłym wieku lub
+odwodnionych.
+
+Leki przeciwnadciśnieniowe i leki rozszerzające naczynia
+Jednoczesne stosowanie tych leków może nasilać przeciwnadciśnieniowe działanie kaptoprylu.
+Jednoczesne przyjmowanie nitrogliceryny i innych azotanów lub innych leków rozszerzających
+naczynia może powodować dalsze zmniejszenie ciśnienia tętniczego krwi.
+
+Leki przeciwcukrzycowe
+Badania epidemiologiczne wykazały, że jednoczesne stosowanie inhibitorów ACE i leków
+przeciwcukrzycowych (insuliny, doustne leki przeciwcukrzycowe) może spowodować nasilone
+zmniejszenie stężenia glukozy we krwi, z ryzykiem wystąpienia hipoglikemii. Wystąpienie
+
+                                                                                                      9
+takiego działania jest bardziej prawdopodobne w pierwszych tygodniach leczenia skojarzonego
+oraz u pacjentów z zaburzeniami czynności nerek.
+
+Kwas acetylosalicylowy, leki trombolityczne, beta-adrenolityki, azotany
+Kaptopryl można stosować jednocześnie z kwasem acetylosalicylowym (w dawkach
+kardiologicznych), lekami trombolitycznymi, beta-adrenolitykami i (lub) azotanami.
+
+Trójpierścieniowe leki przeciwdepresyjne/ leki przeciwpsychotyczne/ leki znieczulające ogólnie
+Jednoczesne stosowanie niektórych leków znieczulających ogólnie, trójpierścieniowych leków
+przeciwdepresyjnych oraz leków przeciwpsychotycznych z inhibitorami ACE może powodować
+dalsze zmniejszenie ciśnienia tętniczego krwi (patrz punkt 4.4).
+
+Sympatykomimetyki
+Leki sympatykomimetyczne mogą osłabiać działanie przeciwnadciśnieniowe inhibitorów ACE.
+
+Allopurynol, prokainamid, cytostatyki oraz leki immunosupresyjne
+Jednoczesne stosowanie z inhibitorami ACE, zwłaszcza podawanymi w dawce większej niż zalecana,
+może zwiększać ryzyko wystąpienia leukopenii.
+
+Badania diagnostyczne
+Kaptopryl może powodować fałszywie dodatni wynik testu na obecność acetonu w moczu.
+
+Dane z badania klinicznego wykazały, że podwójna blokada układu renina-angiotensyna-aldosteron
+(RAA) w wyniku jednoczesnego zastosowania inhibitorów ACE, antagonistów receptora angiotensyny II
+lub aliskirenu jest związana z większą częstością występowania zdarzeń niepożądanych, takich jak:
+niedociśnienie, hiperkaliemia oraz zaburzenia czynności nerek (w tym ostra niewydolność nerek) w
+porównaniu z zastosowaniem leku z grupy antagonistów układu RAA w monoterapii (patrz punkty 4.3,
+4.4 i 5.1).
+
+4.6     Wpływ na płodność ciążę i laktację
+
+Ciąża
+Nie zaleca się stosowania inhibitorów ACE w pierwszym trymestrze ciąży (patrz punkt 4.4).
+Stosowanie inhibitorów ACE w drugim i trzecim trymestrze jest przeciwwskazane (patrz punkty 4.3
+i 4.4). Dane epidemiologiczne dotyczące ryzyka działania teratogennego w przypadku narażenia na
+inhibitory ACE podczas pierwszego trymestru ciąży nie są rozstrzygające; jednakże nie można
+wykluczyć niewielkiego zwiększenia ryzyka. Jeśli kontynuacja leczenia inhibitorem ACE nie jest
+niezbędna, u pacjentek planujących ciążę należy zastosować leki przeciw nadciśnieniu o ustalonym
+profilu bezpieczeństwa w ciąży. W przypadku potwierdzenia ciąży należy natychmiast przerwać
+stosowanie inhibitorów ACE oraz, jeśli to konieczne, zastosować inną metodę leczenia. Wiadomo, że
+narażenie na inhibitory ACE w drugim i trzecim trymestrze ciąży powoduje u ludzi toksyczne działanie
+na płód (zaburzenie czynności nerek, małowodzie, opóźnienie kostnienia kości czaszki) i noworodka
+(niewydolność nerek, niedociśnienie tętnicze, hiperkaliemia). (Patrz także punkt 5.3 „Przedkliniczne
+dane o bezpieczeństwie”).
+W przypadku narażenia na inhibitory ACE od drugiego trymestru ciąży zaleca się przeprowadzenie
+badania ultrasonograficznego nerek i czaszki.
+Noworodki, których matki przyjmowały inhibitory ACE, należy ściśle monitorować ze względu na
+możliwość wystąpienia niedociśnienia tętniczego (patrz także punkty 4.3 oraz 4.4).
+
+Karmienie piersią
+Ograniczone dane farmakokinetyczne wskazują na bardzo małe stężenia w mleku matki (patrz punkt 5.2).
+Chociaż te stężenia wydają się klinicznie nieistotne, nie zaleca się stosowania produktu Captopril Jelfa
+podczas karmienia piersią wcześniaków oraz noworodków, w okresie pierwszych kilku tygodni po
+
+                                                                                                      10
+porodzie, za względu na przypuszczalne ryzyko działań sercowo-naczyniowych i nerkowych oraz z
+powodu braku wystarczającego doświadczenia klinicznego.
+W przypadku starszego niemowlęcia można rozważyć stosowanie produktu Captopril Jelfa u matki
+karmiącej piersią, jeśli leczenie jest konieczne dla matki, a dziecko jest obserwowane w celu
+wychwycenia wszelkich działań niepożądanych.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwanie maszyn
+
+Tak jak w przypadku innych leków przeciw nadciśnieniu, zdolność prowadzenia pojazdów
+mechanicznych i obsługiwania maszyn może być zaburzona, zwłaszcza na początku leczenia lub podczas
+zmiany dawki, oraz w przypadku jednoczesnego picia alkoholu, jednak zależy to od indywidualnej
+podatności pacjenta.
+
+4.8   Działania niepożądane
+
+Następujące działania niepożądane obserwowano podczas stosowania kaptoprylu, z przedstawioną
+poniżej częstością:
+Bardzo często (≥l/10); często (≥l/100 do <l/10); niezbyt często (≥l/1000 do <l/100); rzadko (≥l/10 000
+do <l/1000); bardzo rzadko (<l/10 000); nieznana (nie może być określona na podstawie dostępnych
+danych).
+
+Zaburzenia krwi i układu chłonnego
+Bardzo rzadko: neutropenia/agranulocytoza (patrz punkt 4.4), pancytopenia – szczególnie u pacjentów
+z zaburzeniami czynności nerek (patrz punkt 4.4), niedokrwistość (w tym niedokrwistość aplastyczna
+i hemolityczna), małopłytkowość, powiększenie węzłów chłonnych, eozynofilia, zaburzenia
+autoimmunologiczne i (lub) dodatnie miano przeciwciał przeciwjądrowych.
+
+Zaburzenia metabolizmu i odżywiania
+Rzadko: anoreksja.
+Bardzo rzadko: hiperkaliemia, hipoglikemia (patrz punkt 4.4).
+
+Zaburzenia psychiczne
+Często: zaburzenia snu.
+Bardzo rzadko: splątanie, depresja.
+
+Zaburzenia układu nerwowego
+Często: zaburzenia smaku, zawroty głowy.
+Rzadko: senność, bóle głowy i parestezje.
+Bardzo rzadko: incydenty naczyniowo-mózgowe, w tym udar, omdlenie.
+
+Zaburzenia oka
+Bardzo rzadko: niewyraźne widzenie.
+
+Zaburzenia serca
+Niezbyt często: tachykardia lub tachyarytmia, dławica piersiowa, kołatanie serca.
+Bardzo rzadko: zatrzymanie czynności serca, wstrząs kardiogenny.
+
+Zaburzenia naczyniowe
+Niezbyt często: niedociśnienie tętnicze (patrz punkt 4.4), zespół Raynauda, nagłe zaczerwienienie,
+bladość.
+
+Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia
+Często: suchy, uporczywy kaszel (patrz punkt 4.4) i duszność.
+
+                                                                                                      11
+Bardzo rzadko: skurcz oskrzeli, nieżyt błony śluzowej nosa, alergiczne zapalenie pęcherzyków
+płucnych/eozynofilowe zapalenie płuc.
+
+Zaburzenia żołądka i jelit
+Często: nudności, wymioty, podrażnienie błony śluzowej żołądka, bóle brzucha, biegunka, zaparcia,
+suchość błony śluzowej jamy ustnej.
+Rzadko: zapalenie jamy ustnej/owrzodzenia aftowe.
+Bardzo rzadko: zapalenie języka, wrzód trawienny, zapalenie trzustki.
+
+Zaburzenia wątroby i dróg żółciowych
+Bardzo rzadko: zaburzenia czynności wątroby i zastój żółci (w tym żółtaczka), zapalenie wątroby w tym
+martwica, zwiększenie aktywności enzymów wątrobowych i stężenia bilirubiny.
+
+Zaburzenia skóry i tkanki podskórnej
+Często: świąd z wysypką lub bez wysypki, wysypka i łysienie.
+Niezbyt często: obrzęk naczynioruchowy (patrz punkt 4.4).
+Bardzo rzadko: pokrzywka, zespół Stevensa-Johnsona, rumień wielopostaciowy, nadwrażliwość na
+światło, erytrodermia, zmiany skórne podobne do pęcherzycy i złuszczające zapalenie skóry.
+
+Zaburzenia mięśniowo-szkieletowe i tkanki łącznej
+Bardzo rzadko: bóle mięśni, bóle stawów.
+
+Zaburzenia nerek i dróg moczowych
+Rzadko: zaburzenia czynności nerek, w tym niewydolność nerek, wielomocz, skąpomocz, zwiększenie
+częstości oddawania moczu.
+Bardzo rzadko: zespół nerczycowy.
+
+Zaburzenia układu rozrodczego i piersi
+Bardzo rzadko: impotencja, ginekomastia.
+
+Zaburzenia ogólne
+Niezbyt często: ból w klatce piersiowej, zmęczenie, złe samopoczucie.
+Bardzo rzadko: gorączka.
+
+Zaburzenia układu immunologicznego
+Częstość nieznana: autoimmunologiczny zespół insulinowy.
+
+Badania diagnostyczne
+Bardzo rzadko: białkomocz, eozynofilia, zwiększenie stężenia potasu w surowicy, zmniejszenie stężenia
+sodu w surowicy, zwiększenie stężenia azotu mocznikowego we krwi, zwiększenie stężenia kreatyniny
+i bilirubiny w surowicy, zmniejszenie stężenia hemoglobiny, zmniejszenie wartości hematokrytu,
+zmniejszenie ilości leukocytów i płytek krwi, dodatnie miano przeciwciał przeciwjądrowych,
+przyspieszone OB.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie
+podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych
+Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i
+Produktów Biobójczych:
+Al. Jerozolimskie 181C, 02-222 Warszawa
+Tel.: + 48 22 49 21 301
+
+                                                                                                    12
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+Objawy przedawkowania: ciężkie niedociśnienie tętnicze, wstrząs, osłupienie, bradykardia, zaburzenia
+elektrolitowe i niewydolność nerek.
+Jeżeli przedawkowanie wystąpiło niedawno, należy zapobiegać wchłanianiu (np. wykonanie płukania
+żołądka, podanie adsorbentów i siarczanu sodu w ciągu 30 minut od przyjęcia produktu leczniczego) oraz
+przyspieszać wydalanie. W przypadku wystąpienia niedociśnienia, pacjenta należy położyć w pozycji jak
+we wstrząsie i szybko uzupełnić niedobory elektrolitów i płynów. Należy rozważyć podanie
+angiotensyny II. W razie wystąpienia bradykardii lub nasilonej reakcji ze strony nerwu błędnego należy
+podać atropinę. Można rozważyć zastosowanie rozrusznika serca.
+Kaptopryl może być usunięty z organizmu przez hemodializę.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakologiczna: inhibitory konwertazy angiotensyny, kod ATC: C09AA0l
+
+Mechanizm działania
+Kaptopryl jest wysoce wybiórczym, konkurencyjnym inhibitorem enzymu konwertującego angiotensynę
+(inhibitorem ACE). Korzystne działanie inhibitorów ACE wynika głównie z hamowania układu renina-
+angiotensyna-aldosteron. Renina jest endogennym enzymem wytwarzanym przez nerki i uwalnianym do
+krwiobiegu, gdzie przekształca angiotensynogen w nieczynny dekapeptyd - angiotensynę I. Angiotensyna
+I jest przekształcana przez enzym konwertujący angiotensynę, będący peptydylodipeptydazą, do
+angiotensyny II. Angiotensyna II, wykazując silne działanie kurczące naczynia, jest odpowiedzialna za
+zwężanie naczyń tętniczych i zwiększenie ciśnienia krwi, jak również pobudzanie nadnerczy do
+wydzielania aldosteronu. Zahamowanie ACE powoduje zmniejszenie stężenia angiotensyny II w osoczu,
+co prowadzi do zmniejszenia działania zwężającego naczynia oraz zmniejszenia wydzielania aldosteronu.
+Chociaż zmniejszenie wydzielania aldosteronu jest nieznaczne, może wystąpić niewielkie zwiększenie
+stężenia potasu w surowicy, z jednoczesną utratą sodu i wody. Zahamowanie ujemnego sprzężenia
+zwrotnego między angiotensyną II a wydzielaniem reniny prowadzi do zwiększenia aktywności reninowej
+osocza.
+Inne działanie enzymu konwertującego polega na rozkładzie bradykininy, substancji o silnych
+właściwościach rozszerzających naczynia, do nieczynnych metabolitów. Dlatego też, zahamowanie ACE
+prowadzi do zwiększenia aktywności układu kalikreina-kinina w osoczu i w tkankach , co przyczynia się
+do rozszerzenia naczyń obwodowych przez aktywację układu prostaglandyn; możliwe, że ten mechanizm
+przyczynia się do hipotensyjnego działania inhibitorów ACE i jest odpowiedzialny za pewne działania
+niepożądane.
+
+Działanie farmakodynamiczne
+Maksymalne obniżenie ciśnienia tętniczego występuje zazwyczaj po 60 - 90 minutach od doustnego
+przyjęcia pojedynczej dawki kaptoprylu. Czas działania jest zależny od dawki. Aby osiągnąć optymalne
+działanie może być konieczne kilkutygodniowe leczenie, ponieważ obniżanie ciśnienia może następować
+stopniowo. Działanie obniżające ciśnienie kaptoprylu i tiazydowych leków moczopędnych sumuje się.
+U pacjentów z nadciśnieniem kaptopryl powoduje obniżenie ciśnienia krwi, zarówno w pozycji stojącej,
+jak i leżącej, bez wpływu na częstość akcji serca oraz na zatrzymanie wody i sodu.
+W przypadku stosowania zalecanej dawki dobowej działanie przeciwnadciśnieniowe utrzymuje się nawet
+podczas długotrwałego leczenia. Czasowe zaprzestanie przyjmowania kaptoprylu nie powoduje
+
+                                                                                                    13
+szybkiego, nadmiernego zwiększenia ciśnienia krwi (działanie „z odbicia”). Leczenie niedociśnienia
+kaptoprylem prowadzi również do zmniejszenia przerostu lewej komory serca.
+
+Skuteczność kliniczna i bezpieczeństwo stosowania
+Podczas badań hemodynamicznych stwierdzono, że kaptopryl powoduje wyraźne zmniejszenie
+obwodowego oporu tętniczego. Nie zaobserwowano istotnych klinicznie zmian przepływu osocza przez
+nerki lub wskaźnika przesączania kłębuszkowego. U większości pacjentów działanie
+przeciwnadciśnieniowe kaptoprylu pojawiało się po około 15-30 minut od doustnego przyjęcia;
+maksymalne działanie było osiągane po 60-90 minutach. Maksymalne obniżenie ciśnienia krwi
+obserwowano po trzech - czterech tygodniach.
+
+Badania hemodynamiczne u pacjentów z niewydolnością serca wykazały, że kaptopryl zmniejsza
+obwodowy opór naczyniowy i zwiększa pojemność żylną. Powoduje to zmniejszenie obciążenia
+wstępnego i następczego (zmniejszenie ciśnienia napełniania komory). Ponadto, podczas leczenia
+kaptoprylem zaobserwowano zwiększenie pojemności minutowej serca, poprawę wskaźnika sercowego i
+wydolności wysiłkowej. W zakrojonym na szeroką skalę badaniu kontrolowanym placebo, z udziałem
+pacjentów z zaburzeniami czynności lewej komory (LVEF ≤ 40%), po zawale mięśnia sercowego,
+wykazano, że kaptopryl (rozpoczęcie podawania miedzy 3. a 16. dobą po zawale) wydłużał czas przeżycia
+oraz zmniejszał śmiertelność z przyczyn sercowo-naczyniowych. Zmniejszenie śmiertelności z przyczyn
+sercowo-naczyniowych przejawiało się opóźnieniem rozwoju objawowej niewydolności serca i
+zmniejszeniem potrzeby hospitalizacji na skutek niewydolności serca, w porównaniu z placebo.
+Zmniejszyła się również liczba ponownych zawałów serca i zabiegów rewaskularyzacji serca i (lub)
+potrzeba stosowania dodatkowych leków, w tym moczopędnych i (lub) glikozydów naparstnicy, lub
+potrzeba zwiększenia ich dawki, w porównaniu z placebo.
+Kolejne badanie kontrolowane placebo, z udziałem dużej grupy pacjentów z zawałem mięśnia sercowego
+wykazało, że w porównaniu do placebo kaptopryl (podany w ciągu 24 godzin od zawału i stosowany
+przez miesiąc) znamiennie zmniejszał ogólną śmiertelność po 5 tygodniach. Korzystny wpływ kaptoprylu
+na śmiertelność całkowitą utrzymywał się nawet po roku leczenia. Nie stwierdzono danych wskazujących
+na niekorzystny wpływ leku na wczesną śmiertelność w pierwszym dniu leczenia.
+Kaptopryl wykazuje działanie kardioprotekcyjne niezależnie od wieku i płci pacjenta, lokalizacji zawału i
+jednoczesnego stosowania leków o potwierdzonej skuteczności w okresie po zawale (leki trombolityczne,
+leki β-adrenolityczne, kwas acetylosalicylowy).
+
+Nefropatia w przebiegu cukrzycy typu I
+W wieloośrodkowym badaniu klinicznym kontrolowanym placebo z zastosowaniem podwójnie ślepej
+próby, z udziałem pacjentów z cukrzycą insulinozależną (typ I) i białkomoczem, z nadciśnieniem
+tętniczym lub bez (dopuszczalne było jednoczesne stosowanie innych leków przeciwnadciśnieniowych
+w celu normalizacji ciśnienia tętniczego), kaptopryl znamiennie wydłużał (o 51%) czas do podwojenia
+wyjściowego stężenia kreatyniny w porównaniu do placebo. Częstość występowania schyłkowej
+niewydolności nerek (dializoterapia, przeszczepienie nerki) lub zgonu również była znamiennie mniejsza
+u chorych otrzymujących kaptopryl niż w grupie placebo (51%). U pacjentów z cukrzycą
+i mikroalbuminurią, stosowanie kaptoprylu zmniejszało wydalanie albumin w ciągu dwóch lat.
+
+Wpływ kaptoprylu na zachowanie czynności nerek jest uzupełnieniem korzyści osiąganych w wyniku
+obniżenia ciśnienia tętniczego krwi.
+
+Dwa duże randomizowane, kontrolowane badania kliniczne ONTARGET (ang. ONgoing Telmistartan
+Alone and in combination with Ramipril Global Endpoint Trial) i VA NEPHRON-D (ang. The Veterans
+Affairs Nefropathy in Diabetes) badały jednoczesne zastosowanie inhibitora ACE z antagonistami
+receptora angiotensyny II.
+Badanie ONTARGET było przeprowadzone z udziałem pacjentów z chorobami układu sercowo-
+naczyniowego, chorobami naczyń mózgowych w wywiadzie lub cukrzycą typu 2 z towarzyszącymi,
+udowodnionymi uszkodzeniami narządów docelowych.
+
+                                                                                                       14
+Badanie VA NEPHRON-D było przeprowadzone z udziałem pacjentów z cukrzycą typu 2 oraz z
+nefropatią cukrzycową.
+Badania te wykazały brak istotnego korzystnego wpływu na parametry nerkowe i (lub) wyniki w zakresie
+chorobowości oraz śmiertelności sercowo-naczyniowej, podczas gdy zaobserwowano zwiększone ryzyko
+hiperkaliemii, ostrego uszkodzenia nerek i (lub) niedociśnienia, w porównaniu z monoterapią.
+Ze względu na podobieństwa w zakresie właściwości farmakodynamicznych tych leków, przytoczone
+wyniki również mają znaczenie w przypadku innych inhibitorów ACE oraz antagonistów receptora
+angiotensyny II.
+Dlatego też u pacjentów z nefropatią cukrzycową nie należy jednocześnie stosować inhibitorów ACE oraz
+antagonistów receptora angiotensyny II.
+
+Badanie ALTITUDE (ang. Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease
+Endpoints) było zaprojektowane w celu zbadania korzyści z dodania aliskirenu do standardowego leczenia
+inhibitorem ACE lub antagonistą receptora angiotensyny II u pacjentów z cukrzycą typu 2 i przewlekłą
+chorobą nerek oraz/lub z chorobą układu sercowo-naczyniowego. Badanie zostało przedwcześnie
+przerwane z powodu zwiększonego ryzyka działań niepożądanych. Zgony sercowo-naczyniowe i udary
+mózgu występowały częściej w grupie otrzymującej aliskiren w odniesieniu do grupy placebo. W grupie
+otrzymującej aliskiren odnotowano również częstsze występowanie zdarzeń niepożądanych, w tym
+ciężkich zdarzeń niepożądanych (hiperkaliemia, niedociśnienie i niewydolność nerek) względem grupy
+placebo.
+
+5.2   Właściwości farmakokinetyczne
+
+Wchłanianie
+Kaptopryl wykazuje aktywność farmakologiczną po podaniu doustnym, nie potrzebuje w tym celu
+biotransformacji. Średnie minimalne wchłanianie wynosi około 75%. Obecność pokarmu zmniejsza
+wchłanianie o około 30-40%. Maksymalne stężenie w osoczu jest osiągane w ciągu 60-90 minut.
+
+Dystrybucja
+Około 25-30% leku wiąże się z białkami osocza. W badaniach na zwierzętach wykazano, że kaptopryl nie
+przenika przez barierę krew-mózg w istotnym stopniu.
+
+Eliminacja
+Okres półtrwania w fazie eliminacji wynosi około 2 godzin. Ponad 95% wchłoniętej dawki kaptoprylu jest
+wydalane z moczem w ciągu 24 godzin; 40-50% stanowi niezmieniony lek, reszta występuje w postaci
+nieczynnych metabolitów dwusiarczkowych. Zaburzenia czynności nerek mogą powodować kumulację.
+Dlatego u pacjentów z zaburzeniami czynności nerek należy zmniejszyć dawkę kaptoprylu i (lub)
+wydłużyć przerwę między dawkami (patrz punkt 4.2).
+
+Karmienie piersią
+W badaniu z udziałem dwunastu kobiet przyjmujących doustnie 100 mg kaptoprylu na dobę, w trzech
+dawkach podzielonych, średnie maksymalne stężenie w mleku wynosiło 4,7 μg/l i występowało 3,8
+godziny po podaniu dawki. Na podstawie tych danych ustalono, że maksymalna dawka dobowa, którą
+mogłoby otrzymać niemowlę karmione piersią jest mniejsza niż 0,002% dawki dobowej matki.
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+W badaniach toksykologicznych podczas długotrwałego podawania doustnego (na szczurach i na
+małpach), narządem docelowym były nerki. Występowało ich odwracalne uszkodzenie.
+W badaniach in vitro lub in vivo nie obserwowano działania mutagennego.
+Badania toksycznego wpływu na reprodukcję (na szczurach, myszach, królikach i małpach) nie
+wykazały działania embriotoksycznego lub teratogennego. Niemniej jednak wykazano, że inhibitory
+konwertazy angiotensyny, jako grupa leków, powodują działania niepożądane poprzez opóźnienie
+
+                                                                                                    15
+okresu rozwoju płodu, prowadzące do śmierci płodu i wrodzonych wad rozwojowych u gryzoni
+i królików: obserwowano zmiany w nerkach oraz zwiększenie przed- i pourodzeniowej śmiertelności.
+Podczas długookresowych badań przeprowadzonych na szczurach i myszach nie obserwowano
+działania rakotwórczego.
+
+
+6.    DANE FARMACEUTYCZNE
+
+6.1   Wykaz substancji pomocniczych
+
+Celuloza mikrokrystaliczna
+Krzemionka koloidalna bezwodna
+Laktoza jednowodna
+Kwas stearynowy
+Kroskarmeloza sodowa
+
+6.2   Niezgodności farmaceutyczne
+
+Nie dotyczy.
+
+6.3   Okres ważności
+
+12,5 mg: 2 lata
+25 mg i 50 mg: 3 lata
+
+6.4   Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w temperaturze poniżej 25°C.
+Przechowywać w oryginalnym opakowaniu.
+
+6.5   Rodzaj i zawartość opakowania
+
+Blistry z folii PA/Aluminium/PVC/Aluminium w tekturowym pudełku.
+12,5 mg: 30 szt.
+25 mg: 30 szt. lub 40 szt.
+50 mg: 20 szt. lub 30 szt.
+
+6.6   Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+      stosowania
+
+Brak specjalnych wymagań.
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA DOPUSZCZENIE
+      DO OBROTU
+
+Bausch Health Ireland Limited
+3013 Lake Drive
+Citywest Business Campus
+Dublin 24, D24PPT3
+Irlandia
+
+
+
+
+                                                                                                   16
+8.     NUMERY POZWOLEŃ NA DOPUSZCZENIE DO OBROTU
+
+Captopril Jelfa, 12,5 mg: pozwolenie nr 15003
+Captopril Jelfa, 25 mg: pozwolenie nr 15004
+Captopril Jelfa, 50 mg: pozwolenie nr 15005
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU I
+      DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 01grudnia 2008 r.
+Data ostatniego przedłużenia pozwolenia: 30 września 2014 r.
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+
+
+
+                                                                                  17
+

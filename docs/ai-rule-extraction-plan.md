@@ -1,6 +1,18 @@
 # AI-assisted rule extraction: research and proposed implementation
 
+**Direction update — 2026-11-09:** the user selected online models authenticated
+with an API key for the next implementation. See the current
+[online extraction plan](online-rule-extraction.md). This supersedes the local-only
+deployment decision below; local model research remains historical comparison
+material. Online extraction and automated rule drafting are not implemented yet.
+
 Research date: 2026-11-05. Status: planned local extraction pipeline, not an implemented extractor or selected clinical model. User confirmed local inference on 2026-11-05. The first target is this computer; usable GPU memory/runtime remains a preflight check. Design contract: ../.planning/phases/04-ingestion-review/04-AI-SPEC.md.
+
+Standalone experiment update: an [uploadable Kaggle/Colab notebook](../experiments/model-comparison/README.md)
+now packages the text extraction comparison independently of the application. It includes
+synthetic software fixtures and unlabelled public source bundles; actual GPU execution,
+independent clinical labels and model selection remain open. This optional cloud notebook
+experiment does not change the planned local application inference boundary.
 
 ## Recommendation and evidence
 

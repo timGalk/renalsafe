@@ -1,0 +1,1957 @@
+              ANEKS I
+
+CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+
+
+                 1
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Cayston 75 mg proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji.
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Każda fiolka zawiera aztreonam-lizynę, co odpowiada 75 mg aztreonamu. Po odtworzeniu proszku
+w rozpuszczalniku uzyskany roztwór do nebulizacji zawiera 75 mg aztreonamu.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji.
+
+Proszek barwy białej lub złamanej bieli.
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Produkt Cayston jest wskazany do leczenia supresyjnego przewlekłych infekcji dróg oddechowych
+wywołanych przez Pseudomonas aeruginosa u pacjentów z mukowiscydozą (ang. cystic fibrosis, CF),
+w wieku 6 lat i starszych.
+
+Należy uwzględnić oficjalne wytyczne dotyczące właściwego stosowania środków
+przeciwbakteryjnych.
+
+4.2   Dawkowanie i sposób podawania
+
+Dawkowanie
+
+Przed przyjęciem każdej dawki produktu Cayston pacjenci powinni zastosować lek rozszerzający
+oskrzela. Krótko działające leki rozszerzające oskrzela można podać w przedziale od 15 minut do
+4 godzin, natomiast długo działające leki rozszerzające oskrzela – w przedziale od 30 minut do
+12 godzin przed każdą dawką produktu Cayston.
+
+U pacjentów przyjmujących wiele terapii wziewnych zaleca się następującą kolejność podawania:
+
+1.    lek rozszerzający oskrzela
+2.    leki mukolityczne
+3.    i na końcu produkt Cayston.
+
+Dorośli i dzieci w wieku od 6 lat
+
+Zalecana dawka dla osób dorosłych to 75 mg trzy razy na 24 godziny przez 28 dni.
+
+Dawki należy podawać w odstępach co najmniej 4-godzinnych.
+
+Produkt Cayston można przyjmować w wielokrotnych 28-dniowych cyklach leczenia, po których
+następuje 28-dniowy okres bez leczenia produktem Cayston.
+
+Dawkowanie u dzieci w wieku od 6 lat jest takie samo, jak u osób dorosłych.
+
+
+                                                 2
+Osoby w podeszłym wieku
+
+Badania kliniczne nad produktem Cayston nie objęły pacjentów leczonych produktem Cayston
+w wieku 65 lat i starszych, aby ustalić, czy reagują oni na lek inaczej niż młodsi pacjenci. Jeśli
+produkt Cayston zostanie przepisany osobom w podeszłym wieku, dawkowanie będzie takie samo jak
+dla pozostałych dorosłych.
+
+Niewydolność nerek
+
+Udowodniono, że aztreonam jest wydalany przez nerki, dlatego należy zachować ostrożność stosując
+produkt Cayston u pacjentów z niewydolnością nerek (stężenie kreatyniny 2-krotnie powyżej górnej
+granicy normy). Nie ma konieczności dostosowywania dawki w przypadku niewydolności nerek,
+ponieważ stężenie aztreonamu w krążeniu systemowym po wziewnym podaniu produktu Cayston jest
+bardzo małe (około 1% stężenia uzyskiwanego po podaniu dawki 500 mg aztreonamu we
+wstrzyknięciu).
+
+Niewydolność wątroby
+
+Brak danych dotyczących stosowania produktu Cayston u pacjentów z ciężką niewydolnością wątroby
+(AlAT lub AspAT przekraczające ponad 5-krotnie górną granicę normy). Nie ma konieczności
+dostosowywania dawki w przypadkach niewydolności wątroby.
+
+Dzieci i młodzież
+
+Nie określono bezpieczeństwa stosowania ani skuteczności produktu leczniczego Cayston u dzieci w
+wieku poniżej 6 lat.
+Aktualne dane przedstawiono w punkcie 5.1, ale brak zaleceń dotyczących dawkowania.
+
+Sposób podawania
+
+Do podawania wziewnego.
+
+Produkt Cayston należy podawać wyłącznie z zastosowaniem Zestawu Nebulizatora Altera wraz
+z Głowicą Aerozolową Altera podłączoną do Regulatora eBase lub Regulatora eTrack. Instrukcja
+dotycząca rekonstytucji produktu leczniczego przed podaniem, patrz punkt 6.6.
+
+4.3   Przeciwwskazania
+
+Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną
+w punkcie 6.1.
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Reakcje alergiczne
+
+Jeśli wystąpi reakcja alergiczna na aztreonam, należy przerwać podawanie leku i rozpocząć
+odpowiednie leczenie. Pojawienie się wysypki może być objawem reakcji alergicznej na aztreonam.
+
+Reakcja krzyżowa może wystąpić u pacjentów z alergią na antybiotyki beta-laktamowe w wywiadzie,
+takie jak penicyliny, cefalosporyny i (lub) karbapenemy. Dane pochodzące z badań na zwierzętach
+i ludziach wykazują istnienie małego ryzyka wystąpienia reakcji krzyżowej pomiędzy aztreonamem
+i antybiotykami beta-laktamowymi. Aztreonam, monobaktam, cechuje się słabą immunogennością.
+Należy zachować ostrożność podczas podawania produktu Cayston u pacjentów, u których wystąpiła
+alergia na beta-laktam.
+
+Następujące rzadkie i ciężkie działania niepożądane były zgłaszane po pozajelitowym stosowaniu
+innych produktów zawierających aztreonam: martwica toksyczno-rozpływna naskórka, anafilaksja,
+
+                                                3
+plamica, rumień wielopostaciowy, złuszczające zapalenie skóry, pokrzywka, wybroczyny, świąd,
+obfite pocenie się.
+
+Skurcz oskrzeli
+
+Skurcz oskrzeli (znaczne zmniejszenie o ≥ 15% FEV1) jest powikłaniem związanym z leczeniem przy
+użyciu nebulizatora. Po podaniu produktu Cayston zgłaszano skurcz oskrzeli (patrz punkt 4.8).
+Pacjenci powinni stosować lek rozszerzający oskrzela przed każdą dawką produktu Cayston.
+W przypadku podejrzenia, że skurcz oskrzeli jest częścią reakcji alergicznej, należy podjąć
+odpowiednie działania (patrz „Reakcje alergiczne” akapit powyżej).
+
+Krwioplucie
+
+Wdychanie roztworów podawanych przy użyciu nebulizatora może wywoływać odruch kaszlowy.
+Stosowanie produktu Cayston u dzieci i młodzieży z CF było związane z krwiopluciem podczas cykli
+leczenia i mogło wpłynąć na pogorszenie chorób podstawowych. Produkt Cayston należy podawać
+pacjentom chorym na CF z czynnym krwiopluciem tylko wtedy, gdy uważa się, że korzyści z leczenia
+przeważają ryzyko wywołania dalszych krwotoków.
+
+Inne środki ostrożności
+
+Nie określono skuteczności u pacjentów z FEV1 wynoszącą > 75% wartości należnej. Z badań
+klinicznych wykluczeni zostali pacjenci, u których w ciągu ostatnich 2 lat w plwocinie wyizolowano
+Burkholderia cepacia.
+
+Aztreonamu do wstrzykiwań nie wolno używać w Nebulizatorze Altera lub w innych nebulizatorach.
+Aztreonam do wstrzykiwań nie został opracowany do podawania wziewnego i zawiera argininę,
+substancję powodującą zapalenie płuc.
+
+Oporność na aztreonam, inne antybiotyki i wynikające z leczenia występowanie mikroorganizmów
+
+Rozwój opornego na antybiotykoterapię zakażenia P. aeruginosa i nadkażenie innymi patogenami
+stanowi potencjalne zagrożenie związane z antybiotykoterapią. Nabycie oporności w trakcie terapii
+aztreonamem w postaci wziewnej może ograniczyć wybór leczenia w trakcie nagłych zaostrzeń
+choroby. W badaniach klinicznych nad produktem Cayston zaobserwowano zmniejszenie wrażliwości
+P. aeruginosa na aztreonam i inne antybiotyki beta-laktamowe. W 24-tygodniowym czynnie
+kontrolowanym badaniu klinicznym dotyczącym leczenia produktem Cayston obserwowano
+zwiększenie MIC90 dla wszystkich wyizolowanych szczepów P. aeruginosa, jak również zwiększenie
+odsetka pacjentów ze szczepem P. aeruginosa (MIC powyżej pozajelitowych wartości granicznych)
+opornym na aztreonam, na co najmniej jeden antybiotyk beta-laktamowy i na wszystkie 6 badanych
+antybiotyków beta-laktamowych (patrz punkt 5.1). Na podstawie zmniejszonej wrażliwości
+P. aeruginosa nie można jednak wnioskować o skuteczności klinicznej produktu Cayston w czasie
+badania. Wśród pacjentów z P. aeruginosa z opornością wielolekową, po terapii produktem Cayston
+odnotowano poprawę objawów ze strony układu oddechowego i czynności płuc. Występowanie
+oporności szczepów P. aeruginosa na aztreonam lub inne antybiotyki beta-laktamowe podawane
+pozajelitowo może mieć potencjalne skutki dla leczenia nagłego zaostrzenia chorób płuc
+antybiotykami stosowanymi ogólnoustrojowo.
+
+U pacjentów leczonych kilkoma cyklami leczenia produktem Cayston zaobserwowano w miarę
+upływu czasu zwiększoną częstość występowania szczepów Staphylococcus aureus opornych na
+metycylinę (ang. methicillin-resistant Staphylococcus aureus, MRSA), szczepów S. aureus
+wrażliwych na metycylinę (ang. methicillin-sensitive S. aureus, MSSA), Aspergillus i Candida.
+W literaturze odnotowano związek pomiędzy trwałą obecnością wyizolowanych szczepów MRSA
+a gorszym wynikiem klinicznym. Podczas badań klinicznych nad produktem Cayston obecność
+wyizolowanych szczepów MRSA nie wpłynęła na pogorszenie czynności płuc.
+
+
+
+                                                 4
+4.5     Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Nie przeprowadzono badań dotyczących interakcji. W badaniach klinicznych, w których produkt
+Cayston przyjmowany był równocześnie z lekami rozszerzającymi oskrzela, dornazą alfa, enzymami
+trzustkowymi, azytromycyną, tobramycyną, steroidami doustnymi (mniej niż 10 mg na dobę/20 mg co
+drugi dzień) i steroidami wziewnymi, nie stwierdzono interakcji jakichkolwiek innych leków
+z aztreonamem.
+
+4.6     Wpływ na płodność, ciążę i laktację
+
+Ciąża
+
+Brak danych dotyczących stosowania aztreonamu u kobiet w okresie ciąży. Badania na zwierzętach
+nie wykazały bezpośredniego ani pośredniego szkodliwego wpływu na reprodukcję (patrz punkt 5.3).
+
+Stężenie aztreonamu w krążeniu systemowym po wziewnym podaniu produktu Cayston jest małe,
+w porównaniu ze standardową dawką aztreonamu do wstrzykiwań (około 1% stężenia uzyskiwanego
+po podaniu dawki 500 mg aztreonamu do wstrzykiwań).
+
+Produktu Cayston nie stosować w okresie ciąży, chyba że stan kliniczny kobiety wymaga podawania
+aztreonamu.
+
+Karmienie piersią
+
+Po podaniu aztreonamu we wstrzyknięciu przenika on do mleka ludzkiego w bardzo małych
+stężeniach. Stężenie aztreonamu w krążeniu systemowym po wziewnym podaniu produktu Cayston
+wynosi około 1% stężenia uzyskiwanego po podaniu standardowej dawki aztreonamu do wstrzykiwań.
+Dlatego, z powodu słabego wchłaniania po podaniu doustnym, prawdopodobieństwo ekspozycji na
+aztreonam niemowląt karmionych piersią przez matki otrzymujące produkt Cayston jest skrajnie
+niskie.
+
+Produkt Cayston może być stosowany podczas karmienia piersią.
+
+Płodność
+
+Dane niekliniczne dotyczące wpływu aztreonamu we wstrzyknięciu na płodność nie wskazują na
+występowanie działań niepożądanych.
+
+4.7     Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Produkt Cayston nie ma wpływu lub wywiera nieistotny wpływ na zdolność prowadzenia pojazdów i
+obsługiwania maszyn.
+
+4.8     Działania niepożądane
+
+Podsumowanie profilu bezpieczeństwa
+
+Podstawą oceny działań niepożądanych są wyniki czterech badań klinicznych fazy III obejmujących
+pacjentów z CF z przewlekłym zakażeniem P. aeruginosa oraz zgłoszenia spontaniczne po
+wprowadzeniu produktu leczniczego do obrotu. W dwóch badaniach fazy III, kontrolowanych
+placebo, w których pacjenci otrzymywali produkt Cayston przez 28 dni, najczęściej występującymi
+działaniami niepożądanymi produktu Cayston był kaszel (58%), przekrwienie błony śluzowej nosa
+(18%), świszczący oddech (15%), ból gardła i krtani (13,0%), gorączka (12%) i duszność (10%).
+
+Znaczne zmniejszenie FEV1 o ≥ 15% wartości należnej jest powikłaniem związanym z leczeniem przy
+użyciu nebulizatora, w tym produktem Cayston (patrz punkt 4.4).
+
+
+                                                5
+Tabelaryczny wykaz działań niepożądanych
+
+Działania niepożądane, uznawane za co najmniej możliwie związane z leczeniem na podstawie
+doświadczenia uzyskanego w badaniach klinicznych oraz po wprowadzeniu do obrotu, zostały
+wymienione poniżej, zgodnie z klasyfikacją układów i narządów oraz częstością występowania.
+
+Częstości występowania zdefiniowano następująco: bardzo często (≥ 1/10), często (≥ 1/100 do < 1/10)
+i niezbyt często (≥ 1/1 000 do < 1/100).
+
+Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia:
+Bardzo często:       kaszel, przekrwienie błony śluzowej nosa, świszczący oddech, ból gardła
+                     i krtani, duszność
+Często:              skurcz oskrzeli1, dyskomfort w klatce piersiowej, wodnista wydzielina z nosa,
+                     krwioplucie1
+Zaburzenia skóry i tkanki podskórnej:
+Często:              wysypka1
+Zaburzenia mięśniowo-szkieletowe i tkanki łącznej:
+Często:              ból stawów
+Niezbyt często:      obrzęk stawów
+Zaburzenia ogólne i stany w miejscu podania:
+Bardzo często:       gorączka
+Badania diagnostyczne:
+Często:              pogorszenie wyników badania czynności płuc
+1
+    Patrz punkt „Opis wybranych działań niepożądanych”
+
+Opis wybranych działań niepożądanych
+
+Skurcz oskrzeli
+
+Leczenie przy użyciu nebulizatora, w tym produktem Cayston, może być związane z występowaniem
+skurczu oskrzeli (znaczne zmniejszenie FEV1 o ≥ 15% wartości należnej). Patrz punkt 4.4.
+
+Krwioplucie
+
+Wdychanie roztworów podawanych z użyciem nebulizatora może wywoływać odruch kaszlowy, co
+może wpłynąć na pogorszenie chorób podstawowych (patrz punkt 4.4).
+
+Reakcje alergiczne
+
+Występowanie wysypki zgłaszano podczas stosowania produktu Cayston i może być ona objawem
+reakcji alergicznej na aztreonam (patrz punkt 4.4).
+
+Pogorszenie wyników badania czynności płuc
+
+Podczas stosowania produktu Cayston zgłaszano pogorszenie wyników badania czynności płuc, ale
+nie było to związane z trwałym zmniejszeniem FEV1 (patrz punkt 5.1).
+
+Następujące rzadkie i ciężkie działania niepożądane były zgłaszane po pozajelitowym stosowaniu
+innych produktów zawierających aztreonam: martwica toksyczno-rozpływna naskórka, anafilaksja,
+plamica, rumień wielopostaciowy, złuszczające zapalenie skóry, pokrzywka, wybroczyny, świąd,
+obfite pocenie się.
+
+Dzieci i młodzież
+
+W badaniach klinicznych fazy II i III, łącznie 137 dzieci i młodzieży w wieku od 6 do 17 lat
+z przewlekłym zakażeniem P. aeruginosa i FEV1 ≤ 75% wartości należnej otrzymywało produkt
+Cayston (6-12 lat, n=35; 13-17 lat, n=102).
+
+                                                     6
+Obserwowano częstsze występowanie gorączki u dzieci i młodzieży w wieku od 6 do 17 lat niż
+u dorosłych.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem krajowego systemu zgłaszania
+wymienionego w załączniku V.
+
+4.9   Przedawkowanie
+
+Nie stwierdzono reakcji niepożądanych, bezpośrednio związanych z przedawkowaniem produktu
+Cayston. Ponieważ stężenie aztreonamu w osoczu po podaniu produktu Cayston (75 mg) wynosi
+około 0,6 µg/ml w porównaniu do stężeń w surowicy 54 µg/ml po podaniu aztreonamu we
+wstrzyknięciu (500 mg), nie przewiduje się wystąpienia problemów związanych z bezpieczeństwem
+po przedawkowaniu aztreonamu.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: Leki przeciwbakteryjne do stosowania ogólnego, inne antybiotyki
+beta-laktamowe, kod ATC: J01DF01
+
+Mechanizm działania
+
+Aztreonam wykazuje aktywność in vitro przeciw tlenowym drobnoustrojom gram-ujemnym, w tym
+P. aeruginosa. Aztreonam wiąże się z wiążącymi penicylinę białkami wrażliwych bakterii, co
+prowadzi do zahamowania syntezy ścian komórkowych bakterii, a następnie filamentacji i lizy
+komórek.
+
+Mechanizmy oporności
+
+Utrata wrażliwości na aztreonam u pacjentów z CF z P. aeruginosa występuje poprzez dobór
+szczepów z mutacjami znajdującymi się na chromosomie lub rzadko poprzez nabywanie genów za
+pośrednictwem plazmidów/integronów.
+
+Znane mechanizmy oporności na aztreonam za pośrednictwem mutacji genów chromosomalnych
+obejmują: nadekspresję beta-laktamazy klasy C AmpC i zwiększenie ekspresji pompy efluksowej
+MexAB-OprM. Znany mechanizm oporności na aztreonam za pośrednictwem nabywania genów,
+wiąże się z nabywaniem enzymów beta-laktamowych o poszerzonym spektrum działania (ang.
+extended spectrum beta-lactam enzymes, ESBL), które hydrolizują czteroczłonowy pierścień
+aztreonamu zawierający azot.
+
+ESBL należące do beta-laktamaz klasy A, B i D mogą wykazywać aktywność przeciw aztreonamowi.
+Beta-laktamazy klasy A, które hydrolizują aztreonam, obejmują typ VEB (głównie Azja
+Południowo-Wschodnia), typ PER (Turcja) oraz typy GES i IBC (Francja, Grecja i Południowa
+Afryka). Istnieją rzadkie doniesienia o organizmach z metalo-beta-laktamazami (ang.
+metallo-beta-lactamases, MBL) klasy B, które są oporne na aztreonam, VIM-5 (K. pneumoniae
+i P. aeruginosa - Turcja), VIM-6 (P. putida - Singapur) i VIM-7 (P. aeruginosa - Stany Zjednoczone),
+jednak możliwe jest, że organizmy te wykazywały ekspresję wielorakich mechanizmów oporności
+i z tego powodu MBL nie była odpowiedzialna za zaobserwowaną oporność na aztreonam. Istnieją
+rzadkie doniesienia na temat beta-laktamaz klasy D z wyizolowanych w warunkach klinicznych
+
+
+                                                 7
+szczepów P. aeruginosa, OXA-11 (Turcja) i OXA-45 (Stany Zjednoczone), które hydrolizują
+aztreonam.
+
+Mikrobiologia
+
+Pojedyncza próbka plwociny pobrana od pacjenta z CF może zawierać różne wyizolowane szczepy
+P. aeruginosa i każdy z wyizolowanych szczepów może mieć różny poziom wrażliwości in vitro na
+aztreonam. Metody testowe do oceny wrażliwości bakteriobójczej in vitro dla aztreonamu
+podawanego parenteralnie, mogą być używane do kontrolowania wrażliwości P. aeruginosa
+izolowanej od pacjentów z CF.
+
+W badaniach klinicznych fazy III, kontrolowanych placebo, z zastosowaniem produktu Cayston
+miejscowe stężenia aztreonamu zazwyczaj przekraczały wartości MIC aztreonamu dla P. aeruginosa,
+niezależnie od poziomu wrażliwości P. aeruginosa.
+
+Leczenie produktem Cayston w dawce 75 mg 3 razy na dobę w maksymalnie dziewięciu 28-dniowych
+cyklach, spowodowało istotne klinicznie zmniejszenie nasilenia objawów ze strony układu
+oddechowego, poprawę czynności płuc i zmniejszenie liczby jednostek tworzących kolonie (ang.
+Colony Forming Units, CFU) P. aeruginosa w posiewie plwociny; nie obserwowano zwiększenia
+MIC50 dla P. aeruginosa (± 2 zmiana rozcieńczenia), natomiast MIC90 zwiększało się okresowo do
+4-krotnej wartości początkowej MIC. W 24-tygodniowym czynnie kontrolowanym badaniu
+dotyczącym leczenia produktem Cayston nie obserwowano zwiększenia MIC50 dla P. aeruginosa
+(± 2 zmiana rozcieńczenia), natomiast wykazano zwiększenie MIC90 do 4-krotnej wartości
+początkowej MIC. Pod koniec badania odsetek pacjentów z MIC aztreonamu dla P. aeruginosa
+powyżej pozajelitowych wartości granicznych (> 8 µg/ml) zwiększył się z początkowych 34% do
+49%, odsetek pacjentów ze szczepem P. aeruginosa opornym na co najmniej 1 antybiotyk
+beta-laktamowy zwiększył się z początkowych 56% do 67%, a odsetek pacjentów ze szczepem
+P. aeruginosa opornym na wszystkie 6 badanych antybiotyków beta-laktamowych zwiększył się
+z początkowych 13% do 18%. Istnieje ryzyko, że u pacjentów leczonych produktem Cayston
+wyizolowane szczepy P. aeruginosa mogą rozwinąć oporność na aztreonam lub inne antybiotyki
+beta-laktamowe. Występowanie oporności szczepów P. aeruginosa na aztreonam oraz inne
+antybiotyki beta-laktamowe podawane pozajelitowo może mieć potencjalne skutki dla leczenia
+nagłego zaostrzenia chorób płuc antybiotykami stosowanymi ogólnoustrojowo. Zauważono jednak
+podobne poprawy czynności płuc po leczeniu produktem Cayston u pacjentów z wyizolowanymi
+wrażliwymi lub opornymi na aztreonam szczepami P. aeruginosa.
+
+W badaniach obejmujących maksymalnie dziewięć 28-dniowych cykli leczenia produktem Cayston
+nie obserwowano istotnego klinicznie zwiększenia ilości innych bakterii Gram-ujemnych,
+wyizolowanych z dróg oddechowych, wynikającego z leczenia (szczep Burkholderia,
+Stenotrophomonas maltophilia i szczep Alcaligenes). W trakcie 6-miesięcznej randomizowanej fazy
+badania GS-US-205-0110 obserwowano wynikającą z leczenia obecność wyizolowanych szczepów
+MSSA i MRSA częściej u pacjentów leczonych aztreonamem niż u pacjentów leczonych roztworem
+tobramycyny do nebulizacji (ang. Tobramycin Nebuliser Solution, TNS). Większość szczepów,
+których występowanie jest związane z leczeniem, izolowano okresowo. Związane z leczeniem szczepy
+MSSA (określone jako nieobecne podczas skriningu (skriningów) na początku leczenia, a następnie
+obecne podczas 3 lub więcej kolejnych, następujących po sobie wizyt) stale izolowano
+u 6% pacjentów leczonych aztreonamem w porównaniu do 3% pacjentów leczonych TNS. Związane
+z leczeniem szczepy MRSA okresowo izolowano u 7% pacjentów leczonych aztreonamem
+w porównaniu do 1% pacjentów leczonych TNS, a związane z leczeniem szczepy MRSA stale
+izolowano u 3% pacjentów leczonych aztreonamem w porównaniu do pacjentów leczonych TNS, u
+których nie wyizolowano takich szczepów. W literaturze odnotowano związek pomiędzy stałą
+obecnością wyizolowanych szczepów MRSA a cięższą chorobą oraz zwiększoną umieralnością.
+W badaniach klinicznych nad produktem Cayston obecność wyizolowanych szczepów MRSA nie
+miała wpływu na pogorszenie czynności płuc.
+
+
+
+
+                                               8
+Skuteczność kliniczna i bezpieczeństwo stosowania
+
+W randomizowanym, czynnie kontrolowanym, wieloośrodkowym badaniu (GS-US-205-0110)
+dokonano porównania produktu Cayston z TNS w ciągu trzech 28-dniowych cykli leczenia. Pacjenci,
+którzy brali udział w tym badaniu na terenie Europy i ukończyli co najmniej jeden cykl leczenia
+produktem Cayston lub TNS w randomizowanej fazie, mieli możliwość następnie otrzymywać
+maksymalnie trzy 28-dniowe cykle leczenia produktem Cayston w fazie kontynuacji badania metodą
+otwartej próby. Kryteria włączenia do badania obejmowały CF, FEV1 ≤ 75% wartości należnej,
+stabilną chorobę płuc, aktualny dodatni wynik posiewu P. aeruginosa w plwocinie oraz uprzednie
+leczenie antybiotykami w postaci aerozolu bez ustalenia nietolerancji leku.
+
+Produkt Cayston oceniano przez okres 28 dni leczenia (jeden cykl) w dwóch badaniach
+randomizowanych, z podwójnie ślepą próbą, kontrolowanych placebo, wieloośrodkowych (CP-AI-005
+i CP-AI-007). Pacjenci uczestniczący w tych badaniach mogli następnie otrzymywać wiele cykli
+produktu Cayston w otwartym badaniu kontrolnym (CP-AI-006). Kryteria kwalifikacyjne obejmowały
+CF, początkową FEV1 między 25% a 75% wartości należnej i przewlekłe zakażenie płuc
+P. aeruginosa.
+
+Łącznie 539 pacjentów (78% dorosłych) było leczonych w tych badaniach. Badania przeprowadzono
+z użyciem Systemu Nebulizatora Altera do podawania produktu Cayston.
+
+GS-US-205-0110
+
+W badaniu GS-US-205-0110 randomizowano 268 pacjentów z CF i przewlekłym zakażeniem płuc
+przez P. aeruginosa do grupy otrzymującej produkt Cayston (n=136) lub TNS (n=132). Do badania
+włączono 59 dzieci i młodzieży w wieku od 6 do 17 lat. Pacjentów randomizowano w stosunku 1:1 do
+grupy leczonej wziewnie aztreonamem (75 mg) 3 razy na dobę lub TNS (300 mg) 2 razy na dobę.
+Leczenie odbywało się w trzech 28-dniowych cyklach leczenia, po których następował 28-dniowy
+okres bez leczenia. Skojarzonymi pierwszorzędowymi punktami końcowymi były równoważność
+produktu Cayston wobec TNS pod kątem względnej zmiany przewidywanej FEV1 % od punktu
+wyjściowego do dnia 28 oraz nadrzędność produktu Cayston wobec TNS pod kątem rzeczywistej
+zmiany przewidywanej FEV1 % od punktu początkowego do 3 cykli leczenia (średnia rzeczywistej
+zmiany przewidywanej FEV1 % obserwowanej pod koniec każdego cyklu leczenia).
+
+Skorygowana średnia zmiana procentowa przewidywanej FEV1 % od punktu początkowego do
+dnia 28. wynosiła 8,35 w przypadku grupy leczonej produktem Cayston i 0,55 w przypadku grupy
+leczonej TNS (różnica w leczeniu: 7,80; p=0,0001; 95% CI: 3,86; 11,73). Skorygowana średnia
+rzeczywista zmiana początkowej wartości przewidywanej FEV1 % podczas 3 cykli leczenia wynosiła
+2,05 w przypadku grupy leczonej produktem Cayston i -0,66 przypadku grupy leczonej TNS (różnica
+w leczeniu: 2,70; p=0,0023; 95% CI: 0,98; 4,43). U pacjentów leczonych aztreonamem czas do
+podania dożylnych antybiotyków przeciwko bakterii Pseudomonas z powodu zaburzeń układu
+oddechowego był dłuższy niż u pacjentów leczonych TNS (p=0,0025). Estymator Kaplana-Meiera
+dotyczący częstości zaburzeń w 24. tygodniu wynosił 36% w przypadku pacjentów leczonych
+aztreonamem i 54% w przypadku pacjentów leczonych TNS. Ponadto pacjenci leczeni aztreonamem
+byli rzadziej hospitalizowani z powodu zaburzeń układu oddechowego (40 w porównaniu z 58;
+p=0,044) i mieli mniej zaburzeń układu oddechowego wymagających zastosowania dożylnych
+lub wziewnych antybiotyków przeciwko bakterii Pseudomonas (84 w porównaniu z 121; p=0,004) niż
+pacjenci leczeni TNS. U pacjentów leczonych aztreonamem odnotowano w ciągu 3 cykli leczenia
+również większy stopień średniej poprawy objawów ze strony układu oddechowego według
+kwestionariusza CFQ-R w porównaniu do pacjentów leczonych TNS (6,30 w porównaniu z 2,17;
+p=0,019).
+
+W ograniczonej podgrupie pacjentów, którzy w ciągu ostatnich 12 miesięcy otrzymywali wziewnie
+tobramycynę przez mniej niż 84 dni (n=40), poprawa czynności płuc w dniu 28. oraz w ciągu trzech
+28-dniowych cykli leczenia była liczbowo mniejsza u pacjentów leczonych aztreonamem niż
+u pacjentów leczonych TNS.
+
+
+                                                9
+CP-AI-007
+
+W badaniu CP-AI-007 wzięło udział 164 pacjentów dorosłych (przeważnie) i dzieci, przydzielonych
+w sposób losowy w stosunku 1:1 do grupy leczonej aktywnie lub placebo. Produkt Cayston 75 mg
+(80 pacjentów) lub placebo (84 pacjentów), podawano 3 razy na dobę przez 28 dni (jeden cykl).
+Wymagane było, aby pacjenci nie przyjmowali antybiotyków działających na Pseudomonas przez co
+najmniej 28 dni przed leczeniem badanym lekiem.
+
+Czynność płuc i objawy ze strony układu oddechowego uległy znacznej poprawie od punktu
+początkowego do dnia 28. u pacjentów leczonych jednym cyklem produktu Cayston.
+
+CP-AI-005
+
+W badaniu CP-AI-005 wzięło udział 246 pacjentów dorosłych (głównie) i dzieci. Wszyscy pacjenci
+byli leczeni roztworem tobramycyny do nebulizacji (TNS) 300 mg, 2 razy na dobę w czasie czterech
+tygodni bezpośrednio przed otrzymaniem produktu Cayston lub placebo 2 lub 3 razy na dobę przez
+28 dni. Pacjenci kontynuowali przyjmowanie leków stosowanych dotychczas, w tym antybiotyków
+makrolidowych. Pacjenci byli przydzieleni w sposób losowy w stosunku 2:2:1:1 do leczenia
+aztreonamem 75 mg 2 lub 3 razy na dobę lub odpowiadającą objętością placebo 2 lub 3 razy na dobę
+przez 28 dni bezpośrednio po 28-dniowym wprowadzającym cyklu leczenia roztworem tobramycyny
+do nebulizacji w otwartej próbie.
+
+Leczenie aztreonamem prowadziło do znaczącej poprawy czynności płuc i zmniejszenia nasilenia
+objawów ze strony układu oddechowego w dniu 28. u 66 pacjentów, u których zastosowano jeden
+cykl leczenia produktem Cayston 75 mg 3 razy na dobę.
+
+CP-AI-006
+
+Badanie CP-AI-006 było otwartym badaniem kontrolnym po badaniach CP-AI-005 i CP-AI-007,
+oceniającym bezpieczeństwo wielokrotnej ekspozycji na aztreonam oraz wpływ na punkty końcowe
+związane z chorobą w wielokrotnych cyklach 28-dniowych. Pacjenci otrzymywali produkt Cayston
+tak samo często (2 lub 3 razy na dobę) jak przyjmowali produkt Cayston lub placebo w badaniach
+randomizowanych. Pacjenci kontynuowali przyjmowanie leków stosowanych dotychczas i w razie
+wskazań dodatkowe antybiotyki były stosowane u większości pacjentów do leczenia zaostrzeń. Po
+każdym 28-dniowym cyklu stosowania produktu Cayston następował 28-dniowy okres bez stosowania
+leku. W ciągu dziewięciu 28-dniowych cykli leczenia, wartości czynności płuc (FEV1), punktowe
+oceny objawów ze strony układu oddechowego według kwestionariusza CFQ-R i stężenie
+P. aeruginosa w plwocinie wykazały tendencję poprawy w okresie leczenia pacjentów w porównaniu
+z okresem bez leczenia. Jednak ze względu na niekontrolowany charakter badania i równoczesne
+stosowanie leków nie można wyciągnąć wniosków dotyczących trwałości obserwowanej
+krótkoterminowej korzyści przez kolejne cykle leczenia.
+
+Dzieci i młodzież
+
+W badaniach klinicznych fazy II i III łącznie 137 dzieci i młodzieży w wieku od 6 do 17 lat
+z przewlekłym zakażeniem P. aeruginosa i FEV1 ≤ 75% wartości należnej otrzymywało produkt
+Cayston. Po zastosowaniu aztreonamu u dzieci i młodzieży doszło do poprawy stanu klinicznego,
+określonej zwiększeniem FEV1, poprawą objawów ze strony układu oddechowego według
+kwestionariusza CFQ-R oraz zmniejszeniem stężenia P. aeruginosa w plwocinie. Na podstawie wyżej
+opisanych doświadczeń klinicznych produkt Cayston jest wskazany do stosowania u dzieci
+i młodzieży w wieku 6 lat i starszych z wielokrotnymi 28-dniowymi cyklami leczenia, po których
+następuje 28-dniowy okres bez leczenia produktem Cayston.
+
+Oprócz 137 pacjentów z grupy dzieci i młodzieży z przewlekłym zakażeniem P. aeruginosa, produkt
+Cayston oceniano w dwóch badaniach klinicznych z udziałem dzieci i młodzieży z nowym
+zakażeniem/kolonizacją P. aeruginosa.
+
+
+                                               10
+GS-US-2005-0162
+
+W otwartym badaniu fazy II (GS-US-205-0162) 105 dzieci i młodzieży w wieku od 3 miesięcy do
+< 18 lat (24 pacjentów w wieku od 3 miesięcy do < 2 lat; 25 pacjentów w wieku od 2 do < 6 lat;
+56 pacjentów w wieku od 6 do < 18 lat) z CF i udokumentowanym początkowym lub nowym
+zakażeniem P. aeruginosa lub kolonizacją przez P. aeruginosa otrzymywało produkt Cayston 3 razy
+na dobę przez jeden 28-dniowy cykl.
+
+Wśród 101 pacjentów, wszystkich z pozytywnym wynikiem posiewu na P. aeruginosa w ciągu 30 dni
+od włączenia do badania, spośród których u 56 (55,4%) nie stwierdzano P. aeruginosa w punkcie
+początkowym, którzy ukończyli 28-dniowy cykl leczenia, u 89,1% (n=90) nie stwierdzono
+P. aeruginosa pod koniec leczenia (dzień 28.) i u 75,2% (n=76) nie występowały P. aeruginosa
+1 miesiąc po zakończeniu leczenia (dzień 56.). Łącznie 79 pacjentów, którzy ukończyli 28-dniowy
+cykl leczenia i którzy nie otrzymywali dodatkowego antybiotyku działającego na Pseudomonas
+podczas leczenia, podlegało ocenie 6 miesięcy po zakończeniu leczenia; spośród nich u 58,2% (n=46)
+nie stwierdzono P. aeruginosa w tym okresie.
+
+GS-US-205-1850
+
+W badaniu fazy IIIb (GS-US-205-1850) 149 pacjentów w wieku od 3 miesięcy do < 18 lat
+(30 pacjentów w wieku od 3 miesięcy do < 2 lat; 42 pacjentów w wieku od 2 do < 6 lat; 77 pacjentów
+w wieku od 6 do < 18 lat) z CF oraz z nowym zakażeniem/kolonizacją P. aeruginosa otrzymywało
+produkt Cayston podawany 3 razy na dobę w schemacie randomizowanym w stosunku 1:1, przez
+14 dni (74 pacjentów) oraz przez 28 dni (75 pacjentów).
+
+W odniesieniu do 14-dniowego cyklu leczenia nie wykazano równoważności (ang. non-inferiority)
+względem 28-dniowego cyklu leczenia, w związku z czym 28-dniowy cykl pozostaje zalecaną metodą
+leczenia.
+
+5.2   Właściwości farmakokinetyczne
+
+Wchłanianie
+
+Stężenia w plwocinie
+
+Stężenia aztreonamu w plwocinie wykazywały istotną zmienność u poszczególnych pacjentów.
+W połączonych badaniach fazy III, kontrolowanych placebo, po dziesięciu minutach od podania
+wziewnego aztreonamu w pojedynczej dawce 75 mg w dniach 0, 14 i 28, średnie stężenia w plwocinie
+u 195 pacjentów z CF wynosiły odpowiednio 726 µg/g, 711 µg/g i 715 µg/g, co nie wskazywało na
+zwiększoną kumulację aztreonamu po wielokrotnym podaniu dawki.
+
+Stężenia w osoczu
+
+Stężenia aztreonamu w osoczu wykazywały znaczną zmienność u poszczególnych pacjentów.
+
+Jedną godzinę po podaniu wziewnego aztreonamu w pojedynczej dawce 75 mg (w przybliżeniu
+maksymalne stężenie w osoczu), u pacjentów z CF średnie stężenie w osoczu wynosiło 0,59 µg/ml.
+Średnie maksymalne stężenia w dniach 0, 14 i 28 cyklu, w którym wziewny aztreonam był podawany
+w dawce 75 mg 3 razy na dobę wynosiły odpowiednio 0,55 µg/ml, 0,67 µg/ml i 0,65 µg/ml, nie
+wykazując kumulacji układowej aztreonamu po 3-krotnym podaniu w ciągu doby. Odmiennie,
+stężenie aztreonamu w surowicy po podaniu we wstrzyknięciu (500 mg) wynosi około 54 µg/ml.
+
+Stężenia aztreonamu w osoczu u dzieci w wieku od 3 miesięcy do < 6 lat są porównywalne
+z obserwowanymi u dzieci w wieku > 6 lat, młodzieży i dorosłych.
+
+
+
+
+                                                11
+Dystrybucja
+
+Wiązanie aztreonamu z białkami osocza wynosi około 77% przy klinicznie istotnych stężeniach
+w osoczu.
+
+Metabolizm
+
+Aztreonam nie jest w znacznym stopniu metabolizowany. Główny metabolit (SQ26,992) jest
+nieaktywny i jest tworzony poprzez otwarcie pierścienia beta-laktamowego w wyniku hydrolizy. Dane
+z odzysku wskazują, że około 10% dawki jest wydalane w postaci tego metabolitu.
+
+Eliminacja
+
+Okres półtrwania eliminacji aztreonamu z surowicy wynosi około 2,1 godziny po podaniu wziewnym,
+podobnie jak po podaniu aztreonamu we wstrzyknięciu. Około 10% całkowitej dawki wziewnego
+aztreonamu jest wydalane z moczem w postaci niezmienionego leku w porównaniu do 60-65% po
+podaniu dożylnym aztreonamu we wstrzyknięciu. Aztreonam wchłaniany do krążenia ogólnego jest
+eliminowany prawie w równym stopniu na drodze aktywnego wydzielania kanalikowego
+i przesączania kłębuszkowego.
+
+Parametry farmakokinetyczne w specjalnych populacjach
+
+Wiek i płeć
+
+Nie obserwowano istotnego klinicznie wpływu wieku i płci na farmakokinetykę aztreonamu.
+
+Niewydolność nerek i wątroby
+
+Nie przeprowadzono badań farmakokinetycznych u pacjentów z niewydolnością nerek lub wątroby.
+
+Właściwości farmakokinetyczne aztreonamu w postaci do wstrzykiwań
+
+Maksymalne stężenia aztreonamu występują w około godzinę po podaniu im. Po podaniu identycznej,
+pojedynczej dawki im. lub iv., stężenia w surowicy są porównywalne po 1 godzinie (1,5 godziny od
+rozpoczęcia infuzji iv.), i z podobną szybkością zmniejszają się. Okres półtrwania aztreonamu
+w surowicy wynosi średnio 1,7 godziny u pacjentów z prawidłową czynnością nerek, niezależnie od
+dawki i drogi podania. U osób zdrowych, 60-70% pojedynczej dawki podanej im. lub iv. było
+wydalone w moczu w ciągu 8 godzin, i wydalanie w moczu zakończyło się przed upływem 12 godzin.
+
+Dzieci i młodzież
+
+Badania fazy II i III, kontrolowane placebo, przeprowadzone w celu rejestracji produktu, umożliwiły
+porównanie stężeń w osoczu godzinę po podaniu produktu Cayston według wieku (6 do 12 lat, 13 do
+17 lat oraz ≥ 18 lat). Dane uzyskane w tych badaniach wykazały minimalne różnice średniego stężenia
+aztreonamu w osoczu pomiędzy grupami wiekowymi pacjentów otrzymujących produkt Cayston
+3 razy na dobę.
+
+Zebrane dane dotyczące stężenia w plwocinie z badań rejestracyjnych fazy II i III, ujawniły pewne
+dowody dotyczące zmniejszonego średniego stężenia w plwocinie u pacjentów w wieku od 13 do
+17 lat po jednej dawce produktu Cayston 3 razy na dobę. Wszystkie średnie wartości stężenia
+w plwocinie były jednak związane ze stosunkowo dużymi odchyleniami standardowymi.
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+Badanie toksyczności po podaniu wziewnym trwające 104 tygodnie prowadzone na szczurach, w celu
+oceny potencjalnego działania rakotwórczego w przypadku podawania rosnących dawek aztreonamu,
+
+
+                                                 12
+nie wykazało zwiększenia częstości występowania nowotworów złośliwych związanych ze
+stosowaniem tego leku.
+
+Badania genotoksyczności (test aberracji chromosomowych i test mutacji na komórkach chłoniaka
+myszy) aztreonamu były negatywne.
+
+Badania wpływu na płodność, badania teratogenności, pre- i postnatalne przeprowadzone na
+szczurach, którym podawano aztreonam we wstrzyknięciach dożylnych w dawkach dobowych
+dochodzących do 750 mg/kg mc., nie ujawniły działań niepożądanych. Przeżywalność w trakcie
+laktacji była nieco zmniejszona u potomstwa szczurów otrzymujących największą dawkę.
+
+
+6.    DANE FARMACEUTYCZNE
+
+6.1   Wykaz substancji pomocniczych
+
+Proszek
+
+L-lizyna
+
+Rozpuszczalnik
+
+Sodu chlorek
+Woda do wstrzykiwań
+
+6.2   Niezgodności farmaceutyczne
+
+Nie mieszać tego produktu leczniczego z innymi produktami leczniczymi, ponieważ nie wykonywano
+badań dotyczących zgodności.
+
+6.3   Okres ważności
+
+Fiolka z proszkiem: 4 lata.
+
+Rozpuszczalnik: 3 lata.
+
+Zaleca się zastosowanie produktu Cayston niezwłocznie po rozpuszczeniu. Jeśli lek nie został
+natychmiast użyty, odtworzony roztwór należy przechowywać w temperaturze 2°C - 8°C i zużyć
+w ciągu 8 godzin. Za ustalenie okresu i warunków przechowywania produktu przed podaniem
+odpowiada użytkownik.
+
+6.4   Specjalne środki ostrożności podczas przechowywania
+
+Fiolka z proszkiem i ampułka z rozpuszczalnikiem: Przechowywać w lodówce (2°C - 8°C). Można
+przechowywać poza lodówką, lecz w temperaturze poniżej 25°C, przez maksymalnie 28 dni.
+
+Warunki przechowywania produktu leczniczego po rekonstytucji, patrz punkt 6.3.
+
+6.5   Rodzaj i zawartość opakowania
+
+Fiolka z proszkiem: Fiolka z brązowego szkła typu I, z szarym silikonowanym gumowym korkiem
+i aluminiowym zrywanym uszczelnieniem z niebieskim wieczkiem.
+
+Rozpuszczalnik: ampułka o objętości 1 ml z polietylenu o małej gęstości.
+
+
+
+
+                                                 13
+Każdy 28-dniowy pakiet produktu Cayston zawiera 84 fiolki liofilizowanego aztreonamu i 88 ampułek
+z rozpuszczalnikiem. Cztery dodatkowe ampułki z rozpuszczalnikiem są dostarczone na wypadek
+rozlania się.
+
+Dostępne są następujące wielkości opakowań:
+•    28-dniowy pakiet produktu Cayston
+•    Pakiet zawierający jeden 28-dniowy pakiet produktu Cayston plus jeden Zestaw Nebulizatora
+     Altera
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+6.6   Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+      stosowania
+
+Przygotowanie
+
+Produkt Cayston należy rozpuszczać wyłącznie w dostarczonym rozpuszczalniku. Po odtworzeniu
+produkt Cayston jest przezroczystym, bezbarwnym lub lekko zabarwionym roztworem.
+
+Zaleca się podanie produktu Cayston niezwłocznie po rozpuszczeniu w rozpuszczalniku. Nie należy
+odtwarzać produktu Cayston, jeżeli nie jest planowane natychmiastowe jego podanie. Jedną szklaną
+fiolkę produktu Cayston otworzyć poprzez ostrożne usunięcie niebieskiego wieczka i metalowego
+pierścienia, a następnie szarego gumowego korka. Wycisnąć płyn z jednej ampułki
+z rozpuszczalnikiem do szklanej fiolki. Następnie delikatnie obracać fiolką aż do całkowitego
+rozpuszczenia się zawartości. Przelać odtworzony produkt Cayston do Zestawu Nebulizatora Altera
+i podać dawkę.
+
+Produkt Cayston podaje się w postaci inhalacji trwającej od 2 do 3 minut, z użyciem specjalnego dla
+produktu Cayston Zestawu Nebulizatora Altera i Głowicy Aerozolowej Altera podłączonej do
+Regulatora eBase lub Regulatora eTrack. Nie należy stosować produktu Cayston z jakimkolwiek
+innym rodzajem zestawu i głowicy aerozolowej. Nie wolno mieszać produktu Cayston
+z jakimikolwiek innymi produktami leczniczymi w Zestawie Nebulizatora Altera. Nie wolno dodawać
+innych leków w Zestawie Nebulizatora Altera.
+
+Nie wolno odtwarzać ani mieszać produktu Cayston z jakimkolwiek innym rozpuszczalnikiem lub
+produktem leczniczym. Nie odtwarzać jednocześnie więcej niż jedną dawkę. Wszelkie
+niewykorzystane resztki produktu leczniczego lub jego odpady należy usunąć zgodnie z lokalnymi
+przepisami.
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Irlandia
+
+
+8.    NUMERY POZWOLEŃ NA DOPUSZCZENIE DO OBROTU
+
+EU/1/09/543/001
+EU/1/09/543/002
+
+
+
+
+                                                14
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 21 września 2009
+Data ostatniego przedłużenia pozwolenia: 26 maja 2016
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+Szczegółowe informacje o tym produkcie leczniczym są dostępne na stronie internetowej Europejskiej
+Agencji Leków http://www.ema.europa.eu.
+
+
+
+
+                                               15
+                     ANEKS II
+
+A.   WYTWÓRCA ODPOWIEDZIALNY ZA ZWOLNIENIE
+     SERII
+
+B.   WARUNKI LUB OGRANICZENIA DOTYCZĄCE
+     ZAOPATRZENIA I STOSOWANIA
+
+C.   INNE WARUNKI I WYMAGANIA DOTYCZĄCE
+     DOPUSZCZENIA DO OBROTU
+
+D.   WARUNKI LUB OGRANICZENIA DOTYCZĄCE
+     BEZPIECZNEGO I SKUTECZNEGO STOSOWANIA
+     PRODUKTU LECZNICZEGO
+
+
+
+
+                        16
+A.    WYTWÓRCA ODPOWIEDZIALNY ZA ZWOLNIENIE SERII
+
+Nazwa i adres wytwórcy odpowiedzialnego za zwolnienie serii
+
+Gilead Sciences Ireland UC
+IDA Business & Technology Park
+Carrigtohill
+County Cork
+Irlandia
+
+
+B.    WARUNKI LUB OGRANICZENIA DOTYCZĄCE ZAOPATRZENIA I STOSOWANIA
+
+Produkt leczniczy wydawany na receptę.
+
+
+C.    INNE WARUNKI I WYMAGANIA DOTYCZĄCE DOPUSZCZENIA DO OBROTU
+
+Okresowe raporty o bezpieczeństwie stosowania (ang. Periodic safety update reports, PSURs)
+
+Wymagania do przedłożenia okresowych raportów o bezpieczeństwie stosowania tego produktu
+leczniczego są określone w wykazie unijnych dat referencyjnych (wykaz EURD), o którym mowa w
+art. 107c ust. 7 dyrektywy 2001/83/WE i jego kolejnych aktualizacjach ogłaszanych na europejskiej
+stronie internetowej dotyczącej leków.
+
+
+D.    WARUNKI LUB OGRANICZENIA DOTYCZĄCE BEZPIECZNEGO I
+      SKUTECZNEGO STOSOWANIA PRODUKTU LECZNICZEGO
+
+Plan zarządzania ryzykiem (ang. Risk Management Plan, RMP)
+
+Podmiot odpowiedzialny podejmie wymagane działania i interwencje z zakresu nadzoru nad
+bezpieczeństwem farmakoterapii wyszczególnione w RMP, przedstawionym w module 1.8.2
+dokumentacji do pozwolenia na dopuszczenie do obrotu, i wszelkich jego kolejnych aktualizacjach.
+
+Uaktualniony RMP należy przedstawiać:
+•    na żądanie Europejskiej Agencji Leków;
+•    w razie zmiany systemu zarządzania ryzykiem, zwłaszcza w wyniku uzyskania nowych
+     informacji, które mogą istotnie wpłynąć na stosunek ryzyka do korzyści, lub w wyniku
+     uzyskania istotnych informacji, dotyczących bezpieczeństwa stosowania produktu leczniczego
+     lub odnoszących się do minimalizacji ryzyka.
+
+
+
+
+                                                17
+                 ANEKS III
+
+OZNAKOWANIE OPAKOWAŃ I ULOTKA DLA PACJENTA
+
+
+
+
+                    18
+A. OZNAKOWANIE OPAKOWAŃ
+
+
+
+
+          19
+INFORMACJE ZAMIESZCZANE NA OPAKOWANIACH ZEWNĘTRZNYCH
+
+KARTONIK ZEWNĘTRZNY LEKU CAYSTON
+(Z Blue box - nie może być pakowany razem z Zestawem Nebulizatora Altera)
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Cayston 75 mg proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji
+aztreonam
+
+
+2.    ZAWARTOŚĆ SUBSTANCJI CZYNNEJ
+
+Każda fiolka z proszkiem zawiera 75 mg aztreonamu.
+Po odtworzeniu, każdy uzyskany mililitr roztworu do nebulizacji zawiera 75 mg aztreonamu
+(w postaci lizyny).
+
+
+3.    WYKAZ SUBSTANCJI POMOCNICZYCH
+
+Fiolka z proszkiem zawiera również L-lizynę
+
+Ampułka z rozpuszczalnikiem zawiera sodu chlorek, wodę do wstrzykiwań
+
+
+4.    POSTAĆ FARMACEUTYCZNA I ZAWARTOŚĆ OPAKOWANIA
+
+Proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji
+
+84 jednorazowe fiolki
+88 jednorazowych ampułek zawierających 1 ml rozpuszczalnika
+
+
+5.    SPOSÓB I DROGA PODANIA
+
+Należy zapoznać się z treścią ulotki przed zastosowaniem leku.
+
+Wyłącznie do podania wziewnego. Wymaga odtworzenia przed użyciem.
+
+Proszek należy mieszać tylko z dostarczonym rozpuszczalnikiem.
+
+
+
+
+Krok A: Umieścić fiolkę na płaskiej powierzchni, niebieskim wieczkiem skierowanym w swoją
+stronę. Trzymając pewnie fiolkę jedną ręką, drugą ręką odchylać powoli w górę niebieskie wieczko.
+
+
+
+
+                                                20
+Krok B: Odciągnąć niebieskie wieczko aż do pozycji poziomej, tak by dno wieczka było skierowane
+w górę, aby przygotować się do zdjęcia metalowego kapsla. Nie rozdzierać metalowego kapsla do
+końca.
+
+
+
+
+Krok C: Trzymając nadal pewnie fiolkę jedną ręką, ciągnąć powoli drugą ręką niebieskie wieczko w
+kierunku przeciwnym do ruchu wskazówek zegara. Nie przekręcać niebieskiego wieczka.
+
+
+
+
+Krok D: Gdy metalowy kapsel otworzy się, ciągnąć nadal powoli niebieskie wieczko kierunku
+przeciwnym do ruchu wskazówek zegara, aż kapsel zostanie całkowicie zdjęty z fiolki.
+
+
+6.    OSTRZEŻENIE DOTYCZĄCE PRZECHOWYWANIA PRODUKTU LECZNICZEGO
+      W MIEJSCU NIEWIDOCZNYM I NIEDOSTĘPNYM DLA DZIECI
+
+Lek przechowywać w miejscu niewidocznym i niedostępnym dla dzieci.
+
+
+7.    INNE OSTRZEŻENIA SPECJALNE, JEŚLI KONIECZNE
+
+
+8.    TERMIN WAŻNOŚCI
+
+Termin ważności (EXP)
+
+
+9.    WARUNKI PRZECHOWYWANIA
+
+Przechowywać w lodówce. Można przechowywać poza lodówką, lecz w temperaturze poniżej 25°C,
+przez maksymalnie 28 dni.
+
+
+
+
+                                               21
+10.   SPECJALNE ŚRODKI OSTROŻNOŚCI DOTYCZĄCE USUWANIA NIEZUŻYTEGO
+      PRODUKTU LECZNICZEGO LUB POCHODZĄCYCH Z NIEGO ODPADÓW, JEŚLI
+      WŁAŚCIWE
+
+
+11.   NAZWA I ADRES PODMIOTU ODPOWIEDZIALNEGO
+
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Irlandia
+
+
+12.   NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+EU/1/09/543/001: 28-dniowy pakiet leku Cayston
+
+
+13.   NUMER SERII
+
+Nr serii (Lot)
+
+
+14.   OGÓLNA KATEGORIA DOSTĘPNOŚCI
+
+
+15.   INSTRUKCJA UŻYCIA
+
+
+16.   INFORMACJA PODANA SYSTEMEM BRAILLE’A
+
+Cayston 75 mg
+
+
+17.   NIEPOWTARZALNY IDENTYFIKATOR – KOD 2D
+
+Obejmuje kod 2D będący nośnikiem niepowtarzalnego identyfikatora.
+
+
+18.   NIEPOWTARZALNY IDENTYFIKATOR – DANE CZYTELNE DLA CZŁOWIEKA
+
+PC {numer}
+SN {numer}
+NN {numer}
+
+
+
+
+                                              22
+INFORMACJE ZAMIESZCZANE NA OPAKOWANIACH ZEWNĘTRZNYCH
+
+KARTONIK ZEWNĘTRZNY
+(Kartonik zewnętrzny wraz z Blue box zawierający jeden 28-dniowy pakiet leku Cayston oraz
+jeden Zestaw Nebulizatora Altera)
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Cayston 75 mg proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji
+aztreonam
+
+
+2.    ZAWARTOŚĆ SUBSTANCJI CZYNNEJ
+
+Każda fiolka z proszkiem zawiera 75 mg aztreonamu.
+Po odtworzeniu, każdy uzyskany mililitr roztworu do nebulizacji zawiera 75 mg aztreonamu
+(w postaci lizyny).
+
+
+3.    WYKAZ SUBSTANCJI POMOCNICZYCH
+
+Fiolka z proszkiem zawiera również L-lizynę
+
+Ampułka z rozpuszczalnikiem zawiera sodu chlorek, wodę do wstrzykiwań
+
+
+4.    POSTAĆ FARMACEUTYCZNA I ZAWARTOŚĆ OPAKOWANIA
+
+Proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji
+
+84 jednorazowe fiolki
+88 jednorazowych ampułek zawierających 1 ml rozpuszczalnika
+
+Ten pakiet zawiera jeden Zestaw Nebulizatora Altera.
+
+
+5.    SPOSÓB I DROGA PODANIA
+
+Należy zapoznać się z treścią ulotki przed zastosowaniem leku.
+
+Wyłącznie do podania wziewnego. Wymaga odtworzenia przed użyciem.
+
+Proszek należy mieszać tylko z dostarczonym rozpuszczalnikiem.
+
+
+6.    OSTRZEŻENIE DOTYCZĄCE PRZECHOWYWANIA PRODUKTU LECZNICZEGO
+      W MIEJSCU NIEWIDOCZNYM I NIEDOSTĘPNYM DLA DZIECI
+
+Lek przechowywać w miejscu niewidocznym i niedostępnym dla dzieci.
+
+
+7.    INNE OSTRZEŻENIA SPECJALNE, JEŚLI KONIECZNE
+
+
+
+
+                                                23
+8.    TERMIN WAŻNOŚCI
+
+Termin ważności (EXP)
+
+
+9.    WARUNKI PRZECHOWYWANIA
+
+Przechowywać w lodówce. Można przechowywać poza lodówką, lecz w temperaturze poniżej 25°C,
+przez maksymalnie 28 dni.
+
+
+10.   SPECJALNE ŚRODKI OSTROŻNOŚCI DOTYCZĄCE USUWANIA NIEZUŻYTEGO
+      PRODUKTU LECZNICZEGO LUB POCHODZĄCYCH Z NIEGO ODPADÓW, JEŚLI
+      WŁAŚCIWE
+
+
+11.   NAZWA I ADRES PODMIOTU ODPOWIEDZIALNEGO
+
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Irlandia
+
+
+12.   NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+EU/1/09/543/002: 28-dniowy pakiet leku Cayston plus jeden Zestaw Nebulizatora Altera
+
+
+13.   NUMER SERII
+
+Nr serii (Lot)
+
+
+14.   OGÓLNA KATEGORIA DOSTĘPNOŚCI
+
+
+15.   INSTRUKCJA UŻYCIA
+
+
+16.   INFORMACJA PODANA SYSTEMEM BRAILLE’A
+
+Cayston 75 mg
+
+
+17.   NIEPOWTARZALNY IDENTYFIKATOR – KOD 2D
+
+Obejmuje kod 2D będący nośnikiem niepowtarzalnego identyfikatora.
+
+
+
+
+                                               24
+18.   NIEPOWTARZALNY IDENTYFIKATOR – DANE CZYTELNE DLA CZŁOWIEKA
+
+PC {numer}
+SN {numer}
+NN {numer}
+
+
+
+
+                                 25
+INFORMACJE ZAMIESZCZANE NA OPAKOWANIACH ZEWNĘTRZNYCH
+
+KARTONIK ZEWNĘTRZNY
+(Bez Blue box - może być pakowany tylko razem z Zestawem Nebulizatora Altera)
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Cayston 75 mg proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji
+aztreonam
+
+
+2.    ZAWARTOŚĆ SUBSTANCJI CZYNNEJ
+
+Każda fiolka z proszkiem zawiera 75 mg aztreonamu.
+Po odtworzeniu, każdy uzyskany mililitr roztworu do nebulizacji zawiera 75 mg aztreonamu
+(w postaci lizyny).
+
+
+3.    WYKAZ SUBSTANCJI POMOCNICZYCH
+
+Fiolka z proszkiem zawiera również L-lizynę
+
+Ampułka z rozpuszczalnikiem zawiera sodu chlorek, wodę do wstrzykiwań
+
+
+4.    POSTAĆ FARMACEUTYCZNA I ZAWARTOŚĆ OPAKOWANIA
+
+Proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji
+
+84 jednorazowe fiolki
+88 jednorazowych ampułek zawierających 1 ml rozpuszczalnika
+
+Ten pakiet nie może być sprzedawane oddzielnie.
+
+
+5.    SPOSÓB I DROGA PODANIA
+
+Należy zapoznać się z treścią ulotki przed zastosowaniem leku.
+
+Wyłącznie do podania wziewnego. Wymaga odtworzenia przed użyciem.
+
+Proszek należy mieszać tylko z dostarczonym rozpuszczalnikiem.
+
+
+
+
+Krok A: Umieścić fiolkę na płaskiej powierzchni, niebieskim wieczkiem skierowanym w swoją
+stronę. Trzymając pewnie fiolkę jedną ręką, drugą ręką odchylać powoli w górę niebieskie wieczko.
+
+
+
+
+                                                  26
+Krok B: Odciągnąć niebieskie wieczko aż do pozycji poziomej, tak by dno wieczka było skierowane
+w górę, aby przygotować się do zdjęcia metalowego kapsla. Nie rozdzierać metalowego kapsla do
+końca.
+
+
+
+
+Krok C: Trzymając nadal pewnie fiolkę jedną ręką, ciągnąć powoli drugą ręką niebieskie wieczko w
+kierunku przeciwnym do ruchu wskazówek zegara. Nie przekręcać niebieskiego wieczka.
+
+
+
+
+Krok D: Gdy metalowy kapsel otworzy się, ciągnąć nadal powoli niebieskie wieczko kierunku
+przeciwnym do ruchu wskazówek zegara, aż kapsel zostanie całkowicie zdjęty z fiolki.
+
+
+6.    OSTRZEŻENIE DOTYCZĄCE PRZECHOWYWANIA PRODUKTU LECZNICZEGO
+      W MIEJSCU NIEWIDOCZNYM I NIEDOSTĘPNYM DLA DZIECI
+
+Lek przechowywać w miejscu niewidocznym i niedostępnym dla dzieci.
+
+
+7.    INNE OSTRZEŻENIA SPECJALNE, JEŚLI KONIECZNE
+
+
+8.    TERMIN WAŻNOŚCI
+
+Termin ważności (EXP)
+
+
+9.    WARUNKI PRZECHOWYWANIA
+
+Przechowywać w lodówce. Można przechowywać poza lodówką, lecz w temperaturze poniżej 25°C,
+przez maksymalnie 28 dni.
+
+
+
+
+                                               27
+10.   SPECJALNE ŚRODKI OSTROŻNOŚCI DOTYCZĄCE USUWANIA NIEZUŻYTEGO
+      PRODUKTU LECZNICZEGO LUB POCHODZĄCYCH Z NIEGO ODPADÓW, JEŚLI
+      WŁAŚCIWE
+
+
+11.   NAZWA I ADRES PODMIOTU ODPOWIEDZIALNEGO
+
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Irlandia
+
+
+12.   NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+EU/1/09/543/002: 28-dniowy pakiet leku Cayston plus jeden Zestaw Nebulizatora Altera
+
+
+13.   NUMER SERII
+
+Nr serii (Lot)
+
+
+14.   OGÓLNA KATEGORIA DOSTĘPNOŚCI
+
+
+15.   INSTRUKCJA UŻYCIA
+
+
+16.   INFORMACJA PODANA SYSTEMEM BRAILLE’A
+
+Cayston 75 mg
+
+
+
+
+                                               28
+INFORMACJE ZAMIESZCZANE NA OPAKOWANIACH ZEWNĘTRZNYCH
+
+KARTONIK WEWNĘTRZNY LEKU CAYSTON
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Cayston 75 mg proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji
+aztreonam
+
+
+2.    ZAWARTOŚĆ SUBSTANCJI CZYNNEJ
+
+Każda fiolka z proszkiem zawiera 75 mg aztreonamu.
+Po odtworzeniu, każdy uzyskany mililitr roztworu do nebulizacji zawiera 75 mg aztreonamu
+(w postaci lizyny).
+
+
+3.    WYKAZ SUBSTANCJI POMOCNICZYCH
+
+Fiolka z proszkiem zawiera również L-lizynę
+
+Ampułka z rozpuszczalnikiem zawiera sodu chlorek, wodę do wstrzykiwań
+
+
+4.    POSTAĆ FARMACEUTYCZNA I ZAWARTOŚĆ OPAKOWANIA
+
+Proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji
+
+42 jednorazowe fiolki
+44 jednorazowe ampułki zawierające 1 ml rozpuszczalnika
+
+
+5.    SPOSÓB I DROGA PODANIA
+
+Należy zapoznać się z treścią ulotki przed zastosowaniem leku.
+
+Wyłącznie do podania wziewnego. Wymaga odtworzenia przed użyciem.
+
+Proszek należy mieszać tylko z dostarczonym rozpuszczalnikiem.
+
+
+6.    OSTRZEŻENIE DOTYCZĄCE PRZECHOWYWANIA PRODUKTU LECZNICZEGO
+      W MIEJSCU NIEWIDOCZNYM I NIEDOSTĘPNYM DLA DZIECI
+
+Lek przechowywać w miejscu niewidocznym i niedostępnym dla dzieci.
+
+
+7.    INNE OSTRZEŻENIA SPECJALNE, JEŚLI KONIECZNE
+
+
+8.    TERMIN WAŻNOŚCI
+
+Termin ważności (EXP)
+
+
+                                                29
+9.    WARUNKI PRZECHOWYWANIA
+
+Przechowywać w lodówce. Można przechowywać poza lodówką, lecz w temperaturze poniżej 25°C,
+przez maksymalnie 28 dni.
+
+
+10.   SPECJALNE ŚRODKI OSTROŻNOŚCI DOTYCZĄCE USUWANIA NIEZUŻYTEGO
+      PRODUKTU LECZNICZEGO LUB POCHODZĄCYCH Z NIEGO ODPADÓW, JEŚLI
+      WŁAŚCIWE
+
+
+11.   NAZWA I ADRES PODMIOTU ODPOWIEDZIALNEGO
+
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Irlandia
+
+
+12.   NUMERY POZWOLEŃ NA DOPUSZCZENIE DO OBROTU
+
+EU/1/09/543/001: 28-dniowy pakiet leku Cayston
+EU/1/09/543/002: 28-dniowy pakiet leku Cayston plus jeden Zestaw Nebulizatora Altera
+
+
+13.   NUMER SERII
+
+Nr serii (Lot)
+
+
+14.   OGÓLNA KATEGORIA DOSTĘPNOŚCI
+
+
+15.   INSTRUKCJA UŻYCIA
+
+
+16.   INFORMACJA PODANA SYSTEMEM BRAILLE’A
+
+Cayston 75 mg
+
+
+
+
+                                               30
+MINIMUM INFORMACJI ZAMIESZCZANYCH NA MAŁYCH OPAKOWANIACH
+BEZPOŚREDNICH
+
+ETYKIETA NA FIOLKĘ z lekiem Cayston
+
+
+1.      NAZWA PRODUKTU LECZNICZEGO I DROGA PODANIA
+
+Cayston 75 mg proszek do sporządzania roztworu do nebulizacji
+aztreonam
+
+Wyłącznie do podania wziewnego.
+
+
+2.      SPOSÓB PODAWANIA
+
+
+3.      TERMIN WAŻNOŚCI
+
+EXP
+
+
+4.      NUMER SERII
+
+Lot
+
+
+5.      ZAWARTOŚĆ OPAKOWANIA Z PODANIEM MASY, OBJĘTOŚCI LUB LICZBY
+        JEDNOSTEK
+
+75 mg
+
+
+6.      INNE
+
+GILEAD
+
+
+
+
+                                               31
+MINIMUM INFORMACJI ZAMIESZCZANYCH NA MAŁYCH OPAKOWANIACH
+BEZPOŚREDNICH
+
+ETYKIETA NA AMPUŁKĘ Z ROZPUSZCZALNIKIEM
+
+
+1.     NAZWA PRODUKTU LECZNICZEGO I DROGA PODANIA
+
+Solvent for Cayston
+Sodium Chloride 0,17%
+
+
+2.     SPOSÓB PODAWANIA
+
+Wyłącznie do podania wziewnego.
+
+
+3.     TERMIN WAŻNOŚCI
+
+
+4.     NUMER SERII
+
+
+5.     ZAWARTOŚĆ OPAKOWANIA Z PODANIEM MASY, OBJĘTOŚCI LUB LICZBY
+       JEDNOSTEK
+
+1 ml
+
+
+6.     INNE
+
+GILEAD SCIENCES
+
+
+
+
+                                  32
+B. ULOTKA DLA PACJENTA
+
+
+
+
+         33
+                  Ulotka dołączona do opakowania: informacja dla użytkownika
+
+        Cayston 75 mg proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji
+                                          aztreonam
+
+Należy uważnie zapoznać się z treścią ulotki przed zastosowaniem leku, ponieważ zawiera ona
+informacje ważne dla pacjenta.
+-     Należy zachować tę ulotkę, aby w razie potrzeby móc ją ponownie przeczytać.
+-     W razie jakichkolwiek wątpliwości należy zwrócić się do lekarza lub farmaceuty.
+-     Lek ten przepisano ściśle określonej osobie. Nie należy go przekazywać innym. Lek może
+      zaszkodzić innej osobie, nawet jeśli objawy jej choroby są takie same.
+-     Jeśli u pacjenta wystąpią jakiekolwiek objawy niepożądane, w tym wszelkie objawy
+      niepożądane niewymienione w tej ulotce, należy powiedzieć o tym lekarzowi lub farmaceucie.
+      Patrz punkt 4.
+
+Spis treści ulotki
+1.    Co to jest lek Cayston i w jakim celu się go stosuje
+2.    Informacje ważne przed zastosowaniem leku Cayston
+3.    Jak stosować lek Cayston
+4.    Możliwe działania niepożądane
+5.    Jak przechowywać lek Cayston
+6.    Zawartość opakowania i inne informacje
+
+
+1.    Co to jest lek Cayston i w jakim celu się go stosuje
+
+Lek Cayston zawiera substancję czynną o nazwie aztreonam. Lek Cayston jest antybiotykiem
+stosowanym do hamowania przewlekłych zakażeń płuc wywołanych bakterią Pseudomonas
+aeruginosa u pacjentów w wieku 6 lat i starszych z mukowiscydozą. Mukowiscydoza, zwana również
+zwłóknieniem torbielowatym, jest dziedziczną chorobą zagrażającą życiu, która dotyka gruczoły
+śluzowe narządów wewnętrznych, zwłaszcza płuc, ale także wątrobę, trzustkę i układ pokarmowy.
+Mukowiscydoza w płucach prowadzi do ich zablokowania gęstym, lepkim śluzem. Utrudnia to
+oddychanie.
+
+
+2.    Informacje ważne przed zastosowaniem leku Cayston
+
+Kiedy nie stosować leku Cayston
+
+-     jeśli pacjent ma uczulenie na aztreonam lub którykolwiek z pozostałych składników tego leku
+      (wymienionych w punkcie 6).
+
+Ostrzeżenia i środki ostrożności
+
+Przed rozpoczęciem stosowania leku Cayston należy omówić to z lekarzem:
+-      jeśli u pacjenta stwierdzono uczulenie na jakiekolwiek inne antybiotyki (takie jak penicyliny,
+       cefalosporyny i (lub) karbapenemy)
+-      jeśli u pacjenta stwierdzono nietolerancję lub jeśli występuje u niego ucisk w klatce piersiowej
+       po zastosowaniu innych leków wziewnych
+-      jeśli u pacjenta występują problemy z nerkami
+-      jeśli pacjent kiedykolwiek pluł krwią
+-      jeśli u pacjenta kiedykolwiek stwierdzono pogorszenie wyników badania czynności płuc.
+Jeśli którykolwiek z wymienionych problemów dotyczy pacjenta, należy powiedzieć o tym
+lekarzowi przed zastosowaniem leku Cayston.
+
+
+
+
+                                                  34
+Jako lek wziewny lek Cayston może powodować kaszel i może to prowadzić do krwioplucia. Jeśli
+pacjent kiedykolwiek pluł krwią, lek Cayston należy stosować tylko wtedy, jeśli lekarz uzna, że
+korzyści z przyjmowania tego leku przeważają nad ryzykiem wystąpienia krwioplucia.
+
+Podczas stosowania leku Cayston u pacjenta może wystąpić przemijające pogorszenie wyników
+badania czynności płuc, ale zazwyczaj działanie takie nie jest trwałe.
+
+Dzieci
+
+Lek Cayston nie jest przeznaczony do stosowania u dzieci w wieku poniżej 6 lat.
+
+Lek Cayston a inne leki
+
+Należy powiedzieć lekarzowi lub farmaceucie o wszystkich lekach przyjmowanych przez pacjenta
+obecnie lub ostatnio, a także o lekach, które pacjent planuje przyjmować.
+
+Ciąża i karmienie piersią
+
+Jeśli pacjentka jest w ciąży lub karmi piersią, przypuszcza że może być w ciąży lub gdy planuje mieć
+dziecko, powinna poradzić się lekarza przed zastosowaniem tego leku.
+
+Brak danych klinicznych dotyczących stosowania leku Cayston u kobiet w ciąży, dlatego nie należy
+stosować leku Cayston w czasie ciąży, o ile nie zostało to szczegółowo omówione z lekarzem.
+
+Jeśli pacjentka planuje karmienie piersią, powinna poradzić się lekarza przed zastosowaniem leku
+Cayston. Pacjentka może karmić piersią w trakcie stosowania leku Cayston, ponieważ ilość leku, jaka
+może przeniknąć do organizmu dziecka wraz z mlekiem będzie bardzo niewielka.
+
+Prowadzenie pojazdów i obsługiwanie maszyn
+
+Nie oczekuje się, aby stosowanie leku Cayston wpływało na zdolność prowadzenia pojazdów
+i obsługiwania maszyn.
+
+
+3.    Jak stosować lek Cayston
+
+Ten lek należy zawsze stosować zgodnie z zaleceniami lekarza. W razie wątpliwości należy zwrócić
+się do lekarza lub farmaceuty.
+
+Zalecana dawka to:
+
+-     Lek Cayston należy stosować 3 razy na dobę w wielokrotnych 28-dniowych cyklach
+      leczenia, po których następuje 28-dniowy okres bez stosowania leku Cayston. Należy
+      przyjmować każdą z trzech dawek wziewnie, w odstępach co najmniej co cztery godziny,
+      używając w tym celu Zestawu Nebulizatora Altera. Możliwe jest stosowanie Regulatora eBase
+      lub Regulatora eTrack z Zestawem Nebulizatora Altera.
+
+-     Na każdą dawkę składa się jedna fiolka z lekiem Cayston wymieszana z jedną ampułką
+      rozpuszczalnika. Cayston musi być wymieszany z rozpuszczalnikiem przed przyjęciem
+      wziewnym przez Nebulizator Altera.
+
+Umieścić przygotowany roztwór leku Cayston w Zestawie Nebulizatora Altera (patrz poniżej).
+Podanie leku wziewnie trwa każdorazowo około 2 do 3 minut.
+
+Przed przyjęciem każdej dawki leku Cayston należy zastosować lek rozszerzający oskrzela. Krótko
+działające leki rozszerzające oskrzela można podać w przedziale od 15 minut do 4 godzin, natomiast
+
+
+                                                 35
+długo działające leki rozszerzające oskrzela w przedziale od 30 minut do 12 godzin przed każdą
+dawką leku Cayston.
+
+Jeśli pacjent stosuje inne wziewne metody leczenia mukowiscydozy, zaleca się następującą kolejność
+stosowania:
+
+1.    lek rozszerzający oskrzela
+2.    leki mukolityczne (lek, który pomaga rozrzedzić gęsty śluz produkowany w płucach)
+      i wreszcie:
+3.    lek Cayston.
+
+Nie wolno mieszać leku Cayston z innymi lekami w zestawie Nebulizatora Altera.
+-    Nie wolno umieszczać innych leków w Zestawie Nebulizatora Altera.
+-    Nie wolno umieszczać aztreonamu w postaci dożylnej (do wstrzykiwań) w Zestawie
+     Nebulizatora Altera. Dożylny aztreonam nie nadaje się do podania wziewnego.
+
+Jak stosować lek Cayston korzystając z Zestawu Nebulizatora Altera
+
+Potrzebne będą:
+     Jedna brązowa fiolka z lekiem Cayston z niebieskim wieczkiem.
+     Jedna plastikowa ampułka z rozpuszczalnikiem (0,17% sodu chlorek wag./obj.). Informacje
+      umieszczone na ampułce rozpuszczalnika są dostępne tylko w języku angielskim (patrz
+      punkt 6).
+     Zestaw Nebulizatora Altera wraz z Głowicą Aerozolową Altera połączoną z Regulatorem eBase
+      lub Regulatorem eTrack.
+
+Koniecznie należy używać specjalnego dla leku Cayston Zestawu Nebulizatora Altera wraz
+z Głowicą Aerozolową Altera. Nie wolno podejmować prób stosowania leku Cayston z użyciem
+innych rodzajów zestawów do nebulizacji.
+
+Przed rozpoczęciem leczenia lekiem Cayston należy sprawdzić, czy nebulizator działa poprawnie.
+Należy dokładnie przeczytać instrukcję użytkowania dostarczoną z Zestawem Nebulizatora Altera.
+
+Przygotowywanie leku Cayston do podania wziewnego
+
+-     Lek Cayston można przygotować tylko bezpośrednio przed użyciem.
+-     Nie stosować leku Cayston, jeśli naruszona została szczelność opakowania.
+-     Nie stosować leku Cayston, jeśli był on przechowywany poza lodówką przez więcej niż 28 dni.
+-     Nie stosować rozpuszczalnika lub przygotowanego leku Cayston, jeśli jest on mętny
+      lub zawiera cząstki stałe.
+
+1.    Wziąć z pudełka jedną brązową fiolkę z lekiem Cayston i jedną ampułkę
+      z rozpuszczalnikiem. Ampułki z rozpuszczalnikiem należy rozdzielić delikatnie je odrywając.
+
+2.    Delikatnie popukać brązową fiolkę zawierającą lek Cayston, aby proszek osiadł na dnie.
+      Ułatwi to zastosowanie właściwej dawki leku.
+
+
+
+
+                                                36
+3.      Otworzyć brązową fiolkę, wykonując kroki od A do D zgodnie z rysunkiem 1:
+
+
+
+
+     Krok A: Umieścić fiolkę na płaskiej                  Krok B: Odciągnąć niebieskie wieczko aż do
+     powierzchni, niebieskim wieczkiem                    pozycji poziomej, tak by dno wieczka było
+     skierowanym w swoją stronę. Trzymając                skierowane w górę, aby przygotować się do
+     pewnie fiolkę jedną ręką, drugą ręką odchylać        zdjęcia metalowego kapsla. Nie rozdzierać
+     powoli w górę niebieskie wieczko.                    metalowego kapsla do końca.
+
+
+
+
+     Krok C: Trzymając nadal pewnie fiolkę jedną     Krok D: Gdy metalowy kapsel otworzy się,
+     ręką, ciągnąć powoli drugą ręką niebieskie      ciągnąć nadal powoli niebieskie wieczko
+     wieczko w kierunku przeciwnym do ruchu          kierunku przeciwnym do ruchu wskazówek
+     wskazówek zegara. Nie przekręcać                zegara, aż kapsel zostanie całkowicie zdjęty z
+     niebieskiego wieczka.                           fiolki.
+                                                Rysunek 1
+
+
+4.      Wyrzucić metalowy kapsel w bezpieczny sposób. Ostrożnie wyjąć gumowy korek (ale nie
+        wyrzucać go jeszcze).
+
+5.      Otworzyć ampułkę z rozpuszczalnikiem, przekręcając końcówkę. Wycisnąć całą zawartość
+        do fiolki (rysunek 2). Następnie delikatnie obracać fiolką do całkowitego rozpuszczenia proszku
+        i uzyskania klarownego płynu.
+
+Lek Cayston należy najlepiej zastosować bezpośrednio po przygotowaniu roztworu. Jeśli pacjent
+nie może od razu wykorzystać przygotowanej dawki leku, należy zamknąć fiolkę korkiem
+i przechowywać w lodówce. Przygotowany roztwór należy wykorzystać w ciągu 8 godzin.
+
+
+
+
+                                               Rysunek 2
+
+
+
+
+                                                     37
+Przygotowanie Nebulizatora Altera do podania leku Cayston
+
+1.     Upewnić się, że dostępny jest Regulator eBase lub Regulator eTrack do połączenia
+       z Zestawem Nebulizatora Altera.
+
+2.     Upewnić się, że Zestaw Nebulizatora Altera jest umieszczony na płaskiej i stabilnej
+       powierzchni.
+
+3.     Usunąć przykrywkę pojemnika na lek, obracając ją przeciwnie do ruchu wskazówek zegara.
+
+4.     Przelać cały przygotowany lek Cayston z fiolki do pojemnika na lek Zestawu Nebulizatora
+       Altera (rysunek 3a). Upewnić się, że fiolka została całkowicie opróżniona. W razie potrzeby
+       delikatnie popukać fiolką o brzeg pojemnika leku.
+
+5.     Zamknąć pojemnik na lek, zrównując wypustki przykrywki pojemnika na lek z otworami na
+       pojemniku. Wcisnąć i obrócić nasadkę zgodnie z ruchem wskazówek zegara do oporu
+       (rysunek 3b).
+
+
+
+
+             Rysunek 3a                                        Rysunek 3b
+
+Używanie Nebulizatora Altera do zażywania leku Cayston
+
+1.     Rozpocząć stosowanie leku. Usiąść w wygodnej wyprostowanej pozycji. Trzymać zestaw
+       nebulizatora poziomo, włożyć ustnik od ust i zamknąć usta, obejmując ustnik (rysunek 4).
+
+
+
+
+             Rysunek 4
+
+     Trzymać zestaw nebulizatora poziomo.
+
+
+
+                                                 38
+2.    Włączyć regulator. Nacisnąć i przytrzymać przycisk ON/OFF. Słyszalny będzie pojedynczy
+      sygnał dźwiękowy, a na wyświetlaczu pojawi się logo technologii eFlow®. W przypadku
+      korzystania z Regulatora eTrack wybrać tryb leczenia, naciskając przycisk OK.
+
+3.    Do komory z aerozolem Zestawu Nebulizatora Altera zacznie napływać mgiełka aerozolu. Jeśli
+      mgiełka aerozolowa nie zacznie płynąć, należy zapoznać się z instrukcją użytkowania Zestawu
+      Nebulizatora Altera.
+
+4.    Oddychać normalnie (wdychać i wydychać) przez ustnik. Unikać oddychania przez nos.
+      Kontynuować swobodne wdychanie i wydychanie powietrza do czasu zakończenia podawania
+      leku.
+
+5.    Po podaniu całego leku słyszalny będzie dźwięk, oznaczający zakończenie leczenia (2 krótkie
+      sygnały dźwiękowe), a na wyświetlaczu pojawi się na krótko znacznik potwierdzający podanie
+      całej dawki.
+
+6.    Po zakończeniu leczenia otworzyć przykrywkę pojemnika na lek, aby upewnić się, że zużyty
+      został cały lek. Po zakończeniu leczenia w zbiorniku może pozostać kilka kropli leku. Jeśli
+      pozostało więcej niż kilka kropli płynu, założyć z powrotem przykrywkę pojemnika na lek
+      i wznowić leczenie.
+
+7.    Po zakończeniu leczenia odłączyć Regulator eBase lub Regulator eTrack i odłączyć Zestaw
+      Nebulizatora Altera do czyszczenia i dezynfekcji. Szczegółowe informacje na temat
+      czyszczenia i dezynfekcji znajdują się w instrukcji użytkowania dołączonej do Zestawu
+      Nebulizatora Altera.
+
+      Co się stanie, jeśli leczenie zostanie zakończone przed czasem?
+8.    Jeśli z jakiejkolwiek przyczyny konieczne jest wcześniejsze przerwanie leczenia, nacisnąć
+      przycisk ON/OFF. W celu wznowienia leczenia ponownie nacisnąć przycisk ON/OFF
+      i wznowić leczenie.
+
+Wymiana Zestawu Nebulizatora Altera
+
+Należy odnieść się do instrukcji Zestawu Nebulizatora Altera, gdzie podane są wytyczne dotyczące
+terminu wymiany zestawu. W przypadku stwierdzenia, że praca nebulizatora uległa zmianie przed tym
+okresem (np. jeśli wytworzenie mgiełki trwa dłużej, ponad 5 minut), należy zapoznać się z instrukcją
+użytkowania Nebulizatora Altera.
+
+Zastosowanie większej niż zalecana dawki leku Cayston
+
+W przypadku zastosowania większej niż zalecana dawki leku Cayston, należy natychmiast
+powiadomić lekarza lub farmaceutę.
+
+Pominięcie zastosowania leku Cayston
+
+W przypadku pominięcia dawki można jeszcze zastosować wszystkie 3 dawki na dobę pod
+warunkiem, że odstęp między nimi będzie co najmniej 4-godzinny. Jeśli nie można zachować odstępu
+4 godzin pomiędzy dawkami, należy pominąć zapomnianą dawkę.
+
+Przerwanie stosowania leku Cayston
+
+Nie wolno przerywać stosowania leku Cayston bez uprzedniego powiadomienia lekarza.
+
+W razie jakichkolwiek dalszych wątpliwości związanych ze stosowaniem tego leku, należy zwrócić
+się do lekarza lub farmaceuty.
+
+
+
+                                                39
+4.    Możliwe działania niepożądane
+
+Jak każdy lek, lek ten może powodować działania niepożądane, chociaż nie u każdego one wystąpią.
+
+Jeśli wystąpi wysypka, należy niezwłocznie powiadomić lekarza, ponieważ może ona być objawem
+reakcji alergicznej pacjenta na lek Cayston.
+
+Bardzo częste działania niepożądane (występujące częściej niż u 1 na 10 pacjentów)
+-    Kaszel
+-    Uczucie zatkania nosa
+-    Świszczący oddech
+-    Ból gardła
+-    Duszność
+-    Wysoka temperatura. Może wystąpić częściej u dzieci niż u dorosłych.
+
+Częste działania niepożądane (występujące u 1 do 10 na 100 pacjentów)
+-     Trudności w oddychaniu
+-     Uczucie dyskomfortu w klatce piersiowej
+-     Katar
+-     Krwioplucie
+-     Wysypka
+-     Ból stawów
+-     Pogorszenie wyników badania czynności płuc
+
+Niezbyt częste działania niepożądane (występujące u 1 do 10 na 1 000 pacjentów)
+-    Obrzęk stawów
+
+Następujące działania niepożądane były obserwowane po zastosowaniu aztreonamu do wstrzykiwań,
+ale nie po przyjęciu leku Cayston: obrzęk twarzy, warg, języka i (lub) gardła z trudnościami
+z połykaniem lub oddychaniem, pocenie się, podrażnienie skóry i łuszczenie, swędząca wysypka,
+nagłe zaczerwienienie twarzy, małe czerwone plamki i bardzo rzadko powstawanie pęcherzy na
+skórze. Wszystkie te objawy mogą być przejawem reakcji alergicznej.
+
+Należy powiadomić lekarza w przypadku wystąpienia któregokolwiek z tych działań niepożądanych.
+
+Zgłaszanie działań niepożądanych
+Jeśli wystąpią jakiekolwiek objawy niepożądane, w tym wszelkie objawy niepożądane niewymienione
+w tej ulotce, należy powiedzieć o tym lekarzowi lub farmaceucie. Działania niepożądane można
+zgłaszać bezpośrednio do „krajowego systemu zgłaszania” wymienionego w załączniku V. Dzięki
+zgłaszaniu działań niepożądanych można będzie zgromadzić więcej informacji na temat
+bezpieczeństwa stosowania leku.
+
+
+5.    Jak przechowywać lek Cayston
+
+Lek należy przechowywać w miejscu niewidocznym i niedostępnym dla dzieci.
+
+Nie stosować tego leku po upływie terminu ważności zamieszczonego na etykiecie fiolki, ampułce
+z rozpuszczalnikiem i pudełku. Termin ważności oznacza ostatni dzień podanego miesiąca.
+
+Fiolka z proszkiem i ampułka z rozpuszczalnikiem:
+Przechowywać w lodówce (2°C - 8°C). Nieotwarte fiolki można także przechowywać poza lodówką,
+lecz w temperaturze poniżej 25°C przez maksymalnie 28 dni.
+
+Lek ten należy użyć natychmiast po przygotowaniu. Jeśli lek nie został natychmiast zużyty,
+przygotowany roztwór należy przechowywać w temperaturze 2°C - 8°C i zużyć w ciągu 8 godzin. Nie
+przygotowywać jednocześnie więcej niż jedną dawkę.
+
+                                                40
+Nie stosować tego leku, jeśli zauważy się, że naruszona została szczelność opakowania.
+
+Nie stosować tego leku, jeśli był on przechowywany poza lodówką przez więcej niż 28 dni.
+
+Leków nie należy wyrzucać do kanalizacji ani domowych pojemników na odpadki. Należy zapytać
+farmaceutę, jak usunąć leki, których się już nie używa. Takie postępowanie pomoże chronić
+środowisko.
+
+
+6.    Zawartość opakowania i inne informacje
+
+Co zawierają lek Cayston i rozpuszczalnik
+-    Fiolka z proszkiem zawiera 75 mg aztreonamu (w postaci lizyny).
+-    Ampułka z rozpuszczalnikiem zawiera wodę do wstrzykiwań i sodu chlorek. Ampułka ma
+     nadruk tylko w języku angielskim. Informacje umieszczone na ampułce są przedstawione
+     poniżej:
+
+      Rozpuszczalnik leku Cayston
+      Sodu chlorek 0,17%
+      Wyłącznie do podania wziewnego
+      1 ml
+      GILEAD SCIENCES
+
+Jak wygląda lek Cayston i co zawiera opakowanie
+
+Lek Cayston to proszek barwy białej lub złamanej bieli oraz rozpuszczalnik do przygotowania
+roztworu do nebulizacji.
+
+Lek Cayston znajduje się w 2 ml fiolce z brązowego szkła z szarym gumowym korkiem
+i aluminiowym zrywanym uszczelnieniem z niebieskim wieczkiem.
+
+Rozpuszczalnik o pojemności 1 ml znajduje się w plastikowej ampułce.
+
+Każdy 28-dniowy pakiet leku Cayston zawiera 84 fiolki liofilizowanego leku Cayston i 88 ampułek
+z rozpuszczalnikiem. Cztery dodatkowe ampułki z rozpuszczalnikiem są dostarczone na wypadek
+rozlania się.
+
+Dostępne są następujące wielkości opakowań:
+•    28-dniowy pakiet leku Cayston
+•    Pakiet zawierający jeden 28-dniowy pakiet leku Cayston plus jeden Zestaw Nebulizatora Altera
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+Podmiot odpowiedzialny:
+
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Irlandia
+
+
+
+
+                                                41
+Wytwórca:
+
+Gilead Sciences Ireland UC
+IDA Business & Technology Park
+Carrigtohill
+County Cork
+Irlandia
+
+W celu uzyskania bardziej szczegółowych informacji dotyczących tego leku należy zwrócić się do
+miejscowego przedstawiciela podmiotu odpowiedzialnego:
+
+België/Belgique/Belgien                             Lietuva
+Gilead Sciences Belgium SRL-BV                      Gilead Sciences Ireland UC
+Tél/Tel: + 32 (0) 2 401 35 50                       Tel: + 353 (0) 1 686 1888
+
+България                                            Luxembourg/Luxemburg
+Gilead Sciences Ireland UC                          Gilead Sciences Belgium SRL-BV
+Teл.: + 353 (0) 1 686 1888                          Tél/Tel: + 32 (0) 2 401 35 79
+
+Česká republika                                     Magyarország
+Gilead Sciences s.r.o.                              Gilead Sciences Ireland UC
+Tel: + 420 910 871 986                              Tel: + 353 (0) 1 686 1888
+
+Danmark                                             Malta
+Gilead Sciences Sweden AB                           Gilead Sciences Ireland UC
+Tlf.: + 46 (0) 8 5057 1849                          Tel: + 353 (0) 1 686 1888
+
+Deutschland                                         Nederland
+Gilead Sciences GmbH                                Gilead Sciences Netherlands B.V.
+Tel: + 49 (0) 89 899890-0                           Tel: + 31 (0) 20 718 36 98
+
+Eesti                                               Norge
+Gilead Sciences Ireland UC                          Gilead Sciences Sweden AB
+Tel: + 353 (0) 1 686 1888                           Tlf: + 46 (0) 8 5057 1849
+
+Ελλάδα                                              Österreich
+Gilead Sciences Ελλάς Μ.ΕΠΕ.                        Gilead Sciences GesmbH
+Τηλ: +30 210 8930 100                               Tel: + 43 1 260 830
+
+España                                              Polska
+Gilead Sciences, S.L.                               Gilead Sciences Poland Sp. z o.o.
+Tel: + 34 91 378 98 30                              Tel: + 48 22 262 8702
+
+France                                              Portugal
+Gilead Sciences                                     Gilead Sciences, Lda.
+Tél: + 33 (0) 1 46 09 41 00                         Tel: + 351 21 7928790
+
+Hrvatska                                            România
+Gilead Sciences Ireland UC                          Gilead Sciences (GSR) S.R.L.
+Tel: + 353 (0) 1 686 1888                           Tel: + 40 31 631 18 00
+
+Ireland                                             Slovenija
+Gilead Sciences Ireland UC                          Gilead Sciences Ireland UC
+Tel: +353 (0) 214 825 999                           Tel: + 353 (0) 1 686 1888
+
+
+
+
+                                               42
+Ísland                                              Slovenská republika
+Gilead Sciences Sweden AB                           Gilead Sciences Slovakia s.r.o
+Sími: + 46 (0) 8 5057 1849                          Tel: + 421 232 121 210
+
+Italia                                              Suomi/Finland
+Gilead Sciences S.r.l.                              Gilead Sciences Sweden AB
+Tel: + 39 02 439201                                 Puh/Tel: + 46 (0) 8 5057 1849
+
+Κύπρος                                              Sverige
+Gilead Sciences Ελλάς Μ.ΕΠΕ.                        Gilead Sciences Sweden AB
+Τηλ: + 30 210 8930 100                              Tel: + 46 (0) 8 5057 1849
+
+Latvija
+Gilead Sciences Ireland UC
+Tel: + 353 (0) 1 686 1888
+
+
+Data ostatniej aktualizacji ulotki:
+
+Inne źródła informacji
+
+Szczegółowe informacje o tym leku znajdują się na stronie internetowej Europejskiej Agencji Leków
+http://www.ema.europa.eu.
+
+
+
+
+                                               43
+

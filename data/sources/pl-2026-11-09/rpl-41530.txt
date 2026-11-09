@@ -1,0 +1,899 @@
+                     CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1. NAZWA PRODUKTU LECZNICZEGO
+
+Tigecycline Solinea, 50 mg, proszek do sporządzania roztworu do infuzji
+
+
+2. SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Każda fiolka zawiera 50 mg tygecykliny.
+1 ml roztworu po rozpuszczeniu zawiera 10 mg tygecykliny.
+
+Pełen wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3. POSTAĆ FARMACEUTYCZNA
+
+Proszek do sporządzania roztworu do infuzji
+
+Liofilizowany proszek lub krążek w kolorze pomarańczowym do pomarańczowoczerwonego nie
+zawierający widocznych zanieczyszczeń.
+Wartość pH sporządzonego roztworu wynosi od 4,0 do 6,0, a osmolalność od 240 do 320 mOsm/kg, w
+zależności od użytego rozpuszczalnika.
+
+
+4. SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1 Wskazania do stosowania
+
+Tygecyklina jest wskazana do stosowania u pacjentów dorosłych i dzieci w wieku od ośmiu lat w
+leczeniu następujących zakażeń (patrz punkty 4.4.i 5.1):
+
+• powikłanych zakażeń skóry i tkanek miękkich (ang. complicated skin and soft tissue infections,
+cSSTI) , za wyjątkiem zakażeń stopy cukrzycowej (patrz punkt 4.4),
+• powikłanych zakażeń wewnątrzbrzusznych (ang. complicated intra-abdominal infections, cIAI).
+
+Tygecyklinę należy stosować jedynie w przypadkach, gdy zastosowanie innych antybiotyków nie jest
+właściwe (patrz punkty 4.4., 4.8 i 5.1).
+
+Należy uwzględnić oficjalne wytyczne dotyczące prawidłowego stosowania leków
+przeciwbakteryjnych.
+
+4.2 Dawkowanie i sposób podawania
+
+Dawkowanie
+
+Dorośli
+Zalecaną dawką dla osób dorosłych jest dawka początkowa 100 mg, a następnie 50 mg co 12 godzin
+przez 5 do 14 dni.
+
+Czas trwania leczenia ustala się w zależności od ciężkości zakażenia, lokalizacji zakażenia oraz
+odpowiedzi klinicznej pacjenta na leczenie.
+
+Dzieci i młodzież (w wieku od 8 do 17 lat)
+Tygecyklinę można podawać jedynie pacjentom w wieku od 8 lat, po konsultacji z lekarzem
+dysponującym odpowiednim doświadczeniem w leczeniu chorób zakaźnych.
+
+      Dzieci w wieku od 8 do <12 lat:
+      Zalecana dawka to 1,2 mg/kg tygecykliny dożylnie co 12 godzin, a maksymalna dawka to
+      50 mg co 12 godzin, przez 5 do14 dni.
+
+      Młodzież w wieku od 12 do <18 lat:
+      Zalecana dawka to 50 mg tygecykliny co 12 godzin, prze 5 do 14 dni.
+
+Pacjenci w podeszłym wieku
+Nie ma konieczności modyfikacji dawki u pacjentów w podeszłym wieku (patrz punkt 5.2).
+
+Zaburzenia czynności wątroby
+U pacjentów z niewydolnością wątroby o nasileniu lekkim do umiarkowanego (stopień A i B w skali
+Childa-Pugha) nie ma konieczności modyfikacji dawki.
+
+U pacjentów (w tym u dzieci i młodzieży) z ciężkim zaburzeniem czynności wątroby (stopień C w
+skali Childa-Pugha) należy zmniejszyć dawkę tygecykliny o 50%. Po podaniu dawki nasycającej 100
+mg, dawkę dla dorosłych należy zmniejszyć do 25 mg co 12 godzin. Podczas leczenia pacjentów z
+ciężkim zaburzeniem czynności wątroby (stopień C w skali Childa-Pugha) należy zachować
+ostrożność i monitorować odpowiedź na leczenie (patrz punkty 4.4 i 5.2).
+
+Zaburzenia czynności nerek
+Nie ma konieczności modyfikacji dawki u pacjentów z zaburzeniem czynności nerek ani u pacjentów
+poddawanych hemodializie (patrz punkt 5.2).
+
+Dzieci i młodzież
+Nie ustalono bezpieczeństwa i skuteczności stosowania tygecykliny u dzieci w wieku poniżej 8 lat.
+Brak dostępnych danych. Ze względu na ryzyko przebarwienia zębów, nie należy stosować
+tygecykliny u dzieci w wieku poniżej 8 lat (patrz punkty 4.4 i 5.1).
+
+Sposób podawania:
+
+Tygecyklina jest przeznaczona wyłącznie do podawania we wlewie dożylnym trwającym 30 do 60
+minut (patrz punkty 4.4 i 6.6). U dzieci i młodzieży zalecany czas podawania tygecykliny we wlewie
+wynosi 60 minut. (patrz punkt 4.4).
+
+Instrukcje dotyczące przygotowania produktu leczniczego przed podaniem, patrz punkt 6.6.
+
+4.3 Przeciwwskazania
+
+Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w
+punkcie 6.1.
+
+Pacjenci, u których rozpoznano nadwrażliwość na antybiotyki z grupy tetracyklin, mogą mieć również
+nadwrażliwość na tygecyklinę.
+
+4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+W badaniach klinicznych dotyczących powikłanych zakażeń skóry i tkanek miękkich (ang.
+complicated skin and soft tissue infections, cSSTI) , powikłanych zakażeń wewnątrzbrzusznych (ang.
+complicated intra-abdominal infections, cIAI), zakażeń stopy cukrzycowej, wewnątrzszpitalnego
+zapalenia płuc oraz patogenów opornych na leczenie wykazały liczbowo wyższy współczynnik
+śmiertelności wśród pacjentów leczonych z wykorzystaniem proszku do sporządzania roztworu do
+infuzji zawierającego 50 mg tygecykliny w stosunku do porównywanych grup terapeutycznych.
+Przyczyny takich wyników pozostają niewyjaśnione, nie można jednak wykluczyć mniejszej
+skuteczności i mniejszego bezpieczeństwa stosowania tygecykliny niż badanych leków
+porównawczych.
+
+Nadkażenia
+W badaniach klinicznych u pacjentów z powikłanymi zakażeniami wewnątrzbrzusznymi (ang.
+complicated intra-abdominal infections, cIAI), obserwowano zaburzone gojenie rany pooperacyjnej
+związane z nadkażeniami. Należy monitorować pacjentów, u których proces gojenia jest zaburzony, w
+celu wykrycia nadkażenia (patrz punkt 4.8).
+
+Wyniki leczenia pacjentów, u których rozwinęło się nadkażenie, zwłaszcza szpitalne zapalenie płuc,
+są gorsze. Należy ściśle monitorować pacjentów w kierunku rozwoju nadkażeń. Jeżeli po rozpoczęciu
+leczenia tygecykliną okaże się, że u pacjenta występuje inne ognisko zakażenia niż powikłane
+zakażenie skóry i tkanek miękkich (ang. complicated skin and soft tissue infections, cSSTI), i
+zakażenie wewnątrzbrzuszne (ang. complicated intra-abdominal infections,cIAI), należy rozważyć
+rozpoczęcie alternatywnej terapii przeciwbakteryjnej o wykazanej skuteczności w leczeniu
+specyficznego typu występującego zakażenia i (lub) zakażeń.
+
+Anafilaksja
+Podczas stosowania tygecykliny zgłaszano reakcje anafilaktyczne lub anafilaktoidalne, które mogą
+zagrażać życiu (patrz punkty 4.3 i 4.8).
+
+Niewydolność wątroby
+U pacjentów otrzymujących tygecyklinę notowano przypadki uszkodzenia wątroby, przeważnie
+spowodowane zastojem żółci, w tym przypadki niewydolności wątroby prowadzące do zgonu.
+Chociaż niewydolność wątroby u niektórych pacjentów leczonych tygecykliną może być
+spowodowana chorobą podstawową lub równolegle stosowanymi innymi produktami leczniczymi,
+należy wziąć pod uwagę możliwy wpływ tygecykliny (patrz punkt 4.8).
+
+Antybiotyki z grupy tetracyklin
+Antybiotyki z grupy glicylocyklin charakteryzują się podobną budową chemiczną do antybiotyków z
+grupy tetracyklin. Działania niepożądane tygecykliny oraz antybiotyków z grupy tetracyklin mogą być
+zbliżone. Mogą one obejmować nadwrażliwość na światło, guz rzekomy mózgu, zapalenie trzustki
+oraz działanie antyanaboliczne, które prowadzi do zwiększenia stężenia azotu mocznikowego (BUN),
+azotemii, kwasicy oraz hiperfosfatemii (patrz punkt 4.8).
+
+Zapalenie trzustki
+W związku z leczeniem tygecykliną występowało (częstość: niezbyt często) ostre zapalenie trzustki,
+niekiedy ciężkie (patrz punkt 4.8). U pacjentów przyjmujących tygecyklinę, u których wystąpiły
+przedmiotowe lub podmiotowe objawy lub nieprawidłowości w wynikach badań laboratoryjnych,
+wskazujących na ostre zapalenie trzustki, należy rozważyć rozpoznanie ostrego zapalenia trzustki.
+Większość z zaobserwowanych przypadków wystąpiła po przynajmniej jednym tygodniu leczenia.
+Zgłaszane przypadki dotyczyły pacjentów bez znanych czynników ryzyka zapalenia trzustki.
+Zazwyczaj po przerwaniu leczenia tygecykliną następowała poprawa. Należy rozważyć przerwanie
+leczenia tygecykliną, jeśli występuje podejrzenie zapalenie trzustki.
+
+Choroby podstawowe
+Doświadczenia dotyczące leczenia tygecykliną pacjentów z zakażeniami i ciężkimi chorobami
+podstawowymi są ograniczone.
+
+W badaniach klinicznych dotyczących powikłanych zakażeń skóry i tkanek miękkich (ang.
+complicated skin and soft tissue infections, cSSTI), do najczęściej obserwowanych zakażeń u
+pacjentów leczonych tygecykliną należało zapalenie tkanki podskórnej (58,6%) i duże ropnie (24,9%).
+Do badań nie zakwalifikowano pacjentów z ciężką chorobą podstawową, np. chorobą powodującą
+osłabienie odporności, pacjentów z zakażonymi owrzodzeniami odleżynowymi lub pacjentów z
+zakażeniami wymagającymi leczenia dłuższego niż 14 dni (np. z martwiczym zapaleniem powięzi).
+Do badań zakwalifikowano jedynie ograniczoną liczbę pacjentów z dodatkowymi czynnikami
+obciążającymi, takimi jak cukrzyca (25,8%), choroba naczyń obwodowych (10,4%), nadużywanie
+dożylnych substancji psychoaktywnych (4,0%) oraz zakażenie HIV (1,2%). Doświadczenia dotyczące
+leczenia pacjentów ze współistniejącą bakteriemią (3,4%) są również ograniczone. W związku z tym
+należy zachować ostrożność podczas leczenia tych grup pacjentów. W dużym badaniu z udziałem
+pacjentów z zakażeniem stopy cukrzycowej stwierdzono mniejszą skuteczność tygecykliny w
+porównaniu do leku porównawczego. Dlatego nie zaleca się stosowania tygecykliny w tej grupie
+pacjentów (patrz punkt 4.1).
+
+W badaniach klinicznych dotyczących powikłanych zakażeń wewnątrzbrzusznych(cIAI),do
+najczęściej obserwowanych zakażeń u pacjentów leczonych tygecykliną należało powikłane zapalenie
+wyrostka robaczkowego (50,3%) oraz – rzadziej – powikłane zapalenie pęcherzyka żółciowego
+(9,6%), perforacja jelita (9,6%), ropień wewnątrzbrzuszny (8,7%), perforacja wrzodu żołądka lub
+dwunastnicy (8,3%), zapalenie otrzewnej (6,2%) i powikłane zapalenie uchyłków jelit (6,0%) 77,8%
+spośród tych pacjentów wymagało interwencji chirurgicznej z powodu zapalenia otrzewnej. Do badań
+zakwalifikowano niewielką liczbę pacjentów z ciężkimi chorobami podstawowymi, takimi jak
+osłabienie odporności, pacjentów z wynikiem >15 w skali APACHE II (3,3%) lub pacjentów z
+mnogimi ropniami wewnątrzbrzusznymi, u których konieczne jest leczenie chirurgiczne (11,4%).
+Doświadczenia dotyczące leczenia pacjentów ze współistniejącą bakteriemią (5,6 %) są również
+ograniczone, zatem należy zachować ostrożność podczas leczenia tych grup pacjentów.
+
+Należy rozważyć zastosowanie skojarzonej terapii przeciwbakteryjnej w przypadku podawania
+tygecykliny pacjentom w ciężkim stanie, u których doszło do powikłanych zakażeń
+wewnątrzbrzusznych na skutek jawnej klinicznie perforacji ściany jelita lub pacjentom z rozwijającą
+się posocznicą lub wstrząsem septycznym (patrz punkt 4.8).
+
+Nie ustalono odpowiednio wpływu zastoju żółci na farmakokinetykę tygecykliny. Tygecyklina jest
+wydalana w około 50% z żółcią, zatem należy prowadzić ścisłą obserwację pacjentów z zastojem
+żółci.
+
+U pacjentów otrzymujących jednocześnie tygecyklinę i leki przeciwzakrzepowe należy kontrolować
+czas protrombinowy lub inny właściwy parametr krzepliwości krwi (patrz punkt 4.5).
+
+Podczas stosowania prawie każdego produktu przeciwbakteryjnego zgłaszano przypadki wystąpienia
+rzekomobłoniastego zapalenia jelita grubego o nasileniu od łagodnego do zagrażającego życiu.
+Rozpoznanie to należy zatem wziąć pod uwagę u pacjentów z biegunką występującą w trakcie
+leczenia jakimkolwiek produktem przeciwbakteryjnym lub po jego zakończeniu (patrz punkt 4.8).
+
+Stosowanie tygecykliny może prowadzić do nadmiernego namnażania się mikroorganizmów opornych
+na ten antybiotyk, w tym grzybów. W trakcie leczenia należy uważnie monitorować stan pacjentów
+(patrz punkt 4.8).
+
+W badaniach na szczurach z zastosowaniem tygecykliny wykazano przebarwienie kości. Stosowanie
+tygecykliny u ludzi w okresie rozwoju zębów może być związane z ich trwałym przebarwieniem
+(patrz punkt 4.8).
+
+Dzieci i młodzież
+
+Doświadczenie kliniczne związane ze stosowaniem tygecykliny w leczeniu zakażeń u dzieci i
+młodzieży w wieku 8 lat i starszych jest bardzo ograniczone (patrz punkty 4.8 i 5.1). Dlatego też
+stosowanie tygecycliny u dzieci należy ograniczyć do sytuacji klinicznych, w których nie jest dostępne
+alternatywne leczenie przeciwbakteryjne.
+Nudności i wymioty należą do bardzo często obserwowanych działań niepożądanych u dzieci i
+młodzieży (patrz punkt 4.8). Należy zwrócić uwagę na ryzyko odwodnienia. U dzieci i młodzieży
+zalecany czas podawania tygecykliny we wlewie wynosi 60 minut.
+
+Ból brzucha jest często zgłaszany u dzieci, podobnie jak u dorosłych. Może on wskazywać na
+zapalenie trzustki. Jeśli rozwinie się zapalenie trzustki, należy przerwać leczenie tygecykliną.
+
+Przed rozpoczęciem leczenia tygecykliną oraz regularnie w trakcie leczenia należy wykonywać
+badania czynności wątroby oraz oznaczać parametry krzepnięcia, parametry hematologiczne oraz
+aktywność amylazy i lipazy.
+
+Nie należy stosować tygecykliny u dzieci w wieku poniżej 8 lat ze względu na brak danych
+dotyczących bezpieczeństwa stosowania i skuteczności w tej grupie wiekowej oraz z uwagi na to, że
+tygecyklina może powodować trwałe przebarwienie zębów (patrz punkty 4.2 i 4.8).
+
+4.5 Interakcje z innymi produktami leczniczymi oraz inne rodzaje interakcji
+
+Badania dotyczące interakcji przeprowadzono wyłącznie u pacjentów dorosłych.
+
+Jednoczesne podawanie tygecykliny i warfaryny (w jednorazowej dawce 25 mg) zdrowym
+ochotnikom prowadziło do zmniejszenia klirensu R-warfaryny i S-warfaryny odpowiednio o 40% i
+23% oraz zwiększenia pola pod krzywą AUC odpowiednio o 68% i 29%. Mechanizm tego zjawiska
+nie został jeszcze wyjaśniony. Z dostępnych danych nie wynika, że ta interakcja może powodować
+znaczące zmiany wartości międzynarodowego współczynnika znormalizowanego (ang. international
+normalized ratio, INR). Tygecyklina może jednak powodować wydłużenie czasu protrombinowego
+(ang. prothrombin time, PT) oraz czasu częściowej tromboplastyny po aktywacji (ang. activated
+partial thromboplastin time, aPTT), dlatego u pacjentów otrzymujących jednocześnie tygecyklinę i
+leki przeciwzakrzepowe należy ściśle monitorować wyniki stosownych testów krzepliwości krwi
+(patrz punkt 4.4). Warfaryna nie wykazywała wpływu na profil farmakokinetyczny tygecykliny.
+Ponieważ tygecyklina nie podlega intensywnym przemianom metabolicznym, uważa się, że substancje
+czynne hamujące lub indukujące aktywność izoenzymów CYP-450 nie wpływają na jej klirens. W
+badaniach in vitro stwierdzono, że tygecyklina nie jest współzawodniczącym ani nieodwracalnym
+inhibitorem enzymów CYP-450 (patrz punkt 5.2).
+
+Tygecyklina podawana zdrowym ochotnikom w zalecanych dawkach nie wpływała na szybkość i
+stopień wchłaniania oraz klirens digoksyny (0,5 mg, a następnie 0,25 mg na dobę). Digoksyna nie
+wykazywała wpływu na profil farmakokinetyczny tygecykliny. W związku z tym nie ma konieczności
+modyfikacji dawkowania podczas jednoczesnego stosowania tygecykliny i digoksyny.
+
+W badaniach in vitro nie stwierdzono antagonizmu pomiędzy tygecykliną a innymi powszechnie
+stosowanymi grupami antybiotyków.
+
+Jednoczesne stosowanie antybiotyków i doustnych środków antykoncepcyjnych może zmniejszać
+skuteczność ich działania antykoncepcyjnego.
+
+Z badania in vitro wynika, że tygecyklina jest substratem glikoproteiny P (P-gp). Jednoczesne
+podawanie inhibitorów P-gp (np. ketokonazolu lub cyklosporyny) lub induktorów P-gp (np.
+ryfampicyny) może mieć wpływ na farmakokinetykę tygecykliny (patrz punkt 5.2).
+
+
+4.6 Wpływ na płodność, ciążę i laktację
+
+Ciąża
+
+Nie istnieją dane lub istnieje ograniczona ilość danych dotyczących stosowania tygecykliny u kobiet w
+ciąży. W badaniach na zwierzętach wykazano szkodliwy wpływ tygecykliny na reprodukcję (patrz
+punkt 5.3). Potencjalne zagrożenie dla ludzi jest nieznane. Podobnie jak antybiotyki z grupy
+tetracyklin, tygecyklina może powodować trwałe uszkodzenie zębów (przebarwienie i uszkodzenie
+szkliwa) oraz opóźnienie procesu kostnienia u płodów narażonych na działanie in utero w drugiej
+połowie ciąży, a także u dzieci w wieku poniżej 8 lat, ze względu na odkładanie się antybiotyku w
+tkankach o szybkim cyklu metabolicznym wapnia oraz tworzenie kompleksów chelatowych z
+wapniem (patrz punkt 4.4) Tygecykliny nie należy stosować w okresie ciąży, o ile nie wymaga tego
+stan kliniczny pacjentki.
+
+Karmienie piersią
+
+Nie wiadomo, czy tygecyklina i (lub) jej metabolity przenikają do mleka kobiecego. Na podstawie
+dostępnych danych farmakodynamicznych i (lub) toksykologicznych dotyczących zwierząt
+stwierdzono przenikanie tygecykliny i (lub) jej metabolitów do mleka (patrz punkt 5.3). Nie można
+wykluczyć zagrożenia dla noworodków/niemowląt.. Należy podjąć decyzję, czy przerwać karmienie
+piersią lub przerwać (albo nie podejmować) leczenie tygecykliną, biorąc pod uwagę korzyść z
+karmienia piersią dla dziecka i korzyść z leczenia dla matki.
+
+Płodność
+
+Na podstawie analizy pola pod krzywą stężenia w czasie (AUC) nie stwierdzono wpływu tygecykliny
+na skuteczność krycia ani na płodność szczurów po zastosowaniu w dawkach 4,7-krotnie większych
+niż dawka dobowa stosowana u ludzi. Na podstawie analizy AUC u samic szczura nie stwierdzono
+wpływu produktu na jajniki ani na cykl płodności po zastosowaniu w dawkach 4,7-krotnie większych
+niż dawka dobowa stosowana u ludzi.
+
+
+4.7 Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Mogą wystąpić zawroty głowy, co może mieć wpływ na zdolność prowadzenia pojazdów i
+obsługiwania maszyn (patrz punkt 4.8).
+
+
+4.8 Działania niepożądane
+
+Podsumowanie profilu bezpieczeństwa
+
+W badaniach klinicznych III i IV fazy uczestniczyło łącznie 2 393 pacjentów z powikłanymi
+zakażeniami skóry i tkanek miękkich i powikłanymi zakażeniami wewnątrzbrzusznymi, których
+leczono tygecykliną.
+
+W badaniach klinicznych najczęściej występującymi działaniami niepożądanymi związanymi z
+leczeniem tym produktem leczniczym były: przemijające nudności (21%) i wymioty (13%), na ogół o
+łagodnym lub umiarkowanym nasileniu, które zwykle występowały we wczesnej fazie leczenia (1.- 2
+dniu leczenia).
+
+Poniżej przedstawiono tabelaryczne zestawienie działań niepożądanych związanych ze stosowaniem
+tygecykliny, które zaobserwowano podczas badań klinicznych oraz po wprowadzeniu do obrotu.
+
+Tabelaryczne zestawienie objawów niepożądanych
+
+Klasyfikacja         Bardzo      Często                Niezbyt często        Częstość
+układów              często      od ≥1/100 do <1/10    ≥ 1/1 000 do          nieznana
+i narządów           ≥ 1/10                            < 1/100               (nie może
+                                                                             być określona
+                                                                            na podstawie
+                                                                            dostępnych
+                                                                            danych)
+Zakażenia                         Posocznica /
+i zarażenia                       wstrząs septyczny,
+                                  zapalenie płuc,
+                                  ropień,
+                                  zakażenia
+Zaburzenia                        Wydłużenie czasu     Trombocytopenia,     Hipofibrynogenemia
+krwi                              częściowej           zwiększenie
+i układu                          tromboplastyny po    wartości
+chłonnego                         aktywacji (aPTT),    międzynarodowego
+                                  wydłużenie czasu     współczynnika
+                                  protrombinowego      znormalizowanego
+                                  (PT)                 (INR)
+Zaburzenia układu                                                           Anafilaksja /
+immunologicznego                                                            reakcje
+                                                                            anafilaktoidalne*
+                                                                            (patrz
+                                                                            punkt 4.3 i
+                                                                            4.4)
+Zaburzenia                        Hipoglikemia,
+metabolizmu                       hipoproteinemia
+i odżywiania
+Zaburzenia układu                 Zawroty głowy
+nerwowego
+Zaburzenia                        Zapalenie żył        Zakrzepowe
+naczyniowe                                             zapalenie żył
+Zaburzenia            Nudności,   Ból brzucha,         Ostre zapalenie
+żołądka i jelit       wymioty,    niestrawność,        trzustki
+                      biegunka    jadłowstręt          (patrz punkt 4.4)
+Zaburzenia                        Zwiększenie          Żółtaczka,           żółci* (patrz
+czynności wątroby                 aktywności           uszkodzenie          punkt 4.4)
+i dróg żółciowych                 aminotransferazy     wątroby,
+                                  asparaginianowej     przeważnie
+                                  (AspAT) oraz         z zastojem
+                                  aminotransferazy
+                                  alaninowej
+                                  (AlAT) w
+                                  surowicy,
+                                  hiperbilirubinemia
+Zaburzenia skóry                  Świąd, wysypka                            Ciężkie reakcje
+i tkanki podskórnej                                                         skórne, w tym
+                                                                            zespół Stevensa-
+                                                                            Johnsona
+Zaburzenia ogólne                 Zaburzenia gojenia   Stan zapalny w
+i stany w miejscu                 się ran, reakcja w   miejscu
+podania                           miejscu              wstrzyknięcia, ból
+                                  wstrzyknięcia, ból   w miejscu
+                                  głowy                wstrzyknięcia,
+                                                       obrzęk w miejscu
+                                                       wstrzyknięcia,
+                                                       zapalenie żył w
+                                                       miejscu
+                                                    wstrzyknięcia
+Badania                         Zwiększenie
+diagnostyczne                   aktywności
+                                amylazy w
+                                surowicy,
+                                zwiększenie
+                                stężenia azotu
+                                mocznikowego we
+                                krwi (BUN)
+*Działania niepożądane stwierdzone po wprowadzeniu do obrotu
+
+Opis wybranych działań niepożądanych
+
+Działania charakterystyczne dla antybiotyków:
+
+rzekomobłoniaste zapalenie jelita grubego o nasileniu od łagodnego do zagrażającego życiu (patrz
+punkt 4.4);
+
+nadmierne namnażanie się organizmów niewrażliwych, w tym grzybów (patrz punkt 4.4)
+
+Działania charakterystyczne dla tetracyklin:
+
+Antybiotyki z grupy glicylocyklin charakteryzują się podobną budową chemiczną do antybiotyków
+tetracyklinowych. Działania niepożądane antybiotyków z grupy tetracyklin mogą obejmować
+nadwrażliwość na światło, guz rzekomy mózgu, zapalenie trzustki oraz działanie antyanaboliczne,
+które prowadzi do zwiększenia stężenia azotu mocznikowego we krwi, azotemii, kwasicy oraz
+hiperfosfatemii (patrz punkt 4.4).
+
+Stosowanie tygecykliny w okresie rozwoju zębów może być związane z ich trwałym przebarwieniem
+(patrz punkt 4.4).
+
+W badaniach klinicznych III i IV fazy dotyczących powikłanych zakażeń skóry i tkanek miękkich i
+powikłanych zakażeń wewnątrzbrzusznych ciężkie działania niepożądane związane z zakażeniem
+zgłaszano częściej u pacjentów leczonych tygecykliną (7,1%) niż w grupach kontrolnych, którym
+podawano lek porównawczy (5,3%). Stwierdzono znaczącą różnicę w częstości występowania
+posocznicy i wstrząsu septycznego u pacjentów leczonych tygecykliną (2,2%) w porównaniu grupą,
+której podawano lek porównawczy (1,1%).
+
+Zaburzenia aktywności AspAT i AlAT u pacjentów leczonych tygecykliną zgłaszano w okresie po
+leczeniu częściej niż u pacjentów otrzymujących lek porównawczy, u których z kolei zaburzenia te
+obserwowano częściej podczas leczenia.
+
+We wszystkich badaniach III i IV fazy dotyczących powikłanych zakażeń skóry i tkanek miękkich i
+powikłanych zakażeń wewnątrzbrzusznych zgon nastąpił u 2,4% (54/2216) pacjentów otrzymujących
+tygecyklinę i u 1,7% (37/2206) pacjentów, którym podawano leki porównawcze.
+
+Dzieci i młodzież
+
+Dostępne są bardzo ograniczone dane dotyczące bezpieczeństwa stosowania pochodzące z dwóch
+badań farmakokinetycznych (patrz punkt 5.2). W badaniach tych nie zaobserwowano żadnych nowych
+lub nieoczekiwanych działań niepożądanych związanych z tygecykliną.
+
+W otwartym badaniu farmakokinetycznym z zastosowaniem coraz większych, pojedynczych dawek
+tygecykliny oceniano bezpieczeństwo stosowania tego produktu u 25 dzieci w wieku od 8 do 16 lat, u
+których niedawno wyleczono zakażenie. Profil działań niepożądanych tygecykliny w tej grupie dzieci
+był zasadniczo zgodny z obserwowanym u dorosłych pacjentów.
+
+Bezpieczeństwo stosowania tygecykliny oceniano również w otwartym badaniu
+farmakokinetycznym z zastosowaniem coraz większych, wielokrotnych dawek leku u 58 dzieci w
+wieku od 8 do 11 lat z powikłanymi zakażeniami skóry i tkanek miękkich (n=15), z powikłanymi
+zakażeniami wewnątrzbrzusznymi (n=24) lub pozaszpitalnym zapaleniem płuc (n=19). Profil działań
+niepożądanych u tych 58 pacjentów był zasadniczo zgodny z obserwowanym u dorosłych, z
+wyjątkiem nudności (48,3%), wymiotów (46,6%) i zwiększonej aktywności lipazy w surowicy (6,9%),
+które występowały częściej u dzieci niż u dorosłych.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to stałe monitorowanie stosunku korzyści do ryzyka stosowania produktu
+leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie
+podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych
+Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i
+Produktów Biobójczych:
+Al. Jerozolimskie 181C, 02-222 Warszawa,
+tel. +48 22 49-21-301,
+fax: +48 22 49-21-309,
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+
+4.9 Przedawkowanie
+Brak szczegółowych informacji dotyczących leczenia w przypadku przedawkowania. Po dożylnym
+podaniu tygecykliny w pojedynczej dawce 300 mg w ciągu 60 minut u zdrowych ochotników
+stwierdzono zwiększenie częstości występowania nudności i wymiotów. Tygecyklina nie jest usuwana
+w znaczących ilościach podczas hemodializy
+
+
+5. WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1 Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: leki przeciwbakteryjne do stosowania ogólnego, tetracykliny, kod ATC:
+J01AA12.
+
+Mechanizm działania
+
+Tygecyklina, należąca do grupy antybiotyków glicylocyklinowych, hamuje proces translacji białek w
+komórkach bakterii poprzez wiązanie się z podjednostką 30S rybosomu i blokowanie przyłączania
+cząsteczek aminoacylo-tRNA do miejsca A rybosomu. Zapobiega to wbudowywaniu reszt
+aminokwasowych podczas procesu wydłużania łańcuchów peptydowych.
+
+Tygecyklina jest zaliczana do substancji o działaniu bakteriostatycznym. Podczas stosowania
+tygecykliny w stężeniu 4-krotnie przekraczającym najmniejsze stężenie hamujące (ang. Minimum
+Inhibitory Concentration, MIC) obserwowano 2-krotne (w skali logarytmicznej) zmniejszenie
+liczebności kolonii Enterococcus spp., Staphylococcus aureus i Escherichia coli.
+
+Mechanizm oporności
+
+Tygecyklina jest w stanie pokonać dwa główne mechanizmy oporności na tetracykliny – ochrony
+rybosomu i pompy usuwającej antybiotyk z komórki bakteryjnej. Jednakże u opornych na
+minocyklinę wyizolowanych szczepów Enterobacteriaceae wykazano występowanie oporności
+krzyżowej z tygecykliną, wywołanej działaniem pomp usuwających lek z komórki i warunkujących
+wielolekooporność (ang. multi drug resistance, MDDR). Pomiędzy tygecykliną i większością grup
+antybiotyków nie występuje oporność krzyżowa związana z miejscem docelowego działania
+antybiotyku.
+
+Tygecyklina jest podatna na kodowane chromosomalnie, wielolekowe pompy usuwające produkt z
+komórki u bakterii z rodziny Proteeae i u Pseudomonas aeruginosa. Patogeny z rodziny Proteeae
+(Proteus spp., Providencia spp. i Morganella spp.) na ogół wykazują mniejszą wrażliwość na
+działanie tygecykliny niż inni przedstawiciele Enterobacteriaceae. Obniżenie wrażliwości w obu
+grupach przypisuje się nadekspresji niespecyficznej wielolekowej pompy AcrAB. Zmniejszenie
+wrażliwości Acinetobacter baumannii przypisuje się nadekspresji pompy AdeABC.
+
+Wartości graniczne
+
+Poniżej przedstawiono wartości graniczne najmniejszego stężenia hamującego (ang. minimum
+inhibitory concentration, MIC) ustalone przez Europejski Komitet ds Oznaczania Lekowrażliwości
+Drobnoustrojów (ang. European Committee on Antimicrobial Susceptibility Testing, EUCAST):
+
+Staphylococcus spp. W ≤ 0,5 mg/l i O > 0,5 mg/l
+Streptococcus spp. Inne niż S. pneumoniae W ≤ 0,25 mg/l i O > 0,5 mg/l
+Enterococcus spp. W ≤ 0,25 mg/l i O > 0,5 mg/l
+Enterobacteriaceae W ≤ 1(^) mg/l i O > 2 mg/l
+
+(^) W warunkach in vitro tygecyklina wykazuje słabsze działanie na Proteus, Providencia i
+Morganella spp.
+
+Istnieją dowody kliniczne potwierdzające skuteczność tygecykliny przeciwko bakteriom beztlenowym
+wywołującym mieszane zakażenia wewnątrzbrzuszne, jednak nie ustalono korelacji pomiędzy
+wartościami MIC, danymi farmakokinetycznymi i farmakodynamicznymi oraz przebiegiem
+klinicznym Dlatego nie podano granicznych wartości wrażliwości. Należy pamiętać, że zakres
+wartości MIC tygecykliny dla drobnoustrojów należących do rodzajów Bacteroides oraz Clostridium
+jest szeroki i wartości te mogą przekraczać 2 mg/l.
+
+Istnieją ograniczone dowody na skuteczność kliniczną tygecykliny wobec enterokoków., jednak w
+badaniach klinicznych wykazano odpowiedź na leczenie tygecykliną wewnątrzbrzusznych zakażeń
+florą mieszaną.
+
+Wrażliwość
+
+Rozkład nabytej oporności wśród poszczególnych gatunków drobnoustrojów może zmieniać się w
+zależności od położenia geograficznego i czasu, dlatego konieczne jest uwzględnienie lokalnych
+danych na temat oporności, zwłaszcza podczas leczenia ciężkich zakażeń Jeżeli, ze względu na
+występujący lokalnie rozkład oporności, zastosowanie produktu w co najmniej kilku typach zakażeń
+budzi wątpliwości, należy zasięgnąć porady specjalisty.
+
+Drobnoustroje
+Gatunki bakterii zwykle wykazujące wrażliwość
+Tlenowe bakterie Gram-dodatnie
+Enterococcus spp.†
+Staphylococcus aureus*
+Staphylococcus epidermidis
+Staphylococcus haemolyticus
+Streptococcus agalactiae*
+Grupa Streptococcus anginosus* (w tym S. anginosus, S. intermedius i S. constellatus)
+Streptococcus pyogenes*
+Paciorkowce grupy viridans
+
+Tlenowe bakterie Gram-ujemne
+Citrobacter freundii*
+Citrobacter koseri
+Escherichia coli*
+Klebsiella oxytoca*
+
+Bakterie beztlenowe
+Clostridium perfringens†
+Peptostreptococcus spp.†
+Prevotella spp.
+Gatunki bakterii, w przypadku których może wystąpić oporność nabyta
+Tlenowe bakterie Gram-ujemne
+Acinetobacter baumannii
+Burkholderia cepacia
+Enterobacter aerogenes
+Enterobacter cloacae*
+Klebsiella pneumoniae*
+Morganella morganii
+Proteus spp.
+Providencia spp.
+Drobnoustroje
+Serratia marcescens
+Stenotrophomonas maltophilia
+
+Bakterie beztlenowe
+Grupa Bacteroides fragilis†
+Organizmy wykazujące oporność naturalną
+Tlenowe bakterie Gram-ujemne
+Pseudomonas aeruginosa
+* Oznacza gatunki, w przypadku których w badaniach klinicznych wykazano zadowalającą
+skuteczność produktu.
+† Patrz powyżej punkt 5.1 „Wartości graniczne”.
+
+Elektrofizjologia serca
+W badaniu z randomizacją, z czterema grupami i grupą kontrolną przyjmującą placebo i aktywny
+produkt, prowadzonym w układzie naprzemiennym, mającym na celu dokładną analizę odstępu QTc,
+w którym brało udział 46 zdrowych uczestników, nie stwierdzono istotnego wpływu tygecykliny na
+długość odstępu QTc po podaniu pojedynczej dawki dożylnej 50 lub 200 mg.
+
+Dzieci i młodzież
+W otwartym badaniu z zastosowaniem coraz większych, wielokrotnych dawek tygecykliny (0,75; 1
+lub 1,25 mg/kg mc.) lek ten podawano 39 dzieciom w wieku od 8 do 11 lat z powikłanymi
+zakażeniami wewnątrzbrzusznymi lub powikłanymi zakażeniami skóry i tkanek miękkich. Wszyscy
+pacjenci otrzymywali tygecyklinę dożylnie przez minimum 3 kolejne dni, a maksymalnie przez 14
+kolejnych dni. Możliwa była zmiana stosowanego leczenia na antybiotyk doustny, począwszy od dnia
+4. Wyleczenie kliniczne oceniano po upływie 10 – 21 dni od podania ostatniej dawki produktu. Dane
+dotyczące odpowiedzi klinicznej w zmodyfikowanej populacji zgodnej z zaplanowanym leczeniem
+(ang. modified intent-to-treat, mITT) przedstawiono w poniższej tabeli.
+                             Wyleczenie kliniczne, populacja mITT
+                              0,75 mg/kg        1 mg/kg          1,25 mg/kg
+          Wskazanie           n/N (%)           n/N (%)          n/N (%)
+          Powikłane           6/6 (100,0)       3/6 (50,0)       10/12 (83,3)
+          zakażenia
+          wewnątrzbrzuszne
+          Powikłane         3/4 (75,0)           5/7 (71,4)          2/4 (50,0)
+          zakażenia skóry i
+          tkanek miękkich
+          Razem             9/10 (90,0)          8/13 (62,0 %)       12/16 (75,0)
+
+Do powyższych danych dotyczących skuteczności należy podchodzić z ograniczonym zaufaniem,
+ponieważ w tym badaniu dozwolone było jednoczesne stosowanie innych antybiotyków Ponadto
+należy również wziąć pod uwagę małą liczbę pacjentów uczestniczących w badaniu.
+
+5.2 Właściwości farmakokinetyczne
+
+Wchłanianie
+
+Tygecyklina jest podawana dożylnie, dlatego jej biodostępność wynosi 100%.
+
+Dystrybucja
+
+W zakresie stężeń obserwowanych podczas badań klinicznych (0,1-1,0 µg/ml) tygecyklina w
+warunkach in vitro wiąże się z białkami osocza w około 71% do 89%. W badaniach
+farmakokinetycznych prowadzonych na zwierzętach i z udziałem ludzi wykazano dobrą dystrybucję
+tkankową tygecykliny.
+U szczurów, którym podawano pojedyncze lub wielokrotne dawki tygecykliny znakowanej izotopem
+14
+  C, stwierdzono dobrą dystrybucję radioaktywności do większości tkanek, przy czym największą
+całkowitą ekspozycję obserwowano w szpiku kostnym, śliniankach, tarczycy, śledzionie i nerkach. U
+ludzi objętość dystrybucji tygecykliny w stanie stacjonarnym wynosiła średnio od 500 do 700 l (7 do 9
+l/kg), co oznacza, że dystrybucja tygecykliny znacznie przekracza objętość osocza i dochodzi do
+koncentracji produktu w tkankach.
+
+Brak danych potwierdzających, że tygecyklina może przenikać przez barierę krew-mózg u ludzi.
+W badaniach klinicznych dotyczących właściwości farmakologicznych podczas stosowania
+zalecanego schematu dawkowania: początkowo 100 mg, a następnie 50 mg co 12 godzin, maksymalne
+stężenie tygecykliny w surowicy w stanie stacjonarnym (Cmax) wyniosło 866±233 ng/ml w przypadku
+podawania w 30-minutowej infuzji oraz 634±97 ng/ml w przypadku infuzji 60-minutowej. Pole pod
+krzywą (AUC0-12 h) w stanie stacjonarnym wyniosło 2 349±850 ng•h/ml.
+
+Metabolizm
+
+Ocenia się, że średnio mniej niż 20% tygecykliny podlega metabolizmowi przed wydaleniem. Po
+podaniu tygecykliny znakowanej izotopem 14C zdrowym ochotnikom płci męskiej stwierdzono, że
+głównym źródłem izotopu 14C w moczu i stolcu była niezmieniona tygecyklina, ale wykazano również
+obecność glukuronidu, metabolitu N-acetylowego oraz epimeru tygecykliny.
+
+W badaniach in vitro wykazano, że tygecyklina nie powoduje współzawodniczącego hamowania
+metabolizmu z udziałem któregokolwiek z następujących 6 izoenzymów cytochromu P-450 (CYP):
+1A2, 2C8, 2C9, 2C19, 2D6 i 3A4 w mikrosomach ludzkiej wątroby. Ponadto tygecyklina nie
+wykazuje zależności od NADPH w hamowaniu CYP2C9, CYP2C19, CYP2D6 oraz CYP3A, co
+świadczy o tym, że nie występuje taki mechanizm hamowania tych enzymów CYP.
+
+Eliminacja (wydalanie)
+Wartość odzysku pełnej dawki radioaktywności w kale i moczu po podaniu tygecykliny znakowanej
+radioizotopem 14C świadczy, że 59% dawki jest wydalane z żółcią i kałem, a 33% dawki z moczem.
+Reasumując, główną drogą eliminacji tygecykliny jest wydalanie z żółcią niezmienionej cząsteczki
+leku, a glukuronidacja oraz wydalanie przez nerki niezmienionej tygecykliny stanowią dodatkowe
+drogi eliminacji.
+
+Klirens całkowity tygecykliny po podaniu dożylnym wynosi 24 l/godz., przy czym klirens nerkowy
+stanowi około 13% klirensu całkowitego. Proces eliminacji tygecykliny z osocza ma przebieg
+wielowykładniczy; średni końcowy okres półtrwania w fazie eliminacji po podaniu dawek
+wielokrotnych wynosi 42 godz., przy czym istnieje znaczna zmienność osobnicza.
+
+Z badań in vitro z zastosowaniem komórek Caco-2 wynika, że tygecyklina nie hamuje przepływu
+digoksyny, co wskazuje, że nie jest ona inhibitorem glikoproteiny P (P-gp). Dane te, uzyskane z badań
+in vitro, są zgodne z brakiem wpływu tygecykliny na klirens digoksyny zaobserwowanym w wyżej
+opisanym badaniu interakcji leków in vivo (patrz punkt 4.5).
+
+Tygecyklina jest substratem glikoproteiny P-gp, co stwierdzono na podstawie badania in vitro z
+zastosowaniem linii komórek z nadekspresją glikoproteiny P-gp. Możliwy udział transportu,
+odbywającego się za pośrednictwem glikoproteiny P-gp, w rozmieszczeniu tygecykliny in vivo nie jest
+znany Jednoczesne podawanie inhibitorów glikoproteiny P-gp (np. ketokonazolu lub cyklosporyny)
+lub induktorów glikoproteiny P-gp (np. ryfampicyny) może mieć wpływ na farmakokinetykę
+tygecykliny.
+
+Specjalne grupy pacjentów
+
+Zaburzenia czynności wątroby
+U pacjentów z łagodnymi zaburzeniami czynności wątroby nie stwierdzono zmian właściwości
+farmakokinetycznych po podaniu pojedynczej dawki tygecykliny, jednak u osób z umiarkowanymi lub
+ciężkimi zaburzeniami czynności wątroby (stopień B i C w skali Childa-Pugha) stwierdzono
+zmniejszenie ogólnoustrojowego klirensu tygecykliny odpowiednio o 25% i 55% oraz wydłużenie
+okresu półtrwania odpowiednio o 23% i 43% (patrz punkt 4.2).
+
+Zaburzenia czynności nerek
+U pacjentów z niewydolnością nerek (klirens kreatyniny <30 ml/min, n=6) podanie pojedynczej dawki
+tygecykliny nie wpłynęło na właściwości farmakokinetyczne. Pole pod krzywą (AUC) u pacjentów z
+ciężkimi zaburzeniami czynności nerek było o 30% większe niż u osób z prawidłową czynnością
+nerek (patrz punkt 4.2).
+
+Pacjenci w podeszłym wieku
+Nie zaobserwowano ogólnych różnic pod względem właściwości farmakokinetycznych pomiędzy
+zdrowymi osobami w podeszłym wieku i osobami młodszymi (patrz punkt 4.2).
+
+Dzieci i młodzież
+Farmakokinetykę tygecykliny przeanalizowano w trakcie dwóch badań klinicznych Do pierwszego
+badania zakwalifikowano dzieci w wieku od 8 do 16 lat (n=24), którym dożylnie przez 30 minut
+podawano pojedyncze dawki tygecykliny (0,5, 1 lub 2 mg/kg mc. do maksymalnej dawki wynoszącej
+odpowiednio 50 mg, 100 mg i 150 mg). Drugie badanie przeprowadzono z udziałem dzieci w wieku
+od 8 do 11 lat (n=47), którym co 12 godzin podawano dożylnie przez 30 minut wielokrotne dawki
+tygecykliny (0,75, 1 lub 1,25 mg/kg mc. do maksymalnej dawki 50 mg). W badaniach tych nie
+podawano dawki nasycającej. Parametry farmakokinetyczne przedstawiono w poniższej tabeli.
+
+Dawka znormalizowana do 1 mg/kg mc., średnia ± odchylenie standardowe, Cmax i AUC
+tygecykliny u dzieci
+Wiek (lata)            N                       Cmax (ng/ml)            AUC (ng•h/ml)*
+Dawka pojedyncza
+8 – 11                 8                       3881 ± 6637             4034 ± 2874
+12 – 16                16                      8508 ± 11433            7026 ± 4088
+Dawka wielokrotna
+
+8 – 11                 42                      1911 ± 3032             2404 ± 1000
+
+* AUC0-∞ po podaniu dawki pojedynczej, AUC0-12h po podaniu dawek wielokrotnych
+
+
+Docelowa wartość AUC0-12h u dorosłych po podaniu zalecanej dawki nasycającej 100 mg oraz dawki
+50 mg co 12 godzin wynosiła średnio 2500 ng•h/ml.
+W populacyjnej analizie farmakokinetyki danych z obu badań wykazano, że parametrem związanym z
+klirensem tygecykliny u dzieci w wieku 8 lat i starszych była masa ciała. Schemat dawkowania 1,2
+mg/kg mc. tygecykliny co 12 godzin (do maksymalnej dawki 50 mg co 12 godzin) u dzieci w wieku
+od 8 do <12 lat i 50 mg co 12 godzin u młodzieży w wieku od 12 do <18 lat prawdopodobnie
+spowoduje ekspozycję na lek porównywalną do obserwowanej u dorosłych leczonych z
+zastosowaniem zatwierdzonego schematu dawkowania.
+
+U kilkorga dzieci w tych badaniach obserwowano większe wartości Cmax niż u dorosłych pacjentów,
+zatem należy zwracać uwagę na szybkość podawania tygecykliny w infuzji u dzieci i młodzieży
+
+Płeć
+Nie stwierdzono istotnych klinicznie różnic pod względem klirensu tygecykliny u mężczyzn i kobiet.
+Ocenia się, że wartość AUC u kobiet jest o 20% większa niż u mężczyzn.
+
+Rasa
+Nie stwierdzono różnic pod względem klirensu tygecykliny w zależności od rasy.
+
+Masa
+Nie stwierdzono znacznych różnic pod względem klirensu, klirensu znormalizowanego względem
+masy ciała oraz AUC u osób z różną masą ciała, w tym masą ciała ≥ 125 kg. Wartość AUC była
+mniejsza o 24% w grupie pacjentów o masie ciała ≥ 125 kg. Brak danych dotyczących pacjentów o
+masie ciała równej lub większej niż 140 kg.
+
+5.3 Przedkliniczne dane o bezpieczeństwie
+
+W badaniach toksyczności przeprowadzonych na szczurach i psach z zastosowaniem dawek
+wielokrotnych, powodujących narażenie odpowiadające 8-oraz 10-krotności narażenia występującego
+po podaniu dawek dobowych stosowanych u ludzi (oceniane na podstawie pola pod krzywą),
+obserwowano zmniejszenie liczby komórek limfoidalnych i(lub) zanik węzłów chłonnych, śledziony i
+grasicy, zmniejszenie liczby erytrocytów, retikulocytów, leukocytów i płytek krwi, związane ze
+zmniejszeniem liczby komórek szpiku kostnego, oraz działania niepożądane na nerki i układ
+pokarmowy.Wykazano, że zaburzenia te miały charakter tymczasowy i ustępowały po 2 tygodniach
+leczenia.
+
+U szczurów obserwowano nieodwracalne przebarwienie kości po 2 tygodniach leczenia.
+
+Wyniki badań na zwierzętach wskazują, że tygecyklina przenika przez barierę łożyska i wykrywana
+jest w tkankach płodu. W badaniach toksycznego wpływu tygecykliny na reprodukcję obserwowano
+zmniejszenie masy ciała szczurzych i króliczych płodów (wraz z opóźnieniem procesu kostnienia)
+oraz utratę płodów u królików. Tygecyklina nie wykazuje działania teratogennego u szczurów i
+królików. Na podstawie analizy pola pod krzywą stężenia w czasie (AUC) nie stwierdzono wpływu
+tygecykliny na skuteczność krycia ani na płodność szczurów po zastosowaniu w dawkach 4,7-krotnie
+większych niż dawka dobowa stosowana u ludzi. Na podstawie analizy AUC u samic szczura nie
+stwierdzono wpływu produktu na jajniki ani na cykl płodności po zastosowaniu w dawkach 4,7-
+krotnie większych niż dawka dobowa stosowana u ludzi.
+
+Wyniki badań na zwierzętach wskazują, że tygecyklina znakowania izotopem 14C szybko
+przenika do mleka samic szczurów w okresie laktacji. Ze względu na ograniczoną dostępność
+biologiczną tygecykliny po podaniu doustnym, ogólnoustrojowe narażenie na tygecyklinę osesków
+karmionych mlekiem samic otrzymujących tygecyklinę jest minimalne lub nie występuje.
+
+Nie przeprowadzono badań potencjalnego działania rakotwórczego tygecykliny obejmujących
+obserwację całego cyklu życia zwierząt, jednak wyniki krótkoterminowych badań genotoksyczności
+były negatywne.
+
+W badaniach na zwierzętach, podanie tygecykliny w pojedynczym wstrzyknięciu dożylnym (bolus)
+było związane z wystąpieniem reakcji histaminowej. Działanie takie obserwowano w badaniach na
+szczurach i psach, u których narażenie matek przekraczało odpowiednio 14- oraz 3-krotnie narażenie
+występujące po dawkach dobowych stosowanych u ludzi (oceniane na podstawie pola pod krzywą,
+AUC).
+
+W badaniach na szczurach nie wykazano nadwrażliwości na światło po podaniu tygecykliny.
+
+
+6. DANE FARMACEUTYCZNE
+
+6.1 Wykaz substancji pomocniczych
+
+Arginina
+Kwas solny stężony (do ustalenia pH)
+Sodu wodorotlenek (do ustalenia pH)
+
+6.2 Niezgodności
+
+Następujących substancji czynnych nie należy podawać przez ten sam łącznik typu Y do wlewów
+dożylnych, przez który podaje się tygecyklinę: amfoterycyna B, kompleks lipidowy amfoterycyny B,
+diazepam, ezomeprazol, omeprazol i roztwory dożylne, których zastosowanie może prowadzić do
+podwyższenia pH powyżej 7.
+
+Nie mieszać produktu leczniczego z innymi produktami leczniczymi, z wyjątkiem wymienionych w
+punkcie 6.6.
+
+
+6.3 Okres ważności
+
+2 lata.
+
+Stwierdzono, że tygecyklina wykazuje trwałość chemiczną i fizyczną w warunkach użytkowania po
+zmieszaniu z 0,9% roztworem chlorku sodu do wstrzykiwań lub 5% roztworem glukozy. Preparat ten
+należy natychmiast przelać do worka do wlewów dożylnych, a następnie można go przechowywać w
+lodówce w temperaturze od 2º do 8ºC przez okres do 48 godzin.
+
+Z mikrobiologicznego punktu widzenia produkt należy zużyć bezzwłocznie.
+Jeżeli nie zostanie on natychmiast zużyty, za czas i warunki przechowywania przed zastosowaniem
+odpowiada użytkownik. Czas ten nie powinny przekraczać 24 godzin, w temperaturze 2-8ºC, chyba że
+rozpuszczenie/rozcieńczenie przeprowadzono w kontrolowanych i zwalidowanych warunkach
+aseptycznych.
+
+
+6.4 Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w temperaturze poniżej 25°C.
+
+Informacje na temat przechowywania produktu leczniczego po rekonstytucji, patrz punkt 6.3.
+
+
+6.5 Rodzaj i zawartość opakowania
+
+Fiolka o pojemności 5 ml z bezbarwnego szkła typu I, z korkiem z gumy bromobutylowej
+i aluminiowym uszczelnieniem oraz plastikowym wieczkiem typu „flip off”. Tygecyklina jest
+dostarczana w opakowaniach zawierających 10 fiolek lub 1 fiolkę.
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+
+6.6 Specjalne środki ostrożności dotyczące usuwania
+
+Aby uzyskać roztwór tygecykliny o stężeniu 10 mg/ml, liofilizowany proszek należy rozpuścić w 5,3
+ml 0,9% (9 mg/ml) roztworu chlorku sodu do wstrzykiwań, 5% (50 mg/ml) roztworu glukozy do
+wstrzykiwań lub roztworze Ringera z dodatkiem mleczanu do wstrzykiwań. Należy ostrożnie mieszać
+zawartość fiolki ruchem okrężnym, aż dojdzie do rozpuszczenia produktu leczniczego. Następnie
+należy bezzwłocznie pobrać z fiolki 5 ml przygotowanego roztworu i dodać do 100 ml worka do
+wlewów dożylnych lub innego stosownego pojemnika (np. szklanej butelki).
+
+W celu sporządzenia dawki 100 mg należy rozpuścić proszek z dwóch fiolek i dodać do worka do
+wlewów dożylnych o pojemności 100 ml lub innego stosownego pojemnika (np. szklanej butelki).
+Uwaga: W fiolce znajduje się nadmiar leku wynoszący 6%. W związku z tym 5 ml przygotowanego
+roztworu odpowiada 50 mg substancji czynnej. Roztwór po przygotowaniu powinien mieć barwę żółtą
+do pomarańczowej; w przeciwnym wypadku należy go wyrzucić. Przed zastosowaniem produktów
+przeznaczonych do podawania pozajelitowego należy upewnić się, czy nie zawierają widocznych
+drobin bądź czy nie doszło do zmiany barwy roztworu (np. na zieloną lub czarną).
+
+Tygecyklinę należy podawać dożylnie przez odrębny przewód do wlewów bądź przez łącznik typu Y.
+Jeżeli przez ten sam przewód do wlewów dożylnych podaje się kolejno kilka substancji czynnych,
+przed rozpoczęciem infuzji tygecykliny i po jej zakończeniu należy przepłukać przewód 0,9%
+(9 mg/ml) roztworem chlorku sodu do wstrzykiwań lub 5% (50 mg/ml) roztworem glukozy do
+wstrzykiwań. Przez wspólną linię do wlewów należy wstrzykiwać jedynie roztwory wykazujące
+zgodność z tygecykliną i pozostałymi produktami leczniczymi (patrz punkt 6.2).
+
+Produkt przeznaczony wyłącznie do jednorazowego użytku; wszelkie niewykorzystane resztki
+produktu leczniczego lub jego odpady należy usunąć zgodnie z lokalnymi przepisami.
+
+Zgodne roztwory do wlewów dożylnych to: 0,9% (9 mg/ml) roztwór chlorku sodu do wstrzykiwań,
+5% (50 mg/ml) roztwór glukozy do wstrzykiwań oraz roztwór Ringera z dodatkiem mleczanu do
+wstrzykiwań.
+
+Wykazano zgodność roztworu tygecykliny, podawanej przez łącznik typu Y po rozcieńczeniu w 0,9%
+roztworze chlorku sodu do wstrzykiwań, z następującymi produktami leczniczymi lub
+rozpuszczalnikami: amikacyna, dobutamina, chlorowodorek dopaminy, gentamycyna, haloperidol,
+płyn Ringera z dodatkiem mleczanu, chlorowodorek lidokainy,metoklopramid, morfina,
+norepinefryna, piperacylina z tazobaktamem (w postaci zawierającej EDTA), chlorek potasu,
+propofol, chlorowodorek ranitydyny, teofilina i tobramycyna.
+
+
+7. PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA DOPUSZCZENIE
+DO OBROTU
+
+Solinea Sp. z o.o. Sp. K.
+Elizówka 65
+21-003 Ciecierzyn
+Tel. 81-4634882
+Faks 81-4634886
+e-mail: info@solinea.pl
+
+
+8. NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+26500
+
+9. DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU/
+PRZEDŁUŻENIA POZWOLENIA
+
+05-07-2021
+
+10. DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+25-02-2021
+

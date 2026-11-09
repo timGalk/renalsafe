@@ -1,0 +1,791 @@
+                       CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+1.      NAZWA PRODUKTU LECZNICZEGO
+
+Propofol Farmak, 20 mg/mL, emulsja do wstrzykiwań/do infuzji
+
+
+2.      SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+1 mL emulsji zawiera 20 mg propofolu.
+1 fiolka po 20 mL zawiera 400 mg propofolu.
+1 fiolka po 50 mL zawiera 1000 mg propofolu
+1 fiolka po 100 mL zawiera 2000 mg propofolu.
+
+Substancje pomocnicze o znanym działaniu:
+1 mL emulsji zawiera 100 mg oleju sojowego oczyszczonego.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.      POSTAĆ FARMACEUTYCZNA
+
+Emulsja do wstrzykiwań/do infuzji
+Biała lub prawie biała, jednorodna emulsja
+pH 6,0-8,5
+osmolalność 270 – 330 mOsmol/kg
+
+
+4.      SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1     Wskazania do stosowania
+
+Propofol Farmak, 20 mg/mL jest to krótko działający dożylny lek znieczulający przeznaczony do:
+−     wprowadzenia i podtrzymania znieczulenia u dorosłych i dzieci w wieku powyżej 3 lat;
+−     sedacji dorosłych i dzieci w wieku powyżej 3 lat poddawanych zabiegom diagnostycznym i
+      chirurgicznym, jako pojedynczy produkt leczniczy lub w skojarzeniu z innymi produktami
+      leczniczymi stosowanymi w celu wywołania znieczulenia miejscowego lub regionalnego;
+−     sedacji pacjentów w wieku powyżej 16 lat wentylowanych mechanicznie na oddziałach
+      intensywnej opieki medycznej (OIOM).
+
+4.2     Dawkowanie i sposób podawania
+
+Produkt leczniczy Propofol Farmak może być podawany wyłącznie przez lekarzy posiadających
+wyszkolenie w zakresie anestezjologii lub intensywnej terapii. Sedacja lub znieczulenie produktem
+leczniczym Propofol Farmak nie może być przeprowadzana przez tę samą osobę, która przeprowadza
+zabieg diagnostyczny lub zabieg chirurgiczny.
+
+Należy stale monitorować wydolność krążeniową i oddechową (np. EKG, pulsoksymetr).
+
+Przez cały czas muszą być łatwo dostępne urządzenia do utrzymania drożności dróg oddechowych
+pacjenta, zastosowania sztucznej wentylacji, podania dodatkowego tlenu oraz przeprowadzania
+resuscytacji.
+
+Dawka produktu leczniczego Propofol Farmak powinna być dobrana indywidualnie w zależności od
+reakcji pacjenta i zastosowanej premedykacji.
+
+Zazwyczaj, oprócz produktu leczniczego Propofol Farmak, konieczne jest podanie dodatkowych
+
+DE/H/7622/002/II/007                                                                                1
+leków przeciwbólowych.
+Nie zaleca się podawania produktu leczniczego Propofol Farmak 20 mg/mL w bolusie.
+
+Dorośli
+Wprowadzenie do znieczulenia
+
+W celu wprowadzenia do znieczulenia podaje się produkt leczniczy Propofol Farmak, dawkując 20-
+40 mg propofolu co 10 sekund, aż do pojawienia się utraty przytomności.
+
+Większość dorosłych pacjentów w wieku poniżej 55 lat wymaga zazwyczaj podania całkowitej dawki
+wynoszącej od 1,5 do 2,5 mg propofolu na kg mc.
+
+U pacjentów z III i IV grupą ryzyka znieczulenia wg klasyfikacji ASA (ang. American Society of
+Anesthesiologists), w szczególności tych z istniejącą wcześniej niewydolnością serca oraz u pacjentów
+w podeszłym wieku może być konieczne zmniejszenie całkowitej dawki produktu leczniczego
+Propofol Farmak do 1 mg propofolu/kg mc., wraz ze zmniejszoną szybkością podawania produktu
+leczniczego Propofol Farmak (około 20 mg propofolu co 10 sekund).
+
+Podtrzymanie znieczulenia
+
+Propofol Farmak 20 mg/mL: znieczulenie można utrzymać podając Propofol Farmak w postaci infuzji
+ciągłej w celu utrzymania odpowiedniej głębokości znieczulenia. Nie zaleca się podawania leku
+Propofol Farmak 20 mg/mL w bolusie.
+
+Infuzja ciągła
+W przypadku podtrzymania znieczulenia poprzez wlew ciągły, dawkę i szybkość należy dostosować
+indywidualnie. Dawka wymagana do utrzymania odpowiedniego poziomu znieczulenia wynosi 4–
+12 mg propofolu na kilogram masy ciała na godzinę.
+
+U pacjentów w podeszłym wieku, pacjentów w złym stanie ogólnym lub hipowolemią oraz pacjentów
+zakwalifikowanych do III lub IV grupy ryzyka znieczulenia wg klasyfikacji ASA dawkę produktu
+leczniczego Propofol Farmak można zmniejszyć do maksymalnie 4 mg propofolu/kg mc./h.
+
+Dzieci i młodzież
+Wprowadzenie do znieczulenia
+
+Propofol Farmak 20 mg/mL nie jest wskazany do wprowadzenia do znieczulenia u dzieci w wieku
+poniżej 3 lat.
+
+W celu wprowadzenia do znieczulenia, dawkę Propofol Farmak należy podawać powoli, stopniowo
+zwiększając dawkę, aż do wystąpienia objawów klinicznych wskazujących na rozpoczęcie działania
+znieczulenia. Dawkę należy dostosować uwzględniając wiek i (lub) masę ciała. U większości dzieci w
+wieku powyżej 8 lat do wprowadzenia do znieczulenia wymagana dawka wynosi około 2,5 mg
+propofolu/kg mc. produktu leczniczego Propofol Farmak. U młodszych dzieci, w szczególności w
+wieku od 1 miesiąca do 3 lat, wymagana dawka może być większa (od 2,5 do 4 mg/kg mc.).
+U pacjentów zakwalifikowanych do III lub IV grupy ryzyka znieczulenia wg klasyfikacji ASA zaleca
+się stosowanie mniejszych dawek (patrz także punkt 4.4).
+
+Podtrzymanie znieczulenia
+Propofol Farmak 20 mg/mL nie jest wskazany do podtrzymania znieczulenia u dzieci w wieku
+poniżej 3 lat.
+
+Propofol Farmak 20 mg/mL: znieczulenie można podtrzymać u dzieci w wieku powyżej 3 lat, podając
+Propofol Farmak w infuzji w celu utrzymania wymaganej głębokości znieczulenia. Nie ma jeszcze
+wystarczających informacji dotyczących stosowania u dzieci w wieku poniżej 3 lat.
+
+
+
+DE/H/7622/002/II/007                                                                                2
+Wymagane dawki różnią się znacznie u poszczególnych pacjentów, ale dawki w zakresie od 9 do
+15 mg/kg mc./h zwykle pozwalają osiągnąć wymaganą głębokość znieczulenia. U młodszych dzieci,
+zwłaszcza w wieku od 1 miesiąca do 3 lat, może być wymagana większa dawka.
+
+U pacjentów zakwalifikowanych do III lub IV grupy ryzyka znieczulenia wg klasyfikacji ASA zaleca
+się stosowanie mniejszych dawek (patrz także punkt 4.4).
+
+Sedacja u pacjentów w wieku powyżej 16 lat na oddziałach intensywnej terapii
+W celu sedacji pacjentów wentylowanych mechanicznie w trakcie intensywnej opieki medycznej
+zaleca się podawanie produktu leczniczego Propofol Farmak w ciągłej infuzji dożylnej. Dawkę należy
+dostosować w zależności od wymaganego poziomu sedacji. Zadowalający poziom sedacji osiąga się
+zazwyczaj stosując szybkość podawania w zakresie od 0,3 do 4,0 mg propofolu/kg mc./h (patrz
+punkt 4.4).
+
+Nie zaleca się podawania propofolu za pomocą systemu infuzji kontrolowanej docelowo (ang. target
+controlled infusion, TCI) w celu sedacji na oddziale intensywnej terapii.
+
+Sedacja podczas zabiegów diagnostycznych i chirurgicznych u dorosłych
+Podczas podawania produktu leczniczego Propofol Farmak, pacjent musi być stale monitorowany w
+kierunku objawów obniżenia ciśnienia krwi, niedrożności dróg oddechowych i niedoboru tlenu, a pod
+ręką przez cały czas powinien być gotowy do użycia standardowy sprzęt ratunkowy.
+W celu wywołania sedacji podaje się dawki od 0,5 do 1,0 mg propofolu/kg mc. w czasie od 1 do 5
+minut. Podtrzymanie wymaganego poziomu sedacji można osiągnąć dobierając odpowiednio
+szybkość infuzji produktu leczniczego Propofol Farmak. U większości pacjentów wymagane będzie
+zastosowanie od 1,5 do 4,5 mg propofolu/kg mc./h.
+
+Propofol Farmak 10 mg/mL: w razie konieczności szybkiego zwiększenia stopnia sedacji, wlew
+można uzupełnić podaniem bolusa w dawce 10–20 mg.
+
+U pacjentów zakwalifikowanych do III lub IV grupy ryzyka znieczulenia wg klasyfikacji ASA może
+być wymagane zmniejszenie szybkości podawania produktu leczniczego Propofol Farmak. U
+pacjentów w wieku powyżej 55 lat może być również wymagane zastosowanie mniejszych dawek
+tego produktu leczniczego.
+
+Uwaga
+U pacjentów w podeszłym wieku do wprowadzenia do znieczulenia lekiem Propofol Farmak
+wymagane są mniejsze dawki. Należy wziąć pod uwagę stan ogólny i wiek pacjenta. Zmniejszoną
+dawkę należy podawać wolniej i zwiększać ją w zależności od reakcji pacjenta.
+
+W przypadku stosowania produktu leczniczego Propofol Farmak w celu podtrzymania znieczulenia i
+sedacji należy także zmniejszyć szybkość infuzji i wybrane stężenie propofolu we krwi. U pacjentów
+z grup ryzyka ASA III i IV konieczne jest dalsze zmniejszenie dawki i szybkości infuzji. Pacjentom w
+podeszłym wieku nie należy podawać wstrzyknięć w bolusie (pojedynczym lub wielokrotnym),
+ponieważ może to spowodować depresję krążeniową i oddechową.
+
+Sedacja podczas zabiegów diagnostycznych i chirurgicznych u dzieci w wieku powyżej 3 lat
+Propofol Farmak 20 mg/mL nie jest wskazany do stosowania w zabiegach chirurgicznych i
+diagnostycznych u dzieci w wieku poniżej 3 lat.
+
+Dawka i częstotliwość podawania powinny być dostosowane w zależności od wymaganego poziomu
+sedacji oraz odpowiedzi klinicznej pacjenta. Do wywołania wstępnej sedacji u większości dzieci i
+młodzieży wymagane jest podanie dawki od 1 do 2 mg propofolu/kg mc. Podtrzymanie wymaganego
+poziomu sedacji osiąga się dobierając odpowiednio szybkość infuzji produktu leczniczego Propofol
+Farmak. U większości pacjentów wymagane jest zastosowanie od 1,5 do 9 mg propofolu/kg mc./h.
+
+U pacjentów zakwalifikowanych do III lub IV grupy ryzyka znieczulenia wg klasyfikacji ASA może
+być wymagane zastosowanie mniejszych dawek.
+
+DE/H/7622/002/II/007                                                                               3
+Propofol Farmak nie może być stosowany do sedacji dzieci i młodzieży w wieku 16 lat lub
+młodszych w ramach intensywnego leczenia.
+
+Sposób podawania
+Propofol Farmak przeznaczony jest do podania dożylnego.
+
+Propofol Farmak 20 mg/mL podaje się dożylnie w postaci ciągłego wlewu.
+Nie należy rozcieńczać produktu leczniczego Propofol Farmak 20 mg/mL.
+
+Ampułki/fiolki należy wstrząsnąć przed użyciem.
+
+Przed użyciem szyjkę ampułki i/lub gumowy korek fiolki należy zdezynfekować alkoholem w aerozolu
+lub wacikiem nasączonym alkoholem. Otwarte pojemniki należy wyrzucić po użyciu.
+
+Propofol Farmak nie zawiera przeciwbakteryjnych substancji konserwujących i może sprzyjać
+szybkiemu wzrostowi drobnoustrojów.
+Po otwarciu ampułki lub przekłuciu fiolki zawartość należy pobrać w sposób aseptyczny umieścić w
+jałowej strzykawce lub systemie infuzyjnym. Należy natychmiast rozpocząć podawanie. Przez cały
+okres infuzji należy zachować sterylność zarówno produktu leczniczego Propofol Farmak jak i sprzętu
+do infuzji.
+
+Wszelkie produkty lecznicze lub płyny infuzyjne dodane do linii Propofol Farmak należy podawać
+blisko miejsca wprowadzenia kaniuli.
+
+Produktu leczniczego Propofol Farmak nie wolno podawać przez zestaw infuzyjny wyposażony w filtry
+mikrobiologiczne.
+
+Zawartość fiolki lub ampułki oraz odpowiedni system infuzyjny są przeznaczone wyłącznie do
+jednorazowego użycia u jednego pacjenta.
+
+Wlew nierozcieńczonego produktu leczniczego Propofol Farmak
+
+W przypadku wlewu nierozcieńczonego produktu leczniczego Propofol Farmak należy zawsze stosować
+strzykawkową pompę infuzyjną lub objętościową pompę infuzyjną w celu kontrolowania szybkości
+wlewu.
+
+Zgodnie z ustaleniami dotyczącymi pozajelitowego podawania wszelkiego rodzaju emulsji olejowych,
+czas stosowania jednego systemu infuzyjnego do ciągłej infuzji produktu leczniczego Propofol Farmak
+nie może przekraczać 12 godzin. Po zakończeniu wlewu, ale nie później niż po upływie 12 godzin, nie
+wolno już używać pozostałego produktu leczniczego Propofol Farmak ani systemu infuzyjnego; w razie
+potrzeby należy wymienić system infuzyjny.
+
+System infuzyjny należy przepłukać przed podaniem środków zwiotczających mięśnie, takich jak
+atrakurium i miwakurium, w przypadku stosowania tego samego systemu infuzyjnego dla produktu
+leczniczego Propofol Farmak.
+
+Czas podawania
+Propofol Farmak może być podawany u jednego pacjenta maksymalnie przez 7 dni.
+
+4.3     Przeciwwskazania
+
+Propofol Farmak jest przeciwwskazany u pacjentów z nadwrażliwością na propofol, orzeszki ziemne,
+soję lub którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1.
+Propofolu nie wolno stosować u pacjentów w wieku 16 lat lub młodszych w celu wywołania sedacji
+podczas intensywnej opieki medycznej (patrz punkt 4.4).
+Propofol Farmak 20 mg/mL: Znieczulenie u dzieci w wieku poniżej 3 lat.
+
+DE/H/7622/002/II/007                                                                                  4
+4.4     Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Podczas stosowania Propofol Farmak do sedacji w trakcie zabiegów chirurgicznych i
+diagnostycznych należy stale monitorować pacjentów pod kątem pierwszych objawów niedociśnienia
+tętniczego, niedrożności dróg oddechowych i desaturacji tlenem.
+
+Podobnie jak w przypadku innych produktów leczniczych o działaniu uspokajającym, po
+zastosowaniu Propofolu Farmak do sedacji pacjentów poddawanych zabiegom chirurgicznym mogą
+wystąpić ruchy mimowolne. Może to zagrozić powodzeniu zabiegów wymagających
+unieruchomionego pacjenta.
+
+Zgłaszano przypadki nadużywania i uzależnienia od propofolu, zwłaszcza przez fachowy personel
+medyczny. Podobnie jak w przypadku innych produktów leczniczych do znieczulenia ogólnego, nie
+wolno stosować propofolu bez zabezpieczenia dróg oddechowych, w przeciwnym razie istnieje
+ryzyko wystąpienia śmiertelnych powikłań oddechowych.
+
+Po zastosowaniu Propofolu Farmak przed wypisaniem pacjenta do domu należy upewnić się, że jest w
+pełni wybudzony ze znieczulenia. W pojedynczych przypadkach może wystąpić stan nieprzytomności
+pooperacyjnej związany ze stosowaniem Propofolu Farmak, któremu może towarzyszyć zwiększone
+napięcie mięśniowe. Chociaż przytomność powraca samoistnie, nieprzytomnego pacjenta należy
+pozostawić pod uważną obserwacją.
+
+Działanie niepożądane wywołane przez propofol nie utrzymują się na ogół dłużej niż 12 godzin.
+Podczas objaśniania pacjentowi działania produktu leczniczego Propofol Farmak oraz udzielania
+zaleceń po zabiegu należy wziąć pod uwagę rodzaj zabiegu, stosowane jednocześnie produkty
+lecznicze, wiek i stan pacjenta:
+−     Pacjent powinien być odprowadzony do domu;
+−     Należy poinformować pacjenta, kiedy będzie mógł ponownie wykonywać czynności
+      wysokiego ryzyka wymagające sprawności manualnej lub zręczności (np. prowadzenie
+      pojazdów);
+−     Należy poinformować pacjenta, że stosowanie innych leków o działaniu uspokajającym (np.
+      benzodiazepiny, opiaty, alkohol) może przedłużyć i nasilić działania niepożądane.
+
+Tak jak w przypadku innych dożylnych leków znieczulających, Propofol Farmak należy podawać
+wolniej niż zwykle i ze szczególną ostrożnością (patrz punkt 4.2) podczas stosowania u pacjentów z
+zaburzeniami czynności serca, oddychania, nerek lub wątroby oraz u pacjentów z hipowolemią lub
+osłabionych. Jeśli to możliwe, przed podaniem należy wyrównać niewydolność serca, układu krążenia
+i oddechowego, a także hipowolemię.
+
+Propofolu Farmak nie należy podawać pacjentom z ciężkim uszkodzeniem mięśnia sercowego, chyba
+że ze szczególną ostrożnością oraz zapewnionym intensywnym monitorowaniem.
+
+Wyraźny spadek ciśnienia krwi może wymagać podania substytutów osocza, w razie potrzeby leków
+zwężających naczynia krwionośne i wolniejszego podawania leku Propofol Farmak. U pacjentów ze
+zmniejszonym przepływem krwi lub mózgową lub z hipowolemią należy wziąć pod uwagę
+możliwość znacznego spadku ciśnienia krwi. Klirens propofolu jest zależny od przepływu krwi,
+dlatego też, jednoczesne podawanie leków spowalniających pracę serca zmniejszy także klirens
+propofolu.
+
+Propofol nie wykazuje działania wagolitycznego. Zgłaszano przypadki bradykardii, niekiedy z
+ciężkimi skutkami (asystolia). Należy rozważyć dożylne podanie leku przeciwcholinergicznego przed
+wprowadzeniem Propofolu Farmak lub w trakcie podtrzymywania znieczulenia, zwłaszcza w
+sytuacjach, w których może przeważać napięcie nerwu błędnego lub kiedy propofol jest stosowany w
+skojarzeniu z innymi produktami leczniczymi mogącymi powodować bradykardię.
+
+Stosowanie Propofolu Farmak u osób chorych na padaczkę może wywołać napad drgawkowy.
+
+DE/H/7622/002/II/007                                                                             5
+Przed wielokrotnym lub długotrwałym (> 3 godziny) zastosowaniem propofolu u małych dzieci (wiek
+< 3 lat) i kobiet w ciąży należy rozważyć korzyści i ryzyko planowanego zabiegu, ponieważ w
+badaniach przedklinicznych odnotowano przypadki neurotoksyczności - patrz punkt 5.3.
+
+Dzieci i młodzież
+Nie zaleca się stosowania Propofolu Farmak u noworodków, ponieważ brak jest wystarczających
+danych w tej populacji pacjentów.
+
+Dane farmakokinetyczne (patrz punkt 5.2) wskazują, że klirens jest znacząco zmniejszony u
+noworodków z bardzo wysoką zmiennością międzyosobniczą. Podczas podawania dawek zalecanych
+u starszych dzieci może wystąpić względne przedawkowanie prowadzące do poważnej depresji
+sercowo-naczyniowej (patrz punkt 4.8).
+
+Nie zaleca się stosowania produktu leczniczego Propofol Farmak u dzieci w wieku
+poniżej 3 lat, ponieważ dawkę 20 mg/mL trudno jest odpowiednio zwiększać u małych dzieci ze
+względu na potrzebne skrajnie małe ilości produktu leczniczego.
+
+Propofolu nie wolno stosować u pacjentów w wieku 16 lat i młodszych w celu uzyskania sedacji na
+oddziałach intensywnej opieki medycznej, ponieważ nie ustalono bezpieczeństwa i skuteczności
+stosowania propofolu w celu uzyskania sedacji w tej grupie wiekowej (patrz punkt 4.3).
+
+Informacje dotyczące leczenia na oddziale intensywnej opieki medycznej
+Stosowanie propofolu w infuzji do sedacji na oddziałach intensywnej opieki medycznej może
+powodować wystąpienie zespołu zaburzeń metabolicznych i niewydolności wielonarządowej, które
+mogą prowadzić do zgonu.
+
+Ponadto zgłaszano również występowanie następujących działań niepożądanych: kwasica
+metaboliczna, rabdomioliza, hiperkaliemia, hepatomegalia, niewydolność nerek, hiperlipidemia,
+zaburzenia rytmu serca, zapis EKG odpowiadający zespołowi Brugadów (uniesienie odcinka ST w
+odprowadzeniach przedsercowych prawej strony [V1-V3] w kształcie siodła lub namiotu, po których
+następuje odwrócenie fali T) oraz (lub) gwałtownie postępująca niewydolność serca,
+nieodpowiadająca na leczenie wspomagające lekami inotropowymi.
+
+Zespół tych objawów nazywany jest „zespołem infuzji propofolu” (ang. propofol infusion syndrome,
+[PRIS]). Takie objawy obserwowano częściej u pacjentów z ciężkimi urazami głowy i u dzieci z
+zakażeniem dróg oddechowych, którym podawano wyższe dawki propofolu, przekraczające zalecane
+dawki stosowane do sedacji dorosłych pacjentów na oddziale intensywnej opieki medycznej.
+
+Następujące czynniki mogą zwiększać ryzyko wystąpienia wymienionych działań niepożądanych:
+niskie nasycenie tkanek tlenem, ciężkie uszkodzenia neurologiczne i (lub) sepsa, stosowanie dużych
+dawek jednego lub wielu z następujących produktów leczniczych – leki obkurczające naczynia
+krwionośne, steroidy, leki inotropowe i (lub) propofol (zwykle w dawkach przekraczających 4 mg
+propofolu/kg mc./h przez ponad 48 godzin).
+
+Lekarz przepisujący produkt leczniczy powinien mieć świadomość takich potencjalnych działań
+niepożądanych u pacjentów obciążonych wymienionymi powyżej czynnikami ryzyka, a jeśli takie
+objawy wystąpią, musi natychmiast przerwać podawanie propofolu. Wszystkie produkty lecznicze
+stosowane do sedacji lub inne produkty lecznicze stosowane na oddziale intensywnej opieki
+medycznej, należy uważnie dobierać tak, aby zapewnić optymalną podaż tlenu oraz utrzymanie
+parametrów hemodynamicznych. W przypadku takich zmian w terapii pacjenci z podwyższonym
+ciśnieniem śródczaszkowym powinni otrzymywać odpowiednie produkty lecznicze wspomagające
+perfuzję mózgową. Lekarz prowadzący powinien również zapewnić, w miarę możliwości, aby nie
+przekraczać dawki propofolu 4 mg/kg mc./godzinę.
+
+
+
+
+DE/H/7622/002/II/007                                                                                 6
+Należy zachować szczególną ostrożność podczas podawania propofolu pacjentom z zaburzeniami
+metabolizmu tłuszczów oraz innymi schorzeniami wymagającymi ostrożności podczas stosowania
+emulsji tłuszczowych.
+
+W przypadku stosowania Propofolu Farmak u pacjentów ze szczególnym ryzykiem przeciążenia
+tłuszczami, zaleca się monitorowanie stężenia tłuszczów we krwi. Jeśli wyniki monitorowania
+wskazują na zaburzenia metabolizmu lipidów, dawkę Propofolu Farmak należy odpowiednio
+dostosować. U pacjentów otrzymujących jednocześnie pozajelitowe odżywanie tłuszczowe należy
+zmniejszyć całkowitą ilość podawanych tłuszczów, uwzględnić ilość tłuszczów zawartych w
+produkcie leczniczym Propofol Farmak: 1 mL produktu leczniczego Propofol Farmak zawiera 0,1 g
+tłuszczu.
+
+Dodatkowe środki ostrożności
+Należy zachować ostrożność podczas stosowania propofolu u pacjentów z chorobą mitochondrialną.
+Pacjenci ci mogą być narażeni na zaostrzenie objawów tej choroby podczas znieczulenia, operacji
+i opieki na oddziale intensywnej opieki medycznej. W tej grupie pacjentów zaleca się zapewnienie
+normotermii, dostarczenia węglowodanów i dobrego nawodnienia. Pierwsze objawy zaostrzenia
+choroby mitochondrialnej i „zespołu infuzji propofolu” mogą być podobne.
+
+Propofol Farmak nie zawiera przeciwbakteryjnych substancji konserwujących i może sprzyjać
+szybkiemu wzrostowi drobnoustrojów. Wersenian disodowy tworzy kompleksy chelatowe z jonami
+metali, w tym cynku, i dlatego zmniejsza tempo rozwoju drobnoustrojów. Podczas długotrwałego
+stosowania produktu leczniczego Propofol Farmak należy rozważyć konieczność dodatkowego
+podawania cynku, szczególnie u pacjentów ze skłonnością do niedoboru cynku, np. z oparzeniami,
+biegunką i (lub) ciężką sepsą.
+
+W przypadku podawania leku Propofol Farmak jednocześnie z lidokainą należy pamiętać, że
+lidokainy nie wolno podawać w przypadku dziedzicznej ostrej porfirii.
+
+Propofol Farmak zawiera sód
+Ten produkt leczniczy zawiera mniej niż 1 mmol (23 mg) sodu na 100 mL, to znaczy, że produkt
+leczniczy uznaje się za “wolny od sodu”.
+
+4.5     Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Propofol Farmak można stosować w skojarzeniu z innymi lekami stosowanymi w znieczuleniu
+(z lekami stosowanymi w premedykacji, lekami zwiotczającymi mięśnie, wziewnymi lekami
+znieczulającymi oraz lekami przeciwbólowymi i miejscowymi lekami znieczulającymi).
+W przypadkach procedur związanych ze znieczuleniem regionalnym może być wymagane
+zastosowanie mniejszych dawek leku Propofol Farmak. Dotąd nie stwierdzono oznak występowania
+ciężkich interakcji.
+
+Należy wziąć po uwagę, że niektóre ww. leki mogą obniżyć ciśnienie krwi lub zaburzyć oddychanie,
+więc przy jednoczesnym zastosowaniu leku Propofol Farmak mogą wystąpić addytywne działania.
+Zgłaszano przypadki wystąpienia znacznego niedociśnienia tętniczego po wprowadzeniu do
+znieczulenia za pomocą propofolu u pacjentów leczonych ryfampicyną. Po dodatkowej premedykacji
+opioidami, działanie uspokajające propofolu może być nasilone i utrzymywać się dłużej, a bezdech
+może być częstszy i dłuższy.
+
+Zaobserwowano, że pacjentom przyjmującym walproinian należy podawać mniejsze dawki
+propofolu. W przypadku jednoczesnego przyjmowania obu leków można rozważyć zmniejszenie
+dawki propofolu.
+
+U pacjentów przyjmujących midazolam zaobserwowano konieczność stosowania mniejszych dawek
+propofolu. Jednoczesne podawanie propofolu z midazolamem może powodować nasiloną sedację
+i depresję oddechową. W przypadku jednoczesnego stosowania, należy rozważyć zmniejszenie dawki
+propofolu.
+
+DE/H/7622/002/II/007                                                                               7
+Jednoczesne podawanie deksmedetomidyny może powodować nasilenie działania. W przypadku
+stosowania deksmedetomidyny może być konieczne zmniejszenie dawki propofolu wymaganej do
+sedacji.
+
+4.6     Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Nie ustalono bezpieczeństwa stosowania propofolu podczas ciąży. Badania na zwierzętach wykazały
+toksyczny wpływ na reprodukcję (patrz punkt 5.3). Produktu leczniczego Propofol Farmak nie należy
+stosować w okresie ciąży, chyba że jest to absolutnie konieczne.
+Propofol Farmak przenika przez łożysko i może powodować osłabienie funkcji życiowych u
+noworodków (patrz również punkt 5.3).
+Propofol może być stosowany jako środek znieczulający podczas zabiegu przerwania ciąży.
+
+Należy unikać stosowania dużych dawek (więcej niż 2,5 mg/kg mc. w celu wprowadzenia znieczulenia
+lub 6 mg/kg mc./h w celu podtrzymania znieczulenia).
+
+Karmienie piersią
+Badania z udziałem kobiet karmiących piersią wykazały, że propofol w małym stopniu przenika do
+mleka ludzkiego. Dlatego też, matki nie powinny karmić piersią przez okres do 24 godziny po
+zakończeniu podawania propofolu. Pokarm zebrany w tym okresie należy wyrzucić.
+
+4.7     Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Po podaniu produktu leczniczego Propofol Farmak pacjent powinien znajdować się przez odpowiedni
+czas pod obserwacją. Pacjenci powinni być poinformowani, że po podaniu produktu leczniczego
+Propofol Farmak ich zdolność do prowadzenia pojazdów i obsługiwania maszyn może być przez
+pewien czas ograniczona. Pacjent nie powinien być wypisany do domu bez towarzyszącej mu osoby
+oraz należy go poinformować o konieczności unikania picia alkoholu.
+
+Takie działanie propofolu nie jest zazwyczaj stwierdzane po upływie ponad 12 godzin (patrz
+punkt 4.4).
+
+4.8     Działania niepożądane
+
+Wprowadzenie do znieczulenia i jego podtrzymanie lub sedacja z zastosowaniem propofolu
+przebiegają na ogół łagodnie z niewielkimi oznakami pobudzenia. Najczęściej obserwowane działania
+niepożądane propofolu, to przewidywane farmakologicznie działania niepożądane leków
+znieczulających i uspokajających, takie jak niedociśnienie tętnicze i depresja oddechowa. Rodzaj,
+nasilenie i częstość działań niepożądanych obserwowanych u pacjentów otrzymujących propofol
+mogą być związane ze stanem zdrowia pacjenta, rodzajem zabiegu oraz z zastosowanymi
+procedurami terapeutycznymi.
+
+Zastosowano następujące definicje częstości występowania: bardzo często (≥ 1/10); często (≥ 1/100
+do < 1/10); niezbyt często (≥ 1/1 000 do < 1/100); rzadko (≥ 1/10 000 do < 1/1 000); bardzo rzadko
+(< 1/10 000) i częstość nieznana (częstość nie może być określona na podstawie dostępnych danych).
+
+W szczególności zaobserwowano następujące działania niepożądane:
+
+ Klasyfikacja układów            Częstość              Działania niepożądane
+ i narządów
+ Zaburzenia układu               Bardzo rzadko         Anafilaksja – może obejmować obrzęk
+ immunologicznego                                      naczynioruchowy, skurcz oskrzeli, rumień
+                                                       i niedociśnienie tętnicze
+
+
+
+DE/H/7622/002/II/007                                                                                 8
+                                Częstość nieznana   Wstrząs anafilaktyczny
+
+
+ Zaburzenia metabolizmu         Częstość nieznana   Kwasica metaboliczna5, hiperkaliemia5,
+ i odżywiania                                       hiperlipidemia5
+ Zaburzenia psychiczne          Częstość nieznana   Nastrój euforyczny, nadużywanie
+                                                    i uzależnienie od produktu leczniczego8
+
+ Zaburzenia układu nerwowego    Często              Spontaniczne ruchy i drżenie mięśni podczas
+                                                    wprowadzania znieczulenia, ból głowy
+                                                    podczas wybudzania ze znieczulenia
+                                Rzadko              Napady przypominające padaczkę, w tym
+                                                    drgawki i opistotonus podczas wprowadzenia,
+                                                    podtrzymywania i wybudzania ze znieczulenia
+                                                    (bardzo rzadko opóźnione o kilka godzin do
+                                                    kilku dni). Zawroty głowy, drżenie i uczucie
+                                                    zimna podczas wybudzania ze znieczulenia
+                                Bardzo rzadko       Pooperacyjna utrata przytomności (patrz także
+                                                    punkt 4.4)
+                                Częstość nieznana   Ruchy mimowolne
+
+ Zaburzenia serca               Często              Bradykardia1
+
+                                Bardzo rzadko       Obrzęk płuc
+
+                                Częstość nieznana   Arytmia5, niewydolność serca5,7
+
+ Zaburzenia naczyniowe          Często              Niedociśnienie tętnicze2
+
+                                Niezbyt często      Zakrzepica i zapalenie żył
+
+ Zaburzenia układu              Często              Przemijający bezdech, kaszel, czkawka
+ oddechowego, klatki piersiowej                     podczas wprowadzenia do znieczulenia
+ i śródpiersia                  Niezbyt często      Kaszel podczas podtrzymywania znieczulenia
+
+                                Rzadko              Kaszel w fazie wybudzania ze znieczulenia
+
+                                Częstość nieznana   Depresja oddechowa (zależna od dawki)
+
+ Zaburzenia żołądka i jelit     Często              Czkawka podczas wprowadzenia do
+                                                    znieczulenia, nudności lub wymioty podczas
+                                                    wybudzania ze znieczulenia
+                                Bardzo rzadko       Zapalenie trzustki
+ Zaburzenia wątroby i dróg      Częstość nieznana   Hepatomegalia5, zapalenie wątroby, ostra
+ żółciowych                                         niewydolność wątroby10
+ Zaburzenia mięśniowo-          Częstość nieznana   Rabdomioliza3,5
+ szkieletowe i tkanki łącznej
+ Zaburzenia nerek i dróg        Bardzo rzadko       Odbarwienie moczu po przedłużonym
+ moczowych                                          podawaniu propofolu
+                                Częstość nieznana   Niewydolność nerek5
+ Zaburzenia układu rozrodczego Bardzo rzadko        Odhamowanie seksualne podczas wybudzania
+ i piersi
+                               Częstość nieznana    Priapizm
+
+
+DE/H/7622/002/II/007                                                                             9
+ Zaburzenia ogólne i stany w    Bardzo często        Ból w miejscu podania podczas pierwszego
+ miejscu podania                                     wstrzyknięcia4
+                                Często               Uderzenia gorąca podczas wprowadzenia
+                                                     znieczulenia
+                                Bardzo rzadko        Ciężkie reakcje tkankowe oraz martwica
+                                                     tkanek9 po przypadkowym podaniu poza
+                                                     naczynie krwionośne
+                                Częstość nieznana    Ból w miejscu podania, obrzęk po
+                                                     przypadkowym podaniu poza naczynie
+                                                     krwionośne
+ Badania diagnostyczne          Częstość nieznana    Zapis elektrokardiogramu odpowiadający
+                                                     zespołowi Brugadów5,6
+ Urazy, zatrucia i powikłania po Bardzo rzadko       Gorączka w okresie pooperacyjnym
+ zabiegach
+
+1
+   Ciężka bradykardia występuje rzadko. Zgłaszano pojedyncze przypadki o progresji w kierunku
+   asystolii.
+2
+   Czasem niedociśnienie tętnicze może wymagać uzupełnienia objętości krwi i zmniejszenia
+   szybkości podawania Propofolu Farmak.
+3
+   Bardzo rzadko zgłaszano występowanie rabdomiolizy, przy dawkach propofolu większych niż 4 mg
+   propofolu/kg mc./h podawanych do sedacji na oddziale intensywnej opieki.
+4
+   Ból miejscowy podczas podawania można zmniejszyć podając do większych żył przedramienia i
+   zgięcia łokciowego. Jednoczesne podawanie lidokainy wraz z produktem leczniczym Propofol
+   Farmak może również zmniejszyć miejscowy ból.
+5
+   Połączenie tych działań niepożądanych zgłaszano jako „zespół infuzji propofolu” i może on
+   wystąpić u ciężko chorych osób, u których występuje często kilka czynników ryzyka wystąpienia
+   tych działań niepożądanych (patrz punkt 4.4).
+6
+   Zmiany w zapisie elektrokardiogramu odpowiadający zespołowi Brugadów obejmują uniesienie
+   odcinka ST oraz odwrócenie załamków T.
+7
+   Szybko postępująca niewydolność serca (w niektórych przypadkach zakończona zgonem) była
+   obserwowana u dorosłych pacjentów, taka niewydolność serca często nie odpowiada na leczenie
+   wspomagające lekami inotropowymi.
+8
+   Zgłaszano przypadki nadużywania i uzależnienia od propofolu, zwłaszcza przez fachowy personel
+   medyczny.
+9
+   Zgłaszano przypadki martwicy tkanek w miejscach, gdzie żywotność tkanek była zagrożona.
+10
+   Zarówno po długotrwałym, jak i krótkotrwałym leczeniu oraz u pacjentów bez współistniejących
+   czynników ryzyka.
+
+Po jednoczesnym podaniu lidokainy mogą wystąpić następujące działania niepożądane: zawroty
+głowy, wymioty, senność, drgawki, bradykardia, arytmia i wstrząs.
+
+Olej sojowy może wywoływać reakcje alergiczne.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C 02-222 Warszawa
+tel.: + 48 22 49 21 301
+faks: + 48 22 49 21 309
+strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9     Przedawkowanie
+
+DE/H/7622/002/II/007                                                                            10
+Przedawkowanie może prowadzić do osłabienia czynności układu oddechowego i sercowo-
+naczyniowego. W przypadku bezdechu konieczne jest zastosowanie sztucznej wentylacji. Depresja
+czynności układu sercowo-naczyniowego może wymagać ułożenia pacjenta z głową poniżej klatki
+piersiowej i (lub) podania substytutów osocza oraz leków zwężających naczynia krwionośne.
+
+
+5.      WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1     Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: leki znieczulające; inne leki do znieczulenia ogólnego, kod ATC:
+N01AX10.
+
+Po dożylnym wstrzyknięciu leku Propofol Farmak szybko następuje efekt nasenny. Czas rozpoczęcia
+zależy od szybkości wstrzyknięcia i zwykle wynosi 30–40 sekund. Czas działania jest krótki (4–6
+minut) ze względu na szybki metabolizm i wydalanie. Podobnie jak w przypadku wszystkich leków
+do znieczulenia ogólnego, dokładny mechanizm działania nie jest w pełni znany. Zakłada się jednak,
+że propofol wywiera działanie uspokajające lub znieczulające poprzez dodatnią modulację
+hamującego działania neuroprzekaźnika GABA za pośrednictwem receptorów GABAA
+kontrolowanych przez ligandy.
+W przypadku przestrzegania zaleconego schematu dawkowania można wykluczyć wystąpienie
+klinicznie znaczącej kumulacji propofolu po powtarzanych wstrzyknięciach lub po podaniu w infuzji
+ciągłej.
+
+Ograniczone badania dotyczące czasu działania znieczulenia z wykorzystaniem propofolu u dzieci
+wskazują, że bezpieczeństwo i skuteczność pozostają niezmienione przez okres do 4 godzin.
+
+Dane z piśmiennictwa potwierdzają, że bezpieczeństwo i skuteczność propofolu u dzieci utrzymują
+się nawet podczas dłuższych zabiegów.
+
+Większość pacjentów szybko odzyskuje przytomność po znieczuleniu.
+Bradykardia i hipotensja obserwowane podczas indukcji mogą być spowodowane przez działanie
+wagotoniczne lub hamowanie aktywności nerwów współczulnych. Jednakże, w trakcie
+podtrzymywania znieczulenia hemodynamika zazwyczaj powraca do normalnego stanu.
+
+5.2     Właściwości farmakokinetyczne
+
+Propofol wiąże się z białkami osocza w około 98%. Po podaniu dożylnym początkowy poziom we krwi
+(faza alfa) charakteryzuje się gwałtownym spadkiem ze względu na szybką dystrybucję w organizmie.
+Okres półtrwania fazy alfa wynosi 1,8–4,1 minuty.
+
+W fazie eliminacji lub fazie beta spadek poziomu we krwi jest wolniejszy. Obliczono, że okres
+półtrwania w tej fazie wynosi 34–64 minuty.
+
+Po dłuższym okresie obserwacji można zidentyfikować tak zwany przedział głęboki. Okres
+półtrwania dla tej fazy (fazy gamma) przebiegu poziomu we krwi wynosi 184–382 minuty.
+
+Początkowa objętość dystrybucji V wynosi 22–76 L, całkowita objętość dystrybucji Vdß wynosi 387–
+1587 L.
+
+Propofol jest dystrybuowany do wielu tkanek ustroju i szybko eliminowany (całkowity klirens: od
+1,5 do 2 L/min). Eliminacja odbywa się w wyniku procesów metabolicznych, głównie w wątrobie,
+gdzie jest zależna od przepływu krwi, poprzez tworzenie nieaktywnych połączeń propofolu i chinolu,
+które są następnie wydalane z moczem.
+
+Po pojedynczej dawce dożylnej 3 mg propofolu/kg mc. klirens propofolu/kg mc. wzrastał wraz z
+
+DE/H/7622/002/II/007                                                                              11
+wiekiem następująco: mediana klirensu była znacznie niższa u noworodków w wieku poniżej
+1 miesiąca życia (n=25) (20 mL/kg mc./min) w porównaniu do starszych dzieci (n=36, przedział
+wiekowy od 4 miesięcy do 7 lat). Ponadto, zmienność międzyosobnicza była znaczna u noworodków
+(przedział od 3,7 do 78 mL/kg mc./min). Z powodu tych ograniczonych danych, które wskazują na
+istotną zmienność, nie można zalecić dawek dla tej grupy wiekowej.
+
+Średni klirens propofolu u starszych dzieci po pojedynczym bolusie 3 mg/kg mc. wynosił 37,5 mL/kg
+mc./min (wiek od 4 do 24 miesięcy) (n=8), 38,7 mL/kg mc./min (wiek od 11 do 43 miesięcy) (n=6),
+48 mL/kg mc./min (wiek od 1 do 3 lat) (n=12), 28,2 mL/kg mc./min (wiek od 4 do 7 lat) (n=10) w
+porównaniu z 23,6 mL/kg mc./min u dorosłych (n=6).
+
+Propofol jest metabolizowany głównie w wątrobie. Jako metabolity występują glukuronidy propofolu
+oraz glukuronidy i koniugaty siarczanowe 2,6-diizopropylo-1,4-chinolu.
+40% podanej dawki ma postać glukuronidu propofolu. Wszystkie metabolity są nieaktywne. Około
+88% podanego propofolu jest wydalane z moczem w postaci metabolitów, ok. 0,3% w postaci
+niezmienionej w odchodach.
+
+Biodostępność:
+Podanie dożylne: 100%
+
+5.3       Przedkliniczne dane o bezpieczeństwie
+
+Ostra toksyczność
+Dożylne LD50 u myszy wynosi 53, u szczura 42 mg propofolu/kg masy ciała.
+
+Przewlekła toksyczność
+Badania toksyczności przewlekłej przeprowadzono na szczurach i psach. Dawki 10–30 mg
+propofolu/kg mc. podawano codziennie lub 2–3 razy w tygodniu w postaci wlewu przez okres do
+jednego miesiąca. Nie wykryto żadnych skutków toksycznych ani zmian patologicznych.
+
+Działanie mutagenne
+Badania in vitro na Salmonella thyphimurium (test Amesa) i Saccharomyces cerevisiae, a także
+badania in vivo na myszach i chomikach chińskich nie wykazały działania mutagennego.
+
+Toksyczność reprodukcyjna
+Propofol Farmak przenika przez łożysko. Badania toksyczności dla zarodków na szczurach
+i królikach nie wykazały działania teratogennego.
+
+Opublikowane badania na zwierzętach (w tym na naczelnych) wskazują, że stosowanie środków
+znieczulających w dawkach powodujących znieczulenie lekkie do umiarkowanego w okresie
+szybkiego wzrostu mózgu lub synaptogenezy powoduje utratę komórek w rozwijającym się mózgu,
+co może być związane z długo utrzymującymi się deficytami poznawczymi. Znaczenie kliniczne tych
+obserwacji nieklinicznych nie jest znane.
+Propofol Farmak przenika do mleka. Brak doświadczenia w stosowaniu leku u ludzi w okresie ciąży
+i karmienia piersią.
+
+Rakotwórczość
+Nie przeprowadzono długoterminowych badań nad potencjałem rakotwórczym.
+
+
+6.      DANE FARMACEUTYCZNE
+
+6.1     Wykaz substancji pomocniczych
+
+Olej sojowy oczyszczony
+Fosfolipidy jajeczne
+Glicerol
+
+DE/H/7622/002/II/007                                                                            12
+Sodu wodorotlenek
+Disodu edetynian
+Woda do wstrzykiwań
+
+6.2     Niezgodności farmaceutyczne
+
+Produktów leczniczych hamujących przewodnictwo w płytce nerwowo-mięśniowej (atrakurium,
+miwakurium) nie należy podawać bezpośrednio po produkcie Propofol Farmak bez uprzedniego
+przepłukania zestawu do wlewów lub wkłucia dożylnego.
+
+Nie mieszać tego produktu leczniczego z produktami leczniczymi innymi niż wymienionymi w
+punkcie 6.6.
+
+6.3     Okres ważności
+
+2 lata
+Okres ważności po pierwszym otwarciu i/lub rozcieńczeniu: zużyć natychmiast.
+
+6.4     Specjalne środki ostrożności podczas przechowywania
+
+Nie przechowywać w temperaturze powyżej 25°C. Nie zamrażać.
+
+6.5     Rodzaj i zawartość opakowania
+
+Propofol Farmak 20 mg/mL
+-     fiolka z bezbarwnego szkła (typ I) o pojemności 20 mL z korkiem z gumy bromobutylowej
+      z aluminiowym uszczelnieniem, po 1 fiolce lub 5 fiolek w tekturowym pudełku.
+-     fiolka z bezbarwnego szkła (typ I) o pojemności 50 mL i 100 mL z korkiem z gumy
+      bromobutylowej z aluminiowym uszczelnieniem, po 1 fiolce lub 10 fiolek w tekturowym
+      pudełku.
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+6.6     Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+        stosowania
+
+Propofol Farmak 20 mg/mL
+Propofol Farmak można podawać przez trójnik typu Y blisko miejsca wstrzyknięcia w formie infuzji
+następujących leków:
+•     Roztwór glukozy 50 mg/mL (5%) do infuzji;
+•     Chlorek sodu 9 mg/mL (0,9%) roztwór do infuzji;
+•     Glukoza 40 mg/mL (4%) z chlorkiem sodu 1,8 mg/mL (0,18%) roztworem do infuzji.
+
+Możliwe jest jednoczesne podawanie leku Propofol Farmak 20 mg/mL razem z lidokainą 1% lub
+lidokainą 0,5%.
+
+Wszelkie niewykorzystane resztki produktu leczniczego lub jego odpady należy usunąć zgodnie
+z lokalnymi przepisami.
+
+
+7.      PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+        DOPUSZCZENIE DO OBROTU
+
+Farmak International Sp. z o.o.
+ul. Koszykowa 65
+00-667 Warszawa
+
+
+DE/H/7622/002/II/007                                                                           13
+8.      NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr 28709
+
+
+9.      DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO
+        OBROTU I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 05/02/2025
+Data ostatniego przedłużenia pozwolenia:
+
+
+10.     DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+        CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+16/04/2026
+
+
+
+
+DE/H/7622/002/II/007                                                       14
+

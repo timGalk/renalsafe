@@ -7,6 +7,7 @@ Run commands from the repository root. Python uses the standard library unless a
 | First local configuration | `python3 scripts/bootstrap-local.py` |
 | Staff activation/reset | `python3 scripts/setup-accounts.py USER --output .local/NEW_FILE.json` |
 | Import/check two-drug synthetic example | `python3 scripts/demo-two-drugs.py` |
+| Generate source-linked synthetic patient cases | `python3 scripts/build-user-cases.py` ([cases and logic review](../docs/user-cases-and-logic-review.md)) |
 | Retrieval experiment | `python3 scripts/evaluate-retrieval.py DATASET --modes lexical --output outputs/NEW_REPORT.json` |
 | Evaluation unit checks | `python3 scripts/test-evaluation.py` |
 | All Go database/race checks | `python3 scripts/test-integration.py` (build frontend first) |

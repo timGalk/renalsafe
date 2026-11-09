@@ -1,0 +1,763 @@
+                   CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+FENTANYL WZF, 50 mikrogramów/ml, roztwór do wstrzykiwań
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Każdy ml roztworu do wstrzykiwań zawiera 50 mikrogramów fentanylu (Fentanylum) w postaci
+fentanylu cytrynianu.
+
+Substancja pomocnicza o znanym działaniu: sód.
+1 ml roztworu do wstrzykiwań zawiera poniżej 0,01 mg sodu.
+
+Pełny wykaz substancji pomocniczych, patrz: punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań
+
+Bezbarwny, przezroczysty płyn
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Fentanyl WZF jest opioidowym lekiem przeciwbólowym stosowanym:
+-     w małych dawkach w celu zniesienia bólu podczas krótkich zabiegów chirurgicznych,
+-     w dużych dawkach jako środek przeciwbólowy i (lub) hamujący oddychanie u pacjentów
+      wymagających oddychania wspomaganego,
+-     w celu wywołania analgezji chirurgicznej podczas znieczulenia ogólnego,
+-     w połączeniu ze środkami neuroleptycznymi w celu przeprowadzenia neuroleptoanalgezji,
+-     jako lek pojedynczy lub w skojarzeniu z innymi lekami (np. benzodiazepinami) w celu
+      przeprowadzenia analgosedacji,
+-     w leczeniu silnych bólów, takich jak, np. ból pourazowy, ból towarzyszący zawałowi mięśnia
+      sercowego.
+
+4.2   Dawkowanie i sposób podawania
+
+Produkt nie zawiera środków konserwujących.
+
+Sposób podawania
+Fentanyl można stosować jedynie w oddziałach w pełni wyposażonych w sprzęt umożliwiający
+monitorowanie i wspomaganie czynności układu oddechowego oraz może być podawany jedynie
+przez personel doświadczony w zapewnieniu i utrzymaniu czynności oddechowej (patrz punkt 4.4).
+
+W celu uniknięcia bradykardii, zaleca się dożylne podanie małej dawki leku cholinolitycznego
+bezpośrednio przed indukcją znieczulenia.
+
+Podczas otwierania ampułki zaleca się używanie rękawiczek (patrz punkt 6.6).
+
+
+
+                                                                                               1
+Fentanyl WZF można podawać:
+-     domięśniowo,
+-     dożylnie – w szybkim wstrzyknięciu (bolus), we wlewie ciągłym lub metodą PCA,
+-     podskórnie – we wstrzyknięciu, we wlewie ciągłym,
+-     zewnątrzoponowo – podając dawkę jednorazową, we wlewie ciągłym lub metodą PCA,
+-     podpajęczynówkowo – podając dawkę jednorazową lub we wlewie ciągłym.
+Podanie dożylne – w bolusie lub we wlewie
+Podanie domięśniowe
+
+Dawkowanie
+
+Fentanyl WZF można podawać dożylnie dorosłym i dzieciom.
+Dawki fentanylu należy dostosować do wieku, masy ciała, ogólnego stanu pacjenta, chorób
+towarzyszących, zastosowanych innych leków oraz rodzaju zabiegu operacyjnego i rodzaju
+znieczulenia.
+
+Dorośli
+
+Zazwyczaj stosowane dawkowanie u dorosłych:
+                   Dawka początkowa                 Dawka dodatkowa
+
+Spontaniczne        50 do 200 mikrogramów           50 mikrogramów
+oddychanie
+
+Oddychanie          300 do 3500 mikrogramów         100 do 200 mikrogramów
+wspomagane
+
+Dawki powyżej 200 mikrogramów można stosować tylko w znieczuleniach.
+W premedykacji można podać 1 do 2 ml (50 do 100 mikrogramów) fentanylu domięśniowo
+45 minut przed indukcją znieczulenia.
+
+Podanie dożylne 2 ml (100 mikrogramów) fentanylu pacjentom dorosłym, nie poddanym
+premedykacji powinno zapewnić skuteczne zniesienie bólu na 10-20 minut w czasie zabiegu
+powodującego niewielkie dolegliwości bólowe.
+Podanie 10 ml (500 mikrogramów) fentanylu w szybkim wstrzyknięciu dożylnym (bolus) daje
+zniesienie bólu przez około godzinę. Wywołana analgezja jest skuteczna w zabiegach ze średnim
+nasileniem bólowym.
+Podanie dawki 50 mikrogramów/kg mc. fentanylu wywołuje zniesienie bólu przez 4 do 6 godzin w
+czasie operacji o dużym nasileniu bólu.
+
+Fentanyl WZF można podawać również we wlewie dożylnym.
+U pacjentów z oddechem kontrolowanym można podać dawkę nasycającą fentanylu w szybkim
+wlewie około 1 mikrogram/kg mc./min przez pierwsze 10 minut, a następnie we wlewie około
+0,1 mikrograma/kg mc./min.
+Dawkę nasycającą można podawać również w szybkim wstrzyknięciu dożylnym (bolus).
+Szybkość wlewu należy dostosować do reakcji pacjenta na podawany fentanyl; zaleca się
+stosowanie możliwie najniższych dawek fentanylu.
+Jeżeli nie planuje się zastosowania u pacjenta oddychania wspomaganego w okresie
+pooperacyjnym, wlew należy zakończyć 40 minut przed końcem zabiegu operacyjnego.
+
+Niższe dawki fentanylu, np. 0,05 do 0,08 mikrograma/kg mc./min podaje się w przypadku
+podtrzymania spontanicznego oddychania. Wyższe dawki (do 3 mikrogramów/kg mc./min) są
+stosowane w kardiochirurgii.
+
+
+
+
+                                                                                                2
+Z powodu dużej różnicy pH, fentanyl wykazuje niezgodność chemiczną ze środkami stosowanymi
+w indukcji znieczulenia, takimi jak tiopental i metoheksytal.
+
+Dzieci i młodzież
+
+Dzieci w wieku od 12 do 17 lat:
+Należy stosować dawki przeznaczone dla dorosłych.
+
+Dzieci w wieku od 2 do 11 lat:
+Zazwyczaj stosowane dawkowanie u dzieci:
+                     Wiek      Dawka początkowa                  Dawka dodatkowa
+
+Spontaniczne        2-11 lat     1 do 3 mikrogramów/kg mc.       1 do 1,25 mikrograma/kg mc.
+oddychanie
+
+Oddychanie          2-11 lat     1 do 3 mikrogramów/kg mc.       1 do 1,25 mikrograma/kg mc.
+wspomagane
+
+Stosowanie u dzieci
+Analgezja podczas zabiegu operacyjnego, pogłębienie znieczulenia z oddychaniem spontanicznym
+
+Techniki, które obejmują analgezję u spontanicznie oddychających dzieci należy wyłącznie
+stosować jako część techniki anestezjologicznej lub jako część techniki sedacji/analgezji przez
+wykwalifikowany personel medyczny w warunkach, które pozwolą na natychmiastowe
+przeprowadzenie intubacji w przypadku wystąpienia sztywności klatki piersiowej lub w przypadku
+wystąpienia bezdechu – podania tlenu (patrz punkt 4.4).
+
+Stosowanie u pacjentów w podeszłym wieku oraz osłabionych
+Zaleca się zmniejszenie dawki początkowej fentanylu. Podczas podawania dawki początkowej
+należy wziąć pod uwagę reakcję pacjenta i jeśli zachodzi konieczność, dokonać korekty dawki
+dodatkowej.
+
+Pacjenci otyli
+U pacjentów otyłych istnieje ryzyko przedawkowania, jeśli dawkę oblicza się na podstawie masy
+ciała. Dawkowanie dla otyłych pacjentów należy obliczyć na podstawie szacowanej beztłuszczowej
+masy ciała (ang. lean body mass).
+
+Zaburzenia czynności nerek
+U pacjentów z niewydolnością nerek należy rozważyć zmniejszenie dawki produktu Fentanyl WZF
+oraz pilnie obserwować pod kątem wystąpienia objawów toksyczności fentanylu (patrz punkt 5.2).
+
+Ponadto w leczeniu silnego bólu fentanyl można podawać:
+
+Podskórnie
+Dorośli: dawki dostosowuje się do stanu pacjenta; podaje się we wstrzyknięciu lub we wlewie
+ciągłym.
+Dzieci o masie ciała poniżej 50 kg: początkowo 0,5 do 2,0 mikrogramów/kg mc./godz. we
+wstrzyknięciu lub we wlewie ciągłym.
+Dla dzieci w wieku poniżej 6 miesięcy dawka początkowa wynosi ¼ do ⅓ dawki podanej wyżej,
+następna jest modyfikowana zależnie od efektu.
+Dzieci o masie ciała powyżej 50 kg: początkowo 25 do 75 mikrogramów co 1 godzinę.
+
+Zewnątrzoponowo
+Dawka jednorazowa: 50 do 100 mikrogramów (1 do 2 mikrogramów/kg mc.);
+Wlew ciągły: 25 do 100 mikrogramów/godz.;
+
+
+                                                                                                  3
+Metoda PCA: nasycenie – 75 do 100 mikrogramów; wlew zasadniczy: 30 do
+75 mikrogramów/godz.; dawka na żądanie: 10 do 15 mikrogramów; czas blokady pompy – 6 minut.
+
+Podpajęczynówkowo
+Zaleca się podawanie fentanylu podpajęczynówkowo w odcinku lędźwiowym kręgosłupa.
+Dawka jednorazowa: 5 do 25 mikrogramów/dawkę;
+Wlew ciągły: 0,8 mikrograma/kg mc./godz.
+
+Stosowanie u pacjentów w podeszłym wieku oraz osłabionych
+Zaleca się zmniejszenie dawki fentanylu. Podczas podawania dawki początkowej należy wziąć pod
+uwagę reakcję pacjenta i jeśli zachodzi konieczność, dokonać korekty dawki dodatkowej.
+
+4.3   Przeciwwskazania
+
+-     Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą
+      wymienioną w punkcie 6.1, lub inne opioidowe leki przeciwbólowe
+-     Depresja oddychania (z wyjątkiem przypadków wymienionych w punkcie 4.1)
+-     Choroby zaporowe płuc
+-     Nie stosować jednocześnie fentanylu i inhibitorów monoaminooksydazy (IMAO)
+-     Nie stosować fentanylu przez 2 tygodnie od chwili zakończenia leczenia inhibitorami
+      monoaminooksydazy (IMAO)
+-     W przypadku zewnątrzoponowej i podpajęczynówkowej drogi podania – stany kliniczne,
+      które mogą stanowić przeciwwskazanie do zastosowania zewnątrzoponowej lub
+      podpajęczynówkowej drogi podania.
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące podawania
+
+Ostrzeżenia
+
+Tolerancja i zaburzenia związane ze stosowaniem opioidów (nadużywanie i uzależnienie)
+Wielokrotne stosowanie opioidów może prowadzić do tolerancji, uzależnienia fizycznego
+i psychicznego.
+Powtarzające się stosowanie opioidów może prowadzić do zaburzeń związanych ze stosowaniem
+opioidów (OUD, ang. Opioid use disorder). Nadużywanie lub celowe niewłaściwe stosowanie
+opioidów może prowadzić do przedawkowania i (lub) zgonu. Ryzyko rozwoju OUD jest
+zwiększone u pacjentów, u których w wywiadzie osobistym lub rodzinnym (rodzice lub
+rodzeństwo) stwierdzono zaburzenia związane ze stosowaniem substancji (w tym zaburzenia
+związane z używaniem alkoholu), u pacjentów obecnie palących tytoń lub u pacjentów z innymi
+zaburzeniami psychicznymi w wywiadzie (np. duża depresja, zaburzenia lękowe i zaburzenia
+osobowości).
+
+Zespół odstawienny
+Wielokrotne podawanie w krótkich odstępach czasu przez dłuższy czas może skutkować
+wystąpieniem zespołu odstawiennego po zaprzestaniu leczenia, co może objawiać się następującymi
+działaniami niepożądanymi: nudności, wymioty, biegunka, lęk, dreszcze, drżenie i pocenie się.
+
+Po podaniu dożylnym fentanylu może dojść do przemijającego obniżenia ciśnienia tętniczego,
+szczególnie u pacjentów z hipowolemią. Należy podjąć odpowiednie działania mające na celu
+stabilizację ciśnienia tętniczego.
+
+Depresja oddechowa
+Tak jak w przypadku wszystkich silnie działających opioidowych leków przeciwbólowych,
+głębokiej analgezji towarzyszy nasilona depresja oddechowa mogąca utrzymywać się lub nawracać
+we wczesnym okresie pooperacyjnym. Należy zachować ostrożność, zwłaszcza w przypadku
+
+
+
+                                                                                                4
+podawania fentanylu w dużych dawkach lub we wlewie, aby zapewnić odpowiednią kontrolę
+oddychania spontanicznego i jego podtrzymania przed przeniesieniem pacjenta na oddział szpitalny.
+
+Po zastosowaniu dawki przekraczającej 200 µg fentanylu może dojść do nasilonej depresji
+oddychania. Wymienione działanie, a także inne efekty farmakologiczne fentanylu można odwrócić
+podając antagonistę opioidowego, np. nalokson. Może okazać się konieczne podanie dodatkowych
+dawek, np. naloksonu, ponieważ zahamowanie ośrodka oddechowego może trwać dłużej niż czas
+działania antagonisty opioidowego.
+Należy zapewnić dostępność sprzętu do resuscytacji oraz leków z grupy antagonistów receptorów
+opioidowych. Hiperwentylacja w trakcie znieczulenia może zmieniać reakcję pacjenta na CO2,
+wpływając na akcję oddechową w okresie pooperacyjnym.
+
+Podawanie fentanylu w okresie porodu może spowodować depresję oddychania u noworodka.
+
+Choroby serca
+Bradykardia, a nawet zatrzymanie akcji serca, mogą wystąpić w przypadku, jeśli pacjent otrzymał
+niewystarczającą dawkę środka cholinolitycznego lub jeśli fentanyl podawany jest łącznie z lekami
+zwiotczających mięśnie, nie mającymi działania wagolitycznego. Bradykardia ustępuje po podaniu
+atropiny.
+
+Sztywność mięśniowa
+Może wystąpić sztywność mięśniowa (podobnie jak po zastosowaniu morfiny).
+Sztywności obejmującej również mięśnie międzyżebrowe można zapobiec w następujący sposób:
+- wstrzykując fentanyl wolno dożylnie (zwykle jest to skuteczne dla małych dawek),
+- stosując premedykację z użyciem benzodiazepin,
+- stosując leki zwiotczające mięśnie.
+
+Mogą wystąpić drgawki kloniczne (miokloniczne) niepadaczkowe.
+
+Ryzyko związane z jednoczesnym stosowaniem leków uspokajających, np. benzodiazepin lub leków
+pochodnych:
+Jednoczesne stosowanie produktu Fentanyl WZF i leków uspokajających, np. benzodiazepin lub
+leków pochodnych, może prowadzić do wystąpienia nadmiernego uspokojenia, depresji
+oddechowej, śpiączki lub śmierci. Z tego względu leczenie skojarzone z takimi lekami
+uspokajającymi należy stosować wyłącznie u pacjentów, u których nie są dostępne alternatywne
+metody leczenia. Jeśli zostanie podjęta decyzja o stosowaniu produktu Fentanyl WZF w skojarzeniu
+z lekami uspokajającymi, należy podać możliwie najmniejszą skuteczną dawkę, a czas leczenia
+powinien być możliwie jak najkrótszy.
+Należy uważnie obserwować, czy u pacjenta nie występują objawy przedmiotowe i podmiotowe
+związane z depresją oddechową i nadmierne uspokojenie. W tym kontekście zdecydowanie zaleca
+się informowanie pacjentów i ich opiekunów o możliwości wystąpienia takich objawów (patrz
+punkt 4.5).
+
+Środki ostrożności
+
+Fentanyl można stosować wyłącznie w oddziałach w pełni wyposażonych w sprzęt umożliwiający
+monitorowanie i wspomaganie czynności układu oddechowego oraz może być podawany jedynie
+przez personel doświadczony w zapewnieniu i utrzymaniu czynności oddechowej.
+
+Specjalne zalecenia dotyczące dawkowania w niektórych stanach chorobowych
+Należy unikać podawania opioidowych leków przeciwbólowych w szybkim wstrzyknięciu
+dożylnym (bolus) u pacjentów z zaburzeniami czynności mózgu. W tej grupie pacjentów obniżenie
+ciśnienia tętniczego może wywołać przemijające zmniejszenie przepływu mózgowego.
+
+U pacjentów w podeszłym wieku oraz osłabionych zaleca się zmniejszenie dawki.
+
+
+                                                                                                    5
+U pacjentów z niekontrolowaną niedoczynnością tarczycy, chorobami płuc, zmniejszoną rezerwą
+oddechową, chorobą alkoholową, zaburzeniami czynności nerek lub wątroby po podaniu fentanylu
+należy obserwować reakcję na lek i przez dłuższy czas monitorować ich funkcje życiowe po
+operacji.
+
+Pacjenci długotrwale leczeni lekami opioidowymi lub w przeszłości uzależnieni od opioidów mogą
+wymagać zastosowania większych dawek fentanylu.
+
+Nużliwość mięśni (Myasthenia gravis)
+U pacjentów z nużliwością mięśni (myasthenia gravis), stosowanie niektórych leków
+cholinolitycznych i hamujących przewodnictwo nerwowo-mięśniowe przed rozpoczęciem
+oraz w trakcie znieczulenia ogólnego obejmującego dożylne podawanie fentanylu, należy
+podejmować po szczegółowym rozważeniu.
+
+Interakcje z lekami neuroleptycznymi
+W przypadku podawania fentanylu z lekiem neuroleptycznym, podający powinien znać szczególne
+właściwości każdego z tych leków, a zwłaszcza znać różnice w czasie działania. W przypadku
+zastosowania takiego połączenia, częściej występuje hipotensja. Leki neuroleptyczne mogą
+wywoływać objawy pozapiramidowe, które można leczyć podając leki stosowane w chorobie
+Parkinsona.
+
+Drogi żółciowe
+Podobnie jak w przypadku innych leków opioidowych, w związku z działaniem cholinolitycznym,
+podawanie fentanylu może prowadzić do zwiększenia ciśnienia w drogach żółciowych
+i w odosobnionych przypadkach wystąpienia skurczu zwieracza Oddiego.
+
+Zespół serotoninowy
+Zaleca się zachowanie ostrożności podczas jednoczesnego podawania fentanylu z lekami, które
+wpływają na system neuroprzekaźników serotoninergicznych.
+
+Podczas jednoczesnego stosowania leków serotoninergicznych, takich jak selektywne inhibitory
+zwrotnego wychwytu serotoniny (SSRIs) i inhibitory zwrotnego wychwytu serotoniny
+i noradrenaliny (SNRIs) oraz leków osłabiających metabolizm serotoniny (włącznie z inhibitorami
+monoaminooksydazy (IMAO) może dojść do rozwinięcia się potencjalnie groźnego dla życia
+zespołu serotoninowego. Zespół ten może wystąpić podczas stosowania zalecanych dawek.
+
+Zespół serotoninowy może obejmować zmiany stanu psychicznego (np. pobudzenie, omamy,
+śpiączka), zaburzenia czynności autonomicznego układu nerwowego (np. tachykardia, wahania
+ciśnienia tętniczego, hipertermia), zaburzenia nerwowo-mięśniowe (np. hiperrefleksja, brak
+koordynacji, sztywność) i (lub) zaburzenia żołądkowo-jelitowe (np. nudności, wymioty, biegunka).
+
+Jeżeli podejrzewa się wystąpienie zespołu serotoninowego, należy rozważyć natychmiastowe
+zaprzestanie stosowania fentanylu. Patrz również punkt 4.5.
+
+Dzieci i młodzież
+Techniki, które obejmują analgezję u spontanicznie oddychających dzieci należy wyłącznie
+stosować jako część techniki anestezjologicznej lub jako część techniki sedacji/analgezji przez
+wykwalifikowany personel medyczny w warunkach, które pozwolą na natychmiastowe
+przeprowadzenie intubacji w przypadku wystąpienia sztywności klatki piersiowej lub na
+wspomaganie oddychania w przypadku wystąpienia bezdechu.
+
+Podanie zewnątrzoponowe i podpajęczynówkowe
+Produkt może być stosowany zewnątrzoponowo i podpajęczynówkowo wyłącznie przez
+doświadczonego lekarza, dobrze znającego technikę podawania oraz działania niepożądane
+
+
+                                                                                                   6
+związane z tymi drogami podania. Po podaniu zewnątrzoponowym lub podpajęczynówkowym
+pacjenta należy obserwować przez 24 godziny od zastosowania ostatniej dawki produktu, ze
+względu na ryzyko wystąpienia depresji ośrodka oddechowego.
+Podanie podpajęczynówkowe fentanylu obarczone jest większym ryzykiem wystąpienia wczesnej
+depresji oddychania niż podanie zewnątrzoponowe.
+Fentanyl WZF w blokadach centralnych wstrzykiwany jest zgodnie z techniką metody.
+
+Fentanyl WZF zawiera poniżej 0,01 mg sodu w 1 ml roztworu do wstrzykiwań. Produkt leczniczy
+zawiera mniej niż 1 mmol (23 mg) sodu na 1 ml, to znaczy produkt uznaje się za „wolny od sodu”.
+Produkt może być rozcieńczany w 0,9% roztworze sodu chlorku lub 5% roztworze glukozy.
+W obliczeniu całkowitej zawartości sodu w przygotowanym rozcieńczeniu produktu należy wziąć
+pod uwagę zawartość sodu pochodzącego z rozcieńczalnika. W celu uzyskania dokładnej informacji
+dotyczącej zawartości sodu w roztworze wykorzystanym do rozcieńczenia produktu, należy
+zapoznać się z charakterystyką produktu leczniczego stosowanego rozcieńczalnika.
+
+4.5.   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Wpływ innych leków na fentanyl
+
+Leki działające hamująco na ośrodkowy układ nerwowy
+Stosowanie opioidów w premedykacji, barbituranów, benzodiazepin, leków neuroleptycznych,
+środków do znieczulenia ogólnego, leków takich jak gabapentynoidy (gabapentyna i pregabalina)
+i innych nieselektywnych leków działających hamująco na ośrodkowy układ nerwowy (np. alkohol)
+może nasilić opioidową depresję oddechową.
+
+W przypadku, gdy pacjent otrzymuje leki działające hamująco na ośrodkowy układ nerwowy, dawki
+fentanylu powinny być mniejsze niż zazwyczaj stosowane. Jednoczesne ich podawanie z fentanylem
+u pacjentów spontanicznie oddychających może spowodować zwiększenie ryzyka wystąpienia
+depresji oddechowej, głębokiej sedacji, śpiączki i zgonu.
+
+Leki uspokajające, np. benzodiazepiny lub leki pochodne
+Jednoczesne stosowanie opioidowych leków przeciwbólowych i leków uspokajających, np.
+benzodiazepin lub leków pochodnych, zwiększa ryzyko wystąpienia nadmiernego uspokojenia,
+depresji oddechowej, śpiączki lub śmierci na skutek addytywnego działania depresyjnego na OUN.
+Należy ograniczyć dawkę leku i czas trwania leczenia skojarzonego (patrz punkt 4.4).
+
+Inhibitory cytochromu P450 3A4 (CYP3A4)
+Fentanyl, charakteryzujący się wysokim klirensem, jest szybko metabolizowany przede wszystkim
+przez izoenzym CYP3A4. Gdy jest stosowany fentanyl, jednoczesne podawanie inhibitora CYP3A4
+może powodować zmniejszenie klirensu fentanylu. Po podaniu jednorazowej dawki fentanylu okres,
+w którym może wystąpić depresja oddechowa może być dłuższy, co może wymagać szczególnej
+opieki nad pacjentem i dłuższej jego obserwacji. Po podawaniu wielokrotnych dawek fentanylu,
+ryzyko wystąpienia ostrej i (lub) opóźnionej depresji oddechowej może być zwiększone i może być
+konieczne zmniejszenie dawki fentanylu w celu uniknięcia jego kumulacji.
+Rytonawir (jeden z silnych inhibitorów CYP3A4) stosowany doustnie zmniejsza klirens fentanylu
+podanego w jednorazowej dawce dożylnej o ⅔, jednak nie odnotowano wpływu na maksymalne
+stężenie fentanylu w osoczu.
+Jednakże itrakonazol (inny silny inhibitor CYP3A4) stosowany doustnie w dawce 200 mg na dobę
+przez 4 dni nie wykazuje znaczącego wpływu na farmakokinetykę fentanylu podanego dożylnie
+w jednorazowej dawce.
+
+Jednoczesne zastosowanie innych silnych lub umiarkowanych inhibitorów CYP3A4, takich jak
+flukonazol lub worykonazol i fentanylu może również spowodować zwiększenie i (lub) wydłużenie
+ekspozycji na fentanyl.
+
+
+
+                                                                                                 7
+Bradykardia, a nawet zatrzymanie akcji serca mogą wystąpić w przypadku jednoczesnego
+stosowania fentanylu i leków zwiotczających mięśnie, które nie mają działania wagolitycznego.
+
+Leki serotoninergiczne
+Jednoczesne podawanie fentanylu i leków serotoninergicznych, takich jak selektywne inhibitory
+zwrotnego wychwytu serotoniny (SSRIs) lub inhibitory zwrotnego wychwytu serotoniny i
+noradrenaliny (SNRIs) lub inhibitorów monoaminooksydazy (IMAO) mogą zwiększać ryzyko
+wystąpienia potencjalnie groźnego dla życia zespołu serotoninowego (patrz punkty 4.3 i 4.4.).
+
+Wpływ fentanylu na inne leki
+
+Po podaniu fentanylu, należy zmniejszyć dawkę innych leków depresyjnie działających na
+ośrodkowy układ nerwowy. Jest to szczególnie ważne po operacji, ponieważ głębokiej analgezji
+towarzyszy nasilona depresja oddechowa, która może się utrzymywać lub powrócić w okresie
+pooperacyjnym. Podawanie leków działających depresyjnie na ośrodkowy układ nerwowy, takich
+jak benzodiazepiny w tym okresie może nieproporcjonalnie zwiększać ryzyko wystąpienia depresji
+oddechowej.
+Podczas jednoczesnego stosowania etomidatu i fentanylu znacząco zwiększa się stężenie etomidatu
+w osoczu (2-3 krotnie). Całkowity klirens osoczowy i objętość dystrybucji etomidatu zmniejsza się
+2-3 krotnie, bez zmiany okresu półtrwania, jeśli jest on podawany jest z fentanylem.
+
+Jednoczesne podawanie fentanylu i dożylnie midazolamu powoduje zwiększenie osoczowego
+okresu półtrwania w fazie końcowej i zmniejszenie klirensu osoczowego midazolamu. Gdy te leki
+są podawane jednocześnie z fentanylem, ich dawki należy zmniejszyć.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Nie ma odpowiednich danych dotyczących stosowania fentanylu u kobiet w ciąży.
+Fentanyl może przenikać przez łożysko, jeśli jest stosowany we wczesnym okresie ciąży.
+Badania na zwierzętach wykazały pewien toksyczny wpływ na płodność (patrz punkt 5.3).
+Nie ma danych dotyczących szkodliwego działania na organizm człowieka.
+
+Nie zaleca się podawania fentanylu podczas porodu (w tym podczas cesarskiego cięcia), ponieważ
+fentanyl przenika przez łożysko i może wywołać depresję ośrodka oddechowego u płodu. Jeżeli
+zastosowano fentanyl, należy zapewnić dostępność sprzętu umożliwiającego wspomaganie
+czynności układu oddechowego dla matki i noworodka. Musi być zawsze zapewniona możliwość
+podania dziecku antagonistów receptorów opioidowych.
+
+Karmienie piersią
+Fentanyl przenika do mleka kobiecego. Dlatego w ciągu 24 godzin po zastosowaniu produktu nie
+zaleca się karmienia piersią ani użycia odciągniętego w tym czasie pokarmu. Należy rozważyć
+stosunek ryzyka do korzyści wynikający z karmienia piersią po zastosowaniu fentanylu.
+
+Płodność
+Dane kliniczne dotyczące wpływu fentanylu na płodność u mężczyzn i kobiet nie są dostępne.
+W badaniach na zwierzętach, niektóre testy na szczurach wykazały zmniejszoną płodność samic po
+podaniu dawek toksycznych dla matek (patrz punkt 5.3).
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Po zastosowaniu fentanylu nie zaleca się prowadzenia pojazdów mechanicznych i obsługiwania
+maszyn przez co najmniej 24 godziny, nawet jeśli pacjent zostanie wcześniej wypisany ze szpitala.
+
+
+
+
+                                                                                                    8
+4.8   Działania niepożądane
+
+Bezpieczeństwo dożylnego stosowania fentanylu zostało ocenione u 376 osób, które brały udział
+w 20 badaniach klinicznych, mających na celu ocenę fentanylu jako anestetyku. Osoby te
+otrzymywały dożylnie co najmniej 1 dawkę fentanylu i dostarczyły danych na temat
+bezpieczeństwa.
+Zebrane dane dotyczące bezpieczeństwa pochodzące z tych badań klinicznych wskazują, że
+najczęściej (z częstością ≥5%) zgłaszano następujące działania niepożądane: nudności (26,1%),
+wymioty (18,6%), sztywność mięśniową (10,4%), niedociśnienie (8,8%), nadciśnienie (8,8%),
+bradykardię (6,1%) oraz sedację (5,3%).
+
+Biorąc pod uwagę powyżej wymienione działania niepożądane, w tabeli 1. podano działania
+niepożądane, które występowały po dożylnym stosowaniu fentanylu, zgłoszone podczas badań
+klinicznych oraz po wprowadzeniu leku do obrotu.
+
+Działania niepożądane zostały podzielone ze względu na częstość występowania:
+(bardzo często ≥10, często ≥1/100 do <1/10; niezbyt często ≥1/1 000 do <1/100; rzadko ≥1/10 000
+do <1/1 000; bardzo rzadko <1/10 000), częstość nieznana (częstość nie może być określona na
+podstawie dostępnych danych).
+
+Tabela 1. Działania niepożądane
+ Podział ze względu                                        Działania niepożądane
+ na układy                                                Częstość występowania
+                      Bardzo często    Często           Niezbyt często    Rzadko      Częstość
+                      ≥10              ≥1/100 do        ≥1/1 000 do       ≥1/10 000   nieznana
+                                       <1/10            <1/100            do
+                                                                          <1/1 000
+
+ Zaburzenia                                                                           Nadwrażliwość
+ układu                                                                               (taka jak
+ immunologicznego                                                                     wstrząs
+                                                                                      anafilaktyczny,
+                                                                                      reakcje
+                                                                                      anafilaktyczne,
+                                                                                      pokrzywka)
+ Zaburzenia                            Pobudzenie       Nastrój                       Majaczenie
+ psychiczne                                             euforyczny
+ Zaburzenia           Sztywność        Dyskinezja       Ból głowy                     Drgawki
+ układu               mięśniowa        Sedacja                                        Utrata
+ nerwowego            (która może      Zawroty                                        przytomności
+                      również          głowy                                          Mioklonie
+                      obejmować
+                      mięśnie
+                      międzyżebrowe)
+ Zaburzenia oka                        Zaburzenia
+                                       widzenia
+ Zaburzenia serca                      Bradykardia                                    Zatrzymanie
+                                       Tachykardia                                    akcji serca
+                                       Arytmia
+ Zaburzenia                            Niedociśnienie   Zapalenie żył
+ naczyniowe                            Nadciśnienie     Wahania
+                                       Ból żył          ciśnienia
+                                                        tętniczego
+ Zaburzenia                            Skurcz krtani    Hiperwentylacja               Depresja
+ układu                                Skurcz           Czkawka                       oddychania
+ oddechowego,                          oskrzeli
+ klatki piersiowej                     Bezdech
+ i śródpiersia
+
+
+                                                                                                        9
+ Zaburzenia          Nudności                                         Dysfagia
+ żołądka i jelit     Wymioty
+ Zaburzenia skóry                    Alergiczne                                  Świąd
+ i tkanki                            zapalenie
+ podskórnej                          skóry
+ Zaburzenia ogólne                                   Dreszcze                    Zespół
+ i stany w miejscu                                   Hipotermia                  odstawienia
+ podania                                                                         (patrz punkt
+                                                                                 4.4)
+ Urazy, zatrucia                     Pooperacyjna    Powikłania
+ i powikłania po                     dezorientacja   związane z
+ zabiegach                                           drogami
+                                                     oddechowymi
+                                                     wynikające ze
+                                                     znieczulenia
+
+W przypadku stosowania leków neuroleptycznych z fentanylem, odnotowano następujące działania
+niepożądane: dreszcze, niepokój ruchowy, epizody omamów w okresie pooperacyjnym i zaburzenia
+pozapiramidowe (patrz punkt 4.4).
+Po podaniu fentanylu zewnątrzoponowo lub podpajęczynówkowo może wystąpić wczesna lub
+późna (do 24 godzin) depresja ośrodka oddechowego.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych
+Al. Jerozolimskie 181C
+02-222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+Objawy
+
+Objawy przedawkowania fentanylu zasadniczo wynikają z jego działania farmakologicznego.
+W zależności od indywidualnej wrażliwości, obraz kliniczny zależy przede wszystkim od stopnia
+depresji oddechowej, która może przebiegać od spowolnienia oddechu do bezdechu.
+Po przedawkowaniu fentanylu obserwowano występowanie toksycznej leukoencefalopatii.
+
+Leczenie
+
+Hipowentylacja lub bezdech:           podawanie tlenu, mechaniczne lub kontrolowane
+                                      wspomaganie oddychania.
+
+Depresja ośrodka oddechowego:         podanie antagonisty receptorów opioidowych (np.
+                                      naloksonu). Nie wyklucza to zastosowania innych środków
+                                      zaradczych.
+
+
+
+
+                                                                                                10
+                                       Depresja oddechowa może utrzymywać się dłużej niż
+                                       działanie antagonisty; w takim przypadku należy podać
+                                       dodatkowe dawki antagonisty leków opioidowych.
+
+Sztywność mięśniowa:                   podanie dożylne leków blokujących połączenia nerwowo-
+                                       mięśniowe w celu ułatwienia prowadzenia mechanicznego
+                                       lub kontrolowanego wspomagania oddychania.
+
+Należy monitorować stan ogólny pacjenta; utrzymywać ciepłotę ciała oraz zapewnić właściwe
+nawodnienie. Jeżeli wystąpi lub utrzymuje się ciężkie niedociśnienie, należy wziąć pod uwagę
+możliwość wystąpienia hipowolemii; jeśli wystąpi, należy ją kontrolować podając parenteralnie
+właściwy płyn.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: leki do znieczulenia ogólnego; opioidy; pochodne piperydyny.
+Kod ATC: N01AH01, N02AB03
+
+Fentanyl jest syntetycznym opioidowym lekiem przeciwbólowym 50 do 100 silniej działającym niż
+morfina.
+Początek działania jest szybki, a czas działania krótki. U ludzi podanie dożylne jednorazowej dawki
+0,5 mg do 1 mg/70 kg mc. powoduje natychmiastowe zniesienie bólu, zahamowanie ośrodka
+oddechowego, bradykardię i inne typowe działania podobne do morfiny. Czas maksymalnego
+działania fentanylu wynosi około 30 minut. Wszystkie leki o sile działania zbliżonej do morfiny
+działają przeciwbólowo, wpływają hamująco na oddychanie, powodują wymioty, zaparcia,
+zależność fizyczną, działają na nerw błędny i wywołują różny poziom sedacji. Wykazano, że
+fentanyl podany zwierzętom różni się od morfiny nie tylko krótkim czasem działania, ale też
+w minimalnym stopniu powoduje obniżenie ciśnienia tętniczego i nie działa wymiotnie.
+
+5.2   Właściwości farmakokinetyczne
+
+Parametry farmakokinetyczne:
+Wydalanie w moczu: 8%
+Stopień wiązania leku z białkami osocza: 80%
+Klirens: 13 ± 2 ml/min/kg mc.
+Objętość dystrybucji: 4 ± 0,4 l/kg mc.
+Końcowy okres półtrwania: od 141 min do 853 min.
+
+Zaburzenia czynności nerek
+Dane uzyskane z badania po dożylnym podaniu fentanylu u pacjentów poddawanych przeszczepowi
+nerki sugerują, że klirens fentanylu w tej populacji pacjentów może być zmniejszony. Pacjentów
+z zaburzeniami czynności nerek, którym podawany jest fentanyl, należy uważnie obserwować pod
+kątem objawów toksyczności fentanylu i jeśli konieczne zmniejszyć dawkę (patrz punkt 4.2).
+
+Pacjenci ze zwiększoną masą ciała (pacjenci otyli)
+Obserwowano zwiększenie klirensu fentanylu przy zwiększonej masie ciała. U pacjentów
+z BMI> 30, klirens fentanylu zwiększa się o około 10% na 10 kg przyrostu masy bez tłuszczu
+(beztłuszczowej masy ciała).
+
+
+
+
+                                                                                                 11
+5.3      Przedkliniczne dane o bezpieczeństwie
+
+Badania in vitro fentanylu wykazały, że podobnie jak w przypadku innych leków opioidowych,
+w przypadku komórek ssaków działanie mutagenne występuje jedynie po zastosowaniu stężeń
+cytotoksycznych wraz z aktywacją metaboliczną.
+Badania mutagenności na bakteriach i gryzoniach wykazały, że fentanyl nie ma właściwości
+mutagennych. Badaniach na szczurach, trwające 2 lata nie wykazały działania rakotwórczego
+fentanylu.
+
+Niektóre testy przeprowadzone na samicach szczurów wykazały zmniejszenie płodności, jak
+również śmiertelność zarodków. Było to związane z działaniem toksycznym na samice i nie
+wynikało z bezpośredniego wpływu leku na rozwój zarodka. Nie stwierdzono działania
+teratogennego.
+
+
+6.       DANE FARMACEUTYCZNE
+
+6.1      Wykaz substancji pomocniczych
+
+Sodu wodorotlenek 10% (do ustalenia pH)
+Woda do wstrzykiwań
+
+6.2      Niezgodności farmaceutyczne
+
+Produkt wykazuje chemiczną niezgodność z tiopentalem i metoheksytalem, która wynika z dużej
+różnicy pH.
+
+6.3      Okres ważności
+
+3 lata
+
+6.4      Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w temperaturze poniżej 25°C.
+Przechowywać w oryginalnym opakowaniu w celu ochrony przed światłem.
+Nie zamrażać.
+
+6.5      Rodzaj i zawartość opakowania
+
+Ampułki z bezbarwnego szkła w tekturowym pudełku.
+10 ampułek po 2 ml
+10 ampułek po 10 ml
+50 ampułek po 2 ml
+50 ampułek po 10 ml
+
+6.6      Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego
+         do stosowania
+
+Fentanyl WZF można podawać:
+-     domięśniowo,
+-     dożylnie – w szybkim wstrzyknięciu (bolus), we wlewie ciągłym lub metodą PCA,
+-     podskórnie – we wstrzyknięciu, we wlewie ciągłym,
+-     zewnątrzoponowo – podając dawkę jednorazową, we wlewie ciągłym lub metodą PCA,
+-     podpajęczynówkowo – podając dawkę jednorazową lub we wlewie ciągłym.
+
+
+
+                                                                                              12
+Produkt Fentanyl WZF może być podawany z 0,9% roztworem NaCl lub 5% roztworem glukozy.
+Jeżeli zachodzi konieczność, sporządzony roztwór można przechowywać, na odpowiedzialność
+użytkownika, maksymalnie przez 24 godziny, pod warunkiem, że rozcieńczenie przygotowuje się
+w kontrolowanych i walidowanych aseptycznych warunkach. Niewykorzystany w ciągu 24 godzin
+roztwór należy wyrzucić.
+
+Instrukcja otwierania ampułki
+Podczas otwierania ampułki zaleca się używanie rękawiczek.
+Po przypadkowym narażeniu skóry, należy spłukać wodą ten obszar skóry. Należy unikać używania
+mydła, alkoholu i innych środków czyszczących, które mogą powodować chemiczne lub fizyczne
+otarcia skóry.
+
+Przed otwarciem ampułki należy upewnić się, że cały roztwór znajduje się w dolnej części ampułki.
+Można delikatnie potrząsnąć ampułką lub postukać w nią palcem, aby ułatwić spłynięcie roztworu.
+Na każdej ampułce umieszczono kolorową kropkę (patrz rysunek 1.) jako oznaczenie znajdującego
+się poniżej niej punktu nacięcia.
+- Aby otworzyć ampułkę należy trzymać ją pionowo, w obu dłoniach, kolorową kropką do siebie -
+patrz rysunek 2. Górną część ampułki należy uchwycić w taki sposób, aby kciuk znajdował się
+powyżej kolorowej kropki.
+- Nacisnąć zgodnie ze strzałką umieszczoną na rysunku 3.
+Ampułki są przeznaczone wyłącznie do jednorazowego użytku, należy je otwierać bezpośrednio
+przed użyciem. Pozostałą zawartość niezużytego produktu należy zniszczyć zgodnie z
+obowiązującymi przepisami.
+
+Rysunek 1.
+
+
+
+
+Rysunek 2.
+
+
+
+
+                                                                                               13
+Rysunek 3.
+
+
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJACY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+Zakłady Farmaceutyczne POLPHARMA S.A.
+ul. Pelplińska 19, 83-200 Starogard Gdański
+
+
+8.    NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr R/1039
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO
+      OBROTU I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 30.01.1981 r.
+Data ostatniego przedłużenia pozwolenia: 09.07.2013 r.
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+
+
+
+                                                                              14
+

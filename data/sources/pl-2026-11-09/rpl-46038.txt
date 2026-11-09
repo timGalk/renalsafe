@@ -1,0 +1,1005 @@
+CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+
+
+                 1
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Sugammadex Reddy, 100 mg/ml, roztwór do wstrzykiwań
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+1 ml zawiera sugammadeks sodowy w ilości równoważnej 100 mg sugammadeksu.
+Każda fiolka 2 ml zawiera sugammadeks sodowy w ilości równoważnej 200 mg sugammadeksu.
+Każda fiolka 5 ml zawiera sugammadeks sodowy w ilości równoważnej 500 mg sugammadeksu.
+
+Substancja pomocnicza o znanym działaniu
+Każdy ml roztworu zawiera do 9,7 mg sodu (patrz punkt 4.4).
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań
+Przezroczysty roztwór, bezbarwny do lekko żółtego.
+pH wynosi od 7 do 8, a osmolarność od 300 do 500 mOsm/kg.
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Odwrócenie blokady przewodnictwa nerwowo-mięśniowego wywołanej przez rokuronium lub
+wekuronium u dorosłych.
+
+Dzieci i młodzież:
+Zaleca się stosowanie sugammadeksu wyłącznie w rutynowym zniesieniu blokady wywołanej przez
+rokuronium u dzieci i młodzieży w wieku od urodzenia do 17 lat.
+
+4.2   Dawkowanie i sposób podawania
+
+Dawkowanie
+
+Sugammadeks należy podawać wyłącznie przez lekarza anestezjologa lub pod jego nadzorem. Zaleca
+się zastosowanie odpowiedniej techniki monitorowania przewodnictwa nerwowo-mięśniowego w celu
+monitorowania przebiegu odwrócenia blokady przewodnictwa nerwowo-mięśniowego (patrz punkt
+4.4).
+Zalecana dawka sugammadeksu zależy od stopnia blokady przewodnictwa nerwowo-mięśniowego
+przeznaczonej do zniesienia.
+Zalecana dawka nie zależy od schematu znieczulenia.
+Sugammadeks może być stosowany w celu znoszenia różnych stopni blokady przewodnictwa
+nerwowo-mięśniowego wywołanego przez rokuronium lub wekuronium:
+
+Dorośli
+
+Rutynowe zniesienie blokady:
+Zalecane jest zastosowanie sugammadeksu w dawce 4 mg/kg masy ciała (mc.) po bloku wywołanym
+przez rokuronium lub wekuronium, jeżeli zniesienie bloku osiągnęło co najmniej 1-2 w skali
+stymulacji tężcowej (ang. Post-tetanic counts, PTC). Średni czas do powrotu stosunku T4/T1 do 0,9
+wynosi około 3 minuty (patrz punkt 5.1).
+
+Zaleca się zastosowanie sugammadeksu w dawce 2 mg/kg mc po bloku wywołanym przez rokuronium
+lub wekuronium, jeżeli spontaniczne zniesienie bloku wystąpiło do czasu ponownego pojawienia się
+T2. Średni czas do powrotu stosunku T4/T1 do 0,9 wynosi około 2 minuty (patrz punkt 5.1).
+
+                                                2
+Stosowanie zalecanych dawek do rutynowego znoszenia bloku spowoduje wystąpienie nieco
+mniejszej mediany czasu do powrotu stosunku T4/T1 do 0,9 dla blokady przewodnictwa nerwowo-
+mięśniowego wywołanego rokuronium w porównaniu z wekuronium (patrz punkt 5.1).
+
+Natychmiastowe zniesienie blokady wywołanej przez rokuronium:
+Jeżeli istnieje kliniczna konieczność natychmiastowego zniesienia blokady po podaniu rokuronium,
+zaleca się podanie sugammadeksu w dawce 16 mg/kg mc. Jeżeli sugammadeks w dawce 16 mg/kg
+mc. Podaje się 3 minuty po podaniu bromku rokuronium w bolusie w dawce 1,2 mg/kg mc., można
+oczekiwać, że średni czas do powrotu stosunku T4/T1 do 0,9 wyniesie około 1,5 minuty (patrz punkt
+5.1).
+Nie ma danych zalecających stosowanie sugammadeksu do natychmiastowego zniesienia blokady
+wywołanej przez wekuronium.
+
+Ponowne podanie sugammadeksu:
+W wyjątkowych przypadkach nawrotu blokady przewodnictwa nerwowo-mięśniowego po operacji
+(patrz punkt 4.4), zaleca się po podaniu dawki początkowej wynoszącej 2 mg/kg mc. Lub 4 mg/kg mc.
+Podanie powtórnej dawki sugammadeksu wynoszącej 4 mg/kg mc. Po podaniu drugiej dawki
+sugammadeksu należy starannie monitorować pacjenta, aby upewnić się, że przewodnictwo nerwowo-
+mięśniowe w pełni powróciło.
+
+Ponowne podanie rokuronium lub wekuronium po podaniu sugammadeksu:
+Czas oczekiwania na możliwość ponownego podania rokuronium lub wekuronium po zniesieniu
+blokady przewodnictwa nerwowo-mięśniowego przez sugammadeks, patrz punkt 4.4.
+
+Dodatkowe informacje dotyczące szczególnych grup pacjentów
+
+Zaburzenia czynności nerek:
+Nie zaleca się stosowania sugammadeksu u pacjentów z ciężkimi zaburzeniami czynności nerek [w
+tym u pacjentów, u których jest konieczna dializa (CrCl < 30 ml/min)] (patrz punkt 4.4). Badania
+prowadzone z udziałem pacjentów z ciężkimi zaburzeniami czynności nerek nie dostarczyły
+wystarczających informacji dotyczących bezpieczeństwa leczenia, przemawiających za stosowaniem
+sugammadeksu u tych pacjentów (patrz także punkt 5.1).
+W przypadku łagodnego i umiarkowanego zaburzenia czynności nerek (klirens kreatyniny ≥ 30 i
+< 80 ml/min), zalecenia dotyczące dawkowania są takie same, jak u osób dorosłych bez zaburzeń
+czynności nerek.
+
+Pacjenci w podeszłym wieku:
+Po podaniu sugammadeksu po ponownym wystąpieniu T2 po blokadzie wywołanej rokuronium średni
+czas do powrotu stosunku T4/T1 do 0,9 u dorosłych (w wieku od 18 do 64 lat) wynosi 2,2 minuty, u
+osób w podeszłym wieku (od 65 do 74 lat) 2,6 minuty, a u osób w podeszłym wieku (powyżej 75 lat)
+3,6 minuty. Mimo iż czasy do powrotu przewodnictwa u osób w podeszłym wieku wydają się być
+dłuższe, należy postępować zgodnie z zaleceniami dotyczącymi dawkowania u osób dorosłych (patrz
+punkt 4.4).
+
+Pacjenci otyli:
+W przypadku pacjentów otyłych, w tym pacjentów chorobliwie otyłych (wskaźnik masy ciała (ang.
+BMI, body mass index) ≥ 40 kg/m2), dawka sugammadeksu zależy od aktualnej masy ciała. Należy
+postępować zgodnie z zaleceniami dotyczącymi dawkowania u osób dorosłych.
+
+Zaburzenia czynności wątroby:
+Nie prowadzono badań u pacjentów z ciężkimi zaburzeniami czynności wątroby. Należy zachować
+ostrożność, rozważając zastosowanie sugammadeksu u pacjentów z ciężkimi zaburzeniami czynności
+wątroby, a także gdy zaburzeniom czynności wątroby towarzyszy koagulopatia (patrz punkt 4.4).
+
+W przypadku łagodnych do umiarkowanych zaburzeń czynności wątroby nie jest konieczne
+dostosowanie dawki, ponieważ sugammadeks jest wydalany głównie przez nerki.
+
+
+                                                3
+Dzieci i młodzież (od urodzenia do 17 lat)
+
+Produkt leczniczy Sugammadex Reddy w dawce 100 mg/ml można rozcieńczyć do stężenia 10 mg/ml,
+aby zwiększyć precyzję dawkowania u dzieci i młodzieży (patrz punkt 6.6).
+
+Rutynowe odwrócenie blokady:
+W celu odwrócenia blokady wywołanej przez rokuronium, zaleca się stosowanie sugammadeksu w
+dawce 4 mg/kg mc., jeżeli podczas jej odwrócenia osiągnięto co najmniej 1-2 w skali PTC.
+W celu odwrócenia blokady wywołanej przez rokuronium przy ponownym pojawieniu się T2, zaleca
+się stosowanie dawki 2 mg/kg mc. (patrz punkt 5.1).
+
+Natychmiastowe odwrócenie blokady
+Nie badano natychmiastowego znoszenia blokady u dzieci i młodzieży.
+
+Sposób podawania
+Produkt leczniczy Sugammadex Reddy należy podawać dożylnie w pojedynczym bolusie. Bolus
+należy podać szybko, w ciągu 10 sekund, do istniejącego stałego wkłucia dożylnego (patrz punkt 6.6).
+W badaniach klinicznych sugammadeks podawano wyłącznie w postaci pojedynczego bolusa.
+
+4.3   Przeciwwskazania
+
+Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w
+punkcie 6.1.
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Jako że jest to typowa praktyka anestezjologiczna po zastosowaniu blokady przewodnictwa nerwowo-
+mięśniowego, zaleca się monitorowanie pacjentów tuż po operacji pod kątem nieprzewidzianych
+zdarzeń, w tym nawrotu blokady przewodnictwa nerwowo-mięśniowego.
+
+Monitorowanie czynności oddechowej w czasie znoszenia bloku:
+Obowiązkowe jest stosowanie u pacjentów wentylacji mechanicznej do czasu powrotu własnej
+czynności oddechowej po zniesieniu blokady przewodnictwa nerwowo-mięśniowego. Nawet, jeżeli
+ustąpienie blokady przewodnictwa nerwowo-mięśniowego jest całkowite, inne leki stosowane w
+okresie przed- i pooperacyjnym mogą zmniejszyć wydolność oddechową i z tego względu wentylacja
+mechaniczna może być nadal wymagana.
+Jeżeli powróci blokada przewodnictwa nerwowo-mięśniowego po ekstubacji, należy zapewnić
+odpowiednią wentylację.
+
+Nawrót blokady przewodnictwa nerwowo-mięśniowego:
+W badaniach klinicznych z udziałem pacjentów leczonych rokuronium lub wekuronium, podczas
+których sugammadeks był podawany w dawce zależnej od stopnia blokady przewodnictwa nerwowo-
+mięśniowego, zaobserwowano nawrót blokady przewodnictwa nerwowo-mięśniowego z częstością
+0,20% na podstawie monitorowania przewodnictwa nerwowo-mięśniowego lub dowodów
+klinicznych. Zastosowanie mniejszych dawek niż zalecane może prowadzić do zwiększonego ryzyka
+nawrotu blokady przewodnictwa nerwowo-mięśniowego po jej początkowym zniesieniu. Takie
+postępowanie nie jest zalecane (patrz punkt 4.2 i punkt 4.8).
+
+Wpływ na hemostazę:
+W badaniu z udziałem ochotników sugammadeks w dawce 4 mg/kg mc. Oraz 16 mg/kg mc.
+Powodował maksymalne średnie wydłużenie czasu częściowej tromboplastyny po aktywacji (aPTT)
+odpowiednio o 17 i 22% oraz czasu protrombinowego, międzynarodowego współczynnika
+znormalizowanego [PT (INR)] odpowiednio o 11 i 22%. To ograniczone średnie wydłużenie aPTT i
+PT (INR) trwało krótko (≤ 30 minut). Na podstawie bazy danych klinicznych (n=3519) oraz wyników
+badania przeprowadzonego z udziałem 1184 pacjentów, u których zastosowano operacyjne leczenie
+złamania biodra/wykonano endoprotezoplastykę stawu biodrowego, nie stwierdza się klinicznie
+istotnego wpływu sugammadeksu w dawce 4 mg/kg mc., stosowanego samodzielnie lub w skojarzeniu
+
+                                                 4
+z lekami przeciwzakrzepowymi, na częstość występowania około- i pooperacyjnych powikłań
+krwotocznych.
+
+W badaniach in vitro zaobserwowano interakcje farmakodynamiczne (wydłużenie aPTT oraz PT) z
+antagonistami witaminy K, niefrakcjonowaną heparyną, heparynami drobnocząsteczkowymi,
+rywaroksabanem oraz dabigatranem. U pacjentów, u których stosuje się rutynową pooperacyjną
+profilaktykę lekami przeciwzakrzepowymi, taka interakcja farmakodynamiczna nie jest klinicznie
+istotna. Należy zachować ostrożność przy rozważaniu użycia sugammadeksu u pacjentów leczonych
+lekami przeciwzakrzepowymi z powodu występującej wcześniej lub współwystępującej choroby.
+
+Nie można wykluczyć zwiększonego ryzyka krwawienia u następujących pacjentów:
+• z wrodzonym niedoborem czynników krzepnięcia zależnych od witaminy K;
+• z istniejącymi uprzednio koagulopatiami;
+• przyjmujących pochodne kumaryny oraz z INR (międzynarodowy współczynnik
+    znormalizowany) powyżej 3,5;
+• stosujących leki przeciwzakrzepowe, którzy otrzymują sugammadeks w dawce 16 mg/kg mc.
+
+W razie medycznej konieczności podania tym pacjentom sugammadeksu, anestezjolog – biorąc pod
+uwagę wywiad pacjenta dotyczący epizodów krwawień oraz rodzaj planowanego zabiegu – musi
+zdecydować, czy korzyści przewyższają potencjalne ryzyko powikłań krwotocznych. W razie
+podawania tym pacjentom sugammadeksu, zaleca się monitorowanie hemostazy i parametrów
+krzepnięcia.
+
+Czasy odczekania do ponownego podania środków blokujących przewodnictwo nerwowo-mięśniowe
+po zniesieniu bloku przez sugammadeks:
+
+Tabela 1: Ponowne podanie rokuronium lub wekuronium po rutynowym zniesieniu blokady
+(sugammadeks w dawce do 4 mg/kg mc.):
+     Minimalny czas odczekania      Środek blokujący przewodnictwo nerwowo-mięśniowe
+                                              oraz dawka, jaka ma być podana
+         5 minut                             rokuronium w dawce 1,2 mg/kg mc.
+         4 godziny                  rokuronium w dawce 0,6 mg/kg mc. Lub wekuronium w
+                                                    dawce 0,1 mg/kg mc.
+
+Po ponownym podaniu rokuronium w dawce wynoszącej 1,2 mg/kg mc. W ciągu 30 minut po podaniu
+sugammadeksu, początek wystąpienia blokady nerwowo-mięśniowej może być wydłużony do około 4
+minut, a czas utrzymywania się tej blokady może się skrócić do około 15 minut.
+
+W oparciu o model PK ustalono, że u pacjentów z łagodnymi lub umiarkowanymi zaburzeniami
+czynności nerek przed ponownym podaniem rokuronium w dawce 0,6 mg/kg mc. Lub wekuronium w
+dawce 0,1 mg/kg mc. Po rutynowym zniesieniu blokady przez sugammadeks, zaleca się odczekać 24
+godziny. Jeśli czas oczekiwania musi być krótszy, w celu wywołania nowej blokady przewodnictwa
+nerwowo-mięśniowego należy podać rokuronium w dawce wynoszącej 1,2 mg/kg mc.
+
+Ponowne podanie rokuronium lub wekuronium po natychmiastowym zniesieniu blokady
+(sugammadeks w dawce 16 mg/kg mc.):
+
+W bardzo rzadkich przypadkach, gdy takie postępowanie może być konieczne, proponuje się
+odczekanie 24 godzin.
+
+Jeżeli konieczna jest blokada przewodnictwa nerwowo-mięśniowego przed upływem zalecanego
+czasu odczekania, należy zastosować niesteroidowy lek blokujący przewodnictwo
+nerwowomięśniowe. Lek depolaryzujący blokujący przewodnictwo nerwowo-mięśniowe może
+zacząć działać wolniej niż w przewidywanym czasie, ponieważ znaczna część postsynaptycznych
+receptorów nikotynowych może wciąż być wysycona przez środek blokujący przewodnictwo
+nerwowomięśniowe.
+
+                                               5
+Zaburzenia czynności nerek:
+Nie zaleca się stosowania sugammadeksu u pacjentów z ciężkimi zaburzeniami czynności nerek, w
+tym także u tych wymagających dializoterapii (patrz punkt 5.1).
+
+Płytkie znieczulenie:
+Gdy w badaniach klinicznych znoszono blokadę przewodnictwa nerwowo-mięśniowego w trakcie
+znieczulenia, czyli w sytuacji, gdy celem było badanie znoszenia blokady, czasem stwierdzano oznaki
+płytkiego znieczulenia (poruszanie, kaszel, grymasy twarzy oraz ssanie rurki do intubacji).
+W przypadku znoszenia blokady przewodnictwa nerwowo-mięśniowego w czasie trwania
+znieczulenia należy zgodnie ze wskazaniami klinicznymi podać dodatkowe dawki środka
+znieczulającego i (lub) opioidu.
+
+Znaczna bradykardia:
+W rzadkich przypadkach obserwowano występowanie znacznej bradykardii w ciągu kilku minut po
+podaniu sugammadeksu w celu zniesienia blokady przewodnictwa nerwowo mięśniowego.
+Sporadycznie bradykardia może prowadzić do zatrzymania krążenia (patrz punkt 4.8). Należy ściśle
+monitorować pacjentów, czy nie występują u nich zmiany parametrów hemodynamicznych w czasie
+trwania blokady przewodnictwa nerwowo-mięśniowego i po jej zniesieniu. W przypadku stwierdzenia
+istotnej klinicznie bradykardii, należy podać leki antycholinergiczne, takie jak atropina.
+
+Zaburzenia czynności wątroby:
+Sugammadeks nie jest metabolizowany ani wydalany przez wątrobę, z tego względu nie prowadzono
+badań u pacjentów z niewydolnością wątroby. Należy zachować dużą ostrożność podczas stosowania
+u pacjentów z ciężkimi zaburzeniami czynności wątroby. Jeśli zaburzeniom czynności wątroby
+towarzyszy koagulopatia, należy zapoznać się z informacją dotyczącą wpływu produktu na hemostazę.
+
+Oddziały intensywnej opieki medycznej:
+Nie badano stosowania sugammadeksu w oddziałach intensywnej opieki medycznej u pacjentów
+otrzymujących rokuronium lub wekuronium.
+
+Stosowanie do zniesienia bloku wywołanego przez środki blokujące przewodnictwo
+nerwowomięśniowe inne niż rokuronium czy wekuronium:
+Sugammadeks nie powinien być stosowany do znoszenia blokady wywołanej przez niesteroidowe
+leki blokujące przewodnictwo nerwowo-mięśniowe, takie jak związki sukcynylocholiny lub
+benzyloizochinolinowe.
+Sugammadeks nie powinien być stosowany do znoszenia blokady wywołanej przez steroidowe leki
+blokujące przewodnictwo nerwowo-mięśniowe inne niż rokuronium lub wekuronium, ponieważ nie
+ma danych dotyczących skuteczności i bezpieczeństwa stosowania dla takich związków. Dostępne są
+ograniczone dane dotyczące znoszenia blokady wywołanej przez pankuronium, ale nie zaleca się
+stosowania sugammadeksu w takich sytuacjach.
+
+Opóźnione znoszenie bloku:
+Schorzenia związane ze spowolnionym przepływem krwi np. Choroba sercowo-naczyniowa, podeszły
+wiek (patrz punkt 4.2, czas powrotu przewodnictwa u osób starszych) lub stany obrzęku (np. Ciężkie
+zaburzenia czynności wątroby) mogą być związane z dłuższym czasem potrzebnym do powrotu
+przewodnictwa.
+
+Reakcje nadwrażliwości na produkt leczniczy:
+Klinicyści powinni być przygotowani na możliwość wystąpienia reakcji nadwrażliwości na produkt
+leczniczy (w tym reakcje anafilaktyczne) i powinni przedsięwziąć odpowiednie środki ostrożności
+(patrz punkt 4.8).
+
+Sód:
+Ten produkt leczniczy zawiera do 9,7 mg sodu na jeden ml, co odpowiada 0,5% zalecanej przez WHO
+maksymalnej 2 g dobowej dawki sodu u osób dorosłych.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+                                                6
+Informacje zawarte w tym punkcie oparte są o powinowactwo wiązania między sugammadeksem a
+innymi lekami, doświadczenia nie-kliniczne, badania kliniczne oraz symulacje w modelu
+uwzględniającym farmakodynamiczne działanie leków blokujących przewodnictwo nerwowo-
+mięśniowe oraz farmakokinetyczne interakcje między lekami blokującymi przewodnictwo nerwowo-
+mięśniowe a sugammadeksem. W oparciu o te dane, nie oczekuje się klinicznie istotnych interakcji
+farmakodynamicznych z innymi lekami, za wyjątkiem poniższych: W przypadku toremifenu oraz
+kwasu fusydowego nie można wykluczyć wystąpienia interakcji wyparcia (nie oczekuje się klinicznie
+istotnych interakcji związanych z wychwytem). W przypadku hormonalnych środków
+antykoncepcyjnych nie można wykluczyć wystąpienia klinicznie istotnych interakcji związanych z
+wychwytem (nie oczekuje się interakcji związanych z wyparciem).
+
+Interakcje potencjalnie wpływające na skuteczność sugammadeksu (interakcje związane
+z wyparciem):
+W wyniku podania niektórych produktów leczniczych po zastosowaniu sugammadeksu może
+teoretycznie mieć miejsce wyparcie rokuronium lub wekuronium z kompleksu z sugammadeksem.
+Wskutek tego można obserwować nawrót blokady przewodnictwa nerwowo-mięśniowego. W tej
+sytuacji pacjent musi być wentylowany. W razie infuzji należy przerwać podawanie produktu
+leczniczego, który spowodował reakcję wyparcia. W przypadku przewidywania możliwości
+wystąpienia interakcji związanej z wyparciem, należy starannie monitorować pacjentów w celu
+wykluczenia nawrotu blokady przewodnictwa nerwowo-mięśniowego (w przybliżeniu do 15 minut),
+po podaniu pozajelitowym innego produktu leczniczego w okresie 7,5 godziny od podania
+sugammadeksu.
+
+Toremifen:
+W przypadku toremifenu, który cechuje się stosunkowo dużym powinowactwem do sugammadeksu i
+może osiągnąć stosunkowo duże stężenie w osoczu, może nastąpić wyparcie wekuronium lub
+rokuronium z kompleksu z sugammadeksem. Dlatego lekarze powinni mieć świadomość, że czas do
+powrotu stosunku T4/T1 do 0,9 może być wydłużony u pacjentów, którzy otrzymali toremifen w dniu
+operacji.
+
+Podanie dożylne kwasu fusydowego:
+Stosowanie kwasu fusydowego w okresie przedoperacyjnym może nieco wydłużyć czas do powrotu
+stosunku T4/T1 do 0,9. Nie oczekuje się nawrotu blokady przewodnictwa nerwowo-mięśniowego w
+fazie pooperacyjnej, ponieważ infuzja kwasu fusydowego trwa kilka godzin, a w badaniu krwi
+rezultaty widoczne są po upływie 2-3 dni. W przypadku ponownego podania sugammadeksu patrz
+punkt 4.2.
+
+Interakcje potencjalnie wpływające na skuteczność innych produktów leczniczych (interakcje
+związane z wychwytem):
+W wyniku podania sugammadeksu niektóre produkty lecznicze mogą być mniej skuteczne ze względu
+na zmniejszenie ich (wolnej frakcji) stężenia w osoczu. W przypadku wystąpienia takiej sytuacji,
+zaleca się rozważenie ponownego podania danego produktu leczniczego, podania produktu
+leczniczego o równoważnym działaniu terapeutycznym (najlepiej należącego do innej grupy
+związków chemicznych) i (lub) zastosowanie niefarmakologicznej interwencji.
+
+Hormonalne leki antykoncepcyjne:
+Stwierdzono, że interakcja pomiędzy sugammadeksem w dawce 4 mg/kg mc. A progestagenem może
+doprowadzić do zmniejszenia ekspozycji na progestagen (34% AUC), podobnego do zmniejszenia w
+przypadku, gdy dobowa dawka hormonalnego leku antykoncepcyjnego zostanie przyjęta 12 godzin
+później, co może prowadzić do zmniejszenia skuteczności. Dla estrogenów działanie to wydaje się być
+mniejsze. Z tego względu uważa się, że podanie sugammadeksu w bolusie jest równoznaczne z
+pominięciem dobowej dawki przyjmowanych doustnie hormonalnych leków antykoncepcyjnych
+(zarówno złożonych hormonalnych leków antykoncepcyjnych jak i zawierających tylko progestagen).
+Należy zapoznać się z zaleceniami przedstawionymi w ulotce dotyczącymi postępowania w
+przypadku pominięcia dawki leku antykoncepcyjnego, gdy przyjęto doustny lek antykoncepcyjny w
+tym samym dniu, w którym został podany sugammadeks. W przypadku hormonalnych leków
+
+                                                7
+antykoncepcyjnych niestosowanych doustnie należy zastosować dodatkową niehormonalną metodę
+antykoncepcji przez następnych 7 dni oraz zapoznać się z zaleceniami zawartymi w ulotce
+stosowanego leku antykoncepcyjnego.
+
+Interakcje wynikające z przedłużonego działania rokuronium lub wekuronium:
+Jeżeli w okresie pooperacyjnym stosowane są produkty lecznicze, które mogą zwiększyć blokadę
+przewodnictwa nerwowo-mięśniowego, należy zwrócić szczególną uwagę na możliwość nawrotu
+blokady przewodnictwa nerwowo-mięśniowego. Należy zapoznać się z wykazem konkretnych
+produktów leczniczych nasilających blokadę przewodnictwa nerwowo-mięśniowego podanym w
+ulotce informacyjnej dołączonej do opakowania rokuronium lub wekuronium. W przypadku nawrotu
+blokady przewodnictwa nerwowo-mięśniowego może być konieczne zastosowanie mechanicznej
+wentylacji i ponowne podanie pacjentowi sugammadeksu (patrz punkt 4.2).
+
+Wpływ na wyniki badań laboratoryjnych:
+Zazwyczaj sugammadeks nie wpływa na wyniki badań laboratoryjnych. Wyjątkiem jest badanie
+stężenia progesteronu w surowicy. Interferencję z tym testem obserwuje się przy stężeniu
+sugammadeksu w osoczu wynoszącym 100 mikrogramów/ml (największe stężenie w osoczu po
+podaniu 8 mg/kg mc. W bolusie).
+
+W badaniu z udziałem ochotników, sugammadeks w dawce 4 mg/kg mc. Oraz 16 mg/kg mc.
+Powodował maksymalne średnie wydłużenie czasu częściowej tromboplastyny po aktywacji (aPTT)
+odpowiednio o 17 i 22% i czasu protrombinowego PT (INR) odpowiednio o 11 i 22%. To ograniczone
+średnie wydłużenie aPTT i PT (INR) trwało krótko (≤ 30 minut).
+W badaniach in vitro zaobserwowano interakcje farmakodynamiczne (wydłużenie aPTT oraz PT) z
+antagonistami witaminy K, niefrakcjonowaną heparyną, heparynami drobnocząsteczkowymi,
+rywaroksabanem oraz dabigatranem (patrz punkt 4.4).
+
+Dzieci i młodzież
+
+Nie przeprowadzono oficjalnych badań dotyczących interakcji. U dzieci i młodzieży należy
+uwzględnić wspomniane powyżej interakcje dla dorosłych oraz ostrzeżenia w punkcie 4.4.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Brak jest danych klinicznych dotyczących działania sugammadeksu w przypadku stosowania u kobiet
+w ciąży.
+Badania na zwierzętach nie wykazały bezpośredniego ani pośredniego szkodliwego wpływu na
+przebieg ciąży, rozwój zarodka lub płodu, przebieg porodu lub rozwój pourodzeniowy. Należy
+zachować ostrożność w przypadku podawania sugammadeksu kobietom w ciąży.
+
+Karmienie piersią
+Nie wiadomo czy sugammadeks przenika do mleka kobiet karmiących piersią. Badania na zwierzętach
+potwierdzają przenikanie sugammadeksu do mleka. Zwykle wchłanianie cyklodekstryn po podaniu
+doustnym jest małe i nie jest spodziewany żaden wpływ na karmione dziecko po podaniu
+jednorazowej dawki sugammadeksu kobiecie karmiącej piersią. Należy podjąć decyzję, czy przerwać
+karmienie piersią, czy przerwać podawanie sugammadeksu, biorąc pod uwagę korzyści z karmienia
+piersią dla dziecka i korzyści z leczenia dla matki.
+
+Płodność
+Nie badano wpływu sugammadeksu na płodność u ludzi. Badania na zwierzętach nie wykazały
+szkodliwego wpływu na płodność.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Nie jest znany wpływ sugammadeksu na zdolność prowadzenia pojazdów i obsługiwania maszyn.
+
+
+                                                8
+4.8   Działania niepożądane
+
+Podsumowanie profilu bezpieczeństwa
+Sugammadeks podaje się pacjentom poddawanym zabiegom chirurgicznym jednocześnie ze środkami
+blokującymi przewodnictwo nerwowo-mięśniowe i znieczulającymi. Z tego powodu trudno ustalić
+związek przyczynowy działań niepożądanych.
+Najczęściej zgłaszane działania niepożądane występujące u pacjentów poddawanych zabiegom
+chirurgicznym to kaszel, powikłania oddechowe związane ze znieczuleniem, powikłania związane ze
+znieczuleniem, niedociśnienie związane z zabiegiem oraz powikłania związane z zabiegiem (Często (≥
+1/100 do < 1/10)).
+
+Tabela 2: Tabelaryczny wykaz działań niepożądanych
+Bezpieczeństwo stosowania sugammadeksu oceniono na podstawie zbiorczej bazy danych
+dotyczących bezpieczeństwa stosowania z badań fazy I–III, obejmującej 3519 poszczególnych
+pacjentów. Następujące działania niepożądane zostały zgłoszone w badaniach kontrolowanych
+placebo, w których pacjenci otrzymywali znieczulenie i (lub) środki blokujące przewodnictwo
+nerwowo-mięśniowe (1078 pacjentów otrzymywało sugammadeks, 544 pacjentów otrzymywało
+placebo).
+[Bardzo często (≥ 1/10), często (od ≥ 1/100 do < 1/10), niezbyt często (od ≥ 1/1 000 do < 1/100),
+rzadko (od ≥ 1/10 000 do < 1/1 000), bardzo rzadko (< 1/10 000)]
+
+ Klasyfikacja układów i narządów           Częstość występowania         Działania niepożądane
+                                                                         (Preferowane nazewnictwo)
+ Zaburzenia układu immunologicznego        Niezbyt często                Reakcje nadwrażliwości na
+                                                                         produkt leczniczy (patrz
+                                                                         punkt 4.4)
+ Zaburzenia układu oddechowego,            Często                        Kaszel
+ klatki piersiowej i śródpiersia
+ Urazy, zatrucia i powikłania po           Często                        Powikłania oddechowe
+ zabiegach                                                               związane ze znieczuleniem
+
+                                                                         Powikłania związane ze
+                                                                         znieczuleniem (patrz punkt
+                                                                         4.4)
+
+                                                                         Niedociśnienie związane
+                                                                         z zabiegiem
+
+                                                                         Powikłania po zabiegu
+
+Opis wybranych działań niepożądanych
+Reakcje nadwrażliwości na produkt leczniczy:
+U niektórych pacjentów i ochotników (informacje dotyczące ochotników podano poniżej w punkcie
+„Informacje o zdrowych ochotnikach”) obserwowano występowanie reakcji nadwrażliwości, w tym
+anafilaksji. W badaniach klinicznych prowadzonych z udziałem pacjentów poddawanych zabiegom
+chirurgicznym reakcje te zgłaszano niezbyt często, a w badaniach po wprowadzeniu produktu
+leczniczego do obrotu częstość występowania reakcji nadwrażliwości jest nieznana.
+Reakcje nadwrażliwości były różnorodne, od miejscowych reakcji skórnych do ciężkich reakcji
+ogólnoustrojowych (tj. Anafilaksja, wstrząs anafilaktyczny) i występowały u pacjentów nieleczonych
+wcześniej sugammadeksem.
+Objawy związane z tymi reakcjami obejmowały: uderzenia gorąca, pokrzywkę, wysypkę
+rumieniowatą, (ciężkie) niedociśnienie tętnicze krwi, tachykardię, obrzęk języka, obrzęk gardła,
+skurcz oskrzeli oraz epizody obturacji płuc. Ciężkie reakcje nadwrażliwości mogą zakończyć się
+zgonem.
+W raportach po wprowadzeniu produktu leczniczego do obrotu obserwowano nadwrażliwość na
+sugammadeks oraz na kompleks sugammadeks-rokuronium.
+
+
+                                                    9
+Powikłania oddechowe związane ze znieczuleniem:
+Powikłania oddechowe związane ze znieczuleniem obejmowały krztuszenie się rurką do intubacji,
+kaszel, łagodne krztuszenie się, przebudzenie w trakcie operacji, kaszel podczas znieczulania lub w
+trakcie operacji lub spontaniczny oddech pacjenta, związany z zabiegiem znieczulenia.
+
+Powikłania związane ze znieczuleniem:
+Powikłania związane ze znieczuleniem, wskazujące na powrót czynności nerwowo-mięśniowych,
+obejmują ruchy kończyn lub ciała, albo kaszel, w czasie procedury znieczulania lub w trakcie operacji,
+grymasy twarzy, lub ssanie rurki intubacyjnej. Patrz punkt 4.4, płytkie znieczulenie.
+
+Powikłania związane z zabiegiem:
+Powikłania związane z zabiegiem obejmowały kaszel, tachykardię, bradykardię, poruszanie się oraz
+przyspieszone bicie serca.
+
+Znaczna bradykardia:
+W okresie po wprowadzeniu produktu leczniczego do obrotu obserwowano sporadycznie przypadki
+występowania znacznej bradykardii i bradykardii z zatrzymaniem krążenia w ciągu kilku minut po
+podaniu sugammadeksu (patrz punkt 4.4).
+
+Nawrót blokady przewodnictwa nerwowo-mięśniowego:
+W badaniach klinicznych z udziałem pacjentów leczonych rokuronium lub wekuronium, podczas
+których sugammadeks był podawany w dawce zależnej od stopnia blokady przewodnictwa nerwowo-
+mięśniowego (n=2022), zaobserwowano nawrót blokady przewodnictwa nerwowo-mięśniowego z
+częstością 0,20% na podstawie monitorowania przewodnictwa nerwowo-mięśniowego lub dowodów
+klinicznych (patrz punkt 4.4).
+
+Informacje o zdrowych ochotnikach:
+W randomizowanym badaniu prowadzonym metodą podwójnie ślepej próby badano częstość
+występowania reakcji nadwrażliwości na produkt leczniczy u zdrowych ochotników, którym podano
+nie więcej niż 3 dawki placebo (n=76), sugammadeks w dawce 4 mg/kg mc. (n=151) lub
+sugammadeks w dawce 16 mg/kg mc. (n=148). Zgłoszenia podejrzewanych przypadków
+nadwrażliwości były rozstrzygane przez komisję w trybie zaślepionym. Częstość występowania
+zatwierdzonych przypadków nadwrażliwości w grupach otrzymujących placebo, sugammadeks w
+dawce 4 mg/kg mc. Oraz sugammadeks w dawce 16 mg/kg mc. Wynosiła odpowiednio 1,3%, 6,6% i
+9,5%. Nie zgłoszono przypadków anafilaksji po przyjęciu placebo lub sugammadeksu w dawce 4
+mg/kg mc. Po przyjęciu pierwszej dawki sugammadeksu, wynoszącej 16 mg/kg mc. Wystąpił
+pojedynczy przypadek zatwierdzonej anafilaksji (częstość występowania wynosiła 0,7%). Nie
+stwierdzono zwiększonej częstości występowania lub ciężkiego nasilenia nadwrażliwości w
+przypadku wielokrotnego podawania sugammadeksu.
+We wcześniejszym badaniu o zbliżonym schemacie wystąpiły trzy zatwierdzone przypadki anafilaksji,
+wszystkie po podaniu sugammadeksu w dawce 16 mg/kg mc. (częstość występowania wynosiła
+2,0%).
+W zbiorczej bazie danych z badań fazy 1 do działań niepożądanych występujących często (≥ 1/100 do
+< 1/10) lub bardzo często (≥ 1/10) oraz występujących częściej u pacjentów przyjmujących
+sugammadeks niż u pacjentów z grupy placebo należą: zaburzenia smaku (10,1%), ból głowy (6,7%),
+nudności (5,6%), pokrzywka (1,7%), świąd (1,7%), zawroty głowy (1,6%), wymioty (1,2%) i ból
+brzucha (1,0%).
+
+Dodatkowe informacje dotyczące szczególnych grup pacjentów
+Pacjenci z chorobami płuc:
+W danych z okresu po wprowadzeniu produktu leczniczego do obrotu oraz w jednym badaniu
+klinicznym prowadzonym specjalnie u pacjentów z powikłaniami płucnymi występującymi w
+przeszłości zgłoszono skurcz oskrzeli, jako zdarzenie niepożądane o możliwym związku z leczeniem.
+Należy wziąć pod uwagę możliwość wystąpienia skurczu oskrzeli u wszystkich pacjentów, u których
+powikłania płucne wystąpiły w przeszłości.
+
+Dzieci i młodzież
+
+                                                 10
+W badaniach z udziałem dzieci i młodzieży w wieku od urodzenia do 17 lat profil bezpieczeństwa
+stosowania sugammadeksu (do 4 mg/kg mc.) był zasadniczo podobny do profilu obserwowanego u
+osób dorosłych.
+
+Pacjenci chorobliwie otyli
+W jednym dedykowanym badaniu klinicznym z udziałem chorobliwie otyłych pacjentów profil
+bezpieczeństwa stosowania był zasadniczo podobny do profilu u pacjentów dorosłych w połączonych
+badaniach fazy 1–3 (patrz Tabelaryczny wykaz działań niepożądanych).
+
+Pacjenci z ciężką chorobą układową
+W badaniu prowadzonym z udziałem pacjentow ocenionych według klasyfikacji Amerykańskiego
+Towarzystwa Anestezjologów (ang. ASA, American Society of Anesthesiologist,) jako Klasy 3 lub 4
+(pacjenci z ciężką chorobą układową lub pacjenci z ciężką chorobą układową stanowiącą stałe
+zagrożenie życia), profil działań niepożądanych u tych pacjentów ocenionych według klasyfikacji
+ASA jako Klasy 3 lub 4 był zasadniczo podobny do profilu u dorosłych pacjentow w badaniach Fazy
+1 do 3 łącznie (patrz Tabela 2). Patrz punkt 5.1.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181 C, 02-222 Warszawa, tel.:
++48 22 49-21-301, faks: +48 22 49-21-309, strona internetowa: https://smz.ezdrowie.gov.pl. Działania
+niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+W badaniach klinicznych stwierdzono 1 przypadek przypadkowego przedawkowania po podaniu
+40 mg/kg mc. Bez znaczących działań niepożądanych. W badaniu tolerancji u ludzi sugammadeks był
+dobrze tolerowany w dawkach do 96 mg/kg mc. Nie zgłaszano zdarzeń niepożądanych zależnych od
+dawki czy ciężkich zdarzeń niepożądanych.
+Sugammadeks można usunąć z organizmu metodą hemodializy wysokoprzepływowej (z błoną high
+flux), ale nie dializy niskoprzepływowej (z błoną low flux). Na podstawie badań klinicznych ustalono,
+że po trwającej od 3 do 6 godzin sesji dializoterapii stężenie sugammadeksu w osoczu zmniejsza się
+nawet o 70%.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: pozostałe produkty lecznicze, odtrutki, kod ATC: V03AB35
+
+Mechanizm działania:
+Sugammadeks jest zmodyfikowaną gamma cyklodekstryną wybiórczo wiążącą leki zwiotczające.
+Tworzy w osoczu kompleksy z rokuronium lub wekuronium, lekami blokującymi przewodnictwo
+nerwowo-mięśniowe i zmniejsza ilość leku blokującego przewodnictwo nerwowo-mięśniowe, który
+jest dostępny do związania z receptorami nikotynowymi w płytce nerwowo-mięśniowej. Powoduje to
+zniesienie bloku przewodnictwa nerwowo-mięśniowego wywołanego przez rokuronium lub
+wekuronium.
+
+Działanie farmakodynamiczne:
+Sugammadeks był podawany w dawkach od 0,5 mg/kg mc. Do 16 mg/kg mc. W badaniach
+dotyczących zależności odpowiedzi od dawki w czasie blokady wywołanej rokuronium (0,6; 0,9; 1,0 i
+1,2 mg/kg mc. Bromku rokuronium z i bez dawki podtrzymującej) oraz wekuronium (0,1 mg/kg mc.
+
+                                                 11
+Bromku wekuronium z i bez dawki podtrzymującej), w różnych punktach czasowych/głębokości
+blokady. W tych badaniach zaobserwowano wyraźny związek pomiędzy dawką a odpowiedzią.
+
+Skuteczność kliniczna i bezpieczeństwo stosowania:
+Sugammadeks można podawać w różnych punktach czasowych po podaniu bromku rokuronium lub
+wekuronium:
+
+Rutynowe znoszenie blokady – głęboka blokada przewodnictwa nerwowo-mięśniowego:
+W podstawowym badaniu pacjenci zostali losowo przydzieleni do grupy otrzymującej rokuronium lub
+wekuronium. Po podaniu ostatniej dawki rokuronium lub wekuronium, gdy stopień stymulacji
+tężcowej (PTC) wynosił 1-2, podawano w losowej kolejności sugammadeks w dawce 4 mg/kg mc.
+Lub neostygminę w dawce 70 μg/kg mc. Czas od początku podawania sugammadeksu lub
+neostygminy do powrotu stosunku T4/T1 do 0,9 wyniósł:
+
+Tabela 3: Czas (w minutach) od podania sugammadeksu lub neostygminy w głębokiej blokadzie
+przewodnictwa nerwowo-mięśniowego (1-2 PTC) po podaniu rokuronium lub wekuronium do
+powrotu stosunku T4/T1 do 0,9
+ Lek blokujący przewodnictwo    Schemat leczenia
+ nerwowo-mięśniowe              Sugammadeks (4 mg/kg mc.)   Neostygmina (70 μg/kg mc.)
+ Rokuronium
+ N                              37                          37
+ Mediana (minuty)               2,7                         49,0
+ Zakres                         1,2-16,1                    13,3-145,7
+ Wekuronium
+ N                              47                          36
+ Mediana (minuty)               3,3                         49,9
+ Zakres                         1,4-68,4                    46,0-312,7
+
+Rutynowe znoszenie blokady – umiarkowana blokada przewodnictwa nerwowo-mięśniowego:
+W innym podstawowym badaniu pacjenci zostali losowo przydzieleni do grupy otrzymującej
+rokuronium lub wekuronium. Po podaniu ostatniej dawki rokuronium lub wekuronium, po
+wystąpieniu T2, podawano w losowej kolejności sugammadeks w dawce 2 mg/kg mc. Lub
+neostygminę w dawce 50 μg/kg mc. Czas od początku podawania sugammadeksu lub neostygminy do
+powrotu stosunku T4/T1 do 0,9 wyniósł:
+
+Tabela 4: Czas (w minutach) od podania sugammadeksu lub neostygminy po ponownym
+wystąpieniu T2 po podaniu rokuronium lub wekuronium do powrotu stosunku T4/T1 do 0,9
+
+ Lek blokujący przewodnictwo    Schemat leczenia
+ nerwowo-mięśniowe              Sugammadeks (2 mg/kg mc.)       Neostygmina (50 μg/kg mc.)
+ Rokuronium
+ N                              48                              48
+ Mediana (minuty)               1,4                             17,6
+ Zakres                         0,9-5,4                         3,7-106,9
+
+
+ Wekuronium
+ N                              48                              45
+ Mediana (minuty)               2,1                             18,9
+ Zakres                         1,2-64,2                        2,9-76,2
+
+Zniesienie blokady przewodnictwa nerwowo-mięśniowego wywołanego przez rokuronium po podaniu
+sugammadeksu porównano ze zniesieniem blokady przewodnictwa nerwowo-mięśniowego
+wywołanego przez cis-atrakurium po podaniu neostygminy. Po ponownym wystąpieniu T2 podano
+sugammadeks w dawce 2 mg/kg mc. Lub neostygminę w dawce 50 μg/kg mc. Dla sugammadeksu
+stwierdzono szybsze zniesienie blokady przewodnictwa nerwowo-mięśniowego wywołanego przez
+
+
+                                              12
+rokuronium w porównaniu ze zniesieniem blokady przewodnictwa nerwowo-mięśniowego
+wywołanego przez cis-atrakurium po podaniu neostygminy:
+
+Tabela 5: Czas (w minutach) od podania sugammadeksu lub neostygminy po ponownym
+wystąpieniu T2 po podaniu rokuronium lub cis-atrakurium do powrotu stosunku T4/T1 do 0,9
+ Lek blokujący przewodnictwo    Schemat leczenia
+ nerwowo-mięśniowe              Rokuronium i sugammadeks (2 Cis-atrakurium i neostygmina
+                                mg/kg mc.)                   (50 μg/kg mc.)
+ N                              34                           39
+ Mediana (minuty)               1,9                          7,2
+ Zakres                         0,7-6,4                      4,2-28,2
+
+Natychmiastowe zniesienie blokady:
+Porównano czas do zniesienia blokady przewodnictwa nerwowo-mięśniowego wywołanej przez
+sukcynylocholinę (1 mg/kg mc.) z czasem zniesienia blokady przewodnictwa nerwowo-mięśniowego
+wywołanej przez rokuronium (1,2 mg/kg mc.) po podaniu sugammadeksu (16 mg/kg mc., 3 minuty
+później).
+
+Tabela 6: Czas (w minutach) od podania rokuronium i sugammadeksu lub sukcynylocholiny do
+powrotu T1 10%
+ Lek blokujący przewodnictwo    Schemat leczenia
+ nerwowo-mięśniowe              Rokuronium i sugammadeks    Sukcynylocholina
+                                (16 mg/kg mc.)               (1 mg/kg mc.)
+ N                              55                          55
+ Mediana (minuty)               4,2                         7,1
+ Zakres                         3,5-7,7                     3,7-10,5
+
+W analizie zbiorczej stwierdzono następujące czasy do zniesienia bloku dla sugammadeksu w dawce
+16 mg/kg mc. Po podaniu bromku rokuronium w dawce 1,2 mg/kg mc.:
+
+Tabela 7: Czas (w minutach) od podania sugammadeksu 3 minuty po podaniu rokuronium do
+powrotu stosunku T4/T1 do 0,9; 0,8 lub 0,7
+                        T4/T1 do 0,9         T4/T1 do 0,8          T4/T1 do 0,7
+ N                      65                   65                    65
+ Mediana                1,5                  1,3                   1,1
+ (minuty)
+ Zakres                 0,5-14,3             0,5-6,2               0,5-3,3
+
+Zaburzenia czynności nerek:
+W dwóch badaniach prowadzonych metodą otwartej próby porównano skuteczność i bezpieczeństwo
+stosowania sugammadeksu u pacjentów poddawanych zabiegom chirurgicznym z ciężkimi
+zaburzeniami czynności nerek i bez takich zaburzeń. W jednym badaniu sugammadeks podawano po
+wywołanej przez rokuronium blokadzie wynoszącej co najmniej 1-2 w skali stymulacji tężcowej (ang.
+Post-tetanic counts, PTC) (4 mg/kg mc.; n=68); w drugim badaniu sugammadeks podawano po
+ponownym pojawieniu się T2 (2 mg/kg mc.; n=30). Czas upływający do momentu ustąpienia blokady
+był niewiele dłuższy u pacjentów z ciężkimi zaburzeniami czynności nerek niż u pacjentów bez
+zaburzeń czynności nerek. W tych badaniach nie zgłoszono żadnych przypadków szczątkowej blokady
+przewodnictwa nerwowo-mięśniowego czy nawrotu blokady przewodnictwa nerwowo-mięśniowego u
+pacjentów z ciężkimi zaburzeniami czynności nerek.
+
+Pacjenci chorobliwie otyli:
+W badaniu z udziałem 188 pacjentów, u których rozpoznano chorobliwą otyłość, oceniano czas
+upływający od ustąpienia umiarkowanej lub głębokiej blokady przewodnictwa nerwowo-mięśniowego
+wywołanej przez rokuronium lub wekuronium. Pacjenci otrzymywali sugammadeks w dawce 2 mg/kg
+mc. Lub 4 mg/kg mc., odpowiednio do stopnia blokady, w zależności od aktualnej masy ciała lub
+idealnej masy ciała w sposób losowy i z zastosowaniem metody podwójnie ślepej próby. Po zebraniu
+danych dotyczących stopnia blokady nerwowo-mięśniowej oraz leku blokującego przewodnictwo
+                                               13
+nerwowo-mięśniowe mediana czasu do uzyskania współczynnika ciągu czterech (ang. TOF, train of
+four) ≥ 0,9 u pacjentów otrzymujących dawkę dostosowaną do rzeczywistej masy ciała (1,8 minuty)
+była w sposób statystycznie istotny krótsza (p< 0,0001) w porównaniu z grupą pacjentów, którym lek
+dawkowano według idealnej masy ciała (3,3 minuty).
+
+Dzieci i młodzież:
+Od 2 do < 17 lat:
+W badaniu z udziałem 288 pacjentów w wieku od 2 do < 17 lat oceniono bezpieczeństwo stosowania i
+skuteczność sugammadeksu w porównaniu z neostygminą jako środka odwracającego blokadę
+przewodnictwa nerwowo-mięśniowego wywołaną przez rokuronium lub wekuronium.
+
+Odwrócenie umiarkowanego bloku aż do uzyskania wspołczynnika TOF ≥ 0,9 było znacznie szybsze
+w grupie otrzymującej sugammadeks w dawce 2 mg/kg mc. w porównaniu z grupą otrzymującą
+neostygminę (średnia geometryczna wynosiła 1,6 minuty w przypadku sugammadeksu w dawce 2
+mg/kg mc. Oraz 7,5 minuty w przypadku neostygminy; stosunek średnich geometrycznych wynosił
+0,22; 95% CI (0,16; 0,32), (p< 0,0001)). Sugammadeks w dawce 4 mg/kg mc. powodował odwrocenie
+bloku głębokiego w czasie, ktorego średnia geometryczna wynosiła 2,0 minuty. Podobne wyniki
+obserwowano u osob dorosłych. Działania te były spójne we wszystkich badanych grupach
+wiekowych (od 2 do < 6 lat; od 6 do < 12 lat; od 12 do < 17 lat) oraz w obu grupach otrzymujących
+rokuronium i wekuronium. Patrz punkt 4.2.
+
+Od urodzenia do < 2 lat:
+W badaniu z udziałem 145 pacjentów w wieku od urodzenia do < 2 lat badano bezpieczeństwo
+stosowania i skuteczność sugammadeksu w porównaniu z neostygminą jako środkiem odwracającym
+blokadę przewodnictwa nerwowo-mięśniowego wywołaną przez rokuronium lub wekuronium. Czas
+do powrotu przewodnictwa nerwowo-mięśniowego po umiarkowanym bloku był znacznie krótszy
+(p=0,0002) u uczestników otrzymujących sugammadeks w dawce 2 mg/kg mc. w porównaniu z
+neostygminą (mediana 1,4 minuty dla sugammadeksu 2 mg/kg mc. i 4,4 minuty dla neostygminy;
+współczynnik ryzyka = 2,40, 95% CI: 1,37; 4,18). Sugammadeks w dawce 4 mg/kg mc. powodował
+szybkie odzyskiwanie przewodnictwa nerwowo-mięśniowego po głębokim bloku z medianą
+wynoszącą 1,1 minuty. Działania te były spójne we wszystkich badanych grupach wiekowych (od
+urodzenia do 27 dni; od 28 dni do < 3 miesięcy; od 3 miesięcy do < 6 miesięcy oraz od 6 miesięcy do
+< 2 lat). Patrz punkt 4.2.
+
+Pacjenci z ciężką chorobą układową:
+W badaniu prowadzonym z udziałem 331 pacjentów ocenionych według klasyfikacji ASA jako Klasy
+3 lub 4, oceniano częstość występowania związanych z leczeniem zaburzeń rytmu serca (bradykardii
+zatokowej, tachykardii zatokowej lub innych zaburzeń rytmu serca) po podaniu sugammadeksu.
+
+U pacjentow otrzymujących sugammadeks (w dawce 2 mg/kg mc., 4 mg/kg mc. lub 16 mg/kg mc.)
+częstość występowania związanych z leczeniem zaburzeń rytmu serca była zasadniczo zbliżona do
+częstości obserwowanej w przypadku stosowania neostygminy (50 μg/kg mc. do dawki maksymalnej
+5 mg) łącznie z glikopirolanem (10 μg/kg mc. do dawki maksymalnej 1 mg). Profil działań
+niepożądanych u pacjentów ocenionych według klasyfikacji ASA jako Klasy 3 lub 4 był zasadniczo
+podobny do profilu u dorosłych pacjentow w badaniach Fazy 1 do 3 łącznie; z tego względu
+modyfikacja dawkowania nie jest konieczna. Patrz punkt 4.8.
+
+
+5.2   Właściwości farmakokinetyczne
+
+Parametry farmakokinetyczne sugammadeksu zostały wyliczone w oparciu o całkowitą sumę stężenia
+sugammadeksu związanego i niezwiązanego w kompleks. Przyjmuje się, że u poddawanych
+znieczuleniu parametry farmakokinetyczne jak klirens i objętość dystrybucji są takie same dla
+sugammadeksu związanego i niezwiązanego w kompleks.
+
+Dystrybucja:
+
+
+                                                14
+Objętość dystrybucji w stanie stacjonarnym sugammadeksu, obserwowana u dorosłych pacjentów z
+prawidłową czynnością nerek, wynosi w przybliżeniu 11 do 14 litrów (na podstawie konwencjonalnej,
+nie-przedziałowej analizy farmakokinetyki). Ani sugammadeks, ani kompleks sugammadeksu i
+rokuronium nie wiąże się z białkami osocza lub erytrocytami, co wykazano in vitro, stosując osocze i
+pełną krew pochodzące od mężczyzn. Sugammadeks wykazuje kinetykę liniową w zakresie dawek od
+1 do 16 mg/kg mc., jeżeli podawany jest jako bolus dożylny.
+
+Metabolizm:
+W badaniach przedklinicznych i klinicznych nie zaobserwowano żadnych metabolitów
+sugammadeksu, a jedyną drogą eliminacji jest wydalanie niezmienionego produktu przez nerki.
+
+Eliminacja:
+Okres półtrwania sugammadeksu w fazie eliminacji (t1/2) u dorosłych znieczulonych pacjentów
+z prawidłową czynnością nerek wynosi około 2 godziny, a szacunkowy klirens w osoczu wynosi
+około 88 ml/min. Badanie nad bilansem masowym wykazało, że > 90% dawki jest wydalane w ciągu
+24 godzin. 96% dawki jest wydalane z moczem, a przynajmniej 95% z tej wartości stanowi
+sugammadeks w postaci niezmienionej. Wydalanie z kałem lub z wydychanym powietrzem stanowi
+mniej niż 0,02% dawki. Podanie sugammadeksu zdrowym ochotnikom było związane ze zwiększoną
+eliminacją kompleksu z rokuronium przez nerki.
+
+Szczególne grupy pacjentów:
+
+Zaburzenia czynności nerek a wiek:
+W badaniu farmakokinetycznym, w którym porównywano pacjentów z ciężkimi zaburzeniami
+czynności nerek z pacjentami z prawidłową czynnością nerek, stężenie sugammadeksu w osoczu było
+podobne w ciągu pierwszej godziny po podaniu dawki produktu, a potem szybciej obniżało się w
+grupie kontrolnej. Stwierdzono wydłużenie czasu całkowitej ekspozycji na sugammadeks, prowadzące
+do ekspozycji 17-krotnie większej u pacjentów z ciężkimi zaburzeniami czynności nerek. Małe
+stężenia sugammadeksu są wykrywalne przez co najmniej 48 godzin po jego podaniu u pacjentów z
+ciężką niewydolnością nerek.
+W drugim badaniu, w którym porównywano pacjentów z umiarkowanymi lub ciężkimi zaburzeniami
+czynności nerek z pacjentami z prawidłową czynnością nerek, klirens sugammadeksu stopniowo
+zmniejszał się, a okres t1/2 stopniowo wydłużał się wraz z pogarszającą się czynnością nerek.
+Ekspozycja była dwukrotnie większa u pacjentów z umiarkowanymi zaburzeniami czynności nerek i
+pięciokrotnie większa u pacjentów z ciężkimi zaburzeniami czynności nerek. Stężenia sugammadeksu
+w osoczu były niewykrywalne po 7 dniach po przyjęciu dawki u pacjentów z ciężką niewydolnością
+nerek.
+
+Tabela 8: Poniżej przedstawiono podsumowanie parametrów farmakokinetycznych
+sugammadeksu według wieku i czynności nerek:
+                                                    Średnie przewidywane parametry PK
+              Wybrane cechy pacjenta
+                                                                  (CV*%)
+                                                                 Objętość      Okres
+     Dane
+                                                              dystrybucji w półtrwania
+ demograficzne             Czynność nerek           Klirens
+                                                                  stanie      w fazie
+     Wiek            Klirens kreatyniny (ml/min)   (ml/min)
+                                                              stacjonarnym eliminacji
+   Masa ciała
+                                                                    (l)         (h)
+    Dorośli       Prawidłowa                   100  84 (26)         13        2,2 (23)
+                                 Łagodne        50  48 (28)         15        4,1 (25)
+     40 lat
+                  Zaburzenie Umiarkowane        30  29 (28)         15        7,0 (26)
+     75 kg
+                                  Ciężkie       10  8,9 (27)        16        23 (27)
+   Pacjenci w
+   podeszłym      Prawidłowa                   80   73 (27)         13        2,6 (25)
+     wieku
+     75 lat                      Łagodne        50  48 (27)         15        4,1 (25)
+                  Zaburzenie
+     75 kg                     Umiarkowane      30  29 (26)         15        6,9 (25)
+
+
+                                                15
+                                     Ciężkie          10    8,9 (28)         16           23 (27)
+      Młodzież     Prawidłowa                         95     71 (27)         10           2,0 (23)
+                                  Łagodne             48     41 (28)         11           3,8 (25)
+        15 lat
+                    Zaburzenie   Umiarkowane          29     25 (28)         12           6,3 (25)
+        56 kg
+                                   Ciężkie            9,5   7,4 (28)         12           22 (28)
+  Dzieci starsze   Prawidłowa                         60     39 (29)         5,8          2,1 (24)
+                                  Łagodne             30     21 (27)         6,3          4,0 (25)
+         9 lat
+                    Zaburzenie   Umiarkowane          18     12 (28)         6,5          6,8 (26)
+        28 kg
+                                   Ciężkie            6,0   3,3 (28)         6,7          25 (27)
+ Dzieci młodsze    Prawidłowa                         37     22 (26)         3,4          2,1 (24)
+                                  Łagodne             18     11 (28)         3,5          4,2 (25)
+       3,5 lata
+                    Zaburzenie   Umiarkowane          11    6,1 (27)         3,6          7,6 (27)
+        15 kg
+                                   Ciężkie            3,7   1,6 (27)         3,7          28 (27)
+  Małe dziecko     Prawidłowa                         28     16 (28)         2,5          2,1 (24)
+                                  Łagodne             14    7,6 (28)         2,5          4,4 (26)
+       1,5 roku                  Umiarkowane          8,4   4,2 (28)         2,6          7,9 (28)
+                    Zaburzenia
+        11 kg
+                                   Ciężkie            2,8   1,1 (27)         2,6          29 (27)
+      Niemowlę     Prawidłowa                         21     12 (28)         1,8          2,2 (24)
+                                  Łagodne             11    5,4 (27)         1,9          4,6 (26)
+      6 miesięcy
+                    Zaburzenia   Umiarkowane          6,4   2,9 (26)         1,9          8,3 (26)
+        7,9 kg
+                                   Ciężkie            2,1   0,76 (28)        1,9          32 (27)
+      Noworodek    Prawidłowa                         13     13 (28)         1,1          1,3 (22)
+                                  Łagodne             6,4   5,7 (26)         1,1          2,7 (23)
+        15 dni
+                    Zaburzenia   Umiarkowane          3,9   3,1 (27)         1,1          4,8 (26)
+        3,8 kg
+                                   Ciężkie            1,3   0,77 (27)        1,1          18 (26)
+*CV = współczynnik zmienności
+
+Płeć:
+Nie zaobserwowano różnic dla płci.
+
+Rasa:
+W badaniu z udziałem zdrowych uczestników rasy kaukaskiej i pochodzenia japońskiego nie
+zaobserwowano klinicznie istotnych różnic odnośnie parametrów farmakokinetycznych. Ograniczone
+dane nie wskazują na istnienie różnicy odnośnie parametrów farmakokinetycznych u osób
+pochodzenia afrykańskiego lub afroamerykańskiego.
+
+Masa ciała:
+Populacyjna analiza farmakokinetyczna z udziałem pacjentów dorosłych i pacjentów w podeszłym
+wieku nie wykazała klinicznie istotnego związku klirensu i objętości dystrybucji z masą ciała.
+
+Otyłość:
+W jednym badaniu klinicznym z udziałem chorobliwie otyłych pacjentów sugammadeks w dawce
+2 mg/kg mc. oraz 4 mg/kg mc. podawano w zależności od aktualnej masy ciała (n=76) lub idealnej
+masy ciała (n=74). Ekspozycja na sugammadeks zwiększała się w sposób liniowy i zależny od dawki
+po podaniu zgodnie z aktualną masą ciała lub idealną masą ciała. Nie stwierdzono istotnych klinicznie
+różnic pod względem parametrów farmakokinetycznych pomiędzy pacjentami chorobliwie otyłymi a
+populacją ogólną.
+
+5.3     Przedkliniczne dane o bezpieczeństwie
+
+Dane przedkliniczne, wynikające z konwencjonalnych badań farmakologicznych dotyczących
+bezpieczeństwa, badań toksyczności po podaniu wielokrotnym, genotoksyczności, toksycznego
+wpływu na rozród, tolerancji miejscowej i zgodności z krwią, nie ujawniają szczególnego zagrożenia
+dla człowieka.
+
+
+
+                                                 16
+Sugammadeks jest szybko usuwany z organizmów zwierząt, na których były prowadzone badania
+przedkliniczne, jednakże zaobserwowano jego pozostałości w kościach i zębach młodych szczurów.
+Badania przedkliniczne na młodych dorosłych i dojrzałych szczurach wykazują, że sugammadeks nie
+wpływa negatywnie na kolor zębów ani na jakość, strukturę czy metabolizm kości. Sugammadeks nie
+wpływa na naprawę złamań i proces przebudowy kości.
+
+6.       DANE FARMACEUTYCZNE
+
+6.1      Wykaz substancji pomocniczych
+
+Kwas solny 0,3% (do ustalenia pH)
+Sodu wodorotlenek 0,04% (do ustalenia pH)
+Woda do wstrzykiwań
+
+6.2      Niezgodności farmaceutyczne
+
+Nie mieszać tego produktu leczniczego z innymi produktami leczniczymi, oprócz wymienionych
+w punkcie 6.6.
+Niezgodności fizyczne zaobserwowano dla werapamilu, ondansetronu i ranitydyny.
+
+6.3      Okres ważności
+
+3 lata
+
+Po pierwszym otwarciu i rozcieńczeniu wykazano chemiczną oraz fizyczną stabilność w trakcie
+stosowania dla okresu 48 godzin w temperaturze od 2°C do 25°C. Z mikrobiologicznego punktu
+widzenia, rozcieńczony produkt należy zużyć natychmiast. W przypadku nieużycia produktu od razu,
+za czas i warunki przechowywania przed użyciem odpowiada użytkownik, zaś czas ten nie powinien
+przekraczać 24 godzin, w temperaturze od 2°C do 8°C, chyba, że rozcieńczenie odbywało się w
+kontrolowanych i zwalidowanych warunkach jałowych.
+
+6.4      Specjalne środki ostrożności podczas przechowywania
+
+Nie zamrażać.
+Przechowywać fiolki w opakowaniu zewnętrznym w celu ochrony przed światłem.
+Warunki przechowywania produktu leczniczego po rozcieńczeniu, patrz punkt 6.3.
+
+6.5      Rodzaj i zawartość opakowania
+
+Fiolka ze szkła z korkiem z gumy chlorobutylowej z aluminiowym uszczelnieniem i plastikowym
+kapslem typu flip-off.
+
+Wielkości opakowań:
+1 fiolka po 2 ml
+10 fiolek po 2 ml
+1 fiolka po 5 ml
+10 fiolek po 5 ml.
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+6.6      Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+         stosowania
+
+Produkt leczniczy Sugammadex Reddy należy wprowadzać do linii dożylnej trwającego wlewu,
+stosując następujące roztwory dożylne: chlorek sodu 9 mg/ml (0,9%), glukoza 50 mg/ml (5%), chlorek
+sodu 4,5 mg/ml (0,45%) i glukoza 25 mg/ml (2,5%), roztwór mleczanu Ringera, roztwór Ringera,
+glukoza 50 mg/ml (5%) w chlorku sodu 9 mg/ml (0,9%).
+
+                                                17
+Linia infuzyjna powinna być odpowiednio przepłukana (np. 0,9% roztworem chlorku sodu) pomiędzy
+podawaniem produktu leczniczego Sugammadex Reddy i innych produktów leczniczych.
+
+Stosowanie u dzieci i młodzieży
+W przypadku pacjentów pediatrycznych produkt leczniczy Sugammadex Reddy można rozcieńczyć,
+stosując chlorek sodu 9 mg/ml (0,9%), do stężenia 10 mg/ml (patrz punkt 6.3).
+
+Wszelkie niewykorzystane resztki produktu leczniczego lub jego odpady należy usunąć zgodnie z
+lokalnymi przepisami.
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+Reddy Holding GmbH
+Kobelweg 95
+86156 Augsburg
+Niemcy
+
+8.    NUMERY POZWOLEŃ NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr 27520
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 06.12.2022
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+03.2026
+
+
+
+
+                                               18
+

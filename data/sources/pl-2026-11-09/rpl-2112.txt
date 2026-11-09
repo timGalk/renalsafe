@@ -1,0 +1,984 @@
+                    CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1. NAZWA PRODUKTU LECZNICZEGO
+
+Edicin, 500 mg, proszek do sporządzania roztworu do infuzji
+Edicin, 1 g, proszek do sporządzania roztworu do infuzji
+
+
+2. SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Edicin, 500 mg
+Każda fiolka zawiera 500 mg (500 000 IU) wankomycyny (Vancomycinum) w postaci wankomycyny
+chlorowodorku.
+
+Edicin, 1 g
+Każda fiolka zawiera 1 g (1 000 000 IU) wankomycyny (Vancomycinum) w postaci wankomycyny
+chlorowodorku.
+
+Produkt nie zawiera substancji pomocniczych, patrz punkt 6.1.
+
+
+3. POSTAĆ FARMACEUTYCZNA
+
+Proszek do sporządzania roztworu do infuzji.
+
+Biały lub prawie biały proszek liofilizowany.
+
+
+4. SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Podanie dożylne
+Wankomycyna jest wskazana do stosowania u pacjentów wszystkich grup wiekowych w leczeniu
+następujących zakażeń (patrz punkty 4.2, 4.4 i 5.1):
+ powikłane zakażenia skóry i tkanek miękkich (ang. complicated skin and soft tissue infections,
+   cSSTI);
+ zakażenia kości i stawów;
+ pozaszpitalne zapalenie płuc (ang. community acquired pneumonia, CAP);
+ szpitalne zapalenie płuc (ang. hospital acquired pneumonia, HAP), w tym respiratorowe zapalenie
+   płuc (ang. ventilator-associated pneumonia, VAP);
+ zakaźne zapalenie wsierdzia;
+ ostre bakteryjne zapalenie opon mózgowo-rdzeniowych;
+ bakteriemia występująca w skojarzeniu z którymkolwiek, potwierdzonym lub podejrzewanym,
+   z wyżej wymienionych stanów.
+
+Wankomycyna jest wskazana również do stosowania u pacjentów ze wszystkich grup wiekowych
+w okołooperacyjnej profilaktyce bakteryjnego zapalenia wsierdzia u pacjentów z wysokim ryzykiem
+bakteryjnego zapalenia wsierdzia w razie poważnej operacji.
+
+Podanie doustne
+Wankomycyna jest wskazana do stosowania u pacjentów ze wszystkich grup wiekowych w leczeniu
+następujących zakażeń spowodowanych przez Clostridium difficile (ang. Clostridium difficile
+infection, CDI) (patrz punkty 4.2, 4.4 i 5.1).
+
+Należy wziąć pod uwagę oficjalne wytyczne dotyczące właściwego stosowania produktów
+1                                                                                  NL/H/xxxx/WS/1440
+przeciwbakteryjnych.
+
+4.2     Dawkowanie i sposób podawania
+
+Dawkowanie
+
+W odpowiednich przypadkach wankomycyna powinna być stosowana w skojarzeniu z innymi
+produktami przeciwbakteryjnymi.
+
+Podanie dożylne
+Dawka początkowa powinna być ustalona w oparciu o całkowitą masę ciała. Kolejne modyfikacje
+dawki powinny być uzależnione od stężenia w surowicy z zamiarem osiągnięcia docelowego stężenia
+terapeutycznego. Przy ustalaniu kolejnych dawek i odstępów pomiędzy nimi należy też wziąć pod
+uwagę czynność nerek.
+
+Zalecane są następujące schematy dawkowania:
+
+Pacjenci w wieku 12 i więcej lat
+Zalecana dawka to 15 do 20 mg/kg mc. co 8 do 12 godzin (nie należy stosować więcej niż 2 g na
+dawkę).
+
+W przypadku pacjentów w ciężkim stanie można zastosować dawkę nasycającą 25-30 mg/kg mc., aby
+ułatwić szybkie osiągnięcie docelowego minimalnego stężenia wankomycyny w surowicy.
+
+Niemowlęta w wieku od pierwszego miesiąca życia i dzieci w wieku poniżej 12 lat
+Zalecana dawka podawana dożylnie to 10 do 15 mg/kg mc. co 6 godzin (patrz punkt 4.4).
+
+Noworodki urodzone o czasie (od urodzenia do 27 dni wieku pourodzeniowego) oraz wcześniaki (od
+urodzenia do oczekiwanej daty porodu plus 27 dni)
+W celu ustalenia schematu dawkowania dla noworodków należy zwrócić się o poradę do lekarza
+doświadczonego w leczeniu noworodków. Jeden z możliwych schematów dawkowania wankomycyny
+u noworodków przedstawiony jest w poniższej tabeli (patrz punkt 4.4):
+
+             PMA                             Dawka                  Odstęp pomiędzy dawkami
+          (tygodnie)                      (mg/kg mc.)                        (godziny)
+              <29                              15                                24
+            29 – 35                            15                                12
+              >35                              15                                8
+PMA: wiek postkoncepcyjny [czas, jaki upłynął od pierwszego dnia ostatniego krwawienia
+miesiączkowego do porodu (wiek ciążowy) plus czas, jaki upłynął od urodzenia (wiek
+pourodzeniowy)].
+
+Okołooperacyjna profilaktyka bakteryjnego zapalenia wsierdzia we wszystkich grupach wiekowych
+Zalecana dawka to dawka początkowa 15 mg/kg mc., podana przed indukcją znieczulenia.
+W zależności od czasu trwania operacji, konieczne może być podanie drugiej dawki wankomycyny.
+
+Czas trwania leczenia
+
+Sugerowany czas trwania leczenia podany jest w tabeli niżej. W każdym przypadku czas leczenia
+powinien być dostosowany do typu i ciężkości zakażenia oraz do indywidualnej odpowiedzi
+klinicznej.
+
+                            Wskazanie                               Czas trwania leczenia
+    Powikłane zakażenia skóry i tkanek miękkich
+      - bez martwicy                                                      7 do 14 dni
+      - z martwicą                                                      4 do 6 tygodni*
+    Zakażenia kości i stawów                                           4 do 6 tygodni**
+2                                                                                  NL/H/xxxx/WS/1440
+  Pozaszpitalne zapalenie płuc                                                7 do 14 dni
+  Szpitalne zapalenie płuc, w tym respiratorowe zapalenie płuc                7 do 14 dni
+  Zakaźne zapalenie wsierdzia                                             4 do 6 tygodni***
+  Ostre bakteryjne zapalenie opon mózgowo-rdzeniowych                        10 do 21 dni
+ * Kontynuować do momentu, w którym niepotrzebne będzie dalsze usuwanie martwiczych tkanek,
+     stan kliniczny pacjenta poprawi się i pacjent nie będzie gorączkował od 48 do 72 godzin.
+** W przypadku okołoprotezowych zakażeń stawów należy rozważyć dłuższe cykle doustnego
+     leczenia supresyjnego odpowiednimi antybiotykami.
+*** Czas trwania i konieczność stosowania leczenia skojarzonego zależy od typu zastawki
+     i mikroorganizmu.
+
+Szczególne grupy pacjentów
+
+Pacjenci w podeszłym wieku
+Ze względu na związane z wiekiem ograniczenie czynności nerek konieczne może być stosowanie
+mniejszych dawek podtrzymujących.
+
+Pacjenci z zaburzeniami czynności nerek
+U pacjentów dorosłych i u dzieci z zaburzeniami czynności nerek należy brać pod uwagę wstępną
+dawkę początkową, a następnie oznaczenia minimalnego stężenia wankomycyny w surowicy, zamiast
+zaplanowanego schematu leczenia, zwłaszcza u pacjentów z ciężkimi zaburzeniami czynności nerek
+lub przechodzącym leczenie nerkozastępcze (ang. renal replacement therapy, RRT) ze względu na
+liczne zmienne czynniki wpływające na stężenie wankomycyny u takich pacjentów.
+
+U pacjentów z łagodnymi lub umiarkowanymi zaburzeniami czynności nerek nie wolno zmniejszać
+dawki początkowej. U pacjentów z ciężkimi zaburzeniami czynności nerek preferowane jest
+wydłużenie odstępów między kolejnymi dawkami zamiast podawania mniejszych dawek.
+
+Należy właściwie ocenić jednocześnie podawane inne produkty lecznicze, które mogą zmniejszyć
+klirens wankomycyny i (lub) nasilić jej działania niepożądane (patrz punkt 4.4).
+
+Wankomycyna jest w niewielkim stopniu usuwana przez hemodializę przerywaną. Jednak
+zastosowanie błon filtracyjnych o dużej przepuszczalności lub ciągłego leczenia nerkozastępczego
+(ang. continuous renal replacement therapy, CRRT) zwiększa klirens wankomycyny i zasadniczo
+konieczne jest podawanie dawek uzupełniających (zwykle po sesji hemodializy w przypadku
+hemodializy przerywanej).
+
+Pacjenci dorośli
+Modyfikacje dawki u dorosłych pacjentów mogą być oparte na szybkości filtracji kłębuszkowej
+oszacowanej (ang. glomerular filtration rate estimated, eGFR) na podstawie następującego wzoru:
+
+Mężczyźni: [masa (kg) x 140 – wiek (lata)] / 72 x stężenie kreatyniny w surowicy (mg/dl)
+
+Kobiety: 0,85 x wartość wyliczona wg powyższego wzoru
+
+Zwykła dawka początkowa dla dorosłych pacjentów to 15 do 20 mg/kg mc.; dawkę tę można podawać
+co 24 godziny pacjentom z klirensem kreatyniny w zakresie 20 do 49 ml/min. W przypadku pacjentów
+z ciężkimi zaburzeniami czynności nerek (klirens kreatyniny poniżej 20 ml/min) lub pacjentów
+przechodzących terapię nerkozastępczą odpowiednie odstępy między dawkami i wielkość kolejnych
+dawek w dużym stopniu zależą od stosowanej procedury RRT i powinny być ustalone w oparciu
+o wartości minimalnego stężenia wankomycyny w surowicy oraz przetrwałą czynność nerek (patrz
+punkt 4.4). W zależności od sytuacji klinicznej, można rozważyć wstrzymanie kolejnej dawki do
+czasu oznaczenia stężenia wankomycyny we krwi.
+
+U pacjentów w stanie krytycznym z zaburzeniami czynności nerek nie należy zmniejszać wstępnej
+dawki nasycającej (25 do 30 mg/kg mc.).
+
+3                                                                                    NL/H/xxxx/WS/1440
+Dzieci i młodzież
+
+Modyfikacje dawki u dzieci w wieku 1 roku i starszych oraz u młodzieży mogą być oparte na
+szybkości filtracji kłębuszkowej oszacowanej (eGFR) na podstawie zmodyfikowanego wzoru
+Schwartza:
+
+eGFR (ml/min/1,73 m2) = (wzrost w cm x 0,413) / stężenie kreatyniny w surowicy (mg/dl)
+
+eGFR (ml/min/1,73 m2) = (wzrost w cm x 36,2 / stężenie kreatyniny w surowicy (μmol/l)
+
+W przypadku noworodków i niemowląt w wieku poniżej 1. roku należy zwrócić się o poradę eksperta,
+bowiem wzór Schwartza nie ma zastosowania u takich pacjentów.
+
+Orientacyjne zalecenia dotyczące dawkowania u dzieci i młodzieży podane w tabeli poniżej podlegają
+tym samym zasadom, co zalecenia dla dorosłych pacjentów.
+
+        GFR (ml/min/1,73 m2)              Dawka dożylna                      Częstość
+    50-30                                   15 mg/kg                       Co 12 godzin
+    29-10                                   15 mg/kg                      Co 24 godziny
+    <10                                                             Ponowne podanie w zależności
+    Hemodializa przerywana                  10-15 mg/kg                    od stężenia*
+    Dializa otrzewnowa
+    Ciągłe leczenie nerkozastępcze            15 mg/kg              Ponowne podanie w zależności
+                                                                           od stężenia*
+
+* Odpowiednie odstępy między dawkami i wielkość kolejnych dawek w dużym stopniu zależą od
+  stosowanej metody RRT i powinny być ustalone w oparciu o wartości stężenia wankomycyny
+  w surowicy przed podaniem oraz resztkową czynność nerek. Zależnie od sytuacji klinicznej, można
+  rozważyć wstrzymanie kolejnej dawki do czasu oznaczenia stężenia wankomycyny we krwi.
+
+Pacjenci z zaburzeniami czynności wątroby
+Nie ma konieczności dostosowania dawki u pacjentów z niewydolnością wątroby.
+
+Ciąża
+W przypadku kobiet w ciąży konieczne może być znaczne zwiększenie dawek w celu osiągnięcia
+terapeutycznego stężenia wankomycyny w surowicy (patrz punkt 4.6).
+
+Pacjenci otyli
+U pacjentów otyłych dawkę początkową należy dostosować indywidualnie wg całkowitej masy ciała,
+tak samo jak u pacjentów o prawidłowej masie ciała.
+
+Podanie doustne
+
+Pacjenci w wieku 12 lat i starsi
+
+Leczenie zakażeń spowodowanych przez Clostridium difficile (ang. Clostridium difficile infection,
+CDI)
+
+W przypadku pierwszego epizodu nieciężkiego CDI zalecana dawka wankomycyny to 125 mg co
+6 godzin przez 10 dni. Dawka ta może być zwiększona do 500 mg co 6 godzin przez 10 dni
+w przypadku ciężkiej lub powikłanej choroby. Maksymalna dawka dobowa nie powinna przekraczać
+2 g.
+
+U pacjentów z wielokrotnymi nawrotami można rozważyć leczenie aktualnego epizodu CDI
+wankomycyną w dawce 125 mg cztery razy na dobę przez 10 dni, a następnie stopniowe zmniejszenie
+dawki aż do 125 mg na dobę lub stosowanie schematu pulsacyjnego, tzn. 125-500 mg/dobę co 2-3 dni
+przez co najmniej 3 tygodnie.
+4                                                                                    NL/H/xxxx/WS/1440
+Noworodki, niemowlęta i dzieci w wieku poniżej 12 lat
+
+Zalecana dawka wankomycyny to 10 mg/kg mc. co 6 godzin przez 10 dni. Maksymalna dawka
+dobowa nie powinna być większa niż 2 g.
+
+Konieczne może być dostosowanie czasu trwania leczenia wankomycyną do klinicznego przebiegu
+choroby w danym przypadku. W miarę możliwości należy przerwać stosowanie produktu
+przeciwbakteryjnego podejrzewanego o spowodowanie CDI. Należy zapewnić odpowiednie
+uzupełnienie płynów i elektrolitów.
+
+Kontrolowanie stężenia wankomycyny w surowicy
+Częstość kontroli terapeutycznego stężenia leku (ang. therapeutic drug monitoring, TDM) należy
+dostosować indywidualnie do sytuacji klinicznej i reakcji na leczenie; częstość pobierania próbek
+może wynosić od codziennego pobierania u niektórych niestabilnych hemodynamicznie pacjentów do
+co najmniej raz na tydzień u stabilnych pacjentów z widoczną reakcją na leczenie. U pacjentów
+poddawanych hemodializie przerywanej stężenie wankomycyny należy oznaczyć przed rozpoczęciem
+sesji hemodializy.
+
+Kontrolowanie stężenie wankomycyny w surowicy po podaniu doustnym należy wykonać
+u pacjentów z zapalnymi chorobami jelit (patrz punkt 4.4).
+
+Minimalne terapeutyczne stężenie wankomycyny we krwi powinno wynosić 10-20 mg/l, w zależności
+od miejsca zakażenia i wrażliwości patogenu. Laboratoria kliniczne zwykle zalecają stężenie
+minimalne 15-20 mg/l, zapewniające lepsze pokrycie mikroorganizmów zakwalifikowanych jako
+wrażliwe z wartością MIC ≥1 mg/l (patrz punkty 4.4 i 5.1).
+
+W przewidywaniu indywidualnego dawkowania koniecznego do osiągnięcia odpowiedniej wartości
+AUC, przydatne mogą być metody oparte na modelach. Podejście oparte na modelach można
+zastosować przy wyliczaniu indywidualnej dawki początkowej, jak i przy modyfikacji dawek
+w oparciu o wyniki TDM (patrz punkt 5.1).
+
+Sposób stosowania
+
+Podanie dożylne
+Wankomycyna jest zwykle podawana dożylnie w postaci infuzji przerywanej; zalecenia dotyczące
+dawkowania przedstawione w tym punkcie dla drogi dożylnej odnoszą się do tego sposobu
+podawania.
+
+Wankomycyna powinna być podawana wyłącznie w powolnej infuzji dożylnej trwającej co najmniej
+godzinę lub z maksymalną szybkością 10 mg/min (dłuższy okres) w wystarczająco rozcieńczonym
+roztworze (co najmniej 100 ml na 500 mg lub co najmniej 200 ml na 1000 mg), patrz punkt 4.4.
+
+Pacjenci z ograniczeniem podaży płynów mogą otrzymywać roztwór 500 mg/50 ml
+(1000 mg/100 ml), jednak przy takim większym stężeniu zwiększone jest ryzyko działań
+niepożądanych związanych z infuzją.
+
+Instrukcje dotyczące rekonstytucji produktu leczniczego przed podaniem, patrz punkt 6.6.
+
+Można rozważyć stosowanie ciągłej infuzji wankomycyny, np. u pacjentów z niestabilnym klirensem
+wankomycyny.
+
+Podanie doustne
+Zawartość fiolki może być użyta do sporządzenia roztworu doustnego. Roztwór doustny przygotowuje
+się przez rozpuszczenie zawartości fiolki (500 mg wankomycyny) w 30 ml wody. Odpowiednią dawkę
+można podać pacjentowi do wypicia lub przez zgłębnik nosowo-żołądkowy. Do roztworu można
+dodać syrop w celu poprawy smaku.
+5                                                                                    NL/H/xxxx/WS/1440
+4.3   Przeciwwskazania
+
+Nadwrażliwość na substancję czynną.
+
+Wankomycyny nie należy podawać domięśniowo ze względu na ryzyko martwicy w miejscu podania.
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+Reakcje nadwrażliwości
+Możliwe jest wystąpienie ciężkich reakcji nadwrażliwości, które niekiedy mogą doprowadzić do
+zgonu (patrz punkty 4.3 i 4.8). W przypadku reakcji nadwrażliwości należy natychmiast przerwać
+leczenie wankomycyną i zastosować odpowiednie leczenie ratunkowe.
+
+U pacjentów otrzymujących wankomycynę przez dłuższy czas lub jednocześnie z innymi lekami,
+które mogą spowodować neutropenię lub agranulocytozę, należy regularnie kontrolować liczbę
+leukocytów. Wszyscy pacjenci otrzymujący wankomycynę powinni w regularnych odstępach czasu
+przechodzić testy hematologiczne, analizę moczu oraz testy czynności wątroby i nerek.
+
+Wankomycynę należy stosować z ostrożnością u pacjentów z reakcją alergiczną na teikoplaninę
+w wywiadzie, bowiem może dojść do krzyżowej reakcji nadwrażliwości, w tym wstrząsu
+anafilaktycznego zakończonego zgonem.
+
+Zakres aktywności przeciwbakteryjnej
+Zakres aktywności przeciwbakteryjnej wankomycyny jest ograniczony do mikroorganizmów
+Gram-dodatnich. Nie nadaje się do stosowania w monoterapii w leczeniu pewnych typów zakażeń,
+chyba że odpowiedzialny patogen jest zidentyfikowany i jest wrażliwy na wankomycynę lub istnieje
+uzasadnione podejrzenie, że najbardziej prawdopodobny patogen(y) nadaje się do leczenia
+wankomycyną.
+
+Racjonalne stosowanie wankomycyny powinno uwzględniać zakres aktywności przeciwbakteryjnej,
+profil bezpieczeństwa oraz zasadność standardowego leczenia przeciwbakteryjnego u konkretnego
+pacjenta.
+
+Ototoksyczność
+Działanie ototoksyczne, które może być przejściowe lub trwałe (patrz punkt 4.8), było obserwowane
+u pacjentów z uprzednią głuchotą, pacjentów, którzy otrzymywali nadmierne dawki dożylne lub
+otrzymywali jednoczesne leczenie innym lekiem o działaniu ototoksycznym, takim jak antybiotyk
+aminoglikozydowy. Należy też unikać wankomycyny u pacjentów z istniejącym uprzednio ubytkiem
+słuchu. Wystąpienie głuchoty może być poprzedzone szumem w uszach. Doświadczenie dotyczące
+innych antybiotyków wskazuje, że taka głuchota może postępować mimo przerwania leczenia. W celu
+zmniejszenia ryzyka ototoksyczności należy regularnie kontrolować stężenie wankomycyny we krwi;
+zalecane są też regularne testy słuchu.
+
+Pacjenci w podeszłym wieku są szczególnie podatni na uszkodzenie narządu słuchu. U pacjentów
+w podeszłym wieku należy kontrolować czynność układu przedsionkowego i słuch podczas leczenia
+i po jego zakończeniu. Należy unikać podawania innych substancji o działaniu ototoksycznym
+podczas leczenia i bezpośrednio po jego zakończeniu.
+
+Reakcje związane z infuzją
+Szybkie podanie w bolusie (tzn. w ciągu kilku minut) może być związane ze znacznym
+niedociśnieniem tętniczym (włącznie ze wstrząsem i, w rzadkich przypadkach, zatrzymaniem serca),
+reakcją histaminopodobną oraz wysypką grudkowo-plamistą lub rumieniowatą (zespół czerwonego
+człowieka lub zespół czerwonej szyi). Wankomycynę należy podawać w powolnej infuzji
+w rozcieńczonym roztworze (2,5 do 5 mg/ml) z szybkością nieprzekraczającą 10 mg/min, trwającej co
+najmniej 60 minut, aby uniknąć reakcji związanych z szybką infuzją. Zatrzymanie infuzji zwykle
+powoduje szybkie ustąpienie takich reakcji.
+6                                                                                  NL/H/xxxx/WS/1440
+Częstość reakcji związanych z infuzją (niedociśnienie tętnicze, uderzenia gorąca, rumień, pokrzywka
+i świąd) wzrasta w razie jednoczesnego podawania środków znieczulających (patrz punkt 4.5). Można
+zmniejszyć ich ryzyko podając wankomycynę w infuzji trwającej co najmniej 60 minut przed indukcją
+znieczulenia.
+
+Ciężkie skórne działania niepożądane (SCARs, ang. severe cutaneous adverse reactions)
+W związku z leczeniem wankomycyną notowano przypadki ciężkich reakcji skórnych, w tym Zespołu
+Stevensa-Johnsona (ang. Stevens-Johnson syndrome, SJS), toksycznego martwiczego oddzielania się
+naskórka (ang. toxic epidermal necrolysis, TEN), reakcji polekowych z eozynofilią i objawami
+ogólnoustrojowymi (ang. drug reaction with eosynophilia and systemic symptoms, DRESS) oraz
+ostrej uogólnionej osutki krostkowej (ang. acute generalized exanthematous pustulosis, AGEP),
+mogących zagrażać życiu lub prowadzić do zgonu (patrz punkt 4.8). Większość z tych reakcji
+wystąpiła w ciągu kilku dni do ośmiu tygodni od rozpoczęcia leczenia wankomycyną.
+
+Podczas przepisywania produktu leczniczego należy poinformować pacjenta o objawach
+przedmiotowych i podmiotowych oraz ściśle obserwować reakcje skórne. Jeśli wystąpią
+przedmiotowe i podmiotowe objawy tych reakcji, należy natychmiast przerwać stosowanie
+wankomycyny i rozważyć inne leczenie. Jeśli u pacjenta wystąpią ciężkie skórne działania
+niepożądane związane ze stosowaniem wankomycyny, nie należy wznawiać nigdy leczenia
+wankomycyną.
+
+Reakcje związane z miejscem podania
+U wielu pacjentów otrzymujących dożylnie wankomycynę może wystąpić ból i zapalenie żyły,
+niekiedy ciężkie. Częstość i ciężkość zapalenia żyły można zminimalizować podając produkt
+leczniczy powoli w postaci rozcieńczonego roztworu (patrz punkt 4.2) i zmieniając regularnie miejsce
+infuzji.
+
+Nie określono skuteczności ani bezpieczeństwa stosowania wankomycyny podawanej drogą
+dokanałową, dolędźwiową ani dokomorową.
+
+Nefrotoksyczność
+Wankomycynę należy stosować z ostrożnością u pacjentów z zaburzeniami czynności nerek, w tym
+z bezmoczem, bowiem ryzyko wystąpienia działań toksycznych jest znacznie większe w razie
+długotrwałego dużego stężenia we krwi. Ryzyko działań toksycznych jest większe przy większym
+stężeniu we krwi oraz przy długotrwałym leczeniu.
+
+Regularne kontrolowanie stężenia wankomycyny we krwi jest wskazane w razie leczenia
+długotrwałego i dużymi dawkami, zwłaszcza u pacjentów z zaburzeniami czynności nerek lub
+zaburzeniami dotyczącymi narządu słuchu, jak również w razie jednoczesnego podawania substancji
+o działaniu, odpowiednio, nefrotoksycznym lub ototoksycznym (patrz punkty 4.2 i 4.5).
+
+Zaburzenia oka
+Wankomycyna nie jest zatwierdzona do stosowania do komory przedniej oka lub do ciała szklistego,
+w tym w zapobieganiu wewnętrznemu zapaleniu oka.
+
+W pojedynczych przypadkach obserwowano wystąpienie krwotoczno-okluzyjnego zapalenia naczyń
+siatkówki (HORV, ang. hemorrhagic occlusive retinal vasculitis), w tym trwałą utratę wzroku, po
+zastosowaniu wankomycyny do komory przedniej oka lub do ciała szklistego podczas operacji zaćmy.
+
+Dzieci i młodzież
+Aktualne zalecenia dotyczące dawkowania dożylnego w populacji dzieci i młodzieży, a zwłaszcza
+u dzieci w wieku poniżej 12 lat, mogą doprowadzić do wystąpienia subterapeutycznego stężenia
+wankomycyny u znacznej liczby dzieci. Jednakże nie oceniono właściwie bezpieczeństwa stosowania
+wankomycyny w zwiększonych dawkach, a dawki większe niż 60 mg/kg mc. nie mogą być ogólnie
+zalecane.
+
+7                                                                                    NL/H/xxxx/WS/1440
+Wankomycynę należy stosować ze szczególną ostrożnością u wcześniaków i niemowląt ze względu
+na niedojrzałość ich nerek i możliwość zwiększenia stężenia wankomycyny w surowicy. W związku
+z tym u takich dzieci należy uważnie kontrolować stężenie wankomycyny we krwi. Skojarzone
+podawanie wankomycyny i leków znieczulających u dzieci wiąże się z występowaniem rumienia
+i histaminopodobnego uderzenia gorąca. Podobnie, stosowanie w skojarzeniu z lekami o działaniu
+nefrotoksycznym, takimi jak antybiotyki aminoglikozydowe, NLPZ (np. ibuprofen w celu zamknięcia
+przetrwałego przewodu tętniczego Botalla) lub amfoterycyna B wiąże się ze zwiększonym ryzykiem
+działania nefrotoksycznego (patrz punkt 4.5), w związku z czym wskazane jest częstsze kontrolowanie
+stężenia wankomycyny w surowicy i czynności nerek.
+
+Stosowanie u pacjentów w podeszłym wieku
+Naturalne zmniejszanie filtracji kłębuszkowej postępujące z wiekiem może powodować zwiększone
+stężenie wankomycyny w surowicy, jeżeli dawkowanie nie zostanie dostosowane (patrz punkt 4.2).
+
+Interakcje z lekami znieczulającymi
+Wankomycyna może nasilić depresję mięśnia sercowego wywołaną przez leki znieczulające.
+W okresie znieczulenia dawka musi być dobrze rozcieńczona i podawana powoli, przy dokładnym
+monitorowaniu czynności serca. Należy odczekać ze zmianą pozycji pacjenta do zakończenia infuzji,
+aby umożliwić dostosowanie posturalne (patrz punkt 4.5).
+
+Rzekomobłoniaste zapalenie jelit
+W razie ciężkiej, uporczywej biegunki należy wziąć pod uwagę możliwość wystąpienia
+rzekomobłoniastego zapalenia jelit, które może zagrażać życiu (patrz punkt 4.8). Nie wolno podawać
+przeciwbiegunkowych produktów leczniczych.
+
+Nadkażenie
+Długotrwałe stosowanie wankomycyny może spowodować nadmierny wzrost niewrażliwych
+mikroorganizmów. Dokładna obserwacja pacjenta ma zasadnicze znaczenie. W przypadku
+wystąpienia nadkażenia podczas leczenia, należy wdrożyć odpowiednie postępowanie.
+
+Skutki sercowo-naczyniowe i mózgowo-naczyniowe
+U pacjentów leczonych wankomycyną notowano przypadki zespołu Kounisa. Zespół Kounisa został
+zdefiniowany jako objawy sercowo-naczyniowe występujące po reakcji alergicznej lub
+nadwrażliwości związanej ze zwężeniem tętnic wieńcowych i mogące prowadzić do zawału mięśnia
+sercowego.
+
+Dzieci i młodzież
+Aktualne zalecenia dotyczące dawkowania dożylnego w populacji dzieci i młodzieży, a zwłaszcza
+u dzieci w wieku poniżej 12 lat, mogą doprowadzić do wystąpienia subterapeutycznego stężenia
+wankomycyny u znacznej liczby dzieci. Jednak nie oceniono właściwie bezpieczeństwa stosowania
+wankomycyny w większych dawkach, a dawki większe niż 60 mg/kg mc./dobę nie są generalnie
+zalecane.
+
+Wankomycynę należy stosować ze szczególną ostrożnością u noworodków i niemowląt urodzonych
+przed czasem ze względu na niedojrzałość ich nerek i możliwość zwiększenia stężenia wankomycyny
+w surowicy. W związku z tym u takich dzieci należy dokładnie kontrolować stężenie wankomycyny
+we krwi. Jednoczesne podawanie wankomycyny i środków znieczulających u dzieci wiąże się z
+występowaniem rumienia i histaminopodobnego uderzenia gorąca. Podobnie, stosowanie jednocześnie
+z produktami o działaniu nefrotoksycznym (takimi jak antybiotyki aminoglikozydowe, NLPZ [np.
+ibuprofen podawany w celu zamknięcia przetrwałego przewodu tętniczego Botalla] lub amfoterycyna
+B) wiąże się ze zwiększeniem ryzyka działania nefrotoksycznego (patrz punkt 4.5), w związku z czym
+wskazane jest częstsze kontrolowanie stężenia wankomycyny w surowicy i czynności nerek.
+
+Stosowanie u pacjentów w podeszłym wieku
+Naturalne zmniejszanie filtracji kłębuszkowej postępujące z wiekiem może powodować zwiększone
+stężenie wankomycyny w surowicy, jeżeli dawkowanie nie zostanie dostosowane (patrz punkt 4.2).
+
+8                                                                                   NL/H/xxxx/WS/1440
+Interakcje lekowe ze środkami znieczulającymi
+Wankomycyna może nasilić depresję mięśnia sercowego wywołaną przez środki znieczulające.
+W okresie znieczulenia dawka musi być dobrze rozcieńczona i podawana powoli, przy dokładnym
+monitorowaniu czynności serca. Należy odczekać ze zmianą pozycji pacjenta do zakończenia infuzji,
+aby umożliwić dostosowanie posturalne (patrz punkt 4.5).
+
+Rzekomobłoniaste zapalenie jelit
+W razie ciężkiej, uporczywej biegunki należy wziąć pod uwagę możliwość rzekomobłoniastego
+zapalenia jelit, które może zagrażać życiu (patrz punkt 4.8). Nie wolno podawać
+przeciwbiegunkowych produktów leczniczych.
+
+Nadkażenie
+Długotrwałe stosowanie wankomycyny może spowodować nadmierny wzrost niewrażliwych
+mikroorganizmów. Dokładna obserwacja pacjenta ma zasadnicze znaczenie. W razie wystąpienia
+nadkażenia podczas leczenia należy wdrożyć odpowiednie postępowanie.
+
+Podanie doustne
+Dożylne podawanie wankomycyny jest nieskuteczne w leczeniu zakażenia spowodowanego przez
+Clostridium difficile. W tym wskazaniu wankomycyna powinna być podawana doustnie.
+
+Nie zaleca się testów w kierunku kolonizacji ani obecności toksyny Clostridium difficile u dzieci
+poniżej 1. roku życia ze względu na dużą częstość bezobjawowej kolonizacji, chyba że występuje
+ciężka biegunka u niemowląt z czynnikami ryzyka zastoju, takimi jak choroba Hirschsprunga,
+operowana atrezja odbytu lub inne ciężkie zaburzenia motoryki. Należy zawsze prowadzić
+diagnostykę w kierunku innej etiologii, a zapalenie jelit spowodowane przez Clostridium difficile musi
+być potwierdzone.
+
+Możliwość wchłaniania ogólnoustrojowego
+Wchłanianie wankomycyny może być zwiększone u pacjentów z zapalnymi chorobami błony
+śluzowej jelit lub rzekomobłoniastym zapaleniem jelita grubego wywołanym przez Clostridium
+difficile. Pacjenci tacy mogą być zagrożeni wystąpieniem działań niepożądanych, zwłaszcza w razie
+jednoczesnych zaburzeń czynności nerek. Im większy jest zakres zaburzeń czynności nerek, tym
+większe jest ryzyko działań niepożądanych typowych dla pozajelitowego podawania wankomycyny.
+W przypadku pacjentów z zapalnymi chorobami błony śluzowej jelit należy kontrolować stężenie
+wankomycyny w surowicy.
+
+Nefrotoksyczność
+W przypadku leczenia pacjentów z istniejącymi zaburzeniami czynności nerek lub pacjentów
+otrzymujących jednocześnie antybiotyk aminoglikozydowy lub inne leki o działaniu nefrotoksycznym,
+należy seryjnie oznaczać parametry czynności nerek.
+
+Ototoksyczność
+W przypadku pacjentów z istniejącym ubytkiem słuchu lub pacjentów otrzymujących jednocześnie
+produkt o działaniu ototoksycznym (np. antybiotyk aminoglikozydowy) pomocne może być seryjne
+oznaczanie stanu słuchu.
+
+Interakcje lekowe z produktami hamującymi motorykę jelit i inhibitorami pompy protonowej
+Należy unikać stosowania produktów hamujących motorykę jelit, a inhibitory pompy protonowej
+stosować tylko po dokładnym rozważeniu korzyści i ryzyka.
+
+Powstanie opornych szczepów bakterii
+Doustne stosowanie wankomycyny zwiększa ryzyko pojawienia się w przewodzie pokarmowym
+populacji enterokoków opornych na wankomycynę. W związku z tym zaleca się rozważne stosowanie
+wankomycyny podawanej doustnie.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+9                                                                                     NL/H/xxxx/WS/1440
+Jednoczesne stosowanie wankomycyny i leków znieczulających związane było z występowaniem
+rumienia, zaczerwienienia skóry, podobnego jak w reakcji na histaminę i reakcji
+rzekomoanafilaktycznej (patrz punkt 4.4). Reakcje te można zmniejszyć, jeśli wankomycynę podaje
+się w infuzji trwającej ponad 60 minut, przed wprowadzeniem do znieczulenia. W czasie znieczulenia
+dawka musi być rozcieńczona do stężenia 5 mg/ml lub mniejszego i podawana powoli, przy
+dokładnym monitorowaniu czynności serca. Należy odczekać ze zmianą pozycji pacjenta do
+zakończenia infuzji, aby umożliwić dostosowanie posturalne.
+
+Konieczna jest uważna obserwacja stanu pacjenta podczas jednoczesnego stosowania leków
+o działaniu ototoksycznym, neurotoksycznym i (lub) nefrotoksycznym, szczególnie, takich jak kwas
+etakrynowy, antybiotyki aminoglikozydowe, amfoterycyna B, bacytracyna, polimiksyna B,
+piperacylina z tazobaktamem, kolistyna, wiomycyna lub cisplatyna, diuretyki pętlowe i NLPZ (patrz
+punkt 4.4).
+
+Ryzyko blokady przewodnictwa nerwowo-mięśniowego zwiększa się podczas jednoczesnego
+stosowania wankomycyny i leków zwiotczających mięśnie.
+
+Niezgodności farmaceutyczne: patrz punkt 6.2.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Brak wystarczającego doświadczenia dotyczącego bezpieczeństwa stosowania wankomycyny u kobiet
+w ciąży. Badania toksycznego wpływu na reprodukcję u zwierząt nie wykazały żadnego wpływu na
+rozwój zarodka, płodu lub przebieg ciąży.
+Wankomycyna przenika przez łożysko i nie można wykluczyć ryzyka ototoksycznego
+i nefrotoksycznego działania na płód i noworodka. Z tego względu wankomycynę można podawać
+w okresie ciąży tylko w razie bezwzględnej konieczności i po dokładnym rozważeniu stosunku ryzyka
+do korzyści.
+W celu zmniejszenia ryzyka działania toksycznego na płód należy starannie monitorować stężenie
+wankomycyny w surowicy.
+
+Karmienie piersią
+Wankomycyna przenika do mleka ludzkiego i dlatego można ją stosować w okresie karmienia piersią
+tylko w sytuacji, gdy nie powiodło się leczenie innymi antybiotykami. Wankomycynę należy podawać
+ostrożnie matkom karmiącym ze względu na możliwość reakcji niepożądanych u dziecka (zaburzenia
+flory bakteryjnej z biegunką, kolonizacja grzybami drożdżopodobnymi i możliwość alergizacji).
+Biorąc pod uwagę znaczenie leku dla karmiącej matki, należy rozważyć przerwanie karmienia piersią.
+
+Płodność
+Brak badań dotyczących wpływu na płodność (patrz również punkt 5.3).
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Wankomycyna ma nieistotny wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn.
+
+4.8   Działania niepożądane
+
+Podsumowanie profilu bezpieczeństwa
+Najczęstsze działania niepożądane to zapalenie żyły, reakcje rzekomoalergiczne oraz przekrwienie
+górnej części ciała (tzw. zespół czerwonego człowieka lub zespół czerwonej szyi) związane ze zbyt
+szybką dożylną infuzją wankomycyny.
+
+W związku ze stosowaniem wankomycyny notowano przypadki ciężkich skórnych działań
+niepożądanych (SCARs, ang. severe cutaneous adverse reactions), w tym zespołu Stevensa-Johnsona
+(SJS, ang. Stevens-Johnson syndrome), toksycznego martwiczego oddzielania się naskórka (TEN,
+ang. toxic epidermal necrolysis), reakcji polekowych z eozynofilią i objawami ogólnoustrojowymi
+10                                                                                   NL/H/xxxx/WS/1440
+(DRESS, ang. drug reaction with eosynophilia and systemic symptoms) oraz ostrej uogólnionej osutki
+krostkowej (AGEP, ang. acute generalized exanthematous pustulosis), patrz punkt 4.4.
+
+Tabela działań niepożądanych
+W obrębie każdej grupy o określonej częstości objawy niepożądane są wymienione zgodnie ze
+zmniejszającą się ciężkością.
+
+Wymienione niżej działania niepożądane zdefiniowane są z użyciem następującej konwencji
+MedDRA i klasyfikacji układów i narządów:
+bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1000 do <1/100), rzadko
+(≥1/10 000 do <1/1000), bardzo rzadko (<1/10 000), częstość nieznana (nie może być określona na
+podstawie dostępnych danych).
+
+ Klasyfikacja układów i narządów
+       Częstość                                 Działanie niepożądane
+ Zaburzenia krwi i układu chłonnego
+ Rzadko               Odwracalna neutropenia, agranulocytoza, eozynofilia, trombocytopenia,
+                      pancytopenia
+ Częstość nieznana    niedokrwistość hemolityczna
+ Zaburzenia układu immunologicznego
+ Rzadko               Reakcje nadwrażliwości, reakcje anafilaktyczne
+ Zaburzenia ucha i błędnika
+ Niezbyt często       Przejściowa lub trwała utrata słuchu
+ Rzadko               Zawroty głowy pochodzenia obwodowego, szum w uszach, zawroty głowy
+                      pochodzenia ośrodkowego
+ Zaburzenia serca
+ Bardzo rzadko        Zatrzymanie serca
+ Częstość nieznana    Zespół Kounisa
+ Zaburzenia naczyniowe
+ Często               Zmniejszenie ciśnienia tętniczego
+ Rzadko               Zapalenie naczyń
+ Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia
+ Często               Duszność, świst krtaniowy
+ Zaburzenia żołądka i jelit
+ Rzadko               Nudności
+ Bardzo rzadko        Rzekomobłoniaste zapalenie jelita i okrężnicy
+ Częstość nieznana    Wymioty, biegunka
+ Zaburzenia
+ wątroby i dróg
+ żółciowych
+ Często               zwiększona aktywność aminotransferazy alaninowej, zwiększona aktywność
+                      aminotransferazy asparaginianowej
+ Zaburzenia skóry i tkanki podskórnej
+ Często               Przekrwienie górnej części ciała (zespół czerwonego człowieka), wykwity
+                      i zapalenie błon śluzowych, świąd, pokrzywka
+ Bardzo rzadko        Złuszczające zapalenie skóry, zespół Stevensa-Johnsona, linijna IgA
+                      dermatoza pęcherzowa, toksyczne martwicze oddzielanie się naskórka ( ang.
+                      toxic epidermal necrolysis, TEN),
+ Częstość nieznana    Zespół DRESS (wysypka polekowa z eozynofilią i objawami
+                      ogólnoustrojowymi)
+                      Ostra uogólniona osutka krostkowa (ang. Acute Generalized Exanthematous
+                      Pustulosis, AGEP)
+ Zaburzenia nerek i dróg moczowych
+ Często               Zaburzenia czynności nerek objawiające się przede wszystkim jako
+                      zwiększenie stężenia kreatyniny i mocznika w surowicy
+ Rzadko               Śródmiąższowe zapalenie nerek, ostra niewydolność nerek
+11                                                                                 NL/H/xxxx/WS/1440
+ Częstość nieznana     Ostra martwica kanalików nerkowych
+ Zaburzenia ogólne i stany w miejscu podania
+ Często                Zapalenie żyły, zaczerwienienie górnej części ciała i twarzy
+ Rzadko                Gorączka polekowa, dreszcze, ból i skurcze mięśni klatki piersiowej i
+                       grzbietu
+
+Opis wybranych działań niepożądanych
+Odwracalna neutropenia zwykle pojawia się tydzień lub później po rozpoczęciu leczenia dożylnego
+lub gdy łączna dawka przekroczy 25 g.
+Podczas szybkiej infuzji lub wkrótce po jej zakończeniu może wystąpić reakcja
+anafilaktyczna/rzekomoanafilaktyczna, w tym świszczący oddech. Reakcje takie ustępują po
+przerwaniu podawania, zwykle w ciągu 20 minut do 2 godzin. Wankomycynę należy podawać
+w powolnej infuzji (patrz punkty 4.2 i 4.4). Po wstrzyknięciu domięśniowym może wystąpić
+martwica.
+
+Szum w uszach, przypuszczalnie poprzedzający wystąpienie głuchoty, powinien być traktowany jako
+wskazanie do przerwania leczenia.
+
+Działanie ototoksyczne obserwowano głównie u pacjentów otrzymujących duże dawki, u pacjentów
+leczonych jednocześnie innym produktem o działaniu ototoksycznym (takim jak antybiotyk
+aminoglikozydowy) lub u pacjentów z istniejącymi uprzednio zaburzeniami czynności nerek lub
+słuchu.
+
+Dzieci i młodzież
+Profil bezpieczeństwa u dzieci i dorosłych jest zasadniczo zgodny. Opisywano przypadki działania
+nefrotoksycznego, zwykle w związku ze stosowaniem innych leków nefrotoksycznych, takich jak
+antybiotyki aminoglikozydowe.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa
+Tel.: + 48 22 49 21 301
+Faks: + 48 22 49 21 309,
+strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+W razie przedawkowania można spodziewać się działań wynikających z dużego stężenia
+wankomycyny w surowicy (działanie ototoksyczne i nefrotoksyczne).
+Zalecane jest leczenie objawowe podtrzymujące filtrację kłębuszkową. Wankomycyna jest
+w niewielkim stopniu usuwana z krwi metodą hemodializy lub dializy otrzewnowej. Opisywano
+ograniczoną korzyść z zastosowania hemofiltracji z użyciem żywicy Amberlite XAD-4.
+
+
+5. WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Podanie pozajelitowe
+Grupa farmakoterapeutyczna: antybiotyki glikopeptydowe;
+Kod ATC: J01XA01.
+
+12                                                                                   NL/H/xxxx/WS/1440
+Grupa farmakoterapeutyczna: leki przeciwzakaźne stosowane w chorobach jelit, antybiotyki
+Kod ATC: A07AA09
+
+Mechanizm działania
+Wankomycyna jest trójpierścieniowym antybiotykiem glikopeptydowym, który hamuje syntezę ściany
+komórkowej wrażliwych bakterii przez wiązanie się z dużym powinowactwem z D-alanylo-
+D-alaninowym końcem cząsteczek prekursorowych ściany komórkowej. Lek wywiera powolne
+działanie bakteriobójcze wobec dzielących się mikroorganizmów. Ponadto zaburza on
+przepuszczalność błony komórkowej bakterii i syntezę RNA.
+
+Zależności farmakokinetyczno-farmakodynamiczne (PK/PD)
+Wankomycyna wykazuje aktywność niezależną od stężenia, gdzie pole powierzchni pod krzywą
+(AUC) podzielone przez minimalne stężenie hamujące (ang. minimum inhibitory concentration, MIC)
+mikroorganizmu docelowego stanowi główny przewidywalny parametr skuteczności. Na podstawie
+danych z in vitro dotyczących zwierząt oraz ograniczonych danych dotyczących ludzi, stosunek
+AUC/MIC wynoszący 400 został ustalony jako docelowa wartość PK/PD konieczna do uzyskania
+skuteczności klinicznej wankomycyny. Do osiągnięcia tego celu, gdy MIC jest ≥1,0 mg/l, konieczne
+jest stosowanie dawek z górnej części zakresu i utrzymanie dużego minimalnego stężenia w surowicy
+(15-20 mg/l), patrz punkt 4.2.
+
+Mechanizm oporności
+Nabyta oporność na antybiotyki glikopeptydowe występuje najczęściej u enterokoków i polega na
+nabyciu różnych kompleksów genów van, które zmieniają punkt uchwytu (D-alanylo-D-alanin)
+w D-alanylo-D-mleczan lub D-alanylo-D-serynę, z którymi wankomycyna słabo się wiąże.
+W niektórych krajach obserwuje się coraz większą liczbę przypadków oporności, zwłaszcza wśród
+enterokoków; szczególnie niepokojące jest występowanie wielolekoopornych szczepów Enterococcus
+faecium.
+
+Geny van obserwuje się rzadko w przypadku Staphylococcus aureus, gdzie zmiany struktury ściany
+komórkowej powodują pośrednią wrażliwość, która jest najczęściej heterogenna. Zgłaszano również
+występowanie szczepów metycylinoopornego Staphylococcus aureus (MRSA) o zmniejszonej
+wrażliwości na wankomycynę. Zmniejszona wrażliwość lub oporność szczepów Staphylococcus na
+wankomycynę nie jest dobrze poznana. Wymaga to kilku elementów genetycznych i wielu mutacji.
+
+Nie występuje oporność krzyżowa między wankomycyną a innymi antybiotykami. Występuje
+oporność krzyżowa z innymi antybiotykami glikopeptydowymi, takimi jak teikoplanina. Przypadki
+wtórnego rozwoju oporności podczas leczenia są rzadkie.
+
+Działanie synergiczne
+Skojarzenie wankomycyny z antybiotykiem aminoglikozydowym wykazuje działanie synergicznie
+wobec wielu szczepów Staphylococcus aureus, paciorkowców z grupy D nienależących do
+enterokoków, enterokoków oraz paciorkowców z grupy Viridans. Skojarzenie wankomycyny
+z cefalosporyną wykazuje działanie synergicznie wobec niektórych szczepów Staphylococcus
+epidermidis opornych na oksacylinę, a skojarzenie wankomycyny z ryfampicyną wykazuje działanie
+synergicznie wobec Staphylococcus epidermidis i działanie częściowo synergicznie wobec niektórych
+szczepów Staphylococcus aureus. Ponieważ wankomycyna w skojarzeniu z cefalosporyną może też
+wywierać działanie antagonistyczne wobec niektórych szczepów Staphylococcus epidermidis,
+a w skojarzeniu z ryfampicyną niektórych szczepów Staphylococcus aureus, przydatne jest uprzednie
+przeprowadzenie testów działania synergicznego.
+
+Należy pobrać próbki do posiewu bakterii w celu wyizolowania i identyfikacji mikroorganizmów
+sprawczych i określenia ich wrażliwości na wankomycynę.
+
+Wartości graniczne w testach wrażliwości
+Wankomycyna jest aktywna wobec bakterii Gram-dodatnich, takich jak gronkowce, paciorkowce,
+enterokoki, pneumokoki i Clostridium. Bakterie Gram-ujemne są oporne.
+
+13                                                                                 NL/H/xxxx/WS/1440
+Występowanie nabytej oporności wybranych gatunków może się różnić w zależności od rejonu
+geograficznego i czasu, w związku z czym przydatne są lokalne informacje na temat oporności,
+zwłaszcza w razie leczenia ciężkich zakażeń. W razie konieczności należy zasięgnąć porady eksperta,
+jeżeli lokalne występowanie oporności jest na tyle powszechne, że użyteczność leku, przynamniej
+wobec pewnego typu zakażeń, jest wątpliwa. Informacje te stanowią tylko przybliżone wytyczne co
+do szansy występowania wrażliwości drobnoustrojów na wankomycynę.
+
+Wartości graniczne badania wrażliwości
+Kryteria interpretacyjne MIC (minimalnego stężenia hamującego) dla badania wrażliwości zostały
+ustanowione przez European Committee on Antimicrobial Susceptibility Testing (EUCAST) dla
+wankomycyny. Są one wymienione tutaj:
+https://www.ema.europa.eu/documents/other/minimum-inhibitory-concentration-mic-
+breakpoints_en.xlsx
+ Często wrażliwe gatunki
+ Gram-dodatnie
+ Enterococcus faecalis
+ Staphylococcus aureus
+ Staphylococcus aureus oporny na metycylinę
+ Gronkowce koagulazo-ujemne
+ Streptococcus spp.
+ Streptococcus pneumoniae
+ Enterococcus spp.
+ Staphylococcus spp.
+
+ Gatunki beztlenowe
+ Clostridium spp. z wyjątkiem Clostridium innocuum
+ Eubacterium spp.
+ Peptostreptococcus spp
+
+ Gatunki, w przypadku których problem może stanowić nabyta oporność
+ Enterococcus faecium
+
+ Samoistnie oporne
+ Wszystkie bakterie Gram-ujemne
+
+ Gram-dodatnie gatunki tlenowe
+ Erysipelothrix rhusiopathiae
+ Lactobacillus ze zdolnością heterofermentacji
+ Leuconostoc spp
+ Pediococcus spp.
+
+ Gatunki beztlenowe
+ Clostridium innocuum
+
+ Występowanie oporności na wankomycynę zależy od konkretnego szpitala, w związku z czym
+ należy się zwrócić o odpowiednie informacje do miejscowego laboratorium mikrobiologicznego.
+
+5.2   Właściwości farmakokinetyczne
+
+Wchłanianie
+W leczeniu zakażeń ogólnoustrojowych wankomycyna jest podawana dożylnie.
+
+U pacjentów z prawidłową czynnością nerek dożylna infuzja wielu dawek po 1 g wankomycyny
+(15 mg/kg mc.) trwająca 60 minut zapewnia przeciętne średnie stężenie w osoczu 50-60 mg/l,
+20-25 mg/l oraz 5-10 mg/l odpowiednio, bezpośrednio po oraz 2 i 10 godzin po infuzji. Stężenia
+w osoczu osiągane po podaniu wielokrotnym jest podobne do osiąganego po podaniu jednej dawki.
+
+14                                                                                  NL/H/xxxx/WS/1440
+Wankomycyna zwykle nie jest wchłaniana po podaniu doustnym. Jednak może dojść do wchłaniania
+po podaniu doustnym u pacjentów z (rzekomobłoniastym) zapaleniem jelita grubego. Może to
+doprowadzić do kumulacji wankomycyny w organizmie pacjentów ze współistniejącymi zaburzeniami
+czynności nerek.
+
+Dystrybucja
+Objętość dystrybucji wynosi około 60 l/1,73 m2 powierzchni ciała. Przy stężeniu wankomycyny
+w surowicy wynoszącym od 10 mg/l do 100 mg/l, stopień wiązania leku z białkami osocza oceniany
+metodą ultrafiltracji wynosi około 30–55%.
+
+Wankomycyna przenika łatwo przez łożysko i dociera do krwi pępowinowej. W przypadku opon
+mózgowo-rdzeniowych nieobjętych stanem zapalnym wankomycyna przechodzi przez barierę krew-
+mózg tylko w małym stopniu.
+
+Metabolizm
+Lek metabolizowany jest w bardzo małym stopniu. Po podaniu pozajelitowym wydalany jest niemal
+wyłącznie jako substancja mikrobiologicznie czynna (około 75-90% w ciągu 24 godzin) na drodze
+filtracji kłębuszkowej przez nerki.
+
+Wydalanie
+Okres półtrwania w fazie eliminacji wynosi 4-6 godzin u pacjentów z prawidłową czynnością nerek
+oraz 2,2-3 godziny u dzieci. Klirens osoczowy wynosi około 0,058 l/kg mc./godzinę, a klirens
+nerkowy około 0,048 l/kg mc./godzinę. W ciągu pierwszych 24 godzin około 80% podanej dawki
+wydalane jest w moczu na drodze filtracji kłębuszkowej. Zaburzenia czynności nerek opóźniają
+wydalanie wankomycyny. U pacjentów bez czynności nerek średni okres półtrwania wynosi 7,5 dnia.
+Ze względu na ototoksyczne działanie wankomycyny, w takich przypadkach zaleca się kontrolowanie
+stężenia wankomycyny w osoczu.
+
+Wydalanie z żółcią jest nieznaczne (mniej niż 5% dawki).
+
+Wankomycyna nie jest eliminowana w znaczącym stopniu przez hemodializę ani dializę otrzewnową,
+jednak istnieją doniesienia na temat zwiększenia klirensu wankomycyny przez hemoperfuzję
+i hemofiltrację.
+
+Po podaniu doustnym tylko mała część podanej dawki jest odzyskiwana z moczu. Z drugiej strony
+duże stężenie wankomycyny stwierdzane jest w stolcu (>3100 mg/kg przy dawce 2 g/dobę).
+
+Liniowość/nieliniowość
+Stężenie wankomycyny zasadniczo wzrasta proporcjonalnie do zwiększającej się dawki. Stężenie
+w osoczu w warunkach podawania wielokrotnego jest podobne do występującego po podaniu
+jednorazowym.
+
+Charakterystyka w szczególnych grupach pacjentów
+
+Pacjenci z zaburzeniami czynności nerek
+Wankomycyna jest usuwana głównie na drodze filtracji kłębuszkowej. U pacjentów z zaburzeniami
+czynności nerek końcowy okres półtrwania w fazie eliminacji jest wydłużony, a klirens całkowity jest
+zmniejszony. W związku z tym należy wyliczyć optymalną dawkę w oparciu o zalecenia dotyczące
+dawkowania podane w punkcie 4.2.
+
+Pacjenci z zaburzeniami czynności wątroby
+Farmakokinetyka wankomycyny nie jest zmieniona u pacjentów z zaburzeniami czynności wątroby.
+
+Kobiety w ciąży
+W przypadku kobiet w ciąży konieczne może być znaczne zwiększenie dawek w celu osiągniecia
+terapeutycznego stężenia w surowicy (patrz punkt 4.6).
+
+15                                                                                   NL/H/xxxx/WS/1440
+Pacjenci z nadwagą
+Dystrybucja wankomycyny może być zmieniona u pacjentów z nadwagą ze względu na zwiększenie
+objętości dystrybucji i klirensu nerkowego, jak również zmiany wiązania z białkami osocza. W tych
+subpopulacjach stwierdzono większe stężenie wankomycyny w surowicy niż oczekiwane u zdrowych
+dorosłych mężczyzn (patrz punkt 4.2).
+
+Dzieci i młodzież
+Farmakokinetyka wankomycyny wykazuje dużą zmienność międzyosobniczą u wcześniaków
+i noworodków urodzonych o czasie. U noworodków objętość dystrybucji wankomycyny po podaniu
+dożylnym wynosi od 0,38 do 0,97 l/kg, podobnie jak u dorosłych, natomiast klirens wynosi od 0,63 do
+1,4 ml/kg/min. Okres półtrwania wynosi od 3,5 do 10 godzin i jest dłuższy niż u dorosłych, co
+odzwierciedla zwykle mniejsze wartości klirensu u noworodków.
+
+U niemowląt i starszych dzieci objętość dystrybucji waha się w zakresie 0,26-1,05 l/kg,
+natomiast klirens waha się w zakresie 0,33-1,87 ml/kg/min.
+
+5.3      Przedkliniczne dane o bezpieczeństwie
+
+Nie przeprowadzono długookresowych badań na zwierzętach oceniających właściwości rakotwórcze,
+ale w standardowych badaniach laboratoryjnych nie stwierdzono właściwości mutagennych
+wankomycyny. Nie badano wpływu wankomycyny na płodność.
+
+
+6.    DANE FARMACEUTYCZNE
+
+6.1      Wykaz substancji pomocniczych
+
+Brak
+
+6.2      Niezgodności farmaceutyczne
+
+Roztwór ma niskie pH i może być nietrwały fizycznie lub chemicznie po zmieszaniu z innymi
+substancjami.
+Nie mieszać roztworów wankomycyny z innymi roztworami, z wyjątkiem tych, których zgodność
+została sprawdzona w sposób pewny.
+Należy unikać mieszania wankomycyny z roztworami alkalicznymi.
+Nie zaleca się jednoczesnego stosowania i mieszania roztworów wankomycyny z chloramfenikolem,
+kortykosteroidami, metycyliną, heparyną, aminofiliną, antybiotykami z grupy cefalosporyn
+i fenobarbitalem.
+
+6.3      Okres ważności
+
+2 lata
+
+Okres ważności sporządzonego roztworu
+Przygotowany roztwór można przechowywać do 24 godzin w temperaturze od 2ºC do 8ºC.
+Ze względów mikrobiologicznych sporządzony roztwór należy zużyć natychmiast. W przeciwnym
+razie odpowiedzialność za czas i warunki przechowywania przygotowanego roztworu ponosi
+użytkownik.
+
+6.4      Specjalne środki ostrożności podczas przechowywania
+
+Przechowywać w temperaturze poniżej 25ºC.
+
+Warunki przechowywania produktu leczniczego po przygotowaniu roztworu, patrz punkt 6.3.
+
+
+
+16                                                                                    NL/H/xxxx/WS/1440
+6.5    Rodzaj i zawartość opakowania
+
+Fiolki ze szkła bezbarwnego zabezpieczone korkiem bromobutylowym i kapslem aluminiowym,
+w tekturowym pudełku.
+Opakowanie zawiera 1 lub 10 fiolek.
+
+6.6    Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego
+       do stosowania
+
+Przygotowanie roztworu do infuzji
+Edicin 500 mg
+Zawartość fiolki należy rozpuścić w 10 ml wody do wstrzykiwań.
+
+Edicin 1 g
+Zawartość fiolki należy rozpuścić w 20 ml wody do wstrzykiwań.
+
+1 ml otrzymanego roztworu zawiera 50 mg wankomycyny. Roztwór można dalej rozcieńczać
+w zależności od sposobu podawania.
+
+Infuzje wielokrotne
+Sporządzony roztwór należy rozcieńczyć w 100 ml lub 200 ml 5% roztworu glukozy lub 0,9%
+roztworu chlorku sodu. Stężenie wankomycyny w tak uzyskanym roztworze nie powinno przekraczać
+5 mg/ml. Roztwór należy podawać dożylnie powoli, maksymalnie z szybkością 10 mg/min, w ciągu
+co najmniej 60 minut.
+
+Infuzja ciągła
+Stosować tylko wtedy, gdy infuzje wielokrotne nie są możliwe. Roztwór wankomycyny o stężeniu
+50 mg/ml należy rozcieńczyć w takiej objętości 5% roztworu glukozy lub 0,9% roztworu chlorku
+sodu, aby pacjent otrzymał przepisaną dawkę dobową we wlewie kroplowym w ciągu 24 godzin.
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA DOPUSZCZENIE
+      DO OBROTU
+
+Sandoz GmbH
+Biochemiestrasse 10
+A-6250 Kundl, Austria
+
+
+8.    NUMERY POZWOLEŃ NA DOPUSZCZENIE DO OBROTU
+
+Edicin 500 mg           Pozwolenie nr R/7010
+Edicin 1 g              Pozwolenie nr R/7011
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 19.04.2002 r.
+Data ostatniego przedłużenia pozwolenia: 19.06.2012 r.
+
+
+10. DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+    CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+16.05.2026 r.
+
+17                                                                               NL/H/xxxx/WS/1440
+

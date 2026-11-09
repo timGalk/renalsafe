@@ -1,0 +1,615 @@
+                    CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Metocard, 1 mg/ml, roztwór do wstrzykiwań
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Każdy ml roztworu zawiera 1 mg metoprololu winianu (Metoprololi tartras).
+Każda ampułka (5 ml) zawiera 5 mg metoprololu winianu.
+
+Substancja pomocnicza o znanym działaniu: sód.
+Każdy ml roztworu zawiera 3,6 mg sodu.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Roztwór do wstrzykiwań
+
+Bezbarwny, przezroczysty roztwór.
+
+Osmolalność: około 290 mOsm/kg
+pH: 5,5 - 7,5
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+•     Leczenie częstoskurczów, szczególnie częstoskurczów nadkomorowych.
+•     Wczesne zastosowanie produktu Metocard we wstrzyknięciu dożylnym u pacjentów z ostrym
+      zawałem mięśnia sercowego zmniejsza obszar zawału i ryzyko wystąpienia migotania komór.
+      Zmniejszenie nasilenia bólu po zastosowaniu produktu, może zmniejszyć konieczność
+      stosowania leków przeciwbólowych z grupy opioidów.
+•     Produkt Metocard zastosowany w ostrym zawale mięśnia sercowego zmniejsza śmiertelność.
+
+4.2   Dawkowanie i sposób podawania
+
+Dawkowanie
+Dorośli
+
+Leczenie częstoskurczów
+Początkowo podaje się dożylnie 5 mg metoprololu z szybkością od 1 mg do 2 mg na minutę. Dawka ta
+może być powtarzana w 5-minutowych odstępach, aż do uzyskania oczekiwanego skutku klinicznego.
+Całkowita dawka 10 mg do 15 mg jest zazwyczaj wystarczająca. Dawki 20 mg i większe
+prawdopodobnie nie spowodują dodatkowej korzyści klinicznej.
+
+Należy zachować szczególną ostrożność, jeżeli metoprolol jest podawany dożylnie pacjentom
+z ciśnieniem skurczowym mniejszym niż 100 mmHg. Podanie metoprololu może dodatkowo obniżyć
+ciśnienie tętnicze.
+
+
+
+
+                                                                                                1
+Zawał mięśnia sercowego
+Metocard we wstrzyknięciu dożylnym należy zastosować jak najszybciej od wystąpienia objawów
+zawału mięśnia sercowego.
+
+Leczenie należy rozpocząć na oddziale kardiologicznym lub podobnym, niezwłocznie po
+ustabilizowaniu stanu hemodynamicznego pacjenta, od podania dożylnie dawki 5 mg. Następnie
+należy podać 5 mg we wstrzyknięciach w bolusie, w odstępach co 2 minuty, maksymalnie do
+całkowitej dawki 15 mg, w zależności od stanu hemodynamicznego pacjenta (patrz punkty 4.3 i 4.4).
+U pacjentów, którzy tolerowali całkowitą dawkę dożylną (15 mg), po upływie 15 minut od podania
+ostatniej dawki dożylnie, należy podać 50 mg metoprololu winianu doustnie i kontynuować
+podawanie dawki 50 mg metoprololu winianu doustnie co 6 godzin przez 2 doby. U pacjentów, którzy
+nie tolerowali pełnej dawki dożylnej (15 mg) produktu Metocard, należy doustne leczenie
+rozpoczynać ostrożnie, od połowy zalecanej dawki doustnej.
+Zalecana dawka podtrzymująca metoprololu winianiu wynosi 100 mg dwa razy na dobę (rano
+i wieczorem) lub 200 mg raz na dobę.
+Po podaniu każdej dawki (5 mg) produktu Metocard dożylnie, należy kontrolować ciśnienie tętnicze
+oraz częstość skurczów serca. Nie należy podawać kolejnej dawki produktu, jeżeli czynność serca jest
+wolniejsza niż 40 skurczów na minutę, ciśnienie skurczowe jest mniejsze niż 90 mmHg i odstęp PQ
+jest dłuższy niż 0,26 s. Nie należy również podawać kolejnej dawki, jeżeli nastąpi zaostrzenie
+duszności lub skóra pacjenta będzie spocona i zimna.
+
+Zaburzenia czynności nerek
+Nie ma konieczności dostosowania dawki u pacjentów z zaburzeniami czynności nerek.
+
+Zaburzenia czynności wątroby
+Zazwyczaj nie ma konieczności dostosowania dawki u pacjentów z marskością wątroby, ponieważ
+metoprolol wiąże się z białkami w małym stopniu (5-10%). U pacjentów z ciężką niewydolnością
+wątroby (np. u pacjentów z zespoleniem wrotno-czczym), należy rozważyć zmniejszenie dawki
+produktu Metocard.
+
+Pacjenci w podeszłym wieku
+Nie ma konieczności dostosowania dawki u pacjentów w podeszłym wieku.
+
+Dzieci i młodzież
+Doświadczenie dotyczące stosowania produktu Metocard u dzieci jest niewielkie.
+
+Sposób podawania
+Metocard powinien być podawany przez personel mający doświadczenie w leczeniu tym produktem.
+Należy kontrolować ciśnienie tętnicze i zapis badania EKG. Dostępne musi być wyposażenie i leki
+konieczne do resuscytacji pacjenta.
+
+4.3   Przeciwwskazania
+
+•     Nadwrażliwość na substancję czynną, inny β-adrenolityk lub na którąkolwiek substancję
+      pomocniczą wymienioną w punkcie 6.1.
+•     Wstrząs kardiogenny.
+•     Zespół chorego węzła zatokowego (chyba że wszczepiony jest rozrusznik serca).
+•     Blok przedsionkowo-komorowy II lub III stopnia.
+•     Niewyrównana niewydolność serca (obrzęk płuc, niedokrwienie narządów lub niedociśnienie).
+•     Istotna klinicznie bradykardia zatokowa.
+•     Ciężkie zaburzenia krążenia w tętnicach obwodowych.
+•     Kwasica metaboliczna.
+•     Nieleczony guz chromochłonny nadnerczy.
+•     Podejrzenie ostrej fazy zawału mięśnia sercowego, jeśli czynność serca jest wolniejsza niż
+      45 skurczów na minutę, odstęp PQ jest dłuższy niż 0,24 s lub ciśnienie skurczowe jest mniejsze
+      niż 100 mmHg.
+
+                                                                                                   2
+•     Krótkotrwałe lub długotrwałe podawanie produktów leczniczych o działaniu inotropowym
+      dodatnim, pobudzających receptory β-adrenergiczne.
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+U pacjentów leczonych β-adrenolitykami nie należy stosować dożylnie antagonistów wapnia z grupy
+werapamilu.
+
+Chociaż kardioselektywne β-adrenolityki wywierają mniejszy wpływ na czynność płuc niż
+nieselektywne β-adrenolityki, u pacjentów z obturacyjnymi chorobami płuc należy unikać ich
+stosowania, chyba że są one konieczne ze względu na stan kliniczny pacjenta. U pacjentów z astmą
+oskrzelową lub innymi przewlekłymi obturacyjnymi chorobami płuc, jednocześnie z produktem
+Metocard należy stosować leki rozszerzające oskrzela (np. terbutalinę). W niektórych przypadkach
+może być konieczne dostosowanie (zwiększenie) dawki β2-mimetyków podczas rozpoczynania
+leczenia metoprololem.
+
+Beta-adrenolityki mogą maskować wczesne objawy hipoglikemii, zwłaszcza tachykardię. Jednak
+podczas leczenia metoprololem ryzyko wystąpienia zaburzeń metabolizmu węglowodanów lub
+maskowania objawów hipoglikemii jest mniejsze niż w przypadku stosowania niewybiórczych
+β-adrenolityków. U pacjentów z niestabilną cukrzycą i cukrzycą insulinozależną może być koniecznie
+dostosowanie dawki stosowanych leków przeciwcukrzycowych.
+Beta-adrenolityki mogą dodatkowo zwiększać ryzyko ciężkiej hipoglikemii, gdy są stosowane
+jednocześnie z pochodnymi sulfonylomocznika. Pacjentów z cukrzycą należy poinformować
+o konieczności uważnego kontrolowania stężenia glukozy we krwi (patrz punkt 4.5).
+
+Bardzo rzadko mogą nasilić się, występujące wcześniej, zaburzenia przewodzenia przedsionkowo-
+komorowego (mogące prowadzić do bloku przedsionkowo-komorowego). Z powodu ujemnego
+wpływu na czas przewodzenia, u pacjentów z blokiem I stopnia należy zachować szczególną
+ostrożność.
+
+W razie narastania bradykardii dawkę produktu leczniczego należy zmniejszyć lub odstawić produkt
+leczniczy, stopniowo zmniejszając dawkę.
+
+Produkt Metocard jest przeciwwskazany w ciężkich zaburzenia krążenia w tętnicach obwodowych
+(patrz punkt 4.3), może również nasilać łagodniejsze zaburzenia krążenia w tętnicach obwodowych.
+
+Jeśli produkt leczniczy podaje się pacjentom z guzem chromochłonnym nadnerczy, należy
+jednocześnie stosować lek α-adrenolityczny.
+
+Należy unikać nagłego przerywania doustnego podawania β-adrenolityków. Jeśli konieczne jest
+odstawienie produktu leczniczego, powinno się to odbywać stopniowo. Wielu pacjentów może
+odstawić produkt leczniczy po 14 dniach. Można to zrobić zmniejszając stopniowo dawkę dobową, aż
+do uzyskania dawki końcowej 25 mg na dobę.
+W trakcie odstawiania produktu pacjent powinien znajdować się pod ścisłą obserwacją. Dotyczy to
+zwłaszcza pacjentów z chorobą niedokrwienną serca. Ryzyko zdarzeń wieńcowych, w tym nagłego
+zgonu, zwiększa się po zniesieniu β-blokady.
+
+Produkt Metocard może być stosowany u pacjentów ze stabilną niewydolnością serca. U pacjentów
+z niewydolnością serca w wywiadzie lub u pacjentów z niewielką rezerwą sercową należy rozważyć
+włączenie leczenia glikozydami naparstnicy i (lub) lekami moczopędnymi. Stosując produkt Metocard
+u pacjentów z niewielką rezerwą sercową, należy zachować szczególną ostrożność.
+U pacjentów z niewydolnością serca należy leczyć stany dekompensacji, zarówno przed leczeniem,
+jak i w trakcie leczenia metoprololem.
+
+Beta-adrenolityki mogą zwiększać liczbę i wydłużać czas trwania napadów dławicowych u pacjentów
+z dławicą typu Prinzmetala, z powodu zależnego od receptorów α-adrenergicznych skurczu tętnic
+
+
+                                                                                                   3
+wieńcowych. Ponieważ Metocard jest wybiórczym β1-adrenolitykiem, można rozważyć jego
+zastosowanie, ale należy zachować szczególną ostrożność.
+
+Podobnie jak w przypadku wszystkich β-adrenolityków, przed zastosowaniem produktu u pacjentów
+z łuszczycą, należy rozważyć stosunek korzyści do ryzyko jego stosowania.
+
+Przed planowanym zabiegiem chirurgicznym i podaniem znieczulenia ogólnego, należy
+poinformować lekarza anestezjologa o przyjmowaniu produktu Metocard. Generalnie nie zaleca się
+przerywania leczenia β-adrenolitykami u pacjentów poddawanych zabiegom chirurgicznym. Jeśli
+zaprzestanie stosowania metoprololu jest konieczne, należy go całkowicie odstawić na co najmniej 48
+godzin przed podaniem znieczulenia (jeśli jest to możliwe). Nie należy nagle rozpoczynać stosowania
+dużych dawek metoprololu u pacjentów poddawanych zabiegom niezwiązanym z sercem, ponieważ
+może to spowodować bradykardię, niedociśnienie lub udar mózgu, również zakończone zgonem, u
+pacjentów z czynnikami ryzyka sercowo-naczyniowego.
+
+Leki β-adrenolityczne mogą zwiększać wrażliwość na alergeny i nasilać reakcje anafilaktyczne.
+
+Jeśli ciśnienie skurczowe wynosi poniżej 100 mmHg, metoprolol można podawać dożylnie tylko
+z zachowaniem środków ostrożności, ponieważ podanie produktu taką drogą może spowodować
+ryzyko dalszego obniżenia ciśnienia (np. u pacjentów z zaburzeniami rytmu serca).
+
+U pacjentów z podejrzeniem lub stwierdzeniem zawału mięśnia sercowego, należy uważnie
+monitorować stan hemodynamiczny pacjenta po podaniu każdej z trzech 5 mg dawek dożylnych.
+Nie należy podawać drugiej lub trzeciej dawki, jeżeli czynność serca jest wolniejsza niż 40 skurczów
+na minutę, ciśnienie skurczowe jest mniejsze niż 90 mmHg, a odstęp PQ jest dłuższy niż 0,26 s lub
+gdy nastąpi zaostrzenie duszności albo skóra pacjenta będzie spocona lub zimna.
+
+Sód
+Produkt leczniczy zawiera 3,6 mg sodu w 1 ml roztworu. 5 ml roztworu (jedna ampułka) zawiera
+18 mg sodu, co odpowiada 0,9% zalecanej przez WHO maksymalnej 2 g dobowej dawki sodu u osób
+dorosłych.
+Produkt może być rozcieńczany - patrz punkt 6.6. Zawartość sodu pochodzącego z rozcieńczalnika,
+powinna być brana pod uwagę w obliczeniu całkowitej zawartości sodu w przygotowanym
+rozcieńczeniu produktu. W celu uzyskania dokładnej informacji dotyczącej zawartości sodu
+w roztworze wykorzystanym do rozcieńczenia produktu, należy zapoznać się z charakterystyką
+produktu leczniczego stosowanego rozcieńczalnika. U pacjentów ze zmniejszoną czynnością nerek
+i u pacjentów kontrolujących zawartość sodu w diecie należy uwzględnić zawartość sodu w produkcie
+gotowym do podania.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Metoprolol jest metabolizowany z udziałem izoenzymu CYP2D6 cytochromu P450. Produkty będące
+induktorami lub inhibitorami izoenzymu CYP2D6 mogą wpływać na stężenie metoprololu w osoczu.
+Induktory, np. ryfampicyna, mogą zmniejszać stężenie metoprololu, a inhibitory, np. cymetydyna,
+hydralazyna, alkohol - mogą zwiększać stężenie metoprololu. W przypadku rozpoczęcia podawania
+tych leków pacjentom leczonym produktem Metocard może być konieczna modyfikacja dawki
+produktu Metocard.
+
+Działanie hipotensyjne metoprololu i innych leków obniżających ciśnienie tętnicze jest zazwyczaj
+addytywne. Należy zachować ostrożność podczas jednoczesnego stosowania innych leków
+przeciwnadciśnieniowych, a także leków, które mogą obniżać ciśnienie (np. trójpierścieniowe leki
+przeciwdepresyjne, barbiturany, fenotiazyny). Jednakże zastosowanie leków
+przeciwnadciśnieniowych w połączeniu często ułatwia kontrolę ciśnienia tętniczego.
+
+Metoprolol może nasilać ujemne działanie inotropowe i dromotropowe leków przeciwarytmicznych
+(z grupy chinidyny i amiodaronu).
+
+
+                                                                                                       4
+Glikozydy naparstnicy, stosowane w połączeniu z β-adrenolitykami mogą wydłużać czas
+przewodzenia przedsionkowo-komorowego i powodować bradykardię.
+
+Jeśli metoprolol jest stosowany jednocześnie z antagonistami wapnia, typu werapamilu i diltiazemu,
+może wystąpić nasilone ujemne działanie inotropowe i chronotropowe. U pacjentów leczonych
+β-adrenolitykami nie należy stosować dożylnie antagonistów wapnia z grupy werapamilu.
+
+Należy zachować szczególną ostrożność podczas jednoczesnego stosowania innych β-adrenolityków
+(w tym kropli do oczu), leków blokujących zwoje współczulne lub inhibitorów MAO.
+
+Nie należy stosować metoprololu jednocześnie z pochodnymi kwasu barbiturowego.
+
+Jeżeli konieczne jest przerwanie leczenia produktem Metocard podawanym jednocześnie z klonidyną,
+należy zakończyć podawanie produktu Metocard na kilka dni przed odstawieniem klonidyny.
+
+Ponieważ β-adrenolityki mogą wpływać na krążenie obwodowe, podczas jednoczesnego stosowania
+innych leków o podobnym działaniu (np. ergotaminy) należy zachować szczególną ostrożność.
+
+Metoprolol hamuje działanie sympatykomimetyków, pobudzających receptory β1 i nieznacznie
+wpływa na działanie rozkurczające oskrzela β2 -adrenomimetyków, podawanych w dawkach
+leczniczych.
+
+Metoprolol może zaburzać wydalanie lidokainy.
+
+Podobnie jak w przypadku innych beta-adrenolityków, jednoczesne stosowanie pochodnych
+dihydropirydyny, np. nifedypiny, może zwiększać ryzyko niedociśnienia, a u pacjentów z utajonymi
+zaburzeniami czynności serca może wystąpić niewydolność serca.
+
+Metoprolol podawany jednocześnie z wziewnymi anestetykami może nasilać ich działanie hamujące
+czynność serca.
+
+U pacjentów z cukrzycą otrzymujących β-adrenolityki może być konieczna zmiana dawkowania
+doustnych leków przeciwcukrzycowych i (lub) insuliny.
+Jednoczesne stosowanie beta-adrenolityków z pochodnymi sulfonylomocznika może zwiększać
+ryzyko ciężkiej hipoglikemii (patrz punkt 4.4).
+
+Jednoczesne stosowanie β-adrenolityków i indometacyny lub innych inhibitorów syntetazy
+prostaglandyn może powodować osłabienie działania przeciwnadciśnieniowego β-adrenolityków.
+
+Zastosowanie adrenaliny u pacjentów leczonych β-adrenolitykami może spowodować podwyższenie
+ciśnienia tętniczego i bradykardię, jednakże u pacjentów leczonych wybiórczymi β1 -adrenolitykami
+takie objawy występują rzadziej.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Produktu Metocard nie należy stosować u kobiet w ciąży i w okresie karmienia piersią, chyba że
+korzyści dla matki wynikające z jego zastosowania są większe niż ryzyko dla płodu lub dziecka
+karmionego piersią.
+Generalnie, leki β-adrenolityczne zmniejszają perfuzję łożyska, co może prowadzić do obumarcia
+płodu, niewczesnego lub przedwczesnego porodu. Dlatego zaleca się odpowiednie monitorowanie
+matki i płodu, gdy kobieta w ciąży jest leczona produktem Metocard. Podobnie jak inne β-
+adrenolityki, metoprolol może powodować występowanie działań niepożądanych, przede wszystkim
+bradykardii i hipoglikemii, u płodu, noworodka i dziecka karmionego piersią. U noworodka zwiększa
+się ryzyko wystąpienia zaburzeń pracy serca i płuc. Dotychczas metoprolol był stosowany (pod ścisłą
+kontrolą) u kobiet powyżej 20 tygodnia ciąży, z powodu nadciśnienia tętniczego wywołanego ciążą.
+
+
+                                                                                                      5
+Mimo że produkt przenika przez łożysko i znajduje się we krwi pępowinowej, nie zaobserwowano
+zaburzeń u płodu.
+
+Karmienie piersią
+Nie zaleca się karmienia piersią. Ilość metoprololu spożywana z mlekiem matki prawdopodobnie nie
+wywiera znaczących skutków związanych z blokowaniem receptorów β-adrenergicznych u dziecka,
+jeżeli matka stosuje produkt w dawkach leczniczych.
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Należy poznać indywidualną reakcję pacjenta po zażyciu produktu Metocard, ponieważ u niektórych
+pacjentów mogą wystąpić zawroty głowy lub uczucie zmęczenia, zaburzające sprawność
+psychofizyczną.
+
+4.8   Działania niepożądane
+
+Metoprolol jest zazwyczaj dobrze tolerowany, a działania niepożądane są łagodne i przemijające.
+Wymienione poniżej działania niepożądane obserwowano w prowadzonych badaniach oraz w trakcie
+klinicznego stosowania metoprololu.
+
+W poniższej tabeli przedstawiono działania niepożądane metoprololu pogrupowane zgodnie
+z klasyfikacją układów i narządów MedDRA i częstością występowania: bardzo często (≥1/10), często
+(≥1/100 do <1/10), niezbyt często (≥1/1000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo
+rzadko(<10000):
+
+ Klasyfikacja       Bardzo       Często         Niezbyt         Rzadko              Bardzo rzadko
+ układów            często                      często
+ i narządów
+ MedDRA
+ Zakażenia i                                                                        zgorzel
+ zarażenia                                                                          u pacjentów
+ pasożytnicze                                                                       z ciężkimi
+                                                                                    zaburzeniami
+                                                                                    krążenia
+                                                                                    obwodowego
+ Zaburzenia krwi                                                                    małopłytkowość
+ i układu
+ chłonnego
+ Zaburzenia                                     depresja,       nerwowość, stany    splątanie, omamy
+ psychiczne                                     bezsenność,     lękowe
+                                                koszmary
+                                                senne
+ Zaburzenia                      zawroty        zaburzenia                          amnezja/zaburzen
+ układu                          głowy          koncentracji,                       ia pamięci,
+ nerwowego                       pochodzenia    senność,                            zaburzenia smaku
+                                 ośrodkowego    parestezja
+                                 , ból głowy
+ Zaburzenia oka                                                 zaburzenia
+                                                                widzenia, suchość
+                                                                i (lub)
+                                                                podrażnienie
+                                                                oczu, zapalenie
+                                                                spojówek
+ Zaburzenia ucha                                                                    szumy uszne
+ i błędnika
+
+
+
+                                                                                                   6
+Zaburzenia                     bradykardia,    nasilenie       zaburzenia
+serca                          kołatanie       objawów         przewodzenia
+                               serca           niewydolnośc    przedsionkowo-
+                                               i serca,        komorowego,
+                                               wstrząs         zaburzenia rytmu
+                                               kardiogenny     serca, nasilenie
+                                               u pacjentów z   istniejącego bloku
+                                               ostrym          przedsionkowo-
+                                               zawałem         komorowego
+                                               mięśnia
+                                               sercowego*,
+                                               blok serca
+                                               I stopnia
+Zaburzenia                     zmiany                          zespół Raynauda      zmniejszenie
+naczyniowe                     ciśnienia                                            dystansu
+                               tętniczego                                           chromania
+                               związane ze                                          przestankowego
+                               zmianą
+                               pozycji ciała
+                               (bardzo
+                               rzadko
+                               z omdleniem
+                               )
+Zaburzenia                     duszność        skurcz          zapalenie błony
+układu                         podczas         oskrzeli        śluzowej nosa
+oddechowego,                   wysiłku
+klatki piersiowej
+i śródpiersia
+Zaburzenia                     nudności, ból   wymioty         suchość błony
+żołądka i jelit                brzucha,                        śluzowej jamy
+                               biegunka,                       ustnej
+                               zaparcie
+Zaburzenia                                                                          zapalenie wątroby
+wątroby i dróg
+żółciowych
+Zaburzenia                                     wysypka         wypadanie            nadwrażliwość na
+skóry i tkanki                                 (w postaci      włosów               światło,
+podskórnej                                     pokrzywki                            zaostrzenie
+                                               podobnej do                          łuszczycy
+                                               łuszczycy lub
+                                               zmian
+                                               dystroficznyc
+                                               h skóry),
+                                               nasilone
+                                               pocenie
+Zaburzenia                                     kurcze mięśni                        ból stawów
+mięśniowo-
+szkieletowe i
+tkanki łącznej
+Zaburzenia                                                     impotencja/
+układu                                                         zaburzenia libido
+rozrodczego i
+piersi
+Zaburzenia          zmęczenie uczucie          ból
+ogólne i stany w              ziębnięcia       zamostkowy,
+miejscu podania               rąk i stóp       obrzęk
+
+
+                                                                                                 7
+ Badania                                          zwiększenie     zwiększenie
+ diagnostyczne                                    masy ciała      aktywności
+                                                                  enzymów
+                                                                  wątrobowych,
+                                                                  dodatnie miano
+                                                                  przeciwciał
+                                                                  przeciwjądrowyc
+                                                                  h (niezwiązane
+                                                                  z toczniem
+                                                                  rumieniowatym
+                                                                  układowym)
+
+* Większa częstość występowania, o 0,4% w porównaniu z placebo, w badaniu z udziałem
+46000 pacjentów z ostrym zawałem mięśnia sercowego, w którym częstość wystąpienia wstrząsu
+kardiogennego wyniosła 2,3% w grupie przyjmującej metoprolol i 1,9% w grupie przyjmującej
+placebo, w podgrupie pacjentów z małym indeksem ryzyka wstrząsu. Indeks ryzyka wstrząsu
+określono na podstawie bezwzględnego ryzyka wstrząsu u poszczególnych pacjentów na podstawie
+wieku, płci, czasu opóźnienia, klasy Killipa, ciśnienia tętniczego, częstości akcji serca,
+nieprawidłowości w zapisie EKG oraz wcześniejszego wywiadu dotyczącego ciśnienia tętniczego.
+Grupa pacjentów z małym indeksem ryzyka wstrząsu odpowiada pacjentom, u których zaleca się
+stosowanie metoprololu w ostrym zawale mięśnia sercowego.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych.
+Al. Jerozolimskie 181C
+02-222 Warszawa
+tel.: +48 22 49 21 301
+fax.: +48 22 49 21 309
+Strona internetowa: https://smz.ezdrowie.gov.pl
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9   Przedawkowanie
+
+Objawy
+Objawy przedawkowania mogą obejmować niedociśnienie tętnicze, niewydolność serca, bradykardię
+oraz bradyarytmię, zaburzenia przewodzenia serca i skurcz oskrzeli.
+
+Leczenie
+Pomoc powinna być udzielana na oddziale, na którym można zastosować odpowiednie leczenie
+podtrzymujące, monitorowanie stanu pacjenta i nadzór nad pacjentem.
+
+W celu leczenia bradykardii i zaburzeń przewodzenia stosuje się atropinę, leki pobudzające receptory
+adrenergiczne lub rozrusznik serca.
+
+Niedociśnienie, ostrą niewydolność serca i wstrząs należy leczyć podając płyny zwiększające objętość
+wewnątrznaczyniową, glukagon we wstrzyknięciu (a następnie we wlewie dożylnym, jeśli jest to
+konieczne), podając dożylnie leki pobudzające receptory β1-adrenergiczne, takie jak dobutamina,
+a w razie wystąpienia rozszerzenia naczyń krwionośnych należy dodatkowo podać
+α1-adrenomimetyki. Można także rozważyć dożylne podanie jonów wapnia.
+Skurcz oskrzeli powinien ustąpić po zastosowaniu produktów leczniczych rozszerzających oskrzela.
+
+
+
+                                                                                                       8
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: wybiórcze beta-adrenolityki, kod ATC: C07AB02
+
+Metoprolol jest wybiórczym β1-adrenolitykiem. Oznacza to, że blokuje on znajdujące się w sercu
+receptory β1-adrenergiczne w dawce znacznie mniejszej niż wymagana do zablokowania receptorów
+β2-adrenergicznych w naczyniach obwodowych i oskrzelach.
+Metoprolol ma niewielkie działanie stabilizujące błonę komórkową i nie pobudza receptorów β-
+adrenergicznych. Leki β-adrenolityczne wykazują ujemne działanie inotropowe i chronotropowe.
+
+Metoprolol ogranicza lub hamuje działanie amin katecholowych na mięsień sercowy (uwalnianych
+podczas wysiłku fizycznego lub stresu). Oznacza to, że odruchowe zwiększenie częstości rytmu serca,
+pojemności minutowej serca, kurczliwości mięśnia sercowego i ciśnienia tętniczego spowodowane
+gwałtownym zwiększeniem stężenia amin katecholowych są zmniejszone przez metoprolol.
+
+Reakcja na stres, polegająca na rozszerzeniu łożyska naczyniowego pod wpływem adrenaliny
+uwolnionej z nadnerczy, nie jest znoszona przez zastosowanie metoprololu. W dawkach leczniczych
+metoprolol ma dużo mniejszy wpływ na skurcz mięśniówki oskrzeli w porównaniu do
+nieselektywnych β-adrenolityków. Metoprolol może być stosowany jednocześnie
+z β2-adrenomimetykami u pacjentów z astmą oskrzelową lub objawami przewlekłej obturacyjnej
+choroby płuc.
+
+Metoprolol w mniejszym stopniu niż nieselektywne β-adrenolityki wpływa na uwalnianie insuliny
+i metabolizm węglowodanów. W związku z tym może być stosowany u pacjentów z cukrzycą.
+Reakcja układu krążenia (np. przyspieszenie czynności serca) w przypadku wystąpienia hipoglikemii
+jest mniej nasilona u pacjentów zażywających metoprolol niż u pacjentów stosujących nieselektywne
+β-adrenolityki. Jednocześnie szybciej dochodzi do wyrównania stężenia glukozy w osoczu do wartości
+prawidłowych.
+
+U pacjentów z częstoskurczem nadkomorowym lub migotaniem przedsionków metoprolol spowalnia
+czynność komór.
+
+5.2   Właściwości farmakokinetyczne
+
+Wchłanianie i dystrybucja
+Po podaniu dożylnym metoprolol ulega szybkiej dystrybucji. Czas dystrybucji wynosi około 5 do
+10 minut. W zakresie dawek terapeutycznych (od 5 mg do 20 mg) stężenie metoprololu w surowicy
+jest proporcjonalne do zastosowanej dawki. Metoprolol wiąże się z białkami osocza w 5 do 10%.
+
+Metabolizm i eliminacja
+Metoprolol jest metabolizowany w wątrobie, głównie przez izoenzym CYP2D6, i wydalany przede
+wszystkim w postaci metabolitów. Okres półtrwania wynosi średnio 3,5 godziny (od 1 godziny do
+9 godzin). Zidentyfikowano trzy główne metabolity metoprololu, z których żaden nie wykazuje
+klinicznie istotnej aktywności β-adrenolitycznej. Szybkość metabolizmu jest zmienna osobniczo.
+U pacjentów z wolniejszym metabolizmem wątrobowym (około 10% populacji) dochodzi do
+zwiększenia stężenia metoprololu w osoczu i wolniejszej eliminacji jego metabolitów niż u pacjentów
+z szybszym metabolizmem wątrobowym. Jednak u poszczególnych pacjentów stężenie metoprololu
+w osoczu jest stabilne.
+
+Wydolność nerek w niewielkim stopniu wpływa na okres półtrwania metoprololu. W związku z tym
+nie ma konieczności modyfikowania dawki u pacjentów z zaburzeniami czynności nerek. Z reguły nie
+ma konieczności modyfikowania dawki u pacjentów z marskością wątroby. Jeśli występują objawy
+ciężkich zaburzeń czynności wątroby (np. u pacjentów po operacji zespolenia wrotno-czczego), należy
+rozważyć zmniejszenie dawki produktu leczniczego. Wiek pacjenta nie ma wpływu na
+farmakokinetykę metoprololu.
+
+                                                                                                  9
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+Brak danych, które miałyby znaczenie kliniczne.
+
+
+6.    DANE FARMACEUTYCZNE
+
+6.1   Wykaz substancji pomocniczych
+
+Sodu chlorek
+Woda do wstrzykiwań
+
+6.2   Niezgodności farmaceutyczne
+
+Produktu Metocard, roztwór do wstrzykiwań, nie należy mieszać z dekstranem.
+
+6.3   Okres ważności
+
+2 lata
+Roztwór rozcieńczony można przechowywać do 12 godzin w temperaturze do 25°C.
+
+6.4   Specjalne środki ostrożności podczas przechowywania
+
+Brak specjalnych zaleceń dotyczących przechowywania produktu leczniczego.
+Przechowywanie rozcieńczonego roztworu - patrz punkt 6.3.
+
+6.5   Rodzaj i zawartość opakowania
+
+Ampułka z bezbarwnego szkła (typu I).
+Opakowanie zawiera 5 ampułek po 5 ml w tekturowym pudełku.
+
+6.6   Specjalne środki ostrożności dotyczące usuwania i przygotowania produktu leczniczego do
+      stosowania
+
+Produkt Metocard jest roztworem gotowym do użycia.
+Produkt Metocard może być również mieszany z roztworami:
+-     0,9% roztworem sodu chlorku (9 mg/ml),
+-     15% roztworem mannitolu (150 mg/ml),
+-     10% roztworem glukozy (100 mg/ml),
+-     5% roztworem glukozy (50 mg/ml),
+-     roztworem Ringera.
+W 1000 ml roztworu można rozcieńczyć maksymalnie 40 mg metoprololu.
+Roztwór po rozcieńczeniu należy przechowywać w temperaturze do 25°C i zużyć w ciągu 12 godzin
+od jego sporządzenia.
+
+Ze względów mikrobiologicznych rozcieńczony produkt leczniczy należy zużyć natychmiast. Jeżeli
+nie zostanie podany natychmiast, za okres i warunki przechowywania odpowiedzialność ponosi
+użytkownik.
+
+Nie należy mieszać produktu Metocard z dekstranem.
+
+Wszelkie niewykorzystane resztki produktu leczniczego lub jego odpady należy usunąć zgodnie
+z lokalnymi przepisami
+
+
+
+
+                                                                                                 10
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+Zakłady Farmaceutyczne POLPHARMA S.A.
+ul. Pelplińska 19, 83-200 Starogard Gdański
+
+
+8.    NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr 23919
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 21.04.2017 r.
+Data ostatniego przedłużenia pozwolenia: 16.02.2022 r.
+
+
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+
+
+
+                                                                              11
+

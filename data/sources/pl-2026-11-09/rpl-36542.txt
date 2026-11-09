@@ -1,0 +1,1036 @@
+                      CHARAKTERYSTYKA PRODUKTU LECZNICZEGO
+
+
+1.    NAZWA PRODUKTU LECZNICZEGO
+
+Linezolid Eugia, 2 mg/mL, roztwór do infuzji
+
+
+2.    SKŁAD JAKOŚCIOWY I ILOŚCIOWY
+
+Każdy mL zawiera 2 mg linezolidu.
+Każdy worek infuzyjny o pojemności 300 mL zawiera 600 mg linezolidu.
+
+Substancja pomocnicza o znanym działaniu:
+
+1 mL roztworu do infuzji zawiera 45,7 mg glukozy oraz 0,38 mg sodu.
+300 mL roztworu do infuzji zawiera 13,7 g glukozy oraz 114 mg sodu.
+
+Pełny wykaz substancji pomocniczych, patrz punkt 6.1.
+
+
+3.    POSTAĆ FARMACEUTYCZNA
+
+Roztwór do infuzji.
+
+Izotoniczny, klarowny, bezbarwny do nieco żółtego roztwór, niezawierający widocznych cząstek, o
+pH w zakresie 4,4-5,2.
+
+
+4.    SZCZEGÓŁOWE DANE KLINICZNE
+
+4.1   Wskazania do stosowania
+
+Szpitalne zapalenie płuc
+Pozaszpitalne zapalenie płuc
+
+Linezolid Eugia jest wskazany w leczeniu pozaszpitalnego i szpitalnego zapalenia płuc u dorosłych,
+gdy znanym lub podejrzewanym patogenem są bakterie Gram-dodatnie. Przed podjęciem decyzji, czy
+zastosowanie linezolidu jest właściwe, należy wziąć pod uwagę wyniki badań mikrobiologicznych lub
+informację na temat występowania oporności na inne antybiotyki stosowane w leczeniu zakażeń
+wywołanych przez bakterie Gram-dodatnie (dane dotyczące określonych bakterii, patrz punkt 5.1).
+
+Linezolid Eugia nie jest skuteczny w leczeniu zakażeń wywołanych przez bakterie Gram-ujemne. Jeśli
+stwierdzi się lub podejrzewa, że zakażenie jest wywołane także przez bakterie Gram-ujemne należy
+koniecznie wdrożyć jednocześnie odpowiednie leczenie przeciwko tym bakteriom Gram-ujemnym.
+
+Powikłane zakażenia skóry i tkanek miękkich (patrz punkt 4.4)
+
+Linezolid Eugia jest wskazany w leczeniu powikłanych zakażeń skóry i tkanek miękkich u dorosłych
+tylko wtedy, gdy wyniki badań mikrobiologicznych potwierdziły, że zakażenie zostało wywołane
+przez wrażliwe bakterie Gram-dodatnie.
+
+Linezolid nie jest skuteczny w leczeniu zakażeń wywołanych przez bakterie Gram-ujemne.
+Linezolid Eugia można stosować u pacjentów z powikłanymi zakażeniami skóry i tkanek miękkich ze
+stwierdzonym lub podejrzewanym jednoczesnym zakażeniem bakteriami Gram-ujemnymi tylko
+
+                                                                                                   1
+wtedy, gdy nie są dostępne inne metody leczenia (patrz punkt 4.4). W takim wypadku należy
+koniecznie wdrożyć jednoczesne leczenie przeciw bakteriom Gram-ujemnym.
+
+Leczenie linezolidem należy rozpoczynać wyłącznie w warunkach szpitalnych i po konsultacji ze
+specjalistą w dziedzinie mikrobiologii lub chorób zakaźnych.
+
+Należy uwzględniać oficjalne zalecenia dotyczące właściwego stosowania leków
+przeciwbakteryjnych.
+
+4.2   Dawkowanie i sposób podawania
+
+Dawkowanie
+W leczeniu początkowym można zastosować Linezolid Eugia, 2 mg/mL, roztwór do infuzji. U
+pacjentów, u których leczenie rozpoczęto produktem podawanym pozajelitowo, można dokonać
+zmiany na doustną postać leku, jeśli jest to wskazane klinicznie. W takim wypadku modyfikacja
+dawki nie jest konieczna, gdyż biodostępność linezolidu po podaniu doustnym wynosi około 100%.
+
+Zalecane dawkowanie i czas trwania leczenia u dorosłych:
+Czas trwania leczenia zależy od rodzaju patogenu, umiejscowienia i ciężkości zakażenia oraz od
+uzyskanej odpowiedzi klinicznej pacjenta na leczenie.
+
+Przedstawione poniżej zalecenia dotyczące czasu trwania leczenia są zgodne z tymi, które stosowano
+podczas badań klinicznych. W niektórych rodzajach zakażeń krótsze leczenie może być wystarczające,
+jednak brak danych z badań klinicznych na ten temat.
+
+Maksymalny okres leczenia wynosi 28 dni. Nie ustalono bezpieczeństwa i skuteczności stosowania
+linezolidu podawanego dłużej niż przez 28 dni (patrz punkt 4.4).
+
+W zakażeniach ze współistniejącą bakteriemią nie ma konieczności zwiększania dawki ani wydłużania
+czasu leczenia.
+
+Zalecenia dotyczące dawkowania roztworu do infuzji są następujące:
+ Zakażenie                            Dawkowanie                         Czas trwania leczenia
+ Szpitalne zapalenie płuc             600 mg dwa razy na dobę            10-14 kolejnych dni
+ Pozaszpitalne zapalenie płuc
+ Powikłane zakażenia skóry i tkanek   600 mg dwa razy na dobę
+ miękkich
+
+Dzieci i młodzież:
+Nie ustalono bezpieczeństwa stosowania i skuteczności linezolidu u dzieci i młodzieży (w wieku < 18
+lat). Dostępne dane opisano w punktach 4.8, 5.1 i 5.2), ale nie było możliwe ustalenie zaleconego
+dawkowania linezolidu w tej grupie wiekowej.
+
+Osoby w podeszłym wieku
+Modyfikacja dawki nie jest konieczna.
+
+Zaburzenia czynności nerek
+Modyfikacja dawki nie jest konieczna (patrz punkty 4.4 i 5.2).
+
+Ciężka niewydolność nerek (tj. z klirensem kreatyniny < 30 mL/min):
+Modyfikacja dawki nie jest konieczna. Ze względu na nieznane znaczenie kliniczne zwiększonego
+narażenia (do 10 razy) na działanie dwóch głównych metabolitów linezolidu u pacjentów z ciężką
+niewydolnością nerek, linezolid należy stosować szczególnie ostrożnie i jedynie u tych pacjentów, u
+których przewidywana korzyść ze stosowania produktu przewyższa teoretyczne ryzyko.
+
+
+                                                                                                      2
+Ze względu na to, że około 30% dawki linezolidu usuwane jest z organizmu w ciągu 3 godzin
+hemodializy, u pacjentów dializowanych linezolid należy podawać po dializach. Główne metabolity
+linezolidu usuwane są częściowo metodą hemodializy, ale ich stężenia są nadal znacznie większe po
+dializie niż obserwowane u pacjentów z prawidłową czynnością nerek lub z lekką lub umiarkowaną
+niewydolnością nerek.
+
+Z tego względu u poddawanych dializie pacjentów z ciężką niewydolnością nerek linezolid należy
+stosować szczególnie ostrożnie i tylko wtedy, gdy przewidywana korzyść przewyższa teoretyczne
+ryzyko.
+
+Dotychczas nie ma danych dotyczących stosowania linezolidu u pacjentów poddawanych ciągłej
+ambulatoryjnej dializie otrzewnowej (ang. continuous ambulatory peritoneal dialysis, CAPD) lub
+innym niż hemodializa metodom leczenia niewydolności nerek.
+
+Zaburzenia czynności wątroby
+Modyfikacja dawki nie jest konieczna, jednak ze względu na ograniczoną liczbę danych klinicznych
+zaleca się stosowanie linezolidu u tych pacjentów tylko wtedy, gdy przewidywana korzyść przewyższa
+teoretyczne ryzyko (patrz punkty 4.4 i 5.2).
+
+Sposób podawania
+Zalecane dawki linezolidu należy podawać dożylnie dwa razy na dobę.
+
+Droga podania
+Podanie dożylne.
+
+Roztwór do infuzji należy podawać przez 30 do 120 minut.
+
+4.3   Przeciwwskazania
+
+Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w
+punkcie 6.1.
+
+Linezolidu nie należy stosować u pacjentów otrzymujących jakikolwiek inhibitor
+monoaminooksydazy typu A lub B (tj. fenelzyna, izokarboksazyd, selegilina, moklobemid) ani w
+ciągu dwóch tygodni po zakończeniu ich podawania.
+
+Linezolidu nie należy stosować u pacjentów z wymienionymi niżej chorobami podstawowymi lub
+otrzymujących jednocześnie wymienione rodzaje leków, chyba że możliwa jest ścisła obserwacja i
+monitorowanie ciśnienia tętniczego krwi pacjenta:
+-     nieleczone nadciśnienie tętnicze, guz chromochłonny nadnerczy, rakowiak, nadczynność
+      tarczycy, depresja w przebiegu choroby afektywnej dwubiegunowej, zaburzenia
+      schizoafektywne, ostre stany splątania;
+-     którykolwiek z następujących leków: inhibitory wychwytu zwrotnego serotoniny (patrz punkt
+      4.4), trójpierścieniowe leki przeciwdepresyjne, agoniści receptorów serotoninowych 5-HT1
+      (tryptany), bezpośrednio lub pośrednio działające sympatykomimetyki (w tym leki
+      rozszerzające oskrzela, pseudoefedryna i fenylopropanolamina), leki zwiększające napięcie
+      naczyń (np. adrenalina, noradrenalina), leki działające dopaminergicznie (np. dopamina,
+      dobutamina), petydyna lub buspiron.
+
+Wyniki badań przeprowadzonych na zwierzętach wskazują, że linezolid i jego metabolity mogą
+przenikać do mleka matki, dlatego przed rozpoczęciem przyjmowania leku należy przerwać karmienie
+piersią i nie karmić piersią podczas leczenia linezolidem (patrz punkt 4.6).
+
+4.4   Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania
+
+
+                                                                                                    3
+Zahamowanie czynności szpiku kostnego (mielosupresja)
+U pacjentów otrzymujących linezolid notowano zahamowanie czynności szpiku (w tym
+niedokrwistość, leukopenię, pancytopenię i małopłytkowość). W przypadkach, gdy znany był związek
+przyczynowy, po zakończeniu stosowania linezolidu zmienione wartości wskaźników
+hematologicznych powróciły do wartości sprzed leczenia. Wydaje się, że ryzyko tych działań ma
+związek z czasem trwania terapii. Ryzyko zaburzeń składu krwi podczas leczenia linezolidem jest
+większe u pacjentów w podeszłym wieku niż u pacjentów młodszych. Małopłytkowość może
+występować częściej u pacjentów z ciężką niewydolnością nerek, niezależnie od tego, czy są oni
+poddawani dializie, oraz u pacjentów z umiarkowanymi do ciężkich zaburzeń czynności wątroby.
+Dlatego ścisłe kontrolowanie liczby krwinek zaleca się u pacjentów ze stwierdzoną wcześniej
+niedokrwistością, granulocytopenią lub małopłytkowością, u pacjentów otrzymujących jednocześnie
+leki, które mogą zmniejszać stężenie hemoglobiny, liczbę krwinek lub niekorzystnie wpływać na
+liczbę albo czynność płytek krwi, u pacjentów z ciężką niewydolnością nerek lub z umiarkowanymi
+do ciężkich zaburzeń czynności wątroby oraz u pacjentów leczonych linezolidem dłużej niż 10 do 14
+dni. Linezolid można podawać tym pacjentom tylko wtedy, gdy możliwa jest ścisła kontrola stężenia
+hemoglobiny, liczby krwinek i płytek krwi.
+
+Jeśli podczas stosowania linezolidu nastąpi znaczne zahamowanie czynności szpiku, leczenie należy
+przerwać, chyba że jego kontynuacja jest bezwzględnie konieczna. W takim wypadku należy ściśle
+kontrolować morfologię krwi i wdrożyć odpowiednie postępowanie.
+
+Ponadto u pacjentów otrzymujących linezolid zaleca się cotygodniową kontrolę pełnej morfologii krwi
+(w tym oznaczenie stężenia hemoglobiny, liczby płytek krwi i liczby leukocytów z rozmazem), bez
+względu na początkową morfologię krwi.
+
+W badaniach obejmujących podawanie leku ze względów humanitarnych przed dopuszczeniem go do
+obrotu (ang. compassionate use), notowano zwiększoną częstość ciężkiej niedokrwistości u pacjentów,
+którzy otrzymywali linezolid dłużej niż przez maksymalnie zalecany czas 28 dni. U pacjentów tych
+częściej konieczne było przetaczanie krwi. Przypadki niedokrwistości, w których konieczne było
+przetaczanie krwi, opisywano również po wprowadzeniu linezolidu do obrotu, częściej u pacjentów
+otrzymujących linezolid przez ponad 28 dni.
+
+Po wprowadzeniu linezolidu do obrotu notowano przypadki niedokrwistości syderoblastycznej.
+Większość pacjentów, u których zaobserwowano pierwsze objawy, otrzymywała linezolid dłużej niż
+przez 28 dni. Po odstawieniu linezolidu u większości pacjentów niedokrwistość (leczona lub
+nieleczona) ustępowała całkowicie lub częściowo.
+
+Zmienna umieralność w badaniu klinicznym z udziałem pacjentów z zakażeniami krwi wywołanymi
+przez bakterie Gram-dodatnie, związanymi ze stosowaniem cewników dożylnych
+W otwartym badaniu klinicznym u ciężko chorych pacjentów z zakażeniami związanymi ze
+stosowaniem cewników dożylnych, obserwowano większą umieralność wśród pacjentów leczonych
+linezolidem niż u pacjentów leczonych wankomycyną, dikloksacyliną lub oksacyliną [78/363 (21,5%)
+vs. 58/363 (16,0%)].
+
+Głównym czynnikiem wpływającym na umieralność było występowanie zakażenia bakteriami Gram-
+dodatnimi na początku leczenia. Współczynniki umieralności były podobne u pacjentów z zakażeniem
+wywołanym wyłącznie przez bakterie Gram-dodatnie (iloraz szans 0,96; 95% przedział ufności: 0,58-
+1,59), ale były istotnie większe (p=0,0162) w grupie pacjentów przyjmujących linezolid, z dowolnym
+innym patogenem lub bez patogenu na początku leczenia (iloraz szans 2,48; 95% przedział ufności:
+1,38-4,46). Największa różnica występowała w czasie leczenia i w ciągu 7 dni po jego zakończeniu.
+W trakcie badania u większej liczby pacjentów w grupie otrzymującej linezolid rozwinęło się
+zakażenie bakteriami Gram-ujemnymi i większa ich liczba zmarła na skutek zakażeń wywołanych
+przez bakterie Gram-ujemne oraz zakażeń mieszanych. Dlatego w powikłanych zakażeniach skóry i
+tkanek miękkich linezolid można stosować u pacjentów ze stwierdzonym lub podejrzewanym
+jednoczesnym zakażeniem bakteriami Gram-ujemnymi wyłącznie wtedy, gdy nie są dostępne inne
+
+                                                                                                    4
+metody leczenia (patrz punkt 4.1). W takich wypadkach musi być rozpoczęte jednoczesne leczenie
+przeciw bakteriom Gram-ujemnym.
+
+Biegunka i zapalenie jelita grubego związane z antybiotykoterapią
+Podczas stosowania prawie każdego antybiotyku, w tym linezolidu, notowano występowanie biegunki
+i zapalenia jelita grubego, w tym rzekomobłoniastego zapalenia jelita grubego i biegunki związanej z
+zakażeniem Clostridium difficile. Jej nasilenie może sięgać od lekkiej biegunki do zakończonego
+zgonem zapalenia okrężnicy. Dlatego ważne jest, aby rozważyć takie rozpoznanie u pacjentów, u
+których ciężka biegunka wystąpi w trakcie lub po zastosowaniu linezolidu. W razie podejrzenia lub
+potwierdzenia związku biegunki lub zapalenia okrężnicy ze stosowaniem antybiotyku, należy
+natychmiast przerwać stosowania leku przeciwbakteryjnego (w tym linezolidu) i rozpocząć
+odpowiednie leczenie. W takiej sytuacji przeciwwskazane jest stosowanie leków hamujących
+perystaltykę jelit.
+
+Kwasica mleczanowa
+Podczas stosowania linezolidu notowano przypadki kwasicy mleczanowej. U pacjentów, u których
+podczas stosowania linezolidu rozwiną się przedmiotowe i podmiotowe objawy kwasicy
+metabolicznej, w tym nawracające nudności lub wymioty, bol brzucha, małe stężenie
+wodorowęglanów lub hiperwentylacja, konieczna jest natychmiastowa interwencja medyczna. Jeśli
+wystąpi kwasica mleczanowa, dalsze leczenie linezolidem należy uzależnić od oceny stosunku
+korzyści do ryzyka.
+
+Zaburzenia mitochondrialne
+Linezolid hamuje syntezę białek mitochondrialnych, w wyniku czego mogą wystąpić takie objawy
+niepożądane, jak kwasica mleczanowa, niedokrwistość i neuropatia (nerwu wzrokowego i obwodowa).
+Objawy te występują częściej, jeśli produkt leczniczy stosuje się dłużej niż przez 28 dni.
+
+Zespół serotoninowy
+W spontanicznych zgłoszeniach występował zespół serotoninowy związany z jednoczesnym
+stosowaniem linezolidu i produktów leczniczych o działaniu serotoninergicznym, w tym takich leków
+przeciwdepresyjnych, jak selektywne inhibitory wychwytu zwrotnego serotoniny (ang. Selective
+serotonin reuptake inhibitors, SSRI) i opioidów (patrz punkt 4.5). Dlatego przeciwwskazane jest
+jednoczesne stosowanie linezolidu i leków serotoninergicznych (patrz punkt 4.3), z wyjątkiem
+sytuacji, gdy jest to konieczne. Należy wówczas uważnie obserwować, czy u pacjenta nie występują
+objawy przedmiotowe i podmiotowe zespołu serotoninowego, takie jak zaburzenia funkcji
+poznawczych, hipertermia, wzmożenie odruchów i brak koordynacji. W razie ich wystąpienia lekarz
+powinien rozważyć odstawienie jednego lub obu leków. Po odstawieniu leku serotoninergicznego
+mogą wystąpić objawy z odstawienia.
+
+Hiponatremia i zespół nieprawidłowego wydzielania hormonu antydiuretycznego (ang. syndrome of
+inappropriate antidiuretic hormone secretion, SIADH)
+U niektórych pacjentów leczonych linezolidem obserwowano przypadki hiponatremii i (lub) zespołu
+nieprawidłowego wydzielania hormonu antydiuretycznego (SIADH). U pacjentów, u których
+występuje ryzyko hiponatremii, na przykład u pacjentów w podeszłym wieku lub przyjmujących leki,
+które mogą zmniejszać stężenie sodu we krwi (np. tiazydowe leki moczopędne, takie jak
+hydrochlorotiazyd), zaleca się regularne kontrolowanie stężenia sodu w surowicy.
+
+Neuropatia obwodowa i neuropatia nerwu wzrokowego
+U pacjentów leczonych linezolidem notowano przypadki neuropatii obwodowej, a także neuropatii
+nerwu wzrokowego i zapalenia nerwu wzrokowego, czasem postępującej do utraty wzroku.
+Doniesienia te dotyczyły głownie pacjentów leczonych dłużej niż przez zalecany czas 28 dni.
+
+Należy zalecać każdemu pacjentowi, aby zgłaszał objawy pogorszenia widzenia, takie jak zmiana
+ostrości widzenia, zmiana widzenia barw, niewyraźne widzenie lub ubytki w polu widzenia. W takich
+wypadkach zaleca się bezzwłoczne skierowanie pacjenta na badanie okulistyczne. Jeśli pacjent
+
+                                                                                                    5
+otrzymuje linezolid dłużej niż przez zalecane 28 dni, należy regularnie kontrolować u niego czynność
+narządu wzroku.
+
+W razie wystąpienia neuropatii obwodowej lub neuropatii nerwu wzrokowego, dalsze leczenie
+linezolidem należy uzależnić od oceny ryzyka.
+
+Zwiększone ryzyko neuropatii może występować podczas stosowania linezolidu u pacjentów z
+gruźlicą, którzy obecnie lub niedawno otrzymywali leki przeciw mykobakteriom.
+
+Drgawki
+U pacjentów leczonych linezolidem notowano występowanie drgawek. W większości przypadków
+stwierdzono występowanie w przeszłości drgawek lub czynników ryzyka. Lekarz powinien zapytać
+pacjenta, czy w przeszłości nie występowały u niego drgawki.
+
+Inhibitory monoaminooksydazy
+Linezolid jest odwracalnym, niewybiórczym inhibitorem monoaminooksydazy (IMAO), ale w
+dawkach stosowanych w leczeniu przeciwbakteryjnym nie działa przeciwdepresyjnie. Dostępne są
+bardzo ograniczone dane z badań nad interakcjami leków i bezpieczeństwem stosowania linezolidu u
+pacjentów z innymi chorobami i (lub) przyjmujących jednocześnie leki, które mogą stwarzać ryzyko
+związane z hamowaniem MAO. Dlatego w takich sytuacjach nie zaleca się stosowania linezolidu,
+chyba że możliwa jest ścisła obserwacja i kontrolowanie stanu pacjenta (patrz punkty 4.3 i 4.5).
+
+Stosowanie z pokarmami bogatymi w tyraminę
+Należy poinformować pacjenta, że podczas stosowania linezolidu konieczne jest ograniczenie
+spożycia pokarmów bogatych w tyraminę (patrz punkt 4.5).
+
+Nadkażenie
+W badaniach klinicznych nie oceniano wpływu linezolidu na prawidłową florę bakteryjną. Stosowanie
+antybiotyków może niekiedy powodować nadmierne namnożenie niewrażliwych drobnoustrojów. Na
+przykład w czasie badań klinicznych u około 3% pacjentów przyjmujących zalecone dawki linezolidu
+wystąpiła kandydoza związana ze stosowaniem leku. Jeśli w trakcie stosowania linezolidu wystąpi
+nadkażenie, należy zastosować odpowiednie leczenie.
+
+Szczególne grupy pacjentów
+U pacjentów z ciężką niewydolnością nerek linezolid należy stosować ze szczególną ostrożnością i
+tylko wtedy, gdy przewidywana korzyść przewyższa teoretyczne ryzyko (patrz punkty 4.2 i 5.2). U
+pacjentów z ciężką niewydolnością wątroby linezolid należy stosować jedynie wtedy, gdy
+przewidywana korzyść przewyższa teoretyczne ryzyko (patrz punkty 4.2 i 5.2).
+
+Zaburzenia płodności
+Linezolid przemijająco zmniejszał płodność i powodował nieprawidłową morfologię plemników u
+dorosłych samców szczurów narażonych na działanie linezolidu w stopniu podobnym do
+występującego u ludzi. Wpływ linezolidu na męski układ rozrodczy u ludzi nie jest znany (patrz punkt
+5.3).
+
+Badania kliniczne
+Nie określono bezpieczeństwa stosowania ani skuteczności linezolidu podawanego dłużej niż przez 28
+dni.
+
+Kontrolowane badania kliniczne nie obejmowały pacjentów ze stopą cukrzycową, odleżynami,
+zmianami spowodowanymi niedokrwieniem, ciężkimi oparzeniami lub zgorzelą. Dlatego
+doświadczenie dotyczące stosowania linezolidu w takich przypadkach jest ograniczone.
+
+Substancje pomocnicze
+
+
+                                                                                                       6
+Każdy mL roztworu zawiera 45,7 mg glukozy (tj. 13,7 g w 300 mL roztworu). Należy to uwzględnić u
+pacjentów z cukrzycą lub z innymi chorobami związanymi z nietolerancją glukozy. Każdy mL
+roztworu zawiera również 0,38 mg sodu (tj. 114 mg w 300 mL roztworu). Należy to uwzględnić u
+pacjentów kontrolujących zawartość sodu w diecie.
+
+4.5   Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji
+
+Inhibitory monoaminooksydazy
+Linezolid jest odwracalnym, niewybiórczym inhibitorem monoaminooksydazy (IMAO). Istnieją
+jedynie ograniczone dane z badań interakcji leków i bezpieczeństwa stosowania linezolidu u
+pacjentów przyjmujących jednocześnie leki, które mogą stwarzać ryzyko wynikające z hamowania
+MAO. Nie zaleca się wówczas stosowania linezolidu, chyba że możliwa jest ścisła obserwacja i
+kontrolowanie stanu pacjenta (patrz punkty 4.3 i 4.4).
+
+Interakcje, które mogą spowodować zwiększenie ciśnienia tętniczego
+U zdrowych ochotników z prawidłowym ciśnieniem tętniczym linezolid nasilał wzrost ciśnienia
+tętniczego spowodowanego przez pseudoefedrynę i chlorowodorek fenylopropanolaminy.
+Jednoczesne stosowanie linezolidu z pseudoefedryną lub fenylopropanolaminą powodowało
+zwiększenie ciśnienia skurczowego średnio o 30-40 mmHg w porównaniu ze zwiększeniem o 11-15
+mmHg po podaniu samego linezolidu, o 14-18 mmHg po podaniu samej pseudoefedryny lub
+fenylopropanolaminy i o 8-11 mmHg po zastosowaniu placebo. Nie przeprowadzono podobnych
+badań u osób z nadciśnieniem tętniczym. Zaleca się stopniowe dostosowywanie dawki leków
+działających wazopresyjnie (w tym leków działających na receptory dopaminergiczne) podczas ich
+jednoczesnego stosowania z linezolidem.
+
+Interakcje serotoninergiczne
+U zdrowych ochotników badano możliwość interakcji między linezolidem a dekstrometorfanem.
+Badani otrzymywali dekstrometorfan (2 dawki po 20 mg podane z 4-godzinną przerwą) z linezolidem
+lub bez niego. U zdrowych osób otrzymujących linezolid i dekstrometorfan nie obserwowano
+objawów zespołu serotoninowego (tj. splątanie, majaczenie, niepokój, drżenie, zaczerwienienie
+twarzy, zwiększona potliwość i wysoka gorączka).
+
+Po wprowadzeniu linezolidu do obrotu odnotowano jeden przypadek wystąpienia objawów podobnych
+do zespołu serotoninowego po jednoczesnym podaniu linezolidu i dekstrometorfanu. Objawy te
+ustąpiły po odstawieniu obu leków.
+
+Podczas stosowania linezolidu w praktyce klinicznej z lekami serotoninergicznmi, w tym z lekami
+przeciwdepresyjnymi z grupy selektywnych inhibitorów wychwytu zwrotnego serotoniny i opioidów,
+notowano przypadki zespołu serotoninowego. Dlatego jednoczesne ich podawanie jest
+przeciwwskazane (patrz punkt 4.3). Postępowanie z pacjentami, u których konieczne jest jednoczesne
+podawanie linezolidu i leków serotoninergicznych, opisano w punkcie 4.4.
+
+Stosowanie z pokarmami bogatymi w tyraminę
+U pacjentów otrzymujących razem linezolid i tyraminę w dawce mniejszej niż 100 mg nie
+obserwowano istotnego zwiększenia ciśnienia tętniczego. Świadczy to o tym, że należy jedynie unikać
+spożywania nadmiernych ilości pokarmów i napojów o dużej zawartości tyraminy (tj. dojrzałe sery,
+wyciągi z drożdży, niedestylowane napoje alkoholowe i produkty uzyskiwane z fermentacji nasion
+soi, np. sos sojowy).
+
+Leki metabolizowane przez cytochrom P450
+Linezolid nie jest w wykrywalnym stopniu metabolizowany przez układ enzymatyczny cytochromu
+P450 (CYP) i nie hamuje aktywności żadnego z istotnych klinicznie ludzkich izoenzymów CYP (1A2,
+2C9, 2C19, 2D6, 2E1, 3A4). Podobnie linezolid nie indukuje izoenzymów cytochromu P450 u
+szczurów. Dlatego nie są spodziewane interakcje lekowe linezolidu związane z aktywnością CYP450.
+
+
+                                                                                                     7
+Ryfampicyna
+Wpływ ryfampicyny na farmakokinetykę linezolidu był badany u szesnastu ochotników – zdrowych
+mężczyzn, którym podawano 600 mg linezolidu 2 razy na dobę przez 2,5 dnia lub linezolid wraz z 600
+mg ryfampicyny podawanej raz na dobę przez 8 dni. Ryfampicyna zmniejszała wartości Cmax i AUC
+linezolidu średnio o odpowiednio 21% [90% CI, 15, 27] i 32% [90% CI, 27, 37]. Mechanizm tej
+interakcji i jej znaczenie kliniczne są nieznane.
+
+Warfaryna
+Jeśli podczas leczenia linezolidem, po osiągnięciu jego stężenia stacjonarnego pacjentowi podawano
+warfarynę, prowadziło to do zmniejszenia średniej maksymalnej wartości INR (międzynarodowego
+współczynnika znormalizowanego) o10% i zmniejszenia wartości AUC dla INR o 5%. Nie ma
+wystarczających danych, aby określić ewentualne znaczenie kliniczne tych obserwacji.
+
+4.6   Wpływ na płodność, ciążę i laktację
+
+Ciąża
+Istnieją ograniczone dane dotyczące stosowania linezolidu u kobiet w ciąży. Badania na zwierzętach
+wykazały toksyczny wpływ linezolidu na reprodukcję (patrz punkt 5.3). Występuje ryzyko podczas
+stosowania linezolidu u ludzi.
+
+Linezolidu nie należy stosować w okresie ciąży, chyba że jest to bezwzględnie konieczne, to znaczy
+tylko wtedy, gdy spodziewana korzyść przewyższa teoretyczne ryzyko.
+
+Karmienie piersią
+Badania na zwierzętach wskazują, że linezolid i jego metabolity mogą przenikać do mleka matki,
+dlatego przed rozpoczęciem i podczas leczenia linezolidem należy przerwać karmienie piersią.
+
+Płodność
+W badaniach na zwierzętach linezolid powodował zmniejszenie płodności (patrz punkt 5.3).
+
+4.7   Wpływ na zdolność prowadzenia pojazdów i obsługiwania maszyn
+
+Należy ostrzec pacjenta, że podczas leczenia linezolidem mogą wystąpić zawroty głowy lub
+zaburzenia widzenia (jak opisano w punktach 4.4 i 4.8) i że nie należy prowadzić pojazdów ani
+obsługiwać maszyn, gdy wystąpi którykolwiek z tych objawów.
+
+4.8   Działania niepożądane
+
+W tabeli poniżej wymieniono działania niepożądane wraz z częstością ich występowania, na
+podstawie danych dotyczących działań niepożądanych, niezależnie od tego czy ustalono ich związek
+przyczynowo-skutkowy ze stosowaniem produktu leczniczego, zebranych podczas badań klinicznych
+przeprowadzonych z udziałem ponad 6000 dorosłych pacjentów, którzy otrzymywali linezolid w
+zalecanych dawkach przez okres nie dłuższy niż 28 dni.
+
+Najczęściej zgłaszane działania niepożądane to biegunka (8,9%), nudności (6,9%), wymioty (4,3%) i
+ból głowy (4,2%).
+
+Najczęściej opisywanymi działaniami niepożądanymi, które były przyczyną przerwania leczenia, były:
+bole głowy, biegunka, nudności i wymioty. Około 3% pacjentów przerwało leczenie z powodu
+wystąpienia działań niepożądanych związanych ze stosowaniem linezolidu.
+
+Dodatkowe działania niepożądane zgłaszane po wprowadzeniu linezolidu do obrotu umieszczono w
+poniższej tabeli w kategorii „częstość nieznana”, ponieważ rzeczywista częstość ich występowania nie
+może być obecnie określona na podstawie dostępnych danych.
+
+
+                                                                                                     8
+ Podczas leczenia linezolidem obserwowano poniższe działania niepożądane zgłaszane z następującą
+ częstością: bardzo często (≥ 1/10), często (≥ 1/100 do < 1/10), niezbyt często (≥ 1/1 000 do < 1/100),
+ rzadko (≥ 1/10 000 do < 1/1 000), bardzo rzadko (< 1/10 000), częstość nieznana (nie może być
+ określona na podstawie dostępnych danych).
+
+Klasyfikacja         Kategoria częstotliwości
+układów              Często               Niezbyt często         Rzadko               Częstość nieznana
+i narządów           (≥ 1/100 do < 1/10) (≥ 1/1 000              (≥ 1/10 000          (nie może być
+                                          do < 1/100)            do < 1/1 000)        określona na
+                                                                                      podstawie
+                                                                                      dostępnych
+                                                                                      danych)
+Zakażenia i          Kandydoza,             Poantybiotykowe
+zarażenia            kandydoza jamy         zapalenie
+pasożytnicze         ustnej, kandydoza      okrężnicy, w tym
+                     pochwy, zakażenia      rzekomobłoniaste
+                     grzybicze              zapalenie
+                                            okrężnicy*,
+                                            zapalenie pochwy
+Zaburzenia krwi      Małopłytkowość*,       Pancytopenia*,       Niedokrwistość       Zahamowanie
+i układu             niedokrwistość*†       leukopenia*,         syderoblastyczna*    czynności szpiku
+chłonnego                                   neutropenia,                              kostnego*
+                                            eozynofilia
+Zaburzenia                                                       Anafilaksja
+układu
+immunologicznego
+Zaburzenia                                  Hiponatremia         Kwasica
+metabolizmu                                 hipoglikemia         mleczanowa*
+i odżywiania
+Zaburzenia           Bezsenność
+psychiczne
+Zaburzenia           Bóle głowy,            Drgawki*,                                 Zespoł
+układu               zaburzenia smaku       neuropatia                                serotoninowy**
+nerwowego            (metaliczny            obwodowa*
+                     posmak w ustach),      niedoczulica,
+                     zawroty głowy          parestezje
+Zaburzenia oka                              Neuropatia nerwu     Zmiana pola          Zapalenie nerwu
+                                            wzrokowego*,         widzenia*            wzrokowego*,
+                                            Niewyraźne                                utrata widzenia*,
+                                            widzenie*                                 zmiana ostrości
+                                                                                      widzenia*, zmiana
+                                                                                      widzenia barw*
+Zaburzenia ucha i                           Szumy uszne
+błędnika
+Zaburzenia serca                            Zaburzenia rytmu
+                                            serca
+                                            (tachykardia)
+Zaburzenia           Nadciśnienie           Przemijające
+naczyniowe           tętnicze               napady
+                                            niedokrwienne
+                                            zapalenie żył,
+                                            zakrzepowe
+                                            zapalenie żył
+Zaburzenia           Biegunka,              Zapalenie            Powierzchowne
+
+                                                                                                          9
+żołądka i jelit     nudności, wymioty,    trzustki, zapalenie   przebarwienia
+                    miejscowy lub         błony śluzowej        zębów, objaw
+                    uogólniony ból        żołądka, wzdęcia      czarnego
+                    brzucha, zaparcie,    brzucha, suchość      włochatego
+                    niestrawność          w jamie ustnej,       języka
+                                          luźne stolce,
+                                          przebarwienia lub
+                                          zmiany w obrębie
+                                          języka
+Zaburzenia          Nieprawidłowe         Zwiększone
+wątroby i           wyniki badań          stężenie
+dróg żółciowych     czynności wątroby,    bilirubiny
+                    zwiększona            całkowitej
+                    aktywność AspAT,
+                    AlAT lub fosfatazy
+                    zasadowej
+Zaburzenia skory    Świąd, wysypka        Obrzęk                Toksyczne           Łysienie
+i tkanki                                  naczynioruchowy,      martwicze
+podskórnej                                pokrzywka,            oddzielanie się
+                                          pęcherzowe            naskórka#, zespół
+                                          zapalenie skóry,      Stevensa-
+                                          obfite pocenie się    Johnsona#,
+                                                                zapalenie naczyń
+                                                                wywołane
+                                                                nadwrażliwością
+Zaburzenia nerek    Zwiększone            Niewydolność
+i dróg moczowych    stężenie azotu        nerek, wielomocz,
+                    mocznikowego          zwiększone
+                    (BUN)                 stężenie
+                                          kreatyniny
+Zaburzenia                                Zaburzenia
+układu                                    w obrębie pochwy
+rozrodczego i                             i sromu
+piersi
+Zaburzenia ogólne   Gorączka,             Dreszcze, uczucie
+i stany w miejscu   zlokalizowany ból     zmęczenia, ból
+podania                                   w miejscu
+                                          wstrzyknięcia,
+                                          zwiększone
+                                          pragnienie
+Badania             Parametry             Parametry
+diagnostyczne       biochemiczne          biochemiczne
+                    Zwiększona            Zwiększone
+                    aktywność LDH,        stężenie sodu lub
+                    kinazy                wapnia.
+                    kreatynowej,          Zmniejszone
+                    lipazy, amylazy       stężenie glukozy
+                    lub stężenia          po posiłku.
+                    glukozy po posiłku.   Zwiększone lub
+                    Zmniejszone           zmniejszone
+                    stężenie białka       stężenie
+                    całkowitego,          chlorków.
+                    albuminy, sodu lub
+                    wapnia.
+                    Zwiększone lub
+                                                                                               10
+                     zmniejszone
+                     stężenie potasu lub
+                     wodorowęglanów.
+                     Parametry             Parametry
+                     hematologiczne        hematologiczne
+                     Zwiększona liczba     Zwiększona
+                     neutrofilów lub       liczba
+                     eozynofilów.          retikulocytów.
+                     Zmniejszone           Zmniejszona
+                     stężenie              liczba
+                     hemoglobiny,          neutrofilów.
+                     wartości
+                     hematokrytu lub
+                     liczby krwinek
+                     czerwonych.
+                     Zwiększona lub
+                     zmniejszona liczba
+                     płytek krwi lub
+                     krwinek białych.
+*
+      Patrz punkt 4.4.
+**
+      Patrz punkty 4.3 i 4.5
+#
+      Częstość występowania działań niepożądanych oszacowano z zastosowaniem „reguły trzech”
+      Hanley’a (ang. rule of three).
+†
+      Patrz niżej
+
+W rzadkich przypadkach następujące działania niepożądane linezolidu uznano za ciężkie:
+umiejscowiony bol brzucha, przemijające napady niedokrwienne i nadciśnienie tętnicze.
+†
+  W kontrolowanych badaniach klinicznych, w których linezolid podawano przez okres do 28 dni,
+niedokrwistość stwierdzono u 2,0% pacjentow. W programie z zastosowaniem leku ze względów
+humanitarnych przed dopuszczeniem do obrotu u pacjentów z zagrażającymi życiu zakażeniami i ze
+współistniejącymi chorobami, odsetek pacjentów, którzy otrzymywali linezolid przez ≤ 28 dni i u
+których wystąpiła niedokrwistość, wyniósł 2,5% (33/1326) w porównaniu z 12,3% (53/430) pacjentów
+leczonych przez ≤ 28 dni. Związana z leczeniem linezolidem ciężka niedokrwistość, powodująca
+konieczność przetoczenia krwi, wystąpiła u 9% (3/33) pacjentów leczonych przez okres do 28 dni i u
+15% (8/53) pacjentów leczonych przez ponad 28 dni.
+
+Dzieci i młodzież:
+Dane dotyczące bezpieczeństwa stosowania, pochodzące z badań klinicznych u ponad 500 pacjentów
+pediatrycznych (w wieku od urodzenia do 17 lat) nie wskazują, aby profil bezpieczeństwa w grupie
+dzieci i młodzieży różnił się od profilu bezpieczeństwa u pacjentów dorosłych.
+
+Zgłaszanie podejrzewanych działań niepożądanych
+Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań
+niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania
+produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać
+wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania
+Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych,
+Wyrobów Medycznych i Produktów Biobójczych, Al. Jerozolimskie 181C, 02-222 Warszawa,
+tel.: + 48 22 49 21 301, faks: + 48 22 49 21 309, strona internetowa: https://smz.ezdrowie.gov.pl
+
+Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.
+
+4.9     Przedawkowanie
+
+
+                                                                                                    11
+Nie jest znana specyficzna odtrutka.
+
+Nie opisano żadnego przypadku przedawkowania linezolidu. Poniższe informacje mogą jednak być
+użyteczne w postępowaniu po przedawkowaniu. Zaleca się stosowanie leczenia podtrzymującego
+czynności życiowe i utrzymywanie przesączania kłębuszkowego.
+
+Około 30% dawki linezolidu jest usuwane z organizmu w ciągu 3-godzinnej hemodializy, ale nie ma
+danych na temat usuwania linezolidu metodą dializy otrzewnowej lub hemoperfuzji. Dwa główne
+metabolity linezolidu są również w pewnym stopniu usuwane metodą hemodializę.
+
+Objawami toksyczności linezolidu u szczurów po podawaniu dawek 3000 mg/kg mc./dobę było
+zmniejszenie aktywności i ataksja, a u psów po dawkach 2000 mg/kg mc./dobę występowały wymioty
+i drżenia.
+
+
+5.    WŁAŚCIWOŚCI FARMAKOLOGICZNE
+
+5.1   Właściwości farmakodynamiczne
+
+Grupa farmakoterapeutyczna: inne leki przeciwbakteryjne.
+Kod ATC: J01XX08
+
+Ogólne właściwości
+Linezolid jest syntetycznym lekiem przeciwbakteryjnym z nowej grupy leków
+przeciwdrobnoustrojowych - oksazolidynonów. W warunkach in vitro działa na tlenowe bakterie
+Gram-dodatnie i drobnoustroje beztlenowe. Wyjątkowy mechanizm działania linezolidu prowadzi do
+wybiorczego hamowania syntezy białka bakteryjnego. Linezolid wiąże się z określonymi miejscami
+na rybosomie bakteryjnym (23S podjednostki 50S), uniemożliwiając powstanie czynnego kompleksu
+inicjującego 70S o podstawowym znaczeniu dla procesu translacji.
+
+Efekt poantybiotykowy (ang. postantibiotic effect, PAE) linezolidu w odniesieniu do Staphylococcus
+aureus w warunkach in vitro utrzymywał się około 2 godzin. Na modelach zwierzęcych in vivo efekt
+poantybiotykowy linezolidu utrzymywał się 3,6 godziny dla Staphylococcus aureus i 3,9 godziny dla
+Streptococcus pneumoniae. W badaniach na zwierzętach kluczowym parametrem
+farmakodynamicznym określającym skuteczność linezolidu był czas, w którym jego stężenie w osoczu
+przekraczało wartość minimalnego stężenia hamującego (MIC) wobec drobnoustrojów wywołujących
+zakażenie.
+
+Stężenia graniczne
+Graniczne wartości MIC wg EUCAST (Europejski Komitet ds. Badania Wrażliwości na Leki
+Przeciwdrobnoustrojowe) dla gronkowców, enterokoków i paciorkowców:
+
+EUCAST kliniczne wartości graniczne MIC dla linezolidu (2017-03-13, v 7.1)
+                                                                   wrażliwe          oporne
+ Enterococcus spp.                                                 ≤ 4 mg/L          > 4 mg/L
+ Staphylococcus spp.                                               ≤ 4 mg/L          > 4 mg/L
+ Streptococcus grupy A, B, C i G                                   ≤ 2 mg/L          > 4 mg/L
+ Streptococcus pneumoniae                                          ≤ 2 mg/L          > 4 mg/L
+ Stężenia graniczne (MIC) nieodnoszące się do konkretnego gatunku* ≤ 2 mg/L          > 4 mg/L
+
+*Stężenia graniczne nieodnoszące się do konkretnego gatunku ustalono głównie na podstawie danych
+dotyczących PK/PD i nie zależą od występowania MIC poszczególnych gatunków. Są one
+przeznaczone do stosowania wyłącznie w przypadku drobnoustrojów, dla których nie ustalono
+swoistych stężeń granicznych. Nie wolno wykorzystywać ich w przypadku gatunków, dla których nie
+zaleca się oznaczania wrażliwości.
+                                                                                                12
+Wrażliwość
+Rozpowszechnienie nabytej oporności wybranych gatunków drobnoustrojów może się różnić w
+zależności od lokalizacji geograficznej i czasu. Do oceny oporności konieczne są dane lokalne,
+zwłaszcza w przypadku leczenia ciężkich zakażeń. W razie konieczności, jeżeli częstość
+występowania oporności na danym obszarze jest tak duża, że przydatność leku (przynajmniej w
+niektórych rodzajach zakażeń) może budzić wątpliwości, należy zasięgnąć porady eksperta.
+
+ Kategoria
+ Drobnoustroje wrażliwe
+ Bakterie tlenowe Gram-dodatnie:
+ Enterococcus faecalis
+ Enterococcus faecium*
+ Staphylococcus aureus*
+ Gronkowce koagulazo-ujemne
+ Streptococcus agalactiae*
+ Streptococcus pneumoniae*
+ Streptococcus pyogenes*
+ Paciorkowce grupy C
+ Paciorkowce grupy G
+
+  Bakterie beztlenowe Gram-
+  dodatnie:
+  Clostridium perfringens
+  Peptostreptococcus anaerobius
+  Peptostreptococcus spp.
+  Drobnoustroje oporne
+  Haemophilus influenzae
+  Moraxella catarrhalis
+  Neisseria spp.
+  Enterobacteriaceae
+  Pseudomonas spp.
+*
+  Skuteczność kliniczną wykazano w stosunku do szczepów wrażliwych, które wyizolowano w
+zakażeniach zgodnych z zatwierdzonymi wskazaniami klinicznymi.
+W badaniach in vitro linezolid wykazał działanie na Legionella, Chlamydia pneumoniae i Mycoplasma
+pneumoniae, brak wystarczających danych potwierdzających skuteczność kliniczną.
+
+Oporność
+Oporność krzyżowa
+Mechanizm działania linezolidu rożni się od mechanizmu działania innych grup antybiotyków.
+Badania in vitro ze szczepami wyizolowanymi z materiału klinicznego (w tym z gronkowcami
+opornymi na metycylinę, enterokokami opornymi na wankomycynę oraz paciorkowcami opornymi na
+penicylinę i erytromycynę) wskazują, że linezolid działa zwykle na drobnoustroje oporne na inne
+antybiotyki z jednej lub z kilku grup.
+
+Oporność na linezolid jest związana z mutacjami punktowymi w podjednostce 23S rRNA.
+
+Podobnie jak udokumentowano to w przypadku innych antybiotyków, po stosowaniu linezolidu u
+pacjentów z trudnymi do wyleczenia zakażeniami i (lub) leczonych przez dłuższy czas, obserwowano
+zmniejszanie się wrażliwości. Stwierdzano oporność na linezolid enterokoków, Staphylococcus aureus
+i gronkowców koagulazo-ujemnych. Na ogół wiązała się ona z wydłużonym okresem leczenia i
+obecnością materiałów protetycznych lub niedrenowanych ropni. W przypadku występowania w
+szpitalu mikroorganizmów opornych na antybiotyki konieczne jest ścisłe przestrzeganie zasad
+ograniczania zakażeń.
+
+
+                                                                                                 13
+Informacje z badań klinicznych
+Badania u dzieci i młodzieży:
+W otwartym badaniu klinicznym porównano skuteczność linezolidu (10 mg/kg mc. co 8 h) i
+wankomycyny (10-15 mg/kg mc. co 6-24 h) w leczeniu zakażeń wywołanych przez Gram-dodatnie
+szczepy o potwierdzonej lub podejrzewanej oporności (w tym szpitalnego zapalenia płuc,
+powikłanych zakażeń skóry i tkanki podskórnej, bakteriemii związanej ze stosowaniem cewników,
+bakteriemii o nieznanym podłożu oraz innych zakażeń) u dzieci w wieku od urodzenia do 11 lat.
+Odsetek wyleczeń w populacji kwalifikującej się do oceny klinicznej wyniósł 89,3% (134/150) w
+grupie linezolidu i 84,5% (60/71) w grupie wankomycyny (95% CI: -4,9, 14,6).
+
+5.2   Właściwości farmakokinetyczne
+
+Linezolid składa się głownie z (s)-linezolidu, który jest biologicznie czynny i jest metabolizowany do
+nieaktywnych pochodnych.
+
+Wchłanianie
+Linezolid jest szybko i w znacznym stopniu wchłaniany po podaniu doustnym. Maksymalne stężenia
+w osoczu uzyskuje w ciągu 2 godzin po podaniu linezolidu. Bezwzględna biodostępność po podaniu
+doustnym (dawkowanie doustne i dożylne w krzyżowym badaniu) jest całkowita (około 100%).
+Pokarm nie wpływa znacząco na wchłanianie linezolidu, a wchłanianie linezolidu po jego podaniu w
+zawiesinie doustnej jest podobne do wchłaniania po podaniu linezolidu w tabletkach powlekanych.
+
+Średnie wartości Cmax i Cmin oraz odchylenie standardowe [OS] w stanie stacjonarnym po dożylnym
+podawaniu linezolidu w dawce 600 mg dwa razy na dobę, wynoszą odpowiednio 15,1 [2,5] mg/L i
+3,68 [2,68] mg/L.
+
+W innym badaniu wartości Cmax i Cmin po doustnym podawaniu linezolidu w dawce 600 mg dwa razy
+na dobę wyniosły odpowiednio 21,2 [5,8] mg/L i 6,15 [2,94] mg/L. Stan stacjonarny ustala się do
+drugiego dnia podawania leku.
+
+Dystrybucja
+Objętość dystrybucji w stanie stacjonarnym u zdrowych dorosłych wynosi średnio około 40-50 litrów,
+co w przybliżeniu odpowiada całkowitej objętości wody w organizmie. Stopień wiązania z białkami
+osocza wynosi około 31% i nie zależy od stężenia.
+
+W badaniach z udziałem ograniczonej liczby ochotników ustalono stężenia linezolidu w rożnych
+płynach ustrojowych po podaniu wielokrotnym. Stosunek stężeń linezolidu w ślinie i w pocie do
+stężenia w osoczu wynosił, odpowiednio, 1,2:1,0 i 0,55:1,0. Stosunek stężeń linezolidu w płynie
+nabłonka wyściółkowego i komórek pęcherzyków płucnych do stężenia w osoczu, wyznaczony na
+podstawie wartości Cmax w stanie stacjonarnym, wynosił, odpowiednio, 4,5:1,0 i 0,15:1,0. W małym
+badaniu z udziałem pacjentów z wodogłowiem, z założonymi zastawkami komorowo-otrzewnowymi i
+z zasadniczo niezmienionymi zapalnie oponami mózgowymi, stosunek stężenia linezolidu w płynie
+mózgowo-rdzeniowym do stężenia w osoczu (przy Cmax po podaniu wielokrotnym) wynosił 0,7:1,0.
+
+Metabolizm
+Linezolid jest metabolizowany przede wszystkim w wyniku utleniania pierścienia morfolinowego, co
+prowadzi głownie do powstania dwóch nieaktywnych pochodnych – kwasów karboksylowych z
+otwartym pierścieniem: kwasu aminoetoksyoctowego (PNU-142300) i hydroksyetyloglicyny (PNU-
+142586). Hydroksyetyloglicyna (PNU-142586) jest podstawowym metabolitem występującym u ludzi.
+Uznaje się, że powstaje on w wyniku przemian nieenzymatycznych. Kwas aminoetoksyoctowy (PNU-
+142300) powstaje w mniejszych ilościach. Opisano również inne, drugorzędne, nieaktywne
+metabolity.
+
+Eliminacja
+
+
+                                                                                                     14
+U pacjentów z prawidłową czynnością nerek lub z lekką do umiarkowanej niewydolnością nerek
+linezolid w stanie stacjonarnym jest głownie wydalany w moczu w postaci metabolitu PNU-142586
+(40%), leku macierzystego (30%) i metabolitu PNU-142300 (10%). W kale lek macierzysty
+praktycznie nie występuje, a metabolity PNU-142586 i PNU-142300 występują w ilościach
+odpowiadających około 6% i 3% dawki. Okres półtrwania linezolidu w fazie eliminacji wynosi około
+5-7 godzin.
+
+Klirens pozanerkowy stanowi około 65% całkowitego klirensu linezolidu. Zwiększanie dawki wiąże
+się z nieznaczną nieliniowością klirensu. Przyczyną wydaje się mniejszy nerkowy i pozanerkowy
+klirens linezolidu przy większych stężeniach leku. Jednak różnice w klirensie są małe i nie wpływają
+na okres półtrwania w fazie eliminacji.
+
+Specjalne grupy pacjentów
+Pacjenci z niewydolnością nerek: po podaniu pojedynczej dawki 600 mg u pacjentów z ciężką
+niewydolnością nerek (tzn. z klirensem kreatyniny < 30 mL/min) obserwowano 7-8-krotne
+zwiększenie ekspozycji na dwa główne metabolity linezolidu w osoczu. Nie obserwowano jednak
+zwiększenia wartości pola pod krzywą AUC substancji macierzystej. Mimo że, pewna ilość głównych
+metabolitów linezolidu jest usuwana podczas hemodializy, to jednak ich stężenie w osoczu po podaniu
+pojedynczej dawki 600 mg było nadal znacząco większe po dializie niż stężenie obserwowane u
+pacjentów z prawidłową czynnością nerek lub z niewielką do umiarkowanej niewydolnością nerek.
+
+U 24 pacjentów z ciężką niewydolnością nerek, z których 21 było regularnie poddawanych
+hemodializie, maksymalne stężenie w osoczu dwóch głównych metabolitów po kilku dniach
+podawania linezolidu były około 10-krotnie większe niż notowane u pacjentów z prawidłową
+czynnością nerek. Maksymalne stężenia linezolidu nie zmieniały się. Nie ustalono znaczenia
+klinicznego tych obserwacji ze względu na ograniczoną obecnie liczbę danych dotyczących
+bezpieczeństwie stosowania (patrz punkty 4.2 i 4.4).
+
+Pacjenci z niewydolnością wątroby: ograniczone dane wskazują, że farmakokinetyka linezolidu, PNU-
+142300 i PNU-142586 nie zmienia się u pacjentów z niewielką do umiarkowanej niewydolnością
+wątroby (tj. klasa A lub B wg Childa-Pugha). Nie oceniano farmakokinetyki linezolidu u pacjentów z
+ciężką niewydolnością wątroby (tj. klasa C wg Childa-Pugha). Ze względu na to, że linezolid jest
+metabolizowany z udziałem procesów nieenzymatycznych, można się jednak spodziewać, że
+zaburzenia czynności wątroby nie wpływają znacząco na jego metabolizm (patrz punkty 4.2 i 4.4).
+
+Dzieci i młodzież (< 18 lat): brak wystarczających danych dotyczących bezpieczeństwa stosowania i
+skuteczności linezolidu u dzieci i młodzieży (w wieku < 18 lat), dlatego nie zaleca się jego podawania
+pacjentom z tej grupy wiekowej (patrz punkt 4.2). W celu ustalenia zaleceń dotyczących bezpiecznego
+i skutecznego dawkowania konieczne są dalsze badania. Badania farmakokinetyczne wskazują, że
+klirens linezolidu (w przeliczeniu na kg masy ciała) po podaniu pojedynczych i wielokrotnych dawek
+jest większy u dzieci (w wieku od 1 tygodnia do 12 lat) niż u dorosłych, ale zmniejsza się wraz z
+wiekiem.
+
+Po podawaniu linezolidu w dawce 10 mg/kg mc. co 8 godzin dzieciom w wieku od 1 tygodnia do 12
+lat, uzyskano ekspozycję na linezolid zbliżoną do ekspozycji występującej u dorosłych po podaniu 600
+mg dwa razy na dobę.
+
+U noworodków w pierwszym tygodniu życia klirens ogólnoustrojowy linezolidu (w przeliczeniu na kg
+masy ciała) zwiększa się szybko. Dlatego ekspozycja na linezolid u noworodków otrzymujących
+linezolid w dawce 10 mg/kg mc. co 8 godzin będzie największa w pierwszym dniu po urodzeniu. Nie
+należy spodziewać się jednak nadmiernej kumulacji linezolidu stosowanego w tym schemacie
+dawkowania w pierwszym tygodniu życia, gdyż klirens linezolidu szybko zwiększa się w tym okresie.
+Farmakokinetyka linezolidu u młodzieży (w wieku od 12 do 17 lat) po podaniu dawki 600 mg była
+podobna jak u dorosłych. Dlatego ekspozycja na linezolid podawany w dawce 600 mg co 12 godzin
+będzie podobna jak u dorosłych otrzymujących taką sama dawkę.
+
+                                                                                                    15
+U dzieci z zastawką komorowo-otrzewnową, którym podawano linezolid w dawce 10 mg/kg mc. co
+12 lub co 8 godzin, obserwowano zmienne stężenie linezolidu w płynie mózgowo-rdzeniowym
+zarówno po podaniu pojedynczej dawki, jak i dawek wielokrotnych. Nie udało się uzyskać ani
+utrzymać stałego stężenia leczniczego w płynie mózgowo-rdzeniowym. Dlatego nie zaleca się
+stosowania linezolidu w leczeniu empirycznym u dzieci z zakażeniami ośrodkowego układu
+nerwowego.
+
+Pacjenci w podeszłym wieku: właściwości farmakokinetyczne linezolidu nie zmieniają się znacząco u
+pacjentów w wieku 65 lat i starszych.
+
+Kobiety: u kobiet objętość dystrybucji jest nieco mniejsza niż u mężczyzn, a średni klirens, po
+uwzględnieniu masy ciała, jest mniejszy o około 20%. Stężenia linezolidu w osoczu są większe u
+kobiet, co może częściowo wynikać z różnic w masie ciała. Ze wzgledu na to, że średni okres
+półtrwania linezolidu nie różni się znacząco u mężczyzn i u kobiet, można jednak oczekiwać, że
+stężenie linezolidu w osoczu u kobiet nie będzie się zwiększało znacząco powyżej stężeń dobrze
+tolerowanych i dlatego dostosowanie dawki u kobiet nie jest konieczne.
+
+5.3   Przedkliniczne dane o bezpieczeństwie
+
+Linezolid zmniejsza płodność i zdolności rozrodcze u samców szczurów, u których stężenie linezolidu
+w osoczu jest w przybliżeniu podobne do stężenia, które może występować u ludzi. U zwierząt w
+okresie dojrzałości płciowej działanie to było przemijające, ale utrzymywało się u młodych zwierząt
+otrzymujących linezolid przez prawie cały okres dojrzewania płciowego. Obserwowano
+nieprawidłową morfologię nasienia w jądrach dorosłych szczurów oraz przerost nabłonka i hiperplazję
+komórek w najądrzu. Linezolid wpływał na dojrzewanie plemników u szczurów.
+
+Podanie testosteronu nie wpływa na spowodowane przez linezolid zmiany płodności. U psów
+otrzymujących linezolid przez 1 miesiąc nie obserwowano przerostu nabłonka najądrzy, choć
+wystąpiły zmiany masy gruczołu krokowego, jąder i najądrzy.
+
+Badania toksycznego wpływu na reprodukcję u myszy i szczurów nie dowiodły teratogennego
+działania linezolidu, gdy ekspozycja była, odpowiednio, 4-krotnie większa lub porównywalna do
+ekspozycji u ludzi. Linezolid w tych samych stężeniach działał toksycznie na ciężarne samice myszy i
+powodował zwiększenie śmiertelności zarodków (włącznie z całkowitą utratą miotów), zmniejszenie
+masy ciała płodów i nasilenie genetycznych skłonności do występowania nieprawidłowości w
+budowie mostka u badanego szczepu myszy. U ciężarnych samic szczura stwierdzono niewielkie
+działanie toksyczne, gdy narażenie było mniejsze niż spodziewane u ludzi. Notowano niewielkie
+działanie toksyczne na płód, objawiające się zmniejszeniem masy ciała, zmniejszonym kostnieniem
+mostka, zmniejszeniem przeżywalności potomstwa i lekkim opóźnieniem dojrzewania. Po skojarzeniu
+takiego potomstwa w nowym pokoleniu obserwowano przemijające, zależne od dawki, zwiększenie
+częstości utraty zarodków przed implantacją i zmniejszoną płodność. U królików zmniejszenie masy
+ciała płodów występowało tylko w wypadku działania toksycznego na matkę (objawy kliniczne,
+zmniejszenie przyrostu masy ciała i ilości spożywanego pokarmu) przy niskim poziomie narażenia,
+stanowiącym 0,06 narażenia u ludzi przewidywanego na podstawie wartości AUC. Gatunek ten jest
+znany z wrażliwości na działanie antybiotyków.
+
+Linezolid i jego metabolity przenikają do mleka karmiących samic szczura i osiągają w nim stężenia
+większe niż w osoczu.
+
+Linezolid powoduje przemijające zahamowanie czynności szpiku u szczurów i psów.
+
+U szczurów otrzymujących doustnie linezolid przez 6 miesięcy w dawce 80 mg/kg mc./dobę
+obserwowano nieodwracalne, minimalne lub niewielkie zmiany zwyrodnieniowe aksonów nerwów
+kulszowych. W wykonanej po 3 miesiącach autopsji u 1 samca otrzymującego taką samą dawkę
+
+                                                                                                     16
+linezolidu odnotowano minimalne zmiany zwyrodnieniowe w nerwach kulszowych. W celu
+znalezienia oznak zmian zwyrodnieniowych w nerwie wzrokowym przeprowadzono szczegółową
+ocenę morfologiczną tkanek utrwalonych perfuzyjnie. Minimalne lub umiarkowane zmiany
+zwyrodnieniowe stwierdzono u 2 z 3 samców szczurów po 6 miesiącach podawania linezolidu, lecz
+bezpośredni związek przyczynowy ze stosowaniem leku nie był jednoznaczny ze względu na ostry
+charakter zmian oraz ich niesymetryczne rozmieszczenie. Obserwowane zmiany zwyrodnieniowe
+nerwu wzrokowego były mikroskopowo porównywalne z samoistnymi jednostronnymi zmianami
+zwyrodnieniowymi w nerwie wzrokowym, opisywanymi u starzejących się szczurów i mogą stanowić
+nasilenie powszechnie występujących zmian podstawowych.
+
+Dane niekliniczne wynikające z konwencjonalnych badań farmakologicznych dotyczących
+toksyczności po podaniu wielokrotnym i genotoksyczności, nie ujawniają szczególnego zagrożenia dla
+człowieka, poza wymienionym w innych punktach tej Charakterystyki Produktu Leczniczego. Nie
+przeprowadzono badań rakotwórczości i onkogenności ze względu na krótki czas podawania leku i
+brak genotoksyczności.
+
+
+6.    DANE FARMACEUTYCZNE
+
+6.1   Wykaz substancji pomocniczych
+
+Glukoza jednowodna
+Sodu cytrynian
+Kwas cytrynowy jednowodny
+Kwas solny (do ustalenia pH)
+Sodu wodorotlenek (do ustalenia pH)
+Woda do wstrzykiwań
+
+6.2   Niezgodności farmaceutyczne
+
+Do roztworu nie należy dodawać innych substancji. Jeśli linezolid ma być podawany jednocześnie z
+innymi lekami, każdy lek należy podawać osobno, zgodnie z zaleceniami dotyczącymi jego
+stosowania. Podobnie, jeśli to samo dojście dożylne ma służyć do sekwencyjnego podawania różnych
+leków, to przed każdym podaniem linezolidu i po jego podaniu należy je przepłukać zachowującym
+zgodność roztworem do infuzji (patrz punkt 6.6).
+
+Roztwór do infuzji linezolidu jest fizycznie niezgodny z następującymi lekami: amfoterycyna B,
+chloropromazyny chlorowodorek, diazepam, pentamidyny izetionian, erytromycyny laktobionian,
+fenytoina sodowa i sulfametoksazol z trimetoprymem. Ponadto jest on niezgodny chemicznie z solą
+sodową ceftriaksonu.
+
+6.3   Okres ważności
+
+Przed otwarciem: 2 lata.
+
+Po otwarciu: ze względów mikrobiologicznych produkt leczniczy należy zastosować natychmiast,
+chyba, że metoda otwarcia wyklucza ryzyko skażenia mikrobiologicznego. Jeżeli produkt nie zostanie
+podany natychmiast, za okres i warunki przechowywania podczas stosowania odpowiedzialność
+ponosi wyłącznie użytkownik.
+
+6.4   Specjalne środki ostrożności podczas przechowywania
+
+Brak specjalnych zaleceń dotyczących temperatury przechowywania produktu leczniczego.
+Przechowywać w oryginalnym opakowaniu w celu ochrony przed światłem.
+
+
+                                                                                                  17
+Warunki przechowywania produktu leczniczego po otwarciu, patrz punkt 6.3.
+
+6.5   Rodzaj i zawartość opakowania
+
+Jednorazowego użytku, gotowe do zastosowania, wyposażone w system portów, wielowarstwowe
+polipropylenowe worki infuzyjne. Worek infuzyjny składa się z wielowarstwowej folii
+polipropylenowej z systemem portów, z dwoma rurkami polipropylenowymi, z których jedna jest
+zaplombowana razem z polipropylenowym portem typu „twist-off”, a druga z poliwęglanowym
+portem iniekcyjnym, wyposażonym w gumowy korek z gumy izoprenowej. Worek infuzyjny jest dalej
+umieszczany w trójwarstowym worku laminowanym (worek zewnętrzny).
+
+Worki infuzyjne zawierają po 300 mL roztworu do infuzji, w tekturowym pudełku.
+
+Każde tekturowe pudełko zawiera 1, 5, 10 lub 25 worków infuzyjnych.
+
+Nie wszystkie wielkości opakowań muszą znajdować się w obrocie.
+
+6.6   Specjalne środki ostrożności dotyczące usuwania
+
+Wyłącznie do jednorazowego użycia.
+Bezpośrednio przed podaniem zdjąć zewnętrzną folię, sprawdzić szczelność worka, ściskając go
+mocno przez minutę. Jeśli worek przecieka, nie stosować go, gdyż mógł utracić jałowość. Przed
+podaniem roztwór należy obejrzeć. Można stosować wyłącznie klarowny roztwór, niezawierający
+stałych cząstek. Nie stosować worków w połączeniu szeregowym. Niewykorzystane resztki roztworu
+należy wyrzucić. Brak specjalnych wymagań dotyczących usuwania. Wszelkie niewykorzystane
+resztki produktu leczniczego lub jego odpady należy usunąć zgodnie z lokalnymi przepisami.
+Nie podłączać worków z częściowo zużytą zawartością.
+
+Roztwór do infuzji Linezolid Eugia, 2 mg/mL wykazuje zgodność z następującymi roztworami:
+-    5% roztwór glukozy do infuzji dożylnych,
+-    0,9% roztwór sodu chlorku do infuzji dożylnych,
+-    roztwór Ringera z mleczanami do wstrzykiwań (roztwór do wstrzykiwań Hartmanna).
+
+
+7.    PODMIOT ODPOWIEDZIALNY POSIADAJĄCY POZWOLENIE NA
+      DOPUSZCZENIE DO OBROTU
+
+Eugia Pharma (Malta) Ltd.
+Vault 14, level 2
+Valletta Waterfront
+Floriana, FRN1914
+Malta
+
+
+8.    NUMER POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+
+Pozwolenie nr: 24529
+
+
+9.    DATA WYDANIA PIERWSZEGO POZWOLENIA NA DOPUSZCZENIE DO OBROTU
+      I DATA PRZEDŁUŻENIA POZWOLENIA
+
+Data wydania pierwszego pozwolenia na dopuszczenie do obrotu: 19 stycznia 2018
+Data ostatniego przedłużenia pozwolenia: 8 marca 2023
+
+
+                                                                                             18
+10.   DATA ZATWIERDZENIA LUB CZĘŚCIOWEJ ZMIANY TEKSTU
+      CHARAKTERYSTYKI PRODUKTU LECZNICZEGO
+
+26/03/2026
+
+
+
+
+                                                        19
+

@@ -12,11 +12,13 @@ Current implementation: Go deterministic engine/API, React workspace, PostgreSQL
 | Routes, forms and browser behavior | [Workspace](final-workspace.md) |
 | Synthetic cases, labs and saved results | [Patient history](patient-history.md) |
 | Synthetic demonstration and isolated training | [Demonstration](demo-guide.md) |
+| ChPL-linked patient scenarios and decision/approval review | [User cases and logic review](user-cases-and-logic-review.md) |
 | Clinical review requirements | [Clinical review](clinical-review.md) |
 | Calculator references | [Calculator sources](calculator-sources.md) |
 | Pinned Polish source acquisition | [Source provenance](polish-chpl-acquisition.md) |
 | Retrieval baseline and evaluation | [Evaluation](evaluation-guide.md) |
 | Proposed local Qwen/MedGemma extraction | [AI extraction plan](ai-rule-extraction-plan.md) |
+| Uploadable Kaggle/Colab model comparison | [Experiment notebook and guide](../experiments/model-comparison/README.md) |
 | Installation, migration and backup/recovery | [Release operations](release-recovery.md) |
 | Executed acceptance and thesis boundaries | [Release evidence](release-evidence.md) |
 

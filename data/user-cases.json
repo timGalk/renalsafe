@@ -1,0 +1,2414 @@
+{
+  "schema_version": 1,
+  "purpose": "synthetic_patient_software_cases",
+  "description": "Fictional patient values; product contexts linked to Polish ChPL. Software expectations use a source-only snapshot with zero approved rules. No clinical gold answers, prescribing advice or approvals.",
+  "contexts": [
+    {
+      "source_id": "rpl-4282",
+      "context": {
+        "product": "Meronem 1 g",
+        "route": "intravenous",
+        "form": "powder for solution for injection or infusion",
+        "indication": "hospital-acquired pneumonia"
+      },
+      "source_url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4282/characteristic",
+      "pdf_sha256": "3c4ffb78fa8188f3bda9f111e4546aa18717dfcb8f92d7cb8371144b57d988f4",
+      "text_sha256": "29f2122dbf23b5e299b3a0b0b0b20971042d07ba405340bce6c68e030c02c5dd",
+      "context_evidence": [
+        "Meronem, 1 g, proszek do sporządzania roztworu do wstrzykiwań lub infuzji",
+        "• ciężkie zapalenie płuc, w tym szpitalne i tzw. respiratorowe zapalenie płuc;",
+        "Meropenem jest zazwyczaj podawany w postaci wlewu dożylnego trwającego około 15 do 30 minut"
+      ],
+      "mapping_review_status": "NOT_REVIEWED",
+      "clinical_review_task": "Check the unit-dose dependency, printed 10–25/26–50 gaps, dialysis timing and indication.",
+      "chpl_case_ids": [
+        "rpl-4282",
+        "rpl-4282-safety",
+        "rpl-4282-pk"
+      ]
+    },
+    {
+      "source_id": "rpl-24542",
+      "context": {
+        "product": "Ceftazidime Kabi 1000 mg",
+        "route": "intravenous",
+        "form": "powder for solution for injection",
+        "indication": "hospital-acquired pneumonia"
+      },
+      "source_url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24542/characteristic",
+      "pdf_sha256": "7285d9aebf69150e112e8ebe90f7b2a507ec352a69cb1a594ea8c3a53892afbf",
+      "text_sha256": "89fd63eb33b65457f733dade2110df0cdacc2a035aebb96c8b69c98b40313728",
+      "context_evidence": [
+        "Ceftazidime Kabi, 1000 mg, proszek do sporządzania roztworu do wstrzykiwań",
+        "­     Szpitalne zapalenie płuc.",
+        "Oprócz podawania ceftazydymu dożylnie można go podawać również w płynie dializacyjnym (zwykle"
+      ],
+      "mapping_review_status": "NOT_REVIEWED",
+      "clinical_review_task": "Check loading versus maintenance dose, renal tables, infusion method and dialysis exceptions.",
+      "chpl_case_ids": [
+        "rpl-24542",
+        "rpl-24542-safety",
+        "rpl-24542-pk"
+      ]
+    },
+    {
+      "source_id": "rpl-7911",
+      "context": {
+        "product": "Tartriakson 1 g",
+        "route": "intravenous",
+        "form": "powder for solution for injection and infusion",
+        "indication": "hospital-acquired pneumonia"
+      },
+      "source_url": "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/7911/characteristic",
+      "pdf_sha256": "6ba16d028d45918b65a67d2610973b002a43d8269516440d7929867049818c8a",
+      "text_sha256": "00673f615f819e64cbcd840290b464849184002faf0c2154404ce591eadbab76",
+      "context_evidence": [
+        "Tartriakson, 1 g, proszek do sporządzania roztworu do wstrzykiwań i infuzji",
+        "• pozaszpitalne zapalenie płuc,",
+        "Produkt Tartriakson można podawać w infuzji dożylnej trwającej co najmniej 30 minut (zalecany"
+      ],
+      "mapping_review_status": "NOT_REVIEWED",
+      "clinical_review_task": "Check the renal recommendation together with hepatic function and dialysis qualifiers.",
+      "chpl_case_ids": [
+        "rpl-7911",
+        "rpl-7911-safety",
+        "rpl-7911-pk"
+      ]
+    },
+    {
+      "source_id": "rpl-43752",
+      "context": {
+        "product": "Metoclopramide hameln 5 mg/ml",
+        "route": "intravenous",
+        "form": "solution for injection",
+        "indication": "symptomatic nausea and vomiting"
+      },
+      "source_url": "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/43752/characteristic",
+      "pdf_sha256": "7cf3b47cb2c2ca508cb335001baccbf83ebe291c39f248e51613a8a78e142943",
+      "text_sha256": "e048128910a106325b98bf09b0cf94873445ea15ff616ca6d2a6a490a90e10ef",
+      "context_evidence": [
+        "Metoclopramide hameln, 5 mg/ml, roztwór do wstrzykiwań",
+        "      Objawowym leczeniu nudności i wymiotów, w tym nudności i wymiotów związanych z",
+        "Roztwór może być podawany dożylnie lub domięśniowo."
+      ],
+      "mapping_review_status": "NOT_REVIEWED",
+      "clinical_review_task": "Check renal dose reduction, maximum daily dose, weight limit, dose spacing and duration.",
+      "chpl_case_ids": [
+        "rpl-43752",
+        "rpl-43752-safety",
+        "rpl-43752-pk"
+      ]
+    },
+    {
+      "source_id": "rpl-46038",
+      "context": {
+        "product": "Sugammadex Reddy 100 mg/ml",
+        "route": "intravenous",
+        "form": "solution for injection",
+        "indication": "reversal of rocuronium-induced neuromuscular blockade"
+      },
+      "source_url": "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/46038/characteristic",
+      "pdf_sha256": "f07f0569c630b9c43bcce5ea9a0ec4df90ec37804477abf3cce20ea81ba6b7e6",
+      "text_sha256": "c72ca7bf6b41436ab05816bbc86ad0183454b5014ad72885fd6bb397948ecbf5",
+      "context_evidence": [
+        "Sugammadex Reddy, 100 mg/ml, roztwór do wstrzykiwań",
+        "Odwrócenie blokady przewodnictwa nerwowo-mięśniowego wywołanej przez rokuronium lub",
+        "Produkt leczniczy Sugammadex Reddy należy podawać dożylnie w pojedynczym bolusie. Bolus"
+      ],
+      "mapping_review_status": "NOT_REVIEWED",
+      "clinical_review_task": "Check renal limitations, blockade depth, body-weight dosing and anaesthetist monitoring.",
+      "chpl_case_ids": [
+        "rpl-46038",
+        "rpl-46038-safety",
+        "rpl-46038-pk"
+      ]
+    },
+    {
+      "source_id": "rpl-37424",
+      "context": {
+        "product": "PARACETAMOL MEDICINAE 500 mg",
+        "route": "oral",
+        "form": "tablet",
+        "indication": "mild to moderate pain"
+      },
+      "source_url": "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/37424/characteristic",
+      "pdf_sha256": "b21b049bd95af71efc78fff48a28616ae7c6cf467eb94a66f981419588ea893d",
+      "text_sha256": "deb0037e806c1c9d921ffbd5cb584a945a480dac00c8ec7fba4fe4e6ffdfda0d",
+      "context_evidence": [
+        "PARACETAMOL MEDICINAE, 500 mg, tabletki",
+        "Paracetamol MEDICINAE jest wskazany do objawowego leczenia łagodnego i umiarkowanego bólu",
+        "Wyłącznie podanie doustne."
+      ],
+      "mapping_review_status": "NOT_REVIEWED",
+      "clinical_review_task": "Check renal/hepatic warnings and total paracetamol exposure across products; do not invent a renal band.",
+      "chpl_case_ids": [
+        "rpl-37424",
+        "rpl-37424-safety",
+        "rpl-37424-pk"
+      ]
+    },
+    {
+      "source_id": "ema-cayston",
+      "context": {
+        "product": "Cayston 75 mg",
+        "route": "inhalation",
+        "form": "powder and solvent for nebuliser solution",
+        "indication": "suppressive therapy of chronic Pseudomonas aeruginosa infection in cystic fibrosis"
+      },
+      "source_url": "https://www.ema.europa.eu/pl/documents/product-information/cayston-epar-product-information_pl.pdf",
+      "pdf_sha256": "d917f5e423ddfe410617701eafb7240c8f92e86dbce9564b21c117d279ada394",
+      "text_sha256": "c18c74130a55e2bd7675326b5d0ebdbce36e0f69f77fc90d434a5e7f0e48af99",
+      "context_evidence": [
+        "Cayston 75 mg proszek i rozpuszczalnik do sporządzania roztworu do nebulizacji.",
+        "wywołanych przez Pseudomonas aeruginosa u pacjentów z mukowiscydozą (ang. cystic fibrosis, CF),",
+        "Do podawania wziewnego."
+      ],
+      "mapping_review_status": "NOT_REVIEWED",
+      "clinical_review_task": "Check inhalation-specific renal advice and eligibility. Never transfer this recommendation to IV aztreonam.",
+      "chpl_case_ids": [
+        "ema-cayston",
+        "ema-cayston-safety",
+        "ema-cayston-pk"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "rpl-4282-baseline",
+      "title": "Stable fictional adult: Meronem 1 g",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "rpl-24542-baseline",
+      "title": "Stable fictional adult: Ceftazidime Kabi 1000 mg",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-24542"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Ceftazidime Kabi 1000 mg",
+            "route": "intravenous",
+            "form": "powder for solution for injection",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "rpl-7911-baseline",
+      "title": "Stable fictional adult: Tartriakson 1 g",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-7911"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Tartriakson 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection and infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "rpl-43752-baseline",
+      "title": "Stable fictional adult: Metoclopramide hameln 5 mg/ml",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-43752"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Metoclopramide hameln 5 mg/ml",
+            "route": "intravenous",
+            "form": "solution for injection",
+            "indication": "symptomatic nausea and vomiting"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "rpl-46038-baseline",
+      "title": "Stable fictional adult: Sugammadex Reddy 100 mg/ml",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-46038"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Sugammadex Reddy 100 mg/ml",
+            "route": "intravenous",
+            "form": "solution for injection",
+            "indication": "reversal of rocuronium-induced neuromuscular blockade"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "rpl-37424-baseline",
+      "title": "Stable fictional adult: PARACETAMOL MEDICINAE 500 mg",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-37424"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "PARACETAMOL MEDICINAE 500 mg",
+            "route": "oral",
+            "form": "tablet",
+            "indication": "mild to moderate pain"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "ema-cayston-baseline",
+      "title": "Stable fictional adult: Cayston 75 mg",
+      "synthetic_patient": true,
+      "source_ids": [
+        "ema-cayston"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Cayston 75 mg",
+            "route": "inhalation",
+            "form": "powder and solvent for nebuliser solution",
+            "indication": "suppressive therapy of chronic Pseudomonas aeruginosa infection in cystic fibrosis"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "meropenem-crcl-9_99",
+      "title": "Unrounded CrCl 9.99 mL/min: inspect the printed ChPL band",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 7.007007007007007,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 9.99,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "meropenem-crcl-10",
+      "title": "Unrounded CrCl 10 mL/min: inspect the printed ChPL band",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 7.0,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 10,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "meropenem-crcl-10_01",
+      "title": "Unrounded CrCl 10.01 mL/min: inspect the printed ChPL band",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 6.993006993006993,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 10.01,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "meropenem-crcl-25",
+      "title": "Unrounded CrCl 25 mL/min: inspect the printed ChPL band",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "meropenem-crcl-25_5",
+      "title": "Unrounded CrCl 25.5 mL/min: inspect the printed ChPL band",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.7450980392156863,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.5,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "meropenem-crcl-26",
+      "title": "Unrounded CrCl 26 mL/min: inspect the printed ChPL band",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.6923076923076925,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 26,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "meropenem-crcl-50",
+      "title": "Unrounded CrCl 50 mL/min: inspect the printed ChPL band",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 1.4,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 50,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "meropenem-crcl-50_5",
+      "title": "Unrounded CrCl 50.5 mL/min: inspect the printed ChPL band",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 1.386138613861386,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 50.5,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "meropenem-crcl-51",
+      "title": "Unrounded CrCl 51 mL/min: inspect the printed ChPL band",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 1.3725490196078431,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 51,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "suspected-aki",
+      "title": "Require review: suspected-aki",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": true,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "AKI_OR_UNKNOWN"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "unknown-aki",
+      "title": "Require review: unknown-aki",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": null,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "AKI_OR_UNKNOWN"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "dialysis",
+      "title": "Require review: dialysis",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": true,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "DIALYSIS_OR_UNKNOWN"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "unknown-dialysis",
+      "title": "Require review: unknown-dialysis",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": null,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "DIALYSIS_OR_UNKNOWN"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "unstable",
+      "title": "Require review: unstable",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": false,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "STABILITY_UNCONFIRMED"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "child",
+      "title": "Require review: child",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 17,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "AGE_OUT_OF_SCOPE"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "unknown-equation-sex",
+      "title": "Require review: unknown-equation-sex",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "EQUATION_SEX_REQUIRED"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "non-idms",
+      "title": "Require review: non-idms",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": false,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "CREATININE_STANDARDIZATION_UNCONFIRMED"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "uncertain-body-composition",
+      "title": "Require review: uncertain-body-composition",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": false,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "BODY_COMPOSITION_UNCERTAIN"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "stale-lab",
+      "title": "Require review: stale-lab",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-01T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "CREATININE_TIMESTAMP_INVALID_OR_STALE"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "future-lab",
+      "title": "Require review: future-lab",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T13:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "CREATININE_TIMESTAMP_INVALID_OR_STALE"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "unsupported-creatinine-unit",
+      "title": "Require review: unsupported-creatinine-unit",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mmol/L"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "CREATININE_UNIT_UNSUPPORTED"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "extreme-body-size",
+      "title": "Require review: extreme-body-size",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 120,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "BODY_SIZE_REQUIRES_REVIEW"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "missing-weight",
+      "title": "Do not substitute eGFR for unavailable CrCl",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021"
+        ],
+        "renal_warnings": [
+          "CG_WEIGHT_REQUIRED"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "missing-height",
+      "title": "Do not substitute eGFR for unavailable CrCl",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021"
+        ],
+        "renal_warnings": [
+          "CG_HEIGHT_REQUIRED_FOR_BODY_SIZE_CHECK"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "unconfirmed-weight",
+      "title": "Actual weight is unconfirmed",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": false
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021"
+        ],
+        "renal_warnings": [
+          "CG_ACTUAL_WEIGHT_UNCONFIRMED"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "equivalent-units",
+      "title": "Equivalent serum creatinine in micromol/L",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 247.52,
+            "unit": "umol/L"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "known-uncertainty",
+      "title": "Known creatinine uncertainty spans a ChPL table boundary",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true,
+          "creatinine_bounds": {
+            "lower": 2.6,
+            "upper": 3,
+            "lower_inclusive": true,
+            "upper_inclusive": true
+          }
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": 23.333333333333332,
+        "crcl_high": 26.923076923076923,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "invalid-uncertainty",
+      "title": "Bounds do not contain the measured creatinine",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true,
+          "creatinine_bounds": {
+            "lower": 1,
+            "upper": 2,
+            "lower_inclusive": true,
+            "upper_inclusive": true
+          }
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [],
+        "renal_warnings": [
+          "CREATININE_BOUNDS_INVALID"
+        ],
+        "crcl": null,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "two-medications",
+      "title": "Preserve separate medication results and order",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282",
+        "rpl-24542"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          },
+          {
+            "product": "Ceftazidime Kabi 1000 mg",
+            "route": "intravenous",
+            "form": "powder for solution for injection",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "three-medications",
+      "title": "Review each source separately; no interaction safety claim",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-7911",
+        "rpl-43752",
+        "rpl-37424"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Tartriakson 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection and infusion",
+            "indication": "hospital-acquired pneumonia"
+          },
+          {
+            "product": "Metoclopramide hameln 5 mg/ml",
+            "route": "intravenous",
+            "form": "solution for injection",
+            "indication": "symptomatic nausea and vomiting"
+          },
+          {
+            "product": "PARACETAMOL MEDICINAE 500 mg",
+            "route": "oral",
+            "form": "tablet",
+            "indication": "mild to moderate pain"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "female-equation",
+      "title": "Apply the female Cockcroft–Gault factor",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "female",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": "hospital-acquired pneumonia"
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "NO_APPROVED_RULE",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 21.25,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    },
+    {
+      "id": "missing-indication",
+      "title": "Incomplete product context requires review",
+      "synthetic_patient": true,
+      "source_ids": [
+        "rpl-4282"
+      ],
+      "request": {
+        "assessment_at": "2026-11-09T12:00:00Z",
+        "patient": {
+          "age_years": 70,
+          "equation_sex": "male",
+          "weight": {
+            "value": 72,
+            "unit": "kg"
+          },
+          "height": {
+            "value": 175,
+            "unit": "cm"
+          },
+          "creatinine": {
+            "value": 2.8,
+            "unit": "mg/dL"
+          },
+          "measured_at": "2026-11-09T11:00:00Z",
+          "stable_renal_function": true,
+          "suspected_aki": false,
+          "dialysis": false,
+          "idms_standardized": true,
+          "typical_body_composition": true,
+          "actual_weight_confirmed": true
+        },
+        "medications": [
+          {
+            "product": "Meronem 1 g",
+            "route": "intravenous",
+            "form": "powder for solution for injection or infusion",
+            "indication": ""
+          }
+        ]
+      },
+      "expected_software": {
+        "status": "MANUAL_REVIEW_REQUIRED",
+        "result_reason": "MEDICATION_CONTEXT_REQUIRED",
+        "metrics": [
+          "EGFR_CKDEPI_2021",
+          "CRCL_CG"
+        ],
+        "renal_warnings": [],
+        "crcl": 25.0,
+        "crcl_low": null,
+        "crcl_high": null,
+        "automated_dose_allowed": false
+      },
+      "clinical_reference": null,
+      "clinical_review_status": "NOT_REVIEWED"
+    }
+  ]
+}

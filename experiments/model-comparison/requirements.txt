@@ -1,0 +1,7 @@
+# GPU runtime candidates, checked against PyPI 2026-11-05; not GPU-validated locally.
+# Keep the platform's CUDA-compatible torch/torchvision; record their actual versions.
+transformers==5.22.1
+accelerate==1.15.0
+bitsandbytes==0.50.2
+huggingface-hub==2.4.0
+sentencepiece==0.2.3
