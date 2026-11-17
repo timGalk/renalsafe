@@ -9,6 +9,7 @@ import { Login,Account,Users,Audit,Status } from './staff';
 import { Dashboard,Patients,PatientDetail,History } from './patients';
 import { AssessmentEditor,ResultPage,Comparison } from './results';
 import { Evidence,Documents,Review } from './sources';
+import { Extractions } from './extractions';
 import './style.css';
 class ErrorBoundary extends Component<{children:ReactNode},{failed:boolean}>{state={failed:false};static getDerivedStateFromError(){return {failed:true};}render(){return this.state.failed?<div role="alert" className="empty"><h1>The page could not be displayed</h1><p>Reload to restore your session. Unsaved inputs on this page may be lost.</p><button onClick={()=>location.reload()}>Reload workspace</button></div>:this.props.children;}}
 function DraftGuard(){const {dirty,isDirty}=useContext(DraftContext);const blocker=useBlocker(({currentLocation,nextLocation})=>isDirty()&&(currentLocation.pathname+currentLocation.search!==nextLocation.pathname+nextLocation.search));const ref=useRef<HTMLDialogElement>(null);useEffect(()=>{if(blocker.state==='blocked')ref.current?.showModal();else ref.current?.close();},[blocker.state]);useEffect(()=>{if(!dirty)return;const warn=(event:BeforeUnloadEvent)=>{event.preventDefault();};window.addEventListener('beforeunload',warn);return()=>window.removeEventListener('beforeunload',warn);},[dirty]);return <dialog ref={ref} aria-labelledby="draft-title" onCancel={e=>{e.preventDefault();if(blocker.state==='blocked')blocker.reset();}}><h2 id="draft-title">Leave unsaved changes?</h2><p>Your inputs are held only in this tab. Leaving this page discards them.</p><div className="actions"><button autoFocus onClick={()=>{if(blocker.state==='blocked')blocker.reset();}}>Keep editing</button><button className="danger" onClick={()=>{if(blocker.state==='blocked')blocker.proceed();}}>Discard changes and continue</button></div></dialog>;}
@@ -26,6 +27,7 @@ function Workspace(){const {session}=useSession(),loc=useLocation();const role=s
  else if(loc.pathname==='/evidence')page=<Evidence/>;
  else if(loc.pathname==='/account')page=<Account/>;
  else if((parts[0]==='review'||loc.pathname==='/documents')&&role==='physician'||parts[0]==='admin'&&role!=='admin')page=<div className="empty"><h1 tabIndex={-1}>Access restricted</h1><p>Your role cannot open this page.</p><Link to="/dashboard">Return to workspace</Link></div>;
+ else if(loc.pathname==='/review/extractions')page=<Extractions/>;
  else if(loc.pathname==='/review')page=<Review/>;
  else if(loc.pathname==='/documents')page=<Documents/>;
  else if(loc.pathname==='/admin/users')page=<Users/>;

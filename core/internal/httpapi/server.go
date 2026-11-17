@@ -13,6 +13,7 @@ import (
 	"renalsafe/core/internal/auth"
 	"renalsafe/core/internal/domain"
 	"renalsafe/core/internal/evidence"
+	"renalsafe/core/internal/extraction"
 	"renalsafe/core/internal/store"
 	"strings"
 	"time"
@@ -22,10 +23,11 @@ import (
 var assets embed.FS
 
 type Server struct {
-	DB       *store.Store
-	Auth     *auth.Auth
-	Embedder evidence.Embedder
-	PDF      evidence.PDFExtractor
+	DB        *store.Store
+	Auth      *auth.Auth
+	Embedder  evidence.Embedder
+	Extractor extraction.Provider
+	PDF       evidence.PDFExtractor
 }
 
 func (s *Server) Handler() http.Handler {
@@ -82,6 +84,7 @@ func (s *Server) Handler() http.Handler {
 	}
 	s.patientRoutes(api)
 	s.adminRoutes(api)
+	s.extractionRoutes(api)
 	all := "physician pharmacist admin"
 	edit := "pharmacist admin"
 	api("GET /api/v1/me", all, func(w http.ResponseWriter, r *http.Request, a store.Actor) error { return respond(w, 200, a) })

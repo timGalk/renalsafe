@@ -11,6 +11,7 @@ import (
 	"os/signal"
 	"renalsafe/core/internal/auth"
 	"renalsafe/core/internal/evidence"
+	"renalsafe/core/internal/extraction"
 	"renalsafe/core/internal/httpapi"
 	"renalsafe/core/internal/store"
 	"syscall"
@@ -67,7 +68,32 @@ func run() error {
 			return e
 		}
 	}
-	app := &httpapi.Server{DB: db, Auth: credentials, Embedder: embedder, PDF: evidence.Poppler{}}
+	extractor, e := extraction.ConfiguredProvider(os.Getenv, embedder)
+	if e != nil {
+		return e
+	}
+	workerContext, stopWorker := context.WithCancel(context.Background())
+	workerDone := make(chan struct{})
+	go func() {
+		defer close(workerDone)
+		if extractor == nil {
+			return
+		}
+		tick := time.NewTicker(time.Second)
+		defer tick.Stop()
+		for {
+			select {
+			case <-workerContext.Done():
+				return
+			case <-tick.C:
+				if err := db.RunExtraction(workerContext, extractor); err != nil {
+					log.Print("Extraction worker could not commit job state")
+				}
+			}
+		}
+	}()
+	defer func() { stopWorker(); <-workerDone }()
+	app := &httpapi.Server{DB: db, Auth: credentials, Embedder: embedder, Extractor: extractor, PDF: evidence.Poppler{}}
 	srv := &http.Server{Addr: *addr, Handler: app.Handler(), ReadHeaderTimeout: 5 * time.Second, ReadTimeout: 45 * time.Second, WriteTimeout: 120 * time.Second, IdleTimeout: 60 * time.Second, MaxHeaderBytes: 32 << 10}
 	stop := make(chan os.Signal, 1)
 	signal.Notify(stop, os.Interrupt, syscall.SIGTERM)

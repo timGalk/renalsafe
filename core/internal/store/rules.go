@@ -99,48 +99,51 @@ func (s *Store) AddCandidate(ctx context.Context, actor Actor, in CandidateInput
 	if in.Rule.Status != "PENDING" || in.Rule.Approval != nil {
 		return out, fmt.Errorf("%w: candidates must be PENDING without approval", ErrInvalid)
 	}
-	err := s.write(ctx, func(tx pgx.Tx) error {
-		var c Chunk
-		if e := tx.QueryRow(ctx, `SELECT document_id,section,page_start,content FROM chunks WHERE id=$1`, in.ChunkID).Scan(&c.DocumentID, &c.Section, &c.PageStart, &c.Text); e != nil {
-			return normalize(e)
-		}
-		doc, e := document(ctx, tx, c.DocumentID)
-		if e != nil {
-			return e
-		}
-		if doc.Status != "ACTIVE" {
-			return ErrConflict
-		}
-		r := in.Rule
-		if r.Context != doc.Context {
-			return fmt.Errorf("%w: exact product context required", ErrInvalid)
-		}
-		idx := strings.Index(c.Text, r.Citation.Quote)
-		if r.Citation.Quote == "" || idx < 0 || r.Citation.Section != c.Section {
-			return fmt.Errorf("%w: quote must occur in selected section", ErrInvalid)
-		}
-		page := c.PageStart + strings.Count(c.Text[:idx], "\f")
-		if r.Citation.Page != 0 && r.Citation.Page != page {
-			return fmt.Errorf("%w: wrong physical page", ErrInvalid)
-		}
-		r.ID = ID()
-		r.Version = "1"
-		r.Citation = domain.Citation{SourceID: doc.ID, SourceVersion: doc.Source.Version, DocumentSHA256: doc.Source.DocumentSHA256, Section: c.Section, Page: page, Quote: r.Citation.Quote}
-		if e = validateRule(ctx, tx, r, s.AllowSynthetic); e != nil {
-			return e
-		}
-		if e = insertRule(ctx, tx, r, doc.ID, in.ChunkID); e != nil {
-			return e
-		}
-		if e = bump(ctx, tx); e != nil {
-			return e
-		}
-		out = StoredRule{Rule: r, DocumentID: doc.ID, ChunkID: in.ChunkID, Digest: r.ContentDigest()}
-		_, e = appendAudit(ctx, tx, actor, "CANDIDATE_CREATED", r.ID, out)
-		return e
-	})
+	err := s.write(ctx, func(tx pgx.Tx) error { return s.addCandidateTx(ctx, tx, actor, in, &out) })
 	return out, err
 }
+
+func (s *Store) addCandidateTx(ctx context.Context, tx pgx.Tx, actor Actor, in CandidateInput, out *StoredRule) error {
+	var c Chunk
+	if e := tx.QueryRow(ctx, `SELECT document_id,section,page_start,content FROM chunks WHERE id=$1`, in.ChunkID).Scan(&c.DocumentID, &c.Section, &c.PageStart, &c.Text); e != nil {
+		return normalize(e)
+	}
+	doc, e := document(ctx, tx, c.DocumentID)
+	if e != nil {
+		return e
+	}
+	if doc.Status != "ACTIVE" {
+		return ErrConflict
+	}
+	r := in.Rule
+	if r.Context != doc.Context {
+		return fmt.Errorf("%w: exact product context required", ErrInvalid)
+	}
+	idx := strings.Index(c.Text, r.Citation.Quote)
+	if r.Citation.Quote == "" || idx < 0 || strings.Count(c.Text, r.Citation.Quote) != 1 || r.Citation.Section != c.Section {
+		return fmt.Errorf("%w: quote must occur exactly once in selected section; include more source context", ErrInvalid)
+	}
+	page := c.PageStart + strings.Count(c.Text[:idx], "\f")
+	if r.Citation.Page != 0 && r.Citation.Page != page {
+		return fmt.Errorf("%w: wrong physical page", ErrInvalid)
+	}
+	r.ID = ID()
+	r.Version = "1"
+	r.Citation = domain.Citation{SourceID: doc.ID, SourceVersion: doc.Source.Version, DocumentSHA256: doc.Source.DocumentSHA256, Section: c.Section, Page: page, Quote: r.Citation.Quote}
+	if e = validateRule(ctx, tx, r, s.AllowSynthetic); e != nil {
+		return e
+	}
+	if e = insertRule(ctx, tx, r, doc.ID, in.ChunkID); e != nil {
+		return e
+	}
+	if e = bump(ctx, tx); e != nil {
+		return e
+	}
+	*out = StoredRule{Rule: r, DocumentID: doc.ID, ChunkID: in.ChunkID, Digest: r.ContentDigest()}
+	_, e = appendAudit(ctx, tx, actor, "CANDIDATE_CREATED", r.ID, out)
+	return e
+}
+
 func (s *Store) Review(ctx context.Context, actor Actor, id, action string, in ReviewInput) (StoredRule, error) {
 	var out StoredRule
 	if actor.Role != "pharmacist" {
@@ -216,7 +219,7 @@ func (s *Store) EditCandidate(ctx context.Context, actor Actor, id, expected str
 			return e
 		}
 		idx := strings.Index(text, next.Citation.Quote)
-		if next.Citation.Quote == "" || idx < 0 || next.Citation.Section != section || next.Citation.Page != page+strings.Count(text[:idx], "\f") {
+		if next.Citation.Quote == "" || idx < 0 || strings.Count(text, next.Citation.Quote) != 1 || next.Citation.Section != section || next.Citation.Page != page+strings.Count(text[:idx], "\f") {
 			return ErrInvalid
 		}
 		next.ID = old.Rule.ID
