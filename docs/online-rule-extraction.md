@@ -1,18 +1,19 @@
 # Online document extraction and rule drafting
 
-Decision: 2026-11-09. The user selected online models accessed through an API key
-for the next extraction implementation. This supersedes the earlier local-only
-inference decision. Provider and model are not yet selected.
+Decision: 2026-11-09. The user selected online models accessed through an API key,
+then selected OpenAI **gpt-5.4-mini**. This supersedes the earlier local-only
+inference decision. The first integration is implemented; see the
+[configuration and workflow guide](online-extraction-guide.md).
 
 ## Current gap
 
-The application stores PDFs and extracted passages, supports manual candidate
-creation and pharmacist review, and runs deterministic assessments. It does not
-yet interpret documents with an online model or automatically form rule proposals.
-The ChPL corpus, comparison notebooks and synthetic patient cases are preparation
-and verification material; they do not implement this extraction system.
+The application now has durable extraction jobs, an OpenAI Responses adapter,
+validated source-backed suggestions, browser review and explicit PENDING saves.
+The ChPL corpus, notebooks and synthetic cases remain preparation/verification
+material rather than independent clinical gold labels. Real-provider capability
+and clinical accuracy still require evaluation.
 
-## Planned flow
+## Implemented flow
 
 1. A pharmacist or administrator selects an ACTIVE, versioned document and exact
    product context, then requests an extraction job.
@@ -34,7 +35,12 @@ and verification material; they do not implement this extraction system.
    rule or alter an assessment. Conditions the executable schema cannot represent
    stay unresolved and prevent approval.
 
-## Implementation work still required
+## Original implementation checklist
+
+The checklist below records the design scope. The first text-based integration
+implements provider configuration, jobs, suggestion validation, review and
+pending-only conversion. Independent labels, real-model evaluation and harder
+PDF handling remain outstanding. See the guide for exact limits.
 
 - Select the provider/model and record the API/model version and prompt/schema
   hashes for every run. Define endpoint configuration and server-only key handling.
@@ -54,5 +60,5 @@ and verification material; they do not implement this extraction system.
 
 The existing [extraction design](ai-rule-extraction-plan.md) retains detailed
 evidence and review requirements. Its local model research is historical context,
-not the selected deployment direction. No provider is integrated and no API key
-is required merely to run the current deterministic application or offline tests.
+not the selected deployment direction. No API key is required merely to run the
+current deterministic application or offline tests; online extraction requires one.

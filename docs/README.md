@@ -1,6 +1,6 @@
 # Documentation
 
-Current implementation: Go deterministic engine/API, React workspace, PostgreSQL 18 with pgvector in Docker, local staff sessions and synthetic patient history. Phases 6–9 are implemented; clinical approval, assisted extraction and real-model evaluation remain open. AI rule extraction is planned locally; no model currently creates rules.
+Current implementation: Go deterministic engine/API, React workspace, PostgreSQL 18 with pgvector in Docker, local staff sessions and synthetic patient history. Phases 6–9 are implemented. Online GPT-5.4 Mini extraction produces cited suggestions for explicit PENDING saves; clinical approval and independent real-model evaluation remain open. Models cannot approve rules.
 
 ## Current guides
 
@@ -17,7 +17,8 @@ Current implementation: Go deterministic engine/API, React workspace, PostgreSQL
 | Calculator references | [Calculator sources](calculator-sources.md) |
 | Pinned Polish source acquisition | [Source provenance](polish-chpl-acquisition.md) |
 | Retrieval baseline and evaluation | [Evaluation](evaluation-guide.md) |
-| Proposed local Qwen/MedGemma extraction | [AI extraction plan](ai-rule-extraction-plan.md) |
+| Online GPT-5.4 Mini document extraction | [Configuration and review workflow](online-extraction-guide.md) |
+| Extraction design and historical model research | [AI extraction plan](ai-rule-extraction-plan.md) |
 | Uploadable Kaggle/Colab model comparison | [Experiment notebook and guide](../experiments/model-comparison/README.md) |
 | Installation, migration and backup/recovery | [Release operations](release-recovery.md) |
 | Executed acceptance and thesis boundaries | [Release evidence](release-evidence.md) |

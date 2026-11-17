@@ -4,7 +4,8 @@
 with an API key for the next implementation. See the current
 [online extraction plan](online-rule-extraction.md). This supersedes the local-only
 deployment decision below; local model research remains historical comparison
-material. Online extraction and automated rule drafting are not implemented yet.
+material. The first OpenAI `gpt-5.4-mini` integration is now implemented; see the
+[runtime guide](online-extraction-guide.md). Clinical evaluation remains open.
 
 Research date: 2026-11-05. Status: planned local extraction pipeline, not an implemented extractor or selected clinical model. User confirmed local inference on 2026-11-05. The first target is this computer; usable GPU memory/runtime remains a preflight check. Design contract: ../.planning/phases/04-ingestion-review/04-AI-SPEC.md.
 
