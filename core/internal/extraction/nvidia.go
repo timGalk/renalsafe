@@ -67,35 +67,46 @@ func (n *NVIDIA) extract(ctx context.Context, input SourceInput, endpoint string
 	if err != nil || len(source) > MaxInputBytes {
 		return result, fmt.Errorf("input exceeds extraction budget")
 	}
-	schema, _ := json.Marshal(Schema())
-	// This model's NVIDIA reference does not advertise response_format. Supply
-	// the schema in instructions and require strict local validation instead.
+	text, err := n.complete(ctx, endpoint, n.completionPayload(Prompt, source, Schema()), &result)
+	if err != nil {
+		return ExtractionResult{}, err
+	}
+	return finishExtraction(text, prepared, input, result)
+}
+
+func (n *NVIDIA) completionPayload(prompt string, source []byte, schema map[string]any) map[string]any {
+	encoded, _ := json.Marshal(schema)
+	// Supply the schema in instructions and require strict local validation.
 	payload := n.GenerationSettings()
 	payload["model"] = n.model
 	payload["messages"] = []map[string]string{
-		{"role": "system", "content": Prompt + nvidiaJSONInstruction + string(schema)},
+		{"role": "system", "content": prompt + nvidiaJSONInstruction + string(encoded)},
 		{"role": "user", "content": string(source)},
 	}
+	return payload
+}
+
+func (n *NVIDIA) complete(ctx context.Context, endpoint string, payload map[string]any, result *ExtractionResult) ([]byte, error) {
 	body, _ := json.Marshal(payload)
 	req, err := http.NewRequestWithContext(ctx, "POST", endpoint, bytes.NewReader(body))
 	if err != nil {
-		return result, fmt.Errorf("provider request failed")
+		return nil, fmt.Errorf("provider request failed")
 	}
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("Accept", "application/json")
 	req.Header.Set("Authorization", "Bearer "+n.key)
 	response, err := n.client.Do(req)
 	if err != nil {
-		return result, fmt.Errorf("provider connection failed")
+		return nil, fmt.Errorf("provider connection failed")
 	}
 	defer response.Body.Close()
 	// No automatic paid retries or redirects, including NVIDIA's async 202.
 	if response.StatusCode != http.StatusOK {
-		return result, fmt.Errorf("provider HTTP %d", response.StatusCode)
+		return nil, fmt.Errorf("provider HTTP %d", response.StatusCode)
 	}
 	raw, err := io.ReadAll(io.LimitReader(response.Body, MaxOutputBytes+1))
 	if err != nil || len(raw) > MaxOutputBytes {
-		return result, fmt.Errorf("provider response exceeds budget")
+		return nil, fmt.Errorf("provider response exceeds budget")
 	}
 	var envelope struct {
 		ID      string `json:"id"`
@@ -117,21 +128,21 @@ func (n *NVIDIA) extract(ctx context.Context, input SourceInput, endpoint string
 		} `json:"usage"`
 	}
 	if json.Unmarshal(raw, &envelope) != nil || envelope.ID == "" || len(envelope.ID) > 200 || envelope.Model == "" || len(envelope.Model) > 200 || len(envelope.Choices) != 1 {
-		return result, fmt.Errorf("provider incomplete or invalid response")
+		return nil, fmt.Errorf("provider incomplete or invalid response")
 	}
 	if envelope.Model != n.model && !strings.HasPrefix(envelope.Model, n.model+"-") {
-		return result, fmt.Errorf("provider returned a different model")
+		return nil, fmt.Errorf("provider returned a different model")
 	}
 	choice := envelope.Choices[0]
 	if choice.Message.Refusal != nil {
-		return result, fmt.Errorf("provider refused extraction")
+		return nil, fmt.Errorf("provider refused request")
 	}
 	if choice.FinishReason != "stop" || choice.Message.Role != "assistant" || choice.Message.Content == "" || len(choice.Message.ToolCalls) != 0 {
-		return result, fmt.Errorf("provider incomplete or invalid response")
+		return nil, fmt.Errorf("provider incomplete or invalid response")
 	}
 	result.Provider, result.Model, result.ResponseID = n.Name(), envelope.Model, envelope.ID
 	if envelope.Usage != nil {
 		result.Usage = &TokenUsage{InputTokens: envelope.Usage.PromptTokens, OutputTokens: envelope.Usage.CompletionTokens, TotalTokens: envelope.Usage.TotalTokens, InputTokenDetails: envelope.Usage.PromptTokenDetails}
 	}
-	return finishExtraction([]byte(choice.Message.Content), prepared, input, result)
+	return []byte(choice.Message.Content), nil
 }

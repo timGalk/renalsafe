@@ -24,6 +24,7 @@ type OpenAI struct {
 	embedder   evidence.Embedder
 }
 
+const openAIEndpoint = "https://api.openai.com/v1/responses"
 const DefaultModel = "gpt-5.4-mini"
 const ReasoningEffort = "low"
 
@@ -40,7 +41,7 @@ func (o *OpenAI) Model() string { return o.model }
 func (o *OpenAI) Name() string  { return "openai" }
 func (o *OpenAI) Extract(ctx context.Context, input SourceInput) (ExtractionResult, error) {
 	// Fixed HTTPS endpoint prevents sending the key to a caller-selected host.
-	return o.extract(ctx, input, "https://api.openai.com/v1/responses")
+	return o.extract(ctx, input, openAIEndpoint)
 }
 func (o *OpenAI) extract(ctx context.Context, input SourceInput, endpoint string) (ExtractionResult, error) {
 	var result ExtractionResult
@@ -53,26 +54,41 @@ func (o *OpenAI) extract(ctx context.Context, input SourceInput, endpoint string
 	if err != nil || len(source) > MaxInputBytes {
 		return result, fmt.Errorf("input exceeds extraction budget")
 	}
-	payload := map[string]any{"model": o.model, "instructions": Prompt, "input": string(source), "store": false, "max_output_tokens": 10000, "truncation": "disabled", "text": map[string]any{"format": map[string]any{"type": "json_schema", "name": "renal_findings", "strict": true, "schema": Schema()}}}
-	payload["reasoning"] = map[string]string{"effort": ReasoningEffort}
+	text, err := o.complete(ctx, endpoint, o.completionPayload(Prompt, source, "renal_findings", Schema(), 10000), &result)
+	if err != nil {
+		return ExtractionResult{}, err
+	}
+	return finishExtraction(text, prepared, input, result)
+}
+
+func (o *OpenAI) completionPayload(prompt string, source []byte, name string, schema map[string]any, maxTokens int) map[string]any {
+	return map[string]any{
+		"model": o.model, "instructions": prompt, "input": string(source),
+		"store": false, "max_output_tokens": maxTokens, "truncation": "disabled",
+		"text":      map[string]any{"format": map[string]any{"type": "json_schema", "name": name, "strict": true, "schema": schema}},
+		"reasoning": map[string]string{"effort": ReasoningEffort},
+	}
+}
+
+func (o *OpenAI) complete(ctx context.Context, endpoint string, payload map[string]any, result *ExtractionResult) ([]byte, error) {
 	body, _ := json.Marshal(payload)
 	req, err := http.NewRequestWithContext(ctx, "POST", endpoint, bytes.NewReader(body))
 	if err != nil {
-		return result, fmt.Errorf("provider request failed")
+		return nil, fmt.Errorf("provider request failed")
 	}
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("Authorization", "Bearer "+o.key)
 	response, err := o.client.Do(req)
 	if err != nil {
-		return result, fmt.Errorf("provider connection failed")
+		return nil, fmt.Errorf("provider connection failed")
 	}
 	defer response.Body.Close()
 	if response.StatusCode != 200 {
-		return result, fmt.Errorf("provider HTTP %d", response.StatusCode)
+		return nil, fmt.Errorf("provider HTTP %d", response.StatusCode)
 	} // Never persist provider error bodies or credentials.
 	raw, err := io.ReadAll(io.LimitReader(response.Body, MaxOutputBytes+1))
 	if err != nil || len(raw) > MaxOutputBytes {
-		return result, fmt.Errorf("provider response exceeds budget")
+		return nil, fmt.Errorf("provider response exceeds budget")
 	}
 	var envelope struct {
 		Usage  *TokenUsage `json:"usage"`
@@ -89,17 +105,17 @@ func (o *OpenAI) extract(ctx context.Context, input SourceInput, endpoint string
 		} `json:"output"`
 	}
 	if json.Unmarshal(raw, &envelope) != nil || envelope.Status != "completed" || envelope.ID == "" || len(envelope.ID) > 200 || envelope.Model == "" || len(envelope.Model) > 200 {
-		return result, fmt.Errorf("provider incomplete or invalid response")
+		return nil, fmt.Errorf("provider incomplete or invalid response")
 	}
 	if envelope.Model != o.model && !strings.HasPrefix(envelope.Model, o.model+"-") {
-		return result, fmt.Errorf("provider returned a different model")
+		return nil, fmt.Errorf("provider returned a different model")
 	}
 	texts := []string{}
 	for _, item := range envelope.Output {
 		if item.Type == "message" && item.Role == "assistant" {
 			for _, part := range item.Content {
 				if part.Type == "refusal" {
-					return result, fmt.Errorf("provider refused extraction")
+					return nil, fmt.Errorf("provider refused request")
 				}
 				if part.Type == "output_text" {
 					texts = append(texts, part.Text)
@@ -108,10 +124,10 @@ func (o *OpenAI) extract(ctx context.Context, input SourceInput, endpoint string
 		}
 	}
 	if len(texts) != 1 {
-		return ExtractionResult{}, fmt.Errorf("provider output is not a strict finding envelope")
+		return nil, fmt.Errorf("provider did not return one text response")
 	}
 	result.Provider = o.Name()
 	result.Model, result.ResponseID = envelope.Model, envelope.ID
 	result.Usage = envelope.Usage
-	return finishExtraction([]byte(texts[0]), prepared, input, result)
+	return []byte(texts[0]), nil
 }

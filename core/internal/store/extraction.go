@@ -52,7 +52,7 @@ func extractionFailure(err error) string {
 		return "The configured model or extraction prompt changed. Request a new job."
 	case "requester permissions changed":
 		return "The requesting account no longer has extraction permission."
-	case "provider refused extraction":
+	case "provider refused extraction", "provider refused request":
 		return "The model refused extraction. No suggestions were saved."
 	case "provider incomplete or invalid response":
 		return "The model response was incomplete or invalid. No suggestions were saved."

@@ -150,6 +150,8 @@ func OpenAPI() map[string]any {
 	operation("/api/v1/extractions/{id}", "get", "Read extraction suggestions and exact source context", nil, ref(store.ExtractionJob{}), "200")
 	operation("/api/v1/extractions/{id}/cancel", "post", "Discard queued or running extraction; in-flight provider request may still incur cost", nil, ref(store.ExtractionJob{}), "200")
 	operation("/api/v1/extractions/{id}/candidate", "post", "Explicitly save reviewed suggestion as PENDING; no automatic approval", ref(store.ExtractionSave{}), ref(store.StoredRule{}), "201")
+	operation("/api/v1/combination-review/status", "get", "Availability of optional AI source review", nil, ref(ExtractionStatus{}), "200")
+	operation("/api/v1/assessments/{id}/combination-review", "post", "Review public source excerpts for an authorized multi-medicine assessment", map[string]any{"type": "object", "additionalProperties": false}, ref(CombinationReviewResponse{}), "200")
 	operation("/api/v1/catalog", "get", "Exact active product/form/route/indication contexts", nil, array(domain.Context{}), "200")
 	operation("/api/v1/assessments", "post", "Persist deterministic assessment and audit atomically", ref(domain.Request{}), ref(store.AssessmentRecord{}), "201")
 	operation("/api/v1/assessments/{id}", "get", "Read authorised case result; unlinked results use creator/admin access", nil, ref(store.AssessmentRecord{}), "200")

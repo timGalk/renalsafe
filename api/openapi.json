@@ -448,6 +448,115 @@
         ],
         "type": "object"
       },
+      "CombinationCitation": {
+        "additionalProperties": false,
+        "properties": {
+          "document_id": {
+            "type": "string"
+          },
+          "page_end": {
+            "type": "integer"
+          },
+          "page_start": {
+            "type": "integer"
+          },
+          "pdf_sha256": {
+            "type": "string"
+          },
+          "product": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string"
+          },
+          "section": {
+            "type": "string"
+          },
+          "source_url": {
+            "type": "string"
+          },
+          "source_version": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "product",
+          "document_id",
+          "source_url",
+          "source_version",
+          "pdf_sha256",
+          "section",
+          "page_start",
+          "page_end",
+          "quote"
+        ],
+        "type": "object"
+      },
+      "CombinationFinding": {
+        "additionalProperties": false,
+        "properties": {
+          "citations": {
+            "items": {
+              "$ref": "#/components/schemas/CombinationCitation"
+            },
+            "type": "array"
+          },
+          "topic": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "topic",
+          "citations"
+        ],
+        "type": "object"
+      },
+      "CombinationReview": {
+        "additionalProperties": false,
+        "properties": {
+          "findings": {
+            "items": {
+              "$ref": "#/components/schemas/CombinationFinding"
+            },
+            "type": "array"
+          },
+          "model": {
+            "type": "string"
+          },
+          "provider": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "provider",
+          "model",
+          "findings"
+        ],
+        "type": "object"
+      },
+      "CombinationReviewResponse": {
+        "additionalProperties": false,
+        "properties": {
+          "limited": {
+            "type": "boolean"
+          },
+          "review": {
+            "$ref": "#/components/schemas/CombinationReview"
+          },
+          "uncovered": {
+            "items": {
+              "$ref": "#/components/schemas/Context"
+            },
+            "type": "array"
+          }
+        },
+        "required": [
+          "review",
+          "uncovered",
+          "limited"
+        ],
+        "type": "object"
+      },
       "Context": {
         "additionalProperties": false,
         "properties": {
@@ -3546,6 +3655,164 @@
         "summary": "Read authorised case result; unlinked results use creator/admin access"
       }
     },
+    "/api/v1/assessments/{id}/combination-review": {
+      "post": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "additionalProperties": false,
+                "type": "object"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CombinationReviewResponse"
+                }
+              }
+            },
+            "description": "Success after required persistence"
+          },
+          "401": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "403": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "409": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "413": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "415": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "503": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          }
+        },
+        "summary": "Review public source excerpts for an authorized multi-medicine assessment"
+      }
+    },
     "/api/v1/assessments/{id}/export": {
       "get": {
         "parameters": [
@@ -5328,6 +5595,143 @@
           }
         },
         "summary": "Exact active product/form/route/indication contexts"
+      }
+    },
+    "/api/v1/combination-review/status": {
+      "get": {
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ExtractionStatus"
+                }
+              }
+            },
+            "description": "Success after required persistence"
+          },
+          "401": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "403": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "409": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "413": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "415": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "422": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          },
+          "503": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                }
+              }
+            },
+            "description": "Request rejected or operation not committed"
+          }
+        },
+        "summary": "Availability of optional AI source review"
       }
     },
     "/api/v1/documents": {
