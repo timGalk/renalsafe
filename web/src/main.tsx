@@ -2,7 +2,7 @@ import { useContext,useEffect,useLayoutEffect,useRef,Component,type ReactNode } 
 import { createRoot } from 'react-dom/client';
 import { createBrowserRouter,RouterProvider,Link,NavLink,useBlocker,useLocation,useNavigate } from 'react-router-dom';
 import { api,invalidateRequests,errorText } from './api';
-import { SessionProvider,useSession,broadcastLogout } from './session';
+import { SessionProvider,useSession,broadcastLogout,demoHome,isDemoSession } from './session';
 import { DraftContext,DraftProvider } from './workspace';
 import { Loading } from './ui';
 import { Login,Account,Users,Audit,Status } from './staff';
@@ -35,8 +35,73 @@ function Workspace(){const {session}=useSession(),loc=useLocation();const role=s
  else if(loc.pathname==='/admin/status')page=<Status/>;
  else if(['/','/dashboard','/login','/activate'].includes(loc.pathname))page=<Dashboard/>;
  else page=<div className="empty"><h1 tabIndex={-1}>Page not found</h1><p>Choose a workspace section to continue.</p><Link to="/dashboard">Open dashboard</Link></div>;
- const item=(to:string,label:string,id?:string)=><NavLink to={to} id={id}>{label}</NavLink>;
- return <><a className="skip" href="#content">Skip to content</a><header className="topbar"><Link to="/dashboard" className="brand"><span className="brand-mark">R</span><span>RenalSafe<small>Renal decision workspace</small></span></Link><div className="identity"><span>{session!.username}<small>{role}</small></span><Link to="/logout" id="logout" className="button secondary">Sign out</Link></div></header><div className="app-layout" id="workspace"><aside className="sidebar"><p className="nav-label">CLINICIAN WORKSPACE</p><nav aria-label="Workspace sections">{item('/dashboard','Overview')}{item('/patients','Patients','patients-nav')}{item('/history','Saved results','history-nav')}{role==='physician'&&item('/assess/new','New assessment')}{item('/evidence','Source evidence')}{role!=='physician'&&<>{item('/review','Rule review','review-nav')}{item('/documents','Documents','documents-nav')}</>}{item('/account','My account')}{role==='admin'&&<><p className="nav-label">ADMINISTRATION</p>{item('/admin/users','Staff accounts','admin-nav')}{item('/admin/audit','Audit history')}{item('/admin/status','System status')}</>}</nav><div className="sidebar-note"><strong>Synthetic cases only</strong><p>Source-backed decisions with a traceable review history.</p><a href="/demo.html">Training scenarios ↗</a></div></aside><main id="content" className="content"><div className="scope-note">Academic workspace · Synthetic cases only · Confirm scope for every assessment.</div><ErrorBoundary key={loc.pathname+loc.search}><div key={loc.pathname+loc.search}>{page}</div></ErrorBoundary><footer>Deterministic calculations · Reviewed rules · Traceable source evidence</footer></main></div><DraftGuard/></>;
+ const demo = isDemoSession(session!);
+ const home = demo ? demoHome[role] : '/dashboard';
+ const sections = [
+   {to: '/dashboard', label: 'Overview'},
+   {to: '/patients', label: 'Patients', id: 'patients-nav', primary: role === 'physician'},
+   {to: '/history', label: 'Saved results', id: 'history-nav', primary: role === 'physician'},
+   {to: '/assess/new', label: 'New assessment', visible: role === 'physician', primary: true},
+   {to: '/evidence', label: 'Source evidence', primary: role === 'pharmacist'},
+   {to: '/review/extractions', label: 'Rule extraction', visible: demo && role === 'pharmacist', primary: true},
+   {to: '/review', label: 'Rule review', id: 'review-nav', visible: role !== 'physician', primary: role === 'pharmacist'},
+   {to: '/documents', label: 'Documents', id: 'documents-nav', visible: role !== 'physician', primary: role === 'pharmacist'},
+   {to: '/account', label: 'My account'},
+ ];
+ const admin = [
+   {to: '/admin/users', label: 'Staff accounts', id: 'admin-nav', primary: true},
+   {to: '/admin/audit', label: 'Audit history', primary: true},
+   {to: '/admin/status', label: 'System status', primary: true},
+ ];
+ const workspaceSections = sections.filter(item => item.visible !== false);
+ const demoSections = role === 'admin' ? [...workspaceSections, ...admin] : workspaceSections;
+ const navLink = ({to, label, id}: {to: string; label: string; id?: string}) => (
+   <NavLink key={to} to={to} id={id} end={to === '/review' && demo && role === 'pharmacist'}>{label}</NavLink>
+ );
+ return (
+   <>
+     <a className="skip" href="#content">Skip to content</a>
+     <header className="topbar">
+       <Link to={home} className="brand">
+         <span className="brand-mark">R</span>
+         <span>RenalSafe{!demo && <small>Renal decision workspace</small>}</span>
+       </Link>
+       <div className="identity">
+         <span>{demo ? 'Demo workspace' : session!.username}<small>{role}</small></span>
+         <Link to="/logout" id="logout" className="button secondary">Sign out</Link>
+       </div>
+     </header>
+     <div className="app-layout" id="workspace">
+       <aside className="sidebar">
+         {!demo && <p className="nav-label">CLINICIAN WORKSPACE</p>}
+         <nav aria-label="Workspace sections">
+           {demo ? <>
+             {demoSections.filter(item => item.primary).sort((a, b) => Number(b.to === home) - Number(a.to === home)).map(navLink)}
+             <details key={loc.pathname} className="demo-nav-more">
+               <summary>More tools</summary>
+               <div>{demoSections.filter(item => !item.primary).map(navLink)}</div>
+             </details>
+             <a href="/demo.html">Demo home</a>
+           </> : <>
+             {workspaceSections.map(navLink)}
+             {role === 'admin' && <><p className="nav-label">ADMINISTRATION</p>{admin.map(navLink)}</>}
+           </>}
+         </nav>
+         {!demo && <div className="sidebar-note">
+           <strong>Synthetic cases only</strong>
+           <p>Source-backed decisions with a traceable review history.</p>
+           <a href="/demo.html">Training scenarios ↗</a>
+         </div>}
+       </aside>
+       <main id="content" className="content">
+         <div className="scope-note">{demo ? 'Synthetic cases only' : 'Academic workspace · Synthetic cases only · Confirm scope for every assessment.'}</div>
+         <ErrorBoundary key={loc.pathname + loc.search}><div key={loc.pathname + loc.search}>{page}</div></ErrorBoundary>
+         {!demo && <footer>Deterministic calculations · Reviewed rules · Traceable source evidence</footer>}
+       </main>
+     </div>
+     <DraftGuard/>
+   </>
+ );
 }
 const router=createBrowserRouter([{path:'*',element:<SessionProvider><Shell/></SessionProvider>}]);
 createRoot(document.getElementById('root')!).render(<RouterProvider router={router}/>);

@@ -15,6 +15,14 @@ docker compose up -d --build
 
 Open **http://127.0.0.1:8080/login**. Sign in with a staff username and password. For first setup, use `scripts/setup-accounts.py` to issue private activation details, then activate at `/activate`; see `docs/accounts.md`. Administrators can create physician/pharmacist accounts from **Staff accounts**. Browser access-key entry has been removed; local keys remain for setup/demo scripts.
 
+For a local, synthetic-data demonstration, enable optional quick sign-in and rebuild the service:
+
+```sh
+RENALSAFE_DEMO_LOGIN=true docker compose up --build -d
+```
+
+The login page then offers physician, pharmacist, and admin demo accounts. Anyone able to access this demo can use these roles, including administrator privileges; use an isolated local database with synthetic data only. The setting is off by default. To disable it, run `docker compose up -d` without the environment variable; demo sessions are revoked when the service restarts. Existing demo accounts and their synthetic data remain in the database.
+
 The React workspace provides patient/lab history, new and saved assessments, evidence, document/rule review, staff accounts, audit and system status. See `docs/final-workspace.md` for routes and role-specific workflows.
 
 The seeded real-source candidate remains **PENDING**: the example returns manual review without an automated action or dose. Do not approve clinical records merely to make the demonstration return a recommendation. Approved fixtures exist only in isolated tests.

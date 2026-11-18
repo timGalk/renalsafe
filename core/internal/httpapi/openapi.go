@@ -88,6 +88,9 @@ func OpenAPI() map[string]any {
 
 	textField := map[string]any{"type": "string"}
 	statusResponse := object(map[string]any{"status": textField})
+	operation("/api/v1/auth/demo", "get", "Check whether optional demo sign-in is available", nil, object(map[string]any{"enabled": map[string]any{"type": "boolean"}}), "200")
+	operation("/api/v1/auth/demo", "post", "Create a session for a demo role when enabled", object(map[string]any{"role": map[string]any{"type": "string", "enum": []string{"physician", "pharmacist", "admin"}}}), ref(store.Session{}), "200")
+	paths["/api/v1/auth/demo"].(map[string]any)["get"].(map[string]any)["security"] = []any{}
 	operation("/api/v1/auth/login", "post", "Create cookie session with durable login throttling", object(map[string]any{"username": textField, "password": textField}), ref(store.Session{}), "200")
 	operation("/api/v1/auth/activate", "post", "Consume single-use activation secret", object(map[string]any{"username": textField, "activation_secret": textField, "password": textField}), statusResponse, "200")
 	operation("/api/v1/auth/session", "get", "Restore session identity and CSRF token", nil, ref(store.Session{}), "200")
@@ -98,7 +101,7 @@ func OpenAPI() map[string]any {
 	operation("/api/v1/admin/users", "post", "Administrator: create staff account", userInput, ref(store.User{}), "200")
 	operation("/api/v1/admin/users/{id}", "patch", "Administrator: manage staff; protects last active administrator", userInput, ref(store.User{}), "200")
 	operation("/api/v1/admin/users/{id}/reset", "post", "Administrator: reset credentials and issue activation secret", nil, object(map[string]any{"activation_secret": textField, "expires_in": textField}), "200")
-	for _, p := range []string{"/api/v1/auth/login", "/api/v1/auth/activate"} {
+	for _, p := range []string{"/api/v1/auth/login", "/api/v1/auth/activate", "/api/v1/auth/demo"} {
 		paths[p].(map[string]any)["post"].(map[string]any)["security"] = []any{}
 	}
 

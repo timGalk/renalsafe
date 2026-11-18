@@ -1,11 +1,111 @@
-import { useState,type FormEvent } from 'react';
+import { useEffect,useState,type FormEvent } from 'react';
 import { Link,useLocation,useNavigate } from 'react-router-dom';
 import { api,ApiError,displayTime,type Model,type Session } from './api';
-import { useSession,broadcastLogout } from './session';
+import { useSession,broadcastLogout,demoHome } from './session';
 import { useDraft } from './workspace';
 import { Alerts,Badge,Empty,Field,PageTitle,ResourceState,Submit,formValues,text,useAction,useResource } from './ui';
-export function Login(){const auth=useSession(),loc=useLocation(),nav=useNavigate(),action=useAction();const activate=loc.pathname==='/activate';async function submit(e:FormEvent<HTMLFormElement>){const form=e.currentTarget,data=formValues(e);await action.run(async()=>{if(activate){try{await api('/auth/activate',{method:'POST',body:{username:text(data,'username'),activation_secret:text(data,'secret'),password:text(data,'password')}});}catch(error){if(error instanceof ApiError&&error.status===403)throw new Error('Activation details are invalid or expired. Ask your administrator for a new secret.');throw error;}form.reset();action.setNotice('Password set. Sign in with your username and password.');nav('/login');}else{const session=await api<Session>('/auth/login',{method:'POST',body:{username:text(data,'username'),password:text(data,'password')}});form.reset();auth.login(session);nav(session.must_change_password?'/account':['/','/login','/activate'].includes(loc.pathname)?'/dashboard':loc.pathname+loc.search,{replace:true});}});}
- return <main className="auth-shell"><Link to="/login" className="brand"><span className="brand-mark">R</span>RenalSafe</Link><div className="auth-card" id="login"><p className="eyebrow">CLINICIAN WORKSPACE</p><h1>{activate?'Activate your account':'Open workspace'}</h1><p>{activate?'Use the private, one-time activation details supplied by your administrator.':'Sign in to manage synthetic patients and review renal assessments.'}</p><Alerts error={action.error||auth.reason} notice={action.notice}/><form key={activate?'activate':'login'} id={activate?'activate-form':'account-login'} onSubmit={submit}><Field label="Username" id={activate?'activate-user':'username'}><input id={activate?'activate-user':'username'} name="username" autoComplete="username" required maxLength={80}/></Field>{activate&&<Field label="Activation secret" id="activate-secret"><input id="activate-secret" name="secret" type="password" autoComplete="off" required/></Field>}<Field label={activate?'New password (at least 15 characters)':'Password'} id={activate?'activate-password':'password'}><input id={activate?'activate-password':'password'} name="password" type="password" autoComplete={activate?'new-password':'current-password'} minLength={activate?15:undefined} maxLength={256} required/></Field><Submit busy={action.busy}>{activate?'Set password':'Sign in'}</Submit></form><p><Link to={activate?'/login':'/activate'}>{activate?'Back to sign in':'Activate or reset an account'}</Link></p><small>Academic application. Use synthetic cases only.</small></div></main>;
+export function Login() {
+  const auth = useSession();
+  const loc = useLocation();
+  const nav = useNavigate();
+  const action = useAction();
+  const activate = loc.pathname === '/activate';
+  const landing = loc.pathname === '/' || loc.pathname === '/login';
+  const [demo, setDemo] = useState(false);
+  const [showStaff, setShowStaff] = useState(false);
+  const staffCollapsed = demo && landing && !showStaff && !auth.reason;
+
+  useEffect(() => {
+    if (activate) return;
+    let active = true;
+    api<{enabled: boolean}>('/auth/demo').then(value => {
+      if (active) setDemo(value.enabled);
+    }).catch(() => {
+      if (active) setDemo(false);
+    });
+    return () => { active = false; };
+  }, [activate, loc.pathname, loc.search]);
+
+  async function demoLogin(role: 'physician' | 'pharmacist' | 'admin') {
+    await action.run(async () => {
+      const session = await api<Session>('/auth/demo', {method: 'POST', body: {role}});
+      auth.login(session);
+      nav(landing ? demoHome[role] : loc.pathname + loc.search, {replace: true});
+    });
+  }
+
+  async function submit(event: FormEvent<HTMLFormElement>) {
+    const form = event.currentTarget;
+    const data = formValues(event);
+    await action.run(async () => {
+      if (activate) {
+        try {
+          await api('/auth/activate', {method: 'POST', body: {
+            username: text(data, 'username'), activation_secret: text(data, 'secret'), password: text(data, 'password'),
+          }});
+        } catch (error) {
+          if (error instanceof ApiError && error.status === 403) {
+            throw new Error('Activation details are invalid or expired. Ask your administrator for a new secret.');
+          }
+          throw error;
+        }
+        form.reset();
+        setShowStaff(true);
+        action.setNotice('Password set. Sign in with your username and password.');
+        nav('/login');
+        return;
+      }
+      const session = await api<Session>('/auth/login', {method: 'POST', body: {
+        username: text(data, 'username'), password: text(data, 'password'),
+      }});
+      form.reset();
+      auth.login(session);
+      nav(session.must_change_password ? '/account' : landing ? '/dashboard' : loc.pathname + loc.search, {replace: true});
+    });
+  }
+
+  const usernameId = activate ? 'activate-user' : 'username';
+  const passwordId = activate ? 'activate-password' : 'password';
+  return (
+    <main className="auth-shell">
+      <Link to="/login" className="brand"><span className="brand-mark">R</span>RenalSafe</Link>
+      <div className="auth-card" id="login">
+        <h1>{activate ? 'Activate your account' : 'Open RenalSafe'}</h1>
+        {activate && <p>Use the private, one-time activation details supplied by your administrator.</p>}
+        <Alerts error={action.error || auth.reason} notice={action.notice}/>
+        {!activate && demo && (
+          <section className="demo-login" aria-label="Quick demo sign-in">
+            <div className="demo-login-actions">
+              <button type="button" disabled={action.busy} onClick={() => void demoLogin('physician')}>Demo as physician</button>
+              <button type="button" className="secondary" disabled={action.busy} onClick={() => void demoLogin('pharmacist')}>Demo as pharmacist</button>
+            </div>
+            <details>
+              <summary>More sign-in options</summary>
+              <div className="demo-login-actions">
+                <button type="button" className="secondary" disabled={action.busy} onClick={() => void demoLogin('admin')}>Demo as admin</button>
+                {landing && !auth.reason && <button type="button" className="secondary" aria-controls="staff-sign-in" aria-expanded={!staffCollapsed} onClick={() => setShowStaff(staffCollapsed)}>Staff sign-in</button>}
+              </div>
+            </details>
+          </section>
+        )}
+        <div id="staff-sign-in" hidden={!activate && staffCollapsed}>
+          <form key={activate ? 'activate' : 'login'} id={activate ? 'activate-form' : 'account-login'} onFocus={() => setShowStaff(true)} onSubmit={submit}>
+            <Field label="Username" id={usernameId}>
+              <input id={usernameId} name="username" autoComplete="username" required maxLength={80}/>
+            </Field>
+            {activate && <Field label="Activation secret" id="activate-secret"><input id="activate-secret" name="secret" type="password" autoComplete="off" required/></Field>}
+            <Field label={activate ? 'New password (at least 15 characters)' : 'Password'} id={passwordId}>
+              <input id={passwordId} name="password" type="password" autoComplete={activate ? 'new-password' : 'current-password'} minLength={activate ? 15 : undefined} maxLength={256} required/>
+            </Field>
+            <Submit busy={action.busy}>{activate ? 'Set password' : 'Sign in'}</Submit>
+          </form>
+          <p className="auth-links"><Link to={activate ? '/login' : '/activate'}>{activate ? 'Back to sign in' : 'Activate or reset an account'}</Link></p>
+        </div>
+        {!activate && <p className="auth-links"><a href="/demo.html">Try the training demo without signing in</a></p>}
+        <small>Use synthetic cases only.</small>
+      </div>
+    </main>
+  );
 }
 export function Account(){const {session,end}=useSession(),action=useAction(),draft=useDraft(),nav=useNavigate();return <><PageTitle title="My account" description={session!.username+' · '+session!.actor.role}/><section className="card narrow"><h2>Change password</h2><p>Changing your password signs out all sessions. Use at least 15 characters.</p><Alerts error={action.error}/><form id="password-form" onChange={()=>draft.setDirty(true)} onSubmit={e=>{const data=formValues(e);void action.run(async()=>{await api('/auth/password',{method:'POST',body:{current_password:text(data,'current'),new_password:text(data,'next')}});draft.setDirty(false);broadcastLogout();end('Password changed. Sign in again.');nav('/login');});}}><Field label="Current password"><input name="current" type="password" autoComplete="current-password" required/></Field><Field label="New password"><input name="next" type="password" autoComplete="new-password" minLength={15} maxLength={256} required/></Field><Submit busy={action.busy}>Change password</Submit></form></section></>;}
 type User=Model<'User'>;

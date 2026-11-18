@@ -21,6 +21,7 @@ services:
       dockerfile: core/Dockerfile
     environment:
       RENALSAFE_DATABASE_URL: postgres://renalsafe:${RENALSAFE_DB_PASSWORD}@db:5432/renalsafe?sslmode=disable
+      RENALSAFE_DEMO_LOGIN: ${RENALSAFE_DEMO_LOGIN:-false}
       RENALSAFE_OLLAMA_URL: ${RENALSAFE_OLLAMA_URL:-}
       RENALSAFE_EMBEDDING_MODEL: ${RENALSAFE_EMBEDDING_MODEL:-}
       OPENAI_API_KEY: ${OPENAI_API_KEY:-}

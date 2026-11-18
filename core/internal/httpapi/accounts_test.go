@@ -79,3 +79,54 @@ func TestSessionCookieCSRFAndRevocation(t *testing.T) {
 		t.Fatal("logged out session usable")
 	}
 }
+
+func TestDemoLogin(t *testing.T) {
+	db := dbtest.Database(t)
+	if err := db.PrepareDemoAccounts(t.Context(), true); err != nil {
+		t.Fatal(err)
+	}
+	handler := (&httpapi.Server{DB: db, DemoLogin: true}).Handler()
+	var cookie *http.Cookie
+	for _, role := range []string{"physician", "pharmacist", "admin"} {
+		req := httptest.NewRequest("POST", "http://localhost/api/v1/auth/demo", strings.NewReader(`{"role":"`+role+`"}`))
+		req.Header.Set("Content-Type", "application/json")
+		w := httptest.NewRecorder()
+		handler.ServeHTTP(w, req)
+		if w.Code != 200 {
+			t.Fatalf("%s: %d %s", role, w.Code, w.Body.String())
+		}
+		var session store.Session
+		if err := json.Unmarshal(w.Body.Bytes(), &session); err != nil {
+			t.Fatal(err)
+		}
+		if session.Actor.ID != "demo-"+role || session.Actor.Role != role || session.CSRF == "" {
+			t.Fatal(session)
+		}
+		cookie = w.Result().Cookies()[0]
+	}
+	req := httptest.NewRequest("POST", "http://localhost/api/v1/auth/demo", strings.NewReader(`{"role":"system"}`))
+	req.Header.Set("Content-Type", "application/json")
+	w := httptest.NewRecorder()
+	handler.ServeHTTP(w, req)
+	if w.Code != 403 {
+		t.Fatalf("invalid role: %d", w.Code)
+	}
+	if err := db.PrepareDemoAccounts(t.Context(), false); err != nil {
+		t.Fatal(err)
+	}
+	handler = (&httpapi.Server{DB: db}).Handler()
+	req = httptest.NewRequest("GET", "http://localhost/api/v1/auth/session", nil)
+	req.AddCookie(cookie)
+	w = httptest.NewRecorder()
+	handler.ServeHTTP(w, req)
+	if w.Code != 401 {
+		t.Fatalf("demo session survived disabling: %d", w.Code)
+	}
+	req = httptest.NewRequest("POST", "http://localhost/api/v1/auth/demo", strings.NewReader(`{"role":"admin"}`))
+	req.Header.Set("Content-Type", "application/json")
+	w = httptest.NewRecorder()
+	handler.ServeHTTP(w, req)
+	if w.Code != 403 {
+		t.Fatalf("disabled demo login: %d", w.Code)
+	}
+}

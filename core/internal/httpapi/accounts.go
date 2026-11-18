@@ -65,6 +65,29 @@ func setSession(w http.ResponseWriter, r *http.Request, raw string) {
 	http.SetCookie(w, &http.Cookie{Name: sessionCookie, Value: raw, Path: "/", HttpOnly: true, Secure: r.TLS != nil, SameSite: http.SameSiteLaxMode, MaxAge: age})
 }
 func (s *Server) accountRoutes(mux *http.ServeMux) {
+	mux.HandleFunc("GET /api/v1/auth/demo", func(w http.ResponseWriter, r *http.Request) {
+		respond(w, 200, map[string]bool{"enabled": s.DemoLogin && localSessionTransport(r)})
+	})
+	mux.HandleFunc("POST /api/v1/auth/demo", func(w http.ResponseWriter, r *http.Request) {
+		if !s.DemoLogin || s.DB == nil || !localSessionTransport(r) {
+			fail(w, store.ErrForbidden)
+			return
+		}
+		var in struct {
+			Role string `json:"role"`
+		}
+		if e := readJSON(w, r, &in); e != nil {
+			fail(w, e)
+			return
+		}
+		raw, out, e := s.DB.DemoLogin(r.Context(), in.Role)
+		if e != nil {
+			fail(w, e)
+			return
+		}
+		setSession(w, r, raw)
+		respond(w, 200, out)
+	})
 	mux.HandleFunc("POST /api/v1/auth/login", func(w http.ResponseWriter, r *http.Request) {
 		if s.DB == nil || !localSessionTransport(r) {
 			fail(w, store.ErrForbidden)

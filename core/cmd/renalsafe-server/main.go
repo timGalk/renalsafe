@@ -56,6 +56,10 @@ func run() error {
 	if e = db.Provision(ctx, credentials.Actors()); e != nil {
 		return e
 	}
+	demo := os.Getenv("RENALSAFE_DEMO_LOGIN") == "true"
+	if e = db.PrepareDemoAccounts(ctx, demo); e != nil {
+		return fmt.Errorf("demo account setup failed: %w", e)
+	}
 	if *seed != "" {
 		if e = db.Seed(ctx, *seed); e != nil {
 			return e
@@ -93,7 +97,7 @@ func run() error {
 		}
 	}()
 	defer func() { stopWorker(); <-workerDone }()
-	app := &httpapi.Server{DB: db, Auth: credentials, Embedder: embedder, Extractor: extractor, PDF: evidence.Poppler{}}
+	app := &httpapi.Server{DB: db, Auth: credentials, Embedder: embedder, Extractor: extractor, PDF: evidence.Poppler{}, DemoLogin: demo}
 	srv := &http.Server{Addr: *addr, Handler: app.Handler(), ReadHeaderTimeout: 5 * time.Second, ReadTimeout: 45 * time.Second, WriteTimeout: 120 * time.Second, IdleTimeout: 60 * time.Second, MaxHeaderBytes: 32 << 10}
 	stop := make(chan os.Signal, 1)
 	signal.Notify(stop, os.Interrupt, syscall.SIGTERM)

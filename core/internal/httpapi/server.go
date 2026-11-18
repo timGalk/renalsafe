@@ -23,6 +23,7 @@ import (
 var assets embed.FS
 
 type Server struct {
+	DemoLogin bool
 	DB        *store.Store
 	Auth      *auth.Auth
 	Embedder  evidence.Embedder

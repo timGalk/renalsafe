@@ -4,3 +4,19 @@
 
 h1,h2,h3,p{overflow-wrap:anywhere}
 @media print{.scope-note{display:block!important;color:#000}.skip{display:none!important}}
+
+.demo-login { margin: 1.25rem 0; }
+.demo-login-actions { display: flex; flex-wrap: wrap; gap: .5rem; }
+.demo-login details { margin-bottom: 0; }
+.auth-links { font-size: 14px; }
+.demo-nav-more { margin: .25rem 0 0; padding-top: .45rem; }
+.demo-nav-more summary { padding: 8px 14px; color: #51666c; }
+.demo-nav-more[open] > summary { margin-bottom: .25rem; }
+.demo-nav-more > div { display: grid; gap: 4px; }
+
+@media (max-width: 720px) {
+  .demo-nav-more { margin: 0; padding: 0; border-top: 0; }
+  .demo-nav-more summary { font-size: 12px; padding-inline: 10px; }
+  .demo-nav-more[open] { flex-basis: 100%; }
+  .demo-nav-more > div { grid-template-columns: repeat(auto-fit, minmax(min(100%, 9rem), 1fr)); }
+}

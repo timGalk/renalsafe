@@ -4,7 +4,7 @@ Use synthetic data only. Start the application and activate staff accounts using
 
 ## Clinician and pharmacist walkthrough
 
-1. Open http://127.0.0.1:8080/login and sign in with a physician username/password. No browser service key is needed.
+1. Open http://127.0.0.1:8080/login and sign in as a physician. If quick demo sign-in is enabled, **Demo as physician** opens **New assessment** directly. **More sign-in options** contains staff and admin sign-in.
 2. Open **New assessment** (`/assess/new`) and select **Load synthetic example**. Review units, sample time, scope confirmations and the exact medicine context. For longitudinal history, create a synthetic case under **Patients**, add an observation and choose **Use this observation** first; example loading preserves that selected lab.
 3. Choose **Calculate and save assessment**. The seeded candidate is PENDING, so no approved rule yields **Manual review required**, without an automated action or dose.
 4. Reopen the saved result from **Saved results**. Use **Verify reproducibility**, **Find source passages**, JSON export and the printable report to show the immutable snapshot and provenance. Source retrieval supplies evidence without changing the result.
@@ -36,10 +36,12 @@ Without applicable approved rules, both medicine results require manual review a
 
 ## Isolated decision-engine teaching mode
 
-Open http://127.0.0.1:8080/demo.html (no sign-in required). Edit synthetic patient inputs, include either or both fictional products, and enter custom single doses, units and intervals. Select **Check prescription** to execute the production Go engine. Five preset buttons fill editable inputs only; no preset result is displayed. Editing inputs clears the previous result. The result shows calculated metrics, the matched range, rule/version, action, dose/interval comparison and explicit refusal reasons. Expand the full response to inspect the exact request and knowledge digest.
+Open http://127.0.0.1:8080/demo.html. When [local quick sign-in](../README.md#start-the-application) is enabled, **Quick sign-in as physician** opens a prefilled synthetic assessment. **Quick sign-in as pharmacist** opens the rule extraction workspace. A configured extraction provider is required to start a live run. See the [extraction guide](online-extraction-guide.md).
+
+Open **Try the fictional prescription check without signing in** for an isolated training case. The loaded example sets up two fictional prescriptions, one within the training limits and one outside. Select **Check prescription** to run the Go engine, or choose a different example from the dropdown. Expand **Edit patient and prescription** to customize the inputs. Changing them clears the previous result. **Technical details** shows the exact request, engine response and knowledge digest.
 
 Products TRAINING A/B and their numerical limits are fictional, not Meronem or ceftazidime dosing guidance. APPROVED and reviewer fields in raw JSON are explicitly marked software fixture metadata, not human clinical review. GET `/demo/scenarios.json` supplies fixed examples; POST `/demo/assess` evaluates custom inputs against the isolated synthetic snapshot. It accepts only the fictional catalog, uses strict bounded JSON parsing and the same origin check as the application, and has no database or authentication dependency. Results are not saved to the clinical database or audit log. Use synthetic data only.
 
 Verification: `TestIsolatedDemoScenarios` checks range-dependent actions, independent regimen violations and refusal reasons. `TestCustomDemoAssessment` verifies arbitrary doses/intervals, a changed creatinine selecting another rule, and rejection of real products and invalid prescriptions. Both use the HTTP handler without a database/auth object.
 
-The training UI uses plain-English metric cards: CrCl is marked as used by the rules, while eGFR is shown as an additional estimate. Each matched product has a table comparing the entered single dose and interval with rule limits; rule identifiers, the equation and fixture quotation are available in expandable details. Manual-review results explain missing inputs and the next step. Browser checks confirmed mixed prescription results and the missing-weight path after this UI update.
+The result shows the calculated CrCl and eGFR followed by the outcome for each product. Each product card shows the entered prescription, the applicable fictional limits or the reason for manual review. Expand **Why this rule?** for the matched range, equation name, rule version and fixture quotation.

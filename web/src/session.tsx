@@ -1,5 +1,15 @@
 import { createContext,useContext,useEffect,useState,type ReactNode } from 'react';
 import { api,resetClient,type Session } from './api';
+export const demoHome: Record<string, string> = {
+  physician: '/assess/new',
+  pharmacist: '/review',
+  admin: '/admin/users',
+};
+
+export function isDemoSession(session: Session) {
+  return Object.hasOwn(demoHome, session.actor.role) && session.actor.id === `demo-${session.actor.role}`;
+}
+
 type Auth={session:Session|null;loading:boolean;reason:string;generation:number;login:(s:Session)=>void;end:(reason?:string)=>void};
 const SessionContext=createContext<Auth>(null!);
 const channel=typeof BroadcastChannel!=='undefined'?new BroadcastChannel('renalsafe-session'):null;
