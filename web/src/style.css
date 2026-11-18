@@ -20,3 +20,50 @@ h1,h2,h3,p{overflow-wrap:anywhere}
   .demo-nav-more[open] { flex-basis: 100%; }
   .demo-nav-more > div { grid-template-columns: repeat(auto-fit, minmax(min(100%, 9rem), 1fr)); }
 }
+
+.assessment-sources { border-top: 1px solid var(--line); padding-top: 16px; margin-top: 20px; }
+.assessment-source { background: #f7faf9; border: 1px solid var(--line); border-radius: 8px; padding: 12px 16px; margin-bottom: 12px; }
+.assessment-source > p { margin-bottom: 8px; font-size: 14px; }
+.assessment-source .actions { margin: 8px 0; }
+.assessment-source .actions a { margin-top: 0; }
+.assessment-source details { margin: 12px 0 0; padding-top: 10px; }
+.assessment-source .source-passage { max-height: 20rem; }
+.assessment-sources > a { font-size: 14px; }
+
+.saved-assessment-header { margin-bottom: 18px; }
+.saved-assessment-header > a { display: inline-block; font-size: 14px; margin-bottom: 8px; }
+.saved-assessment-header h1 { margin-bottom: 4px; }
+.saved-assessment-header p { margin-bottom: 0; }
+
+.assessment-overview.needs-review { border-left: 4px solid #c38e31; }
+.assessment-outcome h2 { margin: 0 0 5px; }
+.assessment-outcome p { margin: 0 0 5px; }
+.assessment-reasons { padding-left: 1.2rem; margin: 6px 0 0; }
+.assessment-metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); gap: 14px; margin: 16px 0 0; }
+.assessment-metrics > div { background: #eef5f3; border-radius: 8px; padding: 10px 14px; }
+.assessment-metrics dt { font-size: 13px; color: var(--muted); }
+.assessment-metrics dd { margin: 2px 0 0; font-size: 24px; line-height: 1.3; font-weight: 650; }
+.assessment-metrics small { font-size: 12px; font-weight: 500; white-space: nowrap; }
+.assessment-calculation { margin: 12px 0 0; padding-top: 10px; }
+.assessment-no-estimates { margin: 12px 0 0; }
+
+.assessment-medicines > h2 { margin-bottom: 4px; }
+.assessment-medicines > p { margin: 0 0 12px; }
+.medicine-result { margin: 0; padding-top: 0; }
+.medicine-result > summary { display: flex; align-items: center; gap: 10px; padding: 13px 0; }
+.medicine-result > summary::before { content: ''; width: 6px; height: 6px; border-right: 2px solid var(--brand); border-bottom: 2px solid var(--brand); transform: rotate(-45deg); margin-right: 3px; flex: 0 0 auto; }
+.medicine-result[open] > summary { margin-bottom: 0; }
+.medicine-result[open] > summary::before { transform: rotate(45deg); }
+.medicine-result-name { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.medicine-result-summary .badge { text-align: center; }
+.medicine-result-body { padding: 0 0 12px; }
+.medicine-result-body h3 { margin-bottom: 8px; }
+.medicine-result-body .assessment-sources { margin-top: 14px; padding-top: 12px; }
+
+.combination-review > .section-head { margin-top: 0; margin-bottom: 8px; }
+.combination-review > .section-head p, .combination-review > .meta:last-child { margin-bottom: 0; }
+.combination-findings { margin-top: 14px; }
+.combination-findings > h3 { margin-bottom: 4px; }
+.combination-finding { margin: 6px 0; padding-top: 8px; }
+.combination-finding figure { margin: 0 0 12px; }
+.combination-finding blockquote { margin-bottom: 6px; }

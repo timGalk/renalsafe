@@ -5,6 +5,63 @@ import { useSession } from './session';
 import { useDraft } from './workspace';
 import { Alerts,Badge,Empty,Field,PageTitle,ResourceState,Submit,formValues,numeric,text,useAction,useResource } from './ui';
 const sameContext=(a:Context,b:Context)=>a.product===b.product&&a.form===b.form&&a.route===b.route&&a.indication===b.indication;
+
+function AssessmentSource({document, cited}: {document: Document; cited: boolean}) {
+  const [showPassages, setShowPassages] = useState(false);
+  const path = '/documents/' + encodeURIComponent(document.id);
+  const passages = useResource<Model<'Chunk'>[]>(showPassages ? path + '/chunks' : null);
+  const dosing = passages.data?.filter(chunk => chunk.section === '4.2');
+  const action = useAction();
+
+  return (
+    <div className="assessment-source">
+      <p><strong>{cited ? 'Source cited in this assessment' : 'Current SmPC / ChPL'}</strong> · pages {document.page_start}–{document.page_end}</p>
+      <div className="actions">
+        <button type="button" className="secondary" disabled={action.busy} onClick={() => void action.run(async () => {
+          const pdf = await api<Blob>(path + '/pdf', {blob: true});
+          download(pdf, `SmPC-${document.id}.pdf`);
+        })}>Download source PDF</button>
+        <a href={document.source.url} target="_blank" rel="noopener noreferrer">Official source ↗</a>
+      </div>
+      <Alerts error={action.error}/>
+      <details onToggle={event => { if (event.currentTarget.open) setShowPassages(true); }}>
+        <summary>Read dosing section (4.2)</summary>
+        <p className="meta">Version {document.source.version}</p>
+        {showPassages && <ResourceState {...passages} retry={passages.reload}/>}
+        {dosing?.length === 0 && <p>Section 4.2 is unavailable in the parsed text. Download the PDF to review the full document.</p>}
+        {dosing?.map(chunk => (
+          <div key={chunk.id}>
+            <p className="meta">{chunk.page_start === chunk.page_end ? `Page ${chunk.page_start}` : `Pages ${chunk.page_start}–${chunk.page_end}`}</p>
+            <pre className="source-passage" tabIndex={0} aria-label="Original dosing passage">{chunk.text}</pre>
+          </div>
+        ))}
+      </details>
+    </div>
+  );
+}
+
+export function AssessmentSources({context, citation, documents}: {
+  context: Context;
+  citation?: Model<'Citation'>;
+  documents: ReturnType<typeof useResource<Document[]>>;
+}) {
+  const cited = (doc: Document) => citation !== undefined && doc.id === citation.source_id &&
+    doc.source.document_sha256 === citation.document_sha256;
+  const matches = documents.data
+    ?.filter(doc => sameContext(doc.context, context) && (cited(doc) || doc.status === 'ACTIVE'))
+    .sort((a, b) => Number(cited(b)) - Number(cited(a)));
+
+  return (
+    <section className="assessment-sources" aria-label={`Sources for ${context.product}`}>
+      <h3>Sources</h3>
+      <ResourceState {...documents} retry={documents.reload}/>
+      {matches?.length === 0 && <p>No source document is available for this product context.</p>}
+      {matches?.map(doc => <AssessmentSource key={doc.id} document={doc} cited={cited(doc)}/>)}
+      <Link to={'/evidence?context=' + encodeURIComponent(JSON.stringify(context))}>Advanced source search</Link>
+    </section>
+  );
+}
+
 export function Evidence(){const catalog=useResource<Context[]>('/catalog'),[params]=useSearchParams(),action=useAction(),[result,setResult]=useState<Model<'EvidenceResult'>>(),searchRevision=useRef(0);let initial=-1;try{const c=JSON.parse(params.get('context')||'null');if(c&&catalog.data)initial=catalog.data.findIndex(v=>sameContext(c,v));}catch{}return <><PageTitle title="Source evidence" description="Retrieve original passages for manual review. Source search does not select a patient-specific dose."/><ResourceState {...catalog} retry={catalog.reload}/><Alerts error={action.error}/>{catalog.data&&!catalog.data.length&&<Empty>No active source contexts are available. A reviewer must import a document first.</Empty>}{catalog.data&&catalog.data.length>0&&<form key={initial} className="card" id="search-form" onChange={()=>{searchRevision.current++;setResult(undefined);}} onSubmit={e=>{const data=formValues(e);void action.run(async()=>{const revision=++searchRevision.current;setResult(undefined);const context=catalog.data![Number(text(data,'context'))];if(!context)throw new Error('Choose an exact product context.');const out=await api<Model<'EvidenceResult'>>('/evidence/search',{method:'POST',body:{context,query:text(data,'query'),section:text(data,'section'),mode:text(data,'mode'),limit:5}});if(revision===searchRevision.current)setResult(out);});}}><Field label="Product and context"><select id="search-context" name="context" required defaultValue={initial>=0?String(initial):''}><option value="">Select an exact context</option>{catalog.data.map((c,i)=><option key={i} value={String(i)}>{contextLabel(c)}</option>)}</select></Field><div className="grid"><Field label="Search query"><input id="query" name="query" defaultValue="renal OR nerek" minLength={2} maxLength={500} required/></Field><Field label="Section"><select name="section"><option value="">Renal sections: 4.2, 4.3, 4.4, 5.2</option>{['4.2','4.3','4.4','5.2'].map(s=><option key={s}>{s}</option>)}</select></Field><Field label="Search mode"><select name="mode"><option value="hybrid">Hybrid when available</option><option value="lexical">Full-text</option></select></Field></div><button disabled={action.busy}>{action.busy?'Searching…':'Find passages'}</button></form>}{result&&<div id="search-results"><p className="alert warning">{result.status==='NO_EVIDENCE'?'No matching passages found. Manual review is required.':'Source passages for manual review. No patient-specific dose has been generated.'}</p><p className="meta">Search mode: {result.mode==='lexical'?'full-text':'hybrid'}{result.degraded_reason?' · semantic retrieval unavailable: '+result.degraded_reason.replaceAll('_',' ').toLowerCase():''}</p>{result.hits.map(hit=><article key={hit.chunk.id} className="card"><h2>Section {hit.chunk.section} · pages {hit.chunk.page_start}–{hit.chunk.page_end}</h2><p>{hit.source.version}</p><a href={hit.source.url} target="_blank" rel="noopener noreferrer">Official source ↗</a><pre className="source-passage" tabIndex={0} aria-label="Original source passage">{hit.chunk.text}</pre><details><summary>Provenance</summary><p className="meta">PDF SHA-256: {hit.source.document_sha256}</p><p className="meta">Source bytes {hit.chunk.start_byte}–{hit.chunk.end_byte} · chunk {hit.chunk.id}</p></details></article>)}</div>}</>;}
 function DocumentCard({document:doc,all,reload}:{document:Document;all:Document[];reload:()=>void}){const action=useAction(),draft=useDraft();const replacements=all.filter(d=>d.id!==doc.id&&d.status==='ACTIVE'&&sameContext(d.context,doc.context));return <article className="card"><div className="section-head"><h2>{doc.context.product}</h2><Badge tone={doc.status==='ACTIVE'?'good':'neutral'}>{doc.status}</Badge></div><p>{contextLabel(doc.context)}</p><p>{doc.source.version} · pages {doc.page_start}–{doc.page_end}</p><Alerts error={action.error} notice={action.notice}/><div className="actions"><button className="secondary" onClick={()=>void action.run(async()=>download(await api<Blob>('/documents/'+doc.id+'/pdf',{blob:true}),'SmPC-'+doc.id+'.pdf'))}>Download original PDF</button>{doc.status==='ACTIVE'&&<button className="secondary" disabled={action.busy} onClick={()=>void action.run(async()=>{const out=await api<{indexed_chunks:number}>('/documents/'+doc.id+'/embeddings',{method:'POST'});action.setNotice('Passages indexed: '+out.indexed_chunks);})}>Index with local model</button>}<a href={doc.source.url} target="_blank" rel="noopener noreferrer">Official source ↗</a></div><details><summary>Source identity</summary><p className="meta">{doc.id} · PDF SHA-256 {doc.source.document_sha256}</p></details>{doc.status==='ACTIVE'&&replacements.length>0&&<details><summary>Supersede this version</summary><p>The prior source and its eligible rules will be excluded from new decisions. Historical results stay intact.</p><form onChange={()=>draft.setDirty(true)} onSubmit={e=>{const data=formValues(e);void action.run(async()=>{await api('/documents/'+doc.id+'/supersede',{method:'POST',body:{replacement_id:text(data,'replacement')}});draft.setDirty(false);reload();});}}><Field label="Replacement version"><select name="replacement" required><option value="">Choose replacement source</option>{replacements.map(d=><option value={d.id} key={d.id}>{d.source.version} · {d.id}</option>)}</select></Field><label className="check"><input type="checkbox" required/>I have checked this replacement's product scope and source version</label><Submit busy={action.busy}>Supersede with this version</Submit></form></details>}</article>;}
 export function Documents(){const resource=useResource<Document[]>('/documents'),action=useAction(),draft=useDraft();return <><PageTitle title="SmPC / ChPL documents" description="Pinned source versions, original PDFs and declared product scope." actions={<Link className="button" to="/review/extractions">Extract rule suggestions</Link>}/><ResourceState {...resource} retry={resource.reload}/><div id="document-list">{resource.data?.map(doc=><DocumentCard key={doc.id+doc.status} document={doc} all={resource.data!} reload={resource.reload}/>)}</div><section className="card"><h2>Upload PDF</h2><p>Declare the exact product and physical page range. Combined PDFs may contain other products. Source applicability and clinical rule meaning require review.</p><Alerts error={action.error} notice={action.notice}/><form id="upload-form" onChange={()=>draft.setDirty(true)} onSubmit={e=>{const form=e.currentTarget,data=formValues(e);void action.run(async()=>{const file=data.get('file');if(!(file instanceof File)||!file.size||file.size>12*1024*1024)throw new Error('Select a PDF no larger than 12 MiB.');const metadata:Model<'DocumentInput'>={context:{product:text(data,'product'),route:text(data,'route'),form:text(data,'form'),indication:text(data,'indication')},url:text(data,'url'),version:text(data,'version'),page_start:numeric(data,'first'),page_end:numeric(data,'last')};const payload=new FormData();payload.append('metadata',JSON.stringify(metadata));payload.append('file',file);await api('/documents',{method:'POST',body:payload});draft.setDirty(false);form.reset();action.setNotice('Document saved. Prepare pending rules from its source passages.');resource.reload();});}}><div className="grid">{[['product','Product name'],['route','Route of administration'],['form','Dosage form'],['indication','Indication'],['url','Official source URL'],['version','Document version'],['first','First physical page'],['last','Last physical page']].map(([name,label])=><Field key={name} label={label}><input name={name} id={'doc-'+name} type={name==='url'?'url':['first','last'].includes(name)?'number':'text'} min={['first','last'].includes(name)?1:undefined} required/></Field>)}</div><Field label="PDF, up to 12 MiB"><input id="doc-file" name="file" type="file" accept="application/pdf" required/></Field><Submit busy={action.busy}>Upload and extract sections</Submit></form></section></>;}
