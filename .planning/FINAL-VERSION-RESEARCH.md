@@ -2,7 +2,9 @@
 
 Date: 2026-11-05. Purpose: reconcile earlier design with current implementation before planning accounts, synthetic patients and final delivery. This is planning research, not a new test run.
 
-## Evidence already available
+This is a historical baseline, not current setup or implementation instructions. Account sessions, synthetic patient history, React and online extraction have since been implemented. See [current state](STATE.md) and [architecture](../docs/architecture.md).
+
+## Evidence available at the planning checkpoint
 
 | Evidence | Finding | Planning consequence |
 |---|---|---|

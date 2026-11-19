@@ -36,7 +36,9 @@ The first backup attempt failed on a SQL sorting expression and was corrected; o
 
 Timestamps and concrete source/binary identities belong to the generated manifests. Backups capture a point in time: this is not continuous replication, point-in-time recovery, zero data loss, authenticated backup signing or a measured recovery-time service guarantee. Off-host encrypted copies and image archives remain operator responsibilities. No operating-system crash/power-loss simulation was performed.
 
-## Thesis completion reconciliation
+## Current thesis completion reconciliation
+
+Updated 2026-11-19 against the implementation. The executed Phase 9 checks above remain a dated checkpoint and do not certify later extraction changes. Extraction-specific verification and the development smoke check are recorded in the [online extraction guide](online-extraction-guide.md).
 
 | Area | Current evidence | Remaining work |
 |---|---|---|
@@ -44,11 +46,11 @@ Timestamps and concrete source/binary identities belong to the generated manifes
 | Staff accounts / synthetic history / React UI | Implemented; normal and restored multi-role acceptance passed | Real-patient deployment and patient-facing accounts are outside confirmed scope |
 | Application delivery (REL-01, Phase 9) | Local installation, migration, recovery drill, failure checks and operation/evidence documentation delivered | Repeat verification for each delivered source/image and keep off-host backup copies |
 | Clinical knowledge (Phase 2) | Pinned source documents and pending candidate workflow | Five independently reviewed product rule sets, regulatory applicability and independent gold labels |
-| Assisted ingestion (Phase 4) | Manual source-grounded workflow and passage splitting implemented; local Qwen/MedGemma integration planned | Actual extraction worker/review implementation, reviewed examples and harder-table/OCR fidelity evaluation |
+| Assisted ingestion (Phase 4) | Manual ingestion, passage splitting, online OpenAI/NVIDIA extraction jobs, suggestion review and explicit PENDING saves implemented | Independent reviewed examples, model-quality evaluation and harder-table/OCR fidelity evaluation |
 | Retrieval/models/thesis experiments (Phase 5) | Scoped lexical/optional hybrid software and engineering evaluation runner | Actual pinned model comparisons and independent clinical/evidence cases; original approximately 20-product/200-case thesis target remains open |
 
-The application can demonstrate source storage, manual preparation/review, renal calculations and reproducible synthetic case history. Cases lacking eligible approved rules return manual review. It cannot be described as a validated autonomous dose-extraction/recommendation system. AI-assisted extraction is not implemented by Phase 9 and remains the local-model plan described in `ai-rule-extraction-plan.md`.
+The application can demonstrate source storage, manual preparation/review, renal calculations and reproducible synthetic case history. Cases lacking eligible approved rules return manual review. It cannot be described as a validated autonomous dose-extraction/recommendation system. Online extraction was added after the Phase 9 checkpoint; it produces suggestions for human review and does not establish clinical accuracy.
 
 ## Thesis-ready description of the implemented scope
 
-The implementation separates deterministic assessment from clinical knowledge preparation. Source documents, extracted passages, structured rule candidates, review decisions and assessment snapshots are versioned and linked through durable audit records. Staff authenticate through server-side sessions and work with synthetic patient histories. A recovery experiment restored a consistent database snapshot into an isolated deployment, verified complete table fingerprints before and after restart, and reproduced all 36 historical assessments. Separate checks verified fresh installation, additive migration of populated legacy data, fail-closed database dependency behavior and multi-role browser workflows. These results support the reproducibility of the implemented application workflow; independent clinical validation and model-based extraction/evaluation remain future work.
+The implementation separates deterministic assessment from clinical knowledge preparation. Source documents, extracted passages, structured rule candidates, review decisions and assessment snapshots are versioned and linked through durable audit records. Staff authenticate through server-side sessions and work with synthetic patient histories. A recovery experiment restored a consistent database snapshot into an isolated deployment, verified complete table fingerprints before and after restart, and reproduced all 36 historical assessments. Separate checks verified fresh installation, additive migration of populated legacy data, fail-closed database dependency behavior and multi-role browser workflows. These results support the reproducibility of the implemented application workflow; independent clinical validation and model-quality evaluation remain future work.

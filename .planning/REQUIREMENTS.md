@@ -27,7 +27,7 @@
 | KB-01 | Phase 2 | Partial: EMA source/pending candidate plus two Polish RPL sources; five-product reviewed scope unfinished |
 | KB-02 | Phase 2 | Pending human clinical review |
 | API-01 | Phase 3 | Complete (software) |
-| ING-01 | Phase 4 | Manual slice complete; assisted extraction/harder PDF evaluation open |
+| ING-01 | Phase 4 | Manual and online extraction/review implemented; independent quality/harder-PDF evaluation open |
 | EVAL-01 | Phase 5 | Pending |
 
 ## Main-system / RAG slice (2026-10-19)

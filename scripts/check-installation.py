@@ -36,7 +36,10 @@ def main():
                     time.sleep(.5)
             raise RuntimeError('Fresh application not ready')
         start()
-        assert len(r.sql(name, 'SELECT name FROM schema_migrations;').splitlines()) == 4
+        migrations = r.ROOT / 'core/internal/store/migrations'
+        expected_migrations = sorted(path.name for path in migrations.glob('*.sql'))
+        applied_migrations = r.sql(name, 'SELECT name FROM schema_migrations ORDER BY name;').splitlines()
+        assert applied_migrations == expected_migrations, 'Fresh installation did not apply the checked-in migrations'
         assert r.api(base, keys['admin'], '/api/v1/admin/status')['approved_rules'] == 0
         request = json.loads((r.ROOT / 'data/example-request.json').read_text())
         saved = r.api(base, keys['physician'], '/api/v1/assessments', request)
@@ -63,7 +66,6 @@ def main():
         report['checks'].append('database connection outage: liveness remains, readiness/assessment fail, reconnect and replay recover')
         r.run(['docker', 'rm', '-f', app], stdout=subprocess.DEVNULL)
         r.sql(name, 'CREATE DATABASE renalsafe_legacy;')
-        migrations = r.ROOT / 'core/internal/store/migrations'
         r.sql(name, 'CREATE TABLE schema_migrations(name text PRIMARY KEY,digest text NOT NULL);', 'renalsafe_legacy')
         for filename in ['001_initial.sql', '002_history_integrity.sql']:
             raw = (migrations / filename).read_bytes()
@@ -88,13 +90,15 @@ def main():
                     time.sleep(.5)
             else:
                 raise RuntimeError('Legacy migration not ready')
+            applied_legacy = r.sql(name, 'SELECT name FROM schema_migrations ORDER BY name;', 'renalsafe_legacy').splitlines()
+            assert applied_legacy == expected_migrations, 'Legacy upgrade did not apply the checked-in migrations'
             after = r.fingerprint(name, database='renalsafe_legacy')
             for table in oldtables:
                 if table != 'audit_events':
                     assert after[table] == old[table], 'Legacy table changed: ' + table
             assert r.api(base, keys['admin'], '/api/v1/admin/audit/verify', {})['valid']
             assert r.api(base, keys['physician'], '/api/v1/assessments/' + assessment + '/replay', {})['reproduced']
-            report['checks'].append('001/002 populated schema upgrades to 003/004; sources/results unchanged, audit valid, replay reproduced')
+            report['checks'].append('001/002 populated schema upgrades through all checked-in migrations; sources/results unchanged, audit valid, replay reproduced')
         finally:
             subprocess.run(['docker', 'rm', '-fv', legacy_app], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         r.backup(root / '.local/backup', container=name, config_root=root)

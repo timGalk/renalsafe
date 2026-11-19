@@ -13,3 +13,6 @@ __pycache__/
 
 web/node_modules/
 core/internal/httpapi/web/dist/
+
+# Extracted notebook results (keep source datasets under experiments/).
+/renalsafe-synthetic-v1/

@@ -23,7 +23,7 @@ Run commands from the repository root. Python uses the standard library unless a
 | Public release identities | `python3 scripts/release-manifest.py --output outputs/NEW_MANIFEST.json` |
 | Prepare privileged admin recovery | `python3 scripts/prepare-admin-recovery.py --output .local/NEW_DIRECTORY` |
 
-`browser-fixtures.cjs` and `recovery.py` also supply shared helpers to the runners; they are not redundant copies. The three former `smoke-accounts.cjs`, `smoke-browser.cjs` and `smoke-patients.cjs` aliases have been removed; their scopes already exist in the canonical browser runner.
+`browser-fixtures.cjs` and `recovery.py` also supply shared helpers to the runners.
 
 Browser checks create synthetic records and disable their fixture users afterwards; audit/history deliberately remain when run against the normal workspace. Prefer the isolated restored application for full release acceptance. `RENALSAFE_BASE_URL` selects a loopback test origin. `PLAYWRIGHT_MODULE` and `RENALSAFE_CHROMIUM_PATH` can select an existing browser-test installation. Browser results use `outputs/react-workspace-smoke.json` for every scope.
 

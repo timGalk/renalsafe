@@ -10,7 +10,9 @@ The user explicitly selected clinician-managed synthetic patient history, with n
 
 Research/evidence: `FINAL-VERSION-RESEARCH.md`. Existing Phases 2, 4 and 5 stay open; new Phases 6–9 add the missing product workflow and final delivery gates.
 
-## Current state versus final behavior
+## Original baseline versus delivered behavior
+
+The table below records the pre-implementation baseline on 2026-11-05. Phases 6–9 are now complete; use [STATE.md](STATE.md) and the [current guides](../docs/README.md) for implemented behavior.
 
 | Area | Implemented | Final addition |
 |---|---|---|
@@ -114,4 +116,4 @@ No fabricated clinical approvals, invented model benchmarks or default activatio
 
 ## Implementation order
 
-Phases 6–9 are complete for the local academic application; release/recovery evidence is in docs/release-evidence.md. Next engineering work is the planned Phase 4 local extraction capability spike. Verification evidence is recorded in each phase summary. Continue source review and independent label preparation alongside these software phases. Once reviewed extraction examples and a pinned local model are available, finish the remaining Phase 4/5 experiments. No runtime code changes are part of this planning update.
+Phases 6–9 are complete for the local academic application; release/recovery evidence is in docs/release-evidence.md. Online OpenAI/NVIDIA extraction and explicit PENDING saves are now implemented; the next Phase 4 work is independent extraction and harder-PDF evaluation. Verification evidence is recorded in each phase summary. Continue source review and independent label preparation alongside these software phases. Use independently reviewed extraction examples and recorded provider/model identities for the remaining Phase 4/5 experiments. No runtime code changes are part of this planning update.

@@ -6,6 +6,7 @@ Current state is [../STATE.md](../STATE.md); current user/developer guides are [
 |---|---|
 | [System verification](system-verification-2026-11-05.md) | API/manual ingestion/retrieval checkpoints and account/patient/React acceptance through Phase 8 |
 | [Two-drug run](two-drug-demo-2026-10-23.md) | Dated Polish source/API experiment, original numerical outcomes and execution limits |
+| [Local extraction research](local-extraction-research-2026-11-05.md) | Superseded Qwen/MedGemma local-worker proposal; current extraction uses online providers |
 | [State chronology](state-through-phase9-2026-11-05.md) | Original chronological planning/implementation notes through Phase 9 |
 | [Phase 1 verification](../phases/01-decision-engine/01-VERIFICATION.md) | Canonical early engine verification, including formerly duplicated offline/install notes |
 

@@ -20,7 +20,7 @@ manifest = {
     'images': {service: r.output(['docker', 'image', 'inspect', '--format', '{{.Id}}', 'renalsafe-core:latest' if service == 'core' else r.IMAGE]) for service in ['core', 'db']},
     'frontend_dependencies': lock['packages'][''],
     'sha256': {name: r.digest(r.ROOT / name) for name in sorted(files)},
-    'model_evidence': 'No real extraction/embedding model benchmark is claimed. Local Qwen/MedGemma extraction is planned, not implemented.',
+    'model_evidence': 'Online OpenAI/NVIDIA extraction is implemented. Independent clinical extraction and real-embedding quality benchmarks remain open; development smoke checks do not establish clinical accuracy.',
 }
 a.output.parent.mkdir(parents=True, exist_ok=True)
 r.private_json(a.output, manifest)

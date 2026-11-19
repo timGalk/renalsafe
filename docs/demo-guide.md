@@ -38,7 +38,7 @@ Without applicable approved rules, both medicine results require manual review a
 
 ## Isolated decision-engine teaching mode
 
-Open http://127.0.0.1:8080/demo.html. When [local quick sign-in](../README.md#start-the-application) is enabled, **Quick sign-in as physician** opens a prefilled synthetic assessment. **Quick sign-in as pharmacist** opens the rule extraction workspace. A configured extraction provider is required to start a live run. See the [extraction guide](online-extraction-guide.md).
+Open http://127.0.0.1:8080/demo.html. When [local quick sign-in](../README.md#first-sign-in) is enabled, **Quick sign-in as physician** opens a prefilled synthetic assessment. **Quick sign-in as pharmacist** opens the rule extraction workspace. A configured extraction provider is required to start a live run. See the [extraction guide](online-extraction-guide.md).
 
 Open **Try the fictional prescription check without signing in** for an isolated training case. The loaded example sets up two fictional prescriptions, one within the training limits and one outside. Select **Check prescription** to run the Go engine, or choose a different example from the dropdown. Expand **Edit patient and prescription** to customize the inputs. Changing them clears the previous result. **Technical details** shows the exact request, engine response and knowledge digest.
 

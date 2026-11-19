@@ -35,7 +35,7 @@ Every case needs a unique ID, exact product/form/route/indication, query, and `r
 
 ## Local model comparison
 
-Configure/index an independently installed local 1024-dimensional embedding model as documented in README. Then run both modes against the same labeled corpus:
+Configure/index an independently installed local 1024-dimensional embedding model as documented in the [development guide](development.md#local-embeddings-optional). Then run both modes against the same labeled corpus:
 
 ```sh
 python3 scripts/evaluate-retrieval.py path/to/reviewed-labels.json \

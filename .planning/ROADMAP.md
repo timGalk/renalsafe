@@ -5,7 +5,7 @@
 - [x] **Phase 1: Decision engine** — deterministic offline core (2026-10-14).
 - [ ] **Phase 2: Clinical knowledge base** — official sources and independent clinical approval.
 - [x] **Phase 3: Persisted API** — durable storage and authenticated review (2026-10-19).
-- [ ] **Phase 4: Ingestion and review** — manual slice complete; assisted extraction/harder PDFs open.
+- [ ] **Phase 4: Ingestion and review** — manual and online extraction/review implemented; independent quality/harder-PDF evaluation open.
 - [ ] **Phase 5: Retrieval and evaluation** — retrieval slice complete; independent experiments open.
 
 ADR-002 revises the original chronological dependency: Phase 3 software can build on verified Phase 1 while Phase 2 clinical work remains open. No unreviewed real rule becomes eligible.
@@ -49,12 +49,12 @@ ADR-002 revises the original chronological dependency: Phase 3 software can buil
 **Depends on:** Phase 3.
 **Requirements:** ING-01, ING-02.
 **Success Criteria:** Bytes/versions/sections/pages pinned, no automatic approval, table/context fidelity measured on harder documents.
-**Plans:** 1/2 complete; manual slice verified.
+**Plans:** 1/2 complete; manual slice verified, online extraction implemented; remaining evaluation tracked by 04-02.
 
 - [x] 04-01-PLAN.md — bounded PDF ingestion, manual candidates and review.
-- [ ] 04-02-PLAN.md — table-aware splitting, assisted extraction and harder PDF evaluation.
+- [ ] 04-02-PLAN.md — independent extraction, table-fidelity and harder PDF evaluation.
 
-Local-only AI extraction is now planned in [04-AI-SPEC.md](phases/04-ingestion-review/04-AI-SPEC.md), with [Qwen/MedGemma research and implementation increments](../docs/ai-rule-extraction-plan.md). User confirmed local inference; prototype/runtime checks and independent clinical model evaluation remain unexecuted.
+Online extraction is implemented with in-process Go jobs and OpenAI/NVIDIA adapters. The current [extraction contract](phases/04-ingestion-review/04-AI-SPEC.md) and [runtime guide](../docs/online-extraction-guide.md) supersede the local-only worker proposal. Independent clinical evaluation and harder-PDF fidelity remain open.
 
 ### Phase 5: Retrieval and evaluation
 
@@ -74,10 +74,10 @@ Local-only AI extraction is now planned in [04-AI-SPEC.md](phases/04-ingestion-r
 | 1 | 3/3 | Software complete | 2026-10-14 |
 | 2 | 0/1 | Human clinical review needed | — |
 | 3 | 2/2 | Software complete | 2026-10-19 |
-| 4 | 1/2 | Manual slice complete | — |
+| 4 | 1/2 | Manual/online extraction implemented; evaluation open | — |
 | 5 | 1/2 | Retrieval slice complete | — |
 
-Clinical validation, assisted extraction and real-model/gold-set evaluation are not claimed complete.
+Clinical validation, harder-PDF fidelity and independent model/gold-set evaluation are not claimed complete.
 
 
 ## Final academic workspace extension — planned 2026-11-05
@@ -89,4 +89,4 @@ User confirmed clinician-managed synthetic patient history, without a patient po
 - [x] **Phase 8: Final React clinician workspace** — complete navigation and staff workflows over the existing Go API. Plan: `phases/08-final-workspace/08-01-PLAN.md`. Depends on Phase 7.
 - [x] **Phase 9: Release integration and evidence** — installation/migration, backup restore, full end-to-end verification and thesis evidence reconciliation. Plan: `phases/09-release-validation/09-01-PLAN.md`. Depends on Phase 8; full thesis completion also depends on Phases 2/4/5.
 
-Phase 9 local application release verification is complete; see [release evidence](../docs/release-evidence.md). Next engineering work is the planned local extraction capability spike in Phase 4. Clinical review/label preparation can proceed independently. Phases 2/4/5 remain open; existing completion counts above describe the original five-phase milestone only. A usable academic application release and complete projected thesis-system evidence have separate explicit gates in the final-version plan.
+Phase 9 local application release verification is complete; see [release evidence](../docs/release-evidence.md). Next engineering work is independent extraction and table-fidelity evaluation in Phase 4. Clinical review/label preparation can proceed independently. Phases 2/4/5 remain open; existing completion counts above describe the original five-phase milestone only. A usable academic application release and complete projected thesis-system evidence have separate explicit gates in the final-version plan.

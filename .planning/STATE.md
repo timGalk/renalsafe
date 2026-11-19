@@ -9,8 +9,8 @@ progress:
   completed_plans: 11
 current_phase: 4
 current_phase_name: ingestion-review
-status: ready-for-local-extraction
-last_updated: 2026-11-05
+status: ready-for-extraction-evaluation
+last_updated: 2026-11-19
 ---
 # Current state
 
@@ -18,7 +18,7 @@ Phases 1, 3 and 6–9 are complete for the local academic application. Phases 2,
 
 ## Next work
 
-1. Phase 4: local Qwen3.5-4B capability spike and pending-only extraction worker, using phases/04-ingestion-review/04-AI-SPEC.md and 04-02-PLAN.md. Local inference is user-confirmed; usable GPU memory/runtime and exact model artifacts remain unverified. MedGemma 1.5 4B is a comparison candidate, not a deployed model.
+1. Phase 4: independently evaluate the implemented online OpenAI/NVIDIA extraction and PENDING review workflow, using phases/04-ingestion-review/04-AI-SPEC.md and 04-02-PLAN.md. The local-only deployment proposal was superseded on 2026-11-09. Harder tables, scanned PDFs/OCR and clinical model-quality evidence remain open; Qwen/MedGemma notebooks are separate experiments.
 2. Phase 2: current Polish ChPL applicability, five independently reviewed product rule sets and independent expected outcomes. Never fabricate approval or activate machine suggestions automatically.
 3. Phase 5: pinned real embedding/model comparisons and independent thesis experiments; approximately 20 products/200 synthetic cases remain the original target.
 
@@ -26,7 +26,7 @@ Phases 1, 3 and 6–9 are complete for the local academic application. Phases 2,
 
 Phase 9 restored a consistent snapshot into disposable containers, matched all table fingerprints before/after restart, replayed all 36 saved assessments and passed all-role React acceptance. Fresh installation, populated legacy migration, database outage handling, administrator recovery and changed-migration refusal passed. Full Go database/race suite, vet/OpenAPI, frontend/Docker builds and recovery/evaluation checks passed. Current evidence: ../docs/release-evidence.md; operation: ../docs/release-recovery.md.
 
-No real extraction model or clinical benchmark is claimed. Runtime database-owner privilege, off-host backup responsibility and mutable upstream build inputs remain documented limits. Private credentials/backups/output artifacts are ignored. Training fixtures and the standalone CLI remain supported features. Source PDFs, migration history and historical assessment snapshots are retained.
+A real OpenAI development extraction is recorded in ../docs/online-extraction-guide.md; no independent clinical or model-quality benchmark is claimed. Runtime database-owner privilege, off-host backup responsibility and mutable upstream build inputs remain documented limits. Private credentials/backups/output artifacts are ignored. Training fixtures and the standalone CLI remain supported features. Source PDFs, migration history and historical assessment snapshots are retained.
 
 ## Navigation
 

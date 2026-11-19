@@ -1,139 +1,147 @@
 # RenalSafe
 
-Local academic CDSS for renal-dose adjustment with deterministic decisions, source evidence and human-reviewed rules. **Synthetic patients only.**
+### Renal dose assessment, source evidence, and human review
 
-Documentation: [guides and architecture](docs/README.md), [release evidence](docs/release-evidence.md), [roadmap](.planning/ROADMAP.md).
+A local academic clinical decision support application built with **Go**, **React / TypeScript**, and **PostgreSQL + pgvector**.
 
-## Start the application
+[Installation](#installation) · [First sign-in](#first-sign-in) · [Documentation](docs/README.md) · [Development](docs/development.md)
 
-Prerequisites: Docker with Compose and Python 3. The bootstrap creates private local role keys; it refuses to overwrite existing credentials.
+> **Synthetic patients only.** This is an academic prototype, without clinically approved dosing rules. Cases without an applicable approved rule return **manual review required**. Model suggestions always require human review.
+
+## What you can do
+
+| Workflow | Features |
+|---|---|
+| **Assess renal function** | Cockcroft–Gault and CKD-EPI 2021, explicit units, uncertainty checks, and cited results |
+| **Manage synthetic cases** | Patient profiles, dated laboratory observations, shared access, and saved assessments |
+| **Inspect source evidence** | Versioned SmPC / ChPL PDFs, quotations, page references, and evidence search |
+| **Prepare and review rules** | Manual candidates or optional OpenAI / NVIDIA suggestions, saved as PENDING for pharmacist review |
+| **Reproduce results** | Historical replay, JSON / printable reports, and an immutable application audit trail |
+
+## Installation
+
+You need **Git**, **Docker with Docker Compose**, and **Python 3**. Start Docker before continuing. Docker builds the frontend and backend and includes Poppler; a host Go, Node, or model installation is unnecessary for this route.
+
+### 1. Get the code
+
+```sh
+git clone https://github.com/timGalk/renalsafe.git
+cd renalsafe
+```
+
+Already have a checkout? Run the remaining commands from its root directory.
+
+### 2. Create local configuration
 
 ```sh
 python3 scripts/bootstrap-local.py
+```
+
+This creates `.env` and private credentials under `.local/`. Run it once on a fresh checkout. It refuses to overwrite existing configuration; keep those files when upgrading.
+
+### 3. Build and start
+
+```sh
 docker compose up -d --build
 ```
 
-Open **http://127.0.0.1:8080/login**. Sign in with a staff username and password. For first setup, use `scripts/setup-accounts.py` to issue private activation details, then activate at `/activate`; see `docs/accounts.md`. Administrators can create physician/pharmacist accounts from **Staff accounts**. Browser access-key entry has been removed; local keys remain for setup/demo scripts.
+The first build downloads dependencies and container images. The application applies database migrations automatically.
 
-For a local, synthetic-data demonstration, enable optional quick sign-in and rebuild the service:
+Open **[RenalSafe → http://127.0.0.1:8080](http://127.0.0.1:8080)** and complete first sign-in below.
 
-```sh
-RENALSAFE_DEMO_LOGIN=true docker compose up --build -d
-```
+## First sign-in
 
-The login page then offers physician, pharmacist, and admin demo accounts. Anyone able to access this demo can use these roles, including administrator privileges; use an isolated local database with synthetic data only. The setting is off by default. To disable it, run `docker compose up -d` without the environment variable; demo sessions are revoked when the service restarts. Existing demo accounts and their synthetic data remain in the database.
+### Create your administrator account
 
-The React workspace provides patient/lab history, new and saved assessments, evidence, document/rule review, staff accounts, audit and system status. See `docs/final-workspace.md` for routes and role-specific workflows.
-
-The seeded real-source candidate remains **PENDING**: the example returns manual review without an automated action or dose. Do not approve clinical records merely to make the demonstration return a recommendation. Approved fixtures exist only in isolated tests.
+With the application running:
 
 ```sh
-docker compose stop
-# Resume later, preserving the database:
-docker compose up -d
+python3 scripts/setup-accounts.py workspace-admin --role admin \
+  --output .local/workspace-admin-activation.json
 ```
 
-`.env` holds the local database configuration, `.local/users.json` holds credential hashes, and `.local/tokens.json` holds private keys. They are ignored by Git. The hashes file is readable by the unprivileged application container; plaintext keys remain private. Use the verified snapshot backup and isolated restore procedure in `docs/release-recovery.md`; stopping containers does not erase history. This local deployment uses staff password sessions plus transitional service keys and a database-owner migration role. It is an academic account system; external identity federation and production deployment controls remain separate.
+1. Open `.local/workspace-admin-activation.json` locally to read the username and activation secret.
+2. Open **[Activate or reset an account](http://127.0.0.1:8080/activate)**, enter those details, and choose a password of at least 15 characters.
+3. **[Sign in](http://127.0.0.1:8080/login)**, then use **Staff accounts** to create physician and pharmacist accounts.
 
-## Implemented workflow
+Activation secrets expire after 30 minutes and work once. Keep the activation file private. See [account setup and recovery](docs/accounts.md) if activation expires or the account already exists.
 
-- **Assessment:** multiple exact product/form/route/indication contexts, CG and CKD-EPI 2021, stable-adult scope gates, known creatinine uncertainty, deterministic cited result, optional current-dose/interval check.
-- **Structured rules:** source-backed age/weight ranges and optional explicit maximum single dose/minimum interval. No dose-unit conversion or inferred regimen. Unmodeled clinical conditions block approval. “Within rule limits” does not establish overall prescribing safety.
-- **Persistence:** PostgreSQL+pgvector, versioned KB snapshots, immutable source bytes/chunks/history, exact-context APPROVED range exclusion, transaction-scoped locking, assessment+audit atomic commit, audit foreign key and chain verification.
-- **Review:** PENDING-only candidate creation/editing, pharmacist-only approval/rejection, expected content digest, explicit clinical-review attestation, server-bound reviewer identity and timestamp. Administrators cannot approve rules via the review API. Approved records are immutable.
-- **Sources:** bounded PDF upload, exact declared product/page scope, Poppler layout-preserving extraction, physical pages/sections/byte offsets, source hashes and original PDF download. EMA combined seed is restricted to its first product. No automatic source-URL download or OCR.
-- **Evidence:** exact context + ACTIVE document filtering, full-text baseline, optional model-specific dense retrieval, RRF fusion, explicit fallback labels, provenance and evidence-only template responses. Source passages never change an assessment or approve a rule.
-- **Browser:** assessment, evidence search, document upload, pending candidate preparation and pharmacist review, with mobile layout and no patient identifiers.
-- **Contract:** OpenAPI 3.1 at `/openapi.json`; checked-in `api/openapi.json` generated from JSON payload types.
+<details>
+<summary><strong>Just exploring? Enable demo sign-in</strong></summary>
 
-## Synthetic patients and saved results
-
-Sign in as a physician and open **Patients** to create a fictional case, record a dated creatinine observation and choose it for an assessment. The selected laboratory values are fixed; confirm the remaining current inputs before calculating. **Saved results** reopens prior assessments, verifies replay and exports JSON/printable reports. Observation corrections append replacements; historical results stay reproducible. Case owners can share with other physicians or read-only pharmacists, revoke access and archive cases without deleting history.
-
-Existing assessments remain visible as unlinked records under their original creator/admin access. See `docs/patient-history.md` for permissions, correction/recalculation behavior and verification. The React workspace and stable page links are implemented; release and recovery checks are documented in `docs/release-recovery.md`.
-
-## Run the two-drug demonstration
+For an isolated local demonstration with synthetic data:
 
 ```sh
-docker compose up -d core
-python3 scripts/demo-two-drugs.py
+RENALSAFE_DEMO_LOGIN=true docker compose up -d --build
 ```
 
-This imports the two pinned Polish ChPLs using local role credentials, then checks six synthetic patient cases, evidence retrieval, durable audit and historical replay. It creates no clinical rules or approvals. Repeated runs reuse the source imports and append new synthetic assessments. Results go to ignored `outputs/two-drug-demo/`.
+The login page offers quick sign-in as physician, pharmacist, or administrator. Anyone with access to this demo can use these roles, including administrator privileges.
 
-Open http://127.0.0.1:8080/assess/new?example=two-drugs and sign in with a physician account. The **Load two-drug example** button fills Meronem 1 g and Ceftazidime Kabi 1000 mg. Choose **Calculate and save assessment**. For the baseline, CrCl is 25 mL/min and both products require manual review because no applicable approved rules exist. This demonstration does not establish that combining the medicines is appropriate. See `docs/demo-guide.md` for checks and limits.
+To turn it off, run `docker compose up -d` without the variable. If you saved it in `.env`, remove it or set it to `false` first. Restarting with demo sign-in disabled revokes demo sessions; synthetic demo records remain.
 
-## Local embeddings (optional)
+</details>
 
-No model is automatically downloaded or started. Configure a local Ollama server with a pinned model identifier producing **1024-dimensional** nonzero vectors, for example an independently installed BGE-M3 model. Set `RENALSAFE_OLLAMA_URL` and `RENALSAFE_EMBEDDING_MODEL`, then recreate the core container. For a host model server from Docker use the supported local endpoint `http://host.docker.internal:11434`.
+## Try the workspace
 
-Index an active document from the Documents screen. Only renal sections 4.2, 4.3, 4.4 and 5.2 are embedded. Requests use `/api/embed` with `truncate:false`; oversized sections fail explicitly instead of silently dropping context. Model/dimension mismatches and outages cannot produce a fabricated semantic result. Search falls back to full text with a reason when no usable local vectors exist. Use immutable model versions and reindex when weights change; a model name alone is not a cryptographic weights attestation.
+- **Physician:** open **Patients**, create a fictional case, add a creatinine observation, and start an assessment. Use **Saved results** to reopen, replay, or export it.
+- **Pharmacist:** inspect source documents, prepare PENDING candidates, and review complete source evidence before any approval.
+- **Administrator:** manage staff accounts and inspect system status and audit history.
 
-The hybrid path was tested with known fixture vectors and a simulated provider. **No real BGE-M3 quality benchmark or generative LLM was run for that retrieval benchmark.** Answers display extracted passages and deterministic labels; free-form generative explanations remain separate work. Online ChPL extraction into reviewed PENDING candidates is available through the OpenAI API; see [setup and limits](docs/online-extraction-guide.md).
+For a prepared example, run `python3 scripts/demo-two-drugs.py` and follow the [two-drug demonstration](docs/demo-guide.md). It imports the pinned sources and saves synthetic assessments without creating or approving clinical rules.
 
-## Test and regenerate contract
+The isolated **[fictional teaching demo](http://127.0.0.1:8080/demo.html)** also shows engine behavior without signing in.
 
-Prerequisites for host tests: Go 1.25+, Node 22.12+ with npm, `pdftotext` (Poppler), Docker for integration tests. Build the embedded React assets before testing all Go packages. Docker builds them automatically.
+## Everyday commands
 
-```sh
-npm ci --prefix web
-npm run check:types --prefix web
-npm run build --prefix web
-cd core
-go vet ./...
-go test -race ./...
-go run ./cmd/renalsafe-openapi > ../api/openapi.json
-cd ..
-python3 scripts/test-integration.py
+| Task | Command |
+|---|---|
+| Check services | `docker compose ps` |
+| Read application logs | `docker compose logs --tail=100 core` |
+| Stop | `docker compose stop` |
+| Resume | `docker compose up -d` |
+| Rebuild after code changes | `docker compose up -d --build` |
+
+Data survives container restarts in the database volume. Keep `.env` and `.local/`, and follow the [backup and recovery guide](docs/release-recovery.md) before upgrading or restoring data. Removing the database volume deletes saved history.
+
+## Optional AI extraction
+
+The application works without an API key. To enable online extraction, add your key to the ignored local `.env` file:
+
+```dotenv
+OPENAI_API_KEY=your-api-key
 ```
 
-Without `RENALSAFE_TEST_DATABASE_URL`, real-database cases skip explicitly. The integration runner provisions a uniquely named disposable PostgreSQL+pgvector container, runs all tests with race detection, then removes that container. It never uses the application's database. Hosted CI runs the same integration runner.
+Rebuild with `docker compose up -d --build`, then open **Documents → Extract rule suggestions** as a pharmacist or administrator. The default OpenAI model is `gpt-5.4-mini`; NVIDIA configuration and model overrides are in the [extraction guide](docs/online-extraction-guide.md).
 
-Optional browser smoke: install Playwright in the test environment, or set `PLAYWRIGHT_MODULE` to an existing installation and `RENALSAFE_CHROMIUM_PATH` if needed, then run `node scripts/smoke-workspace.cjs`. It provisions disposable staff using private local setup credentials, uses password sessions in the browser and prints no credentials. It checks clinician, patient/results, source review and administrator workflows. Fixture clinical candidates are rejected; no original real rule is approved. Reports/screenshots go to ignored `outputs/`.
+Only selected public source content and product context go to the configured provider. Patient records are excluded. Suggestions become PENDING candidates only through explicit saves; pharmacist approval stays separate.
 
-## Continue ingestion and evaluation
+## Repository map
 
-New source imports use lossless passages with a soft 6000-byte target. Detected table blocks, introductions and possible footnotes remain together; oversized blocks stay whole. Existing imported chunks/citations remain immutable. This is layout-aware engineering, not verified table semantics or OCR.
-
-Pending rules can now be edited in the browser with fixed source context and stale-write protection. Corrections remain PENDING and still require the separate pharmacist review.
-
-Run the source retrieval baseline after importing the two Polish sources:
-
-```sh
-python3 scripts/evaluate-retrieval.py data/retrieval-software-fixtures.json \
-  --modes lexical --output outputs/evaluation/lexical-software.json
-python3 scripts/test-evaluation.py
+```text
+RenalSafe/
+├── core/          Go decision engine, API, database migrations, and CLI
+├── web/           React / TypeScript workspace
+├── api/           Generated OpenAPI contract
+├── data/          Pinned source documents and synthetic fixtures
+├── scripts/       Setup, demonstrations, checks, and recovery tools
+├── docs/          User, developer, and evaluation guides
+├── experiments/   Standalone model-comparison notebooks and source
+├── .planning/     Roadmap, phase records, and historical research
+└── compose.yaml   Local application and database services
 ```
 
-The six software cases do not replace independent gold labels. The runner supports a pinned-model lexical/hybrid comparison, reports degradation and knowledge drift, and records source recall, citation precision, abstention and latency. See `docs/evaluation-guide.md` for labeling, model configuration and reporting limits.
+Local credentials, backups, generated reports, dependencies, and browser builds are ignored by Git. The [architecture guide](docs/architecture.md) explains the database and component boundaries.
 
-## Offline CLI
+## Learn more
 
-```sh
-cd core
-go run ./cmd/renalsafe -kb ../data/knowledge.json -audit ./example.audit.jsonl < ../data/example-request.json
-go run ./cmd/renalsafe -verify-audit ./example.audit.jsonl
-```
+| Guide | Contents |
+|---|---|
+| [Documentation index](docs/README.md) | All current guides |
+| [Development](docs/development.md) | Host builds, tests, API regeneration, embeddings, and offline CLI |
+| [Workspace](docs/final-workspace.md) | Pages, permissions, and role workflows |
+| [Clinical boundaries](docs/clinical-review.md) | Review requirements, calculator scope, and limitations |
+| [Release and recovery](docs/release-recovery.md) | Installation, migrations, backups, and recovery |
+| [Evidence and remaining work](docs/release-evidence.md) | Executed checks and independent validation still needed |
+| [Paired model experiment](experiments/model-comparison-v2/README.md) | ChPL pilot, annotation, and comparison protocol |
 
-The pure decision/calculator/CLI path still needs no database, network or LLM at runtime. The server provides persistent API/browser workflows separately.
-
-## Scope and limitations
-
-No clinically approved dosing rule exists yet. Offline bundle reviewer strings remain trusted metadata; the server binds review identity and role to provisioned credentials. A human pharmacist must check the complete SmPC and rule semantics; byte/quote/numeric validation alone does not establish clinical validity. The decision only addresses renal criteria; it cannot establish overall prescribing safety.
-
-The prototype policy (version `prototype-adult-stable-v1`) gates adults 18–120, creatinine 0.1–30 mg/dL, supplied weight 20–300 kg and height 100–250 cm, a sample at most seven days old, explicit stable renal function, no suspected AKI/dialysis, IDMS standardization and typical body composition. Supplied BMI below 18.5 or above 30 blocks advice. These are **engineering scope gates**, not clinical thresholds or validated laboratory freshness guidance. Missing height/weight/actual-weight confirmation prevents CG, while valid eGFR remains available. No weight imputation, creatinine floor/rounding, cap, BSA de-indexing or automatic metric substitution.
-
-Creatinine uncertainty bounds, if supplied, use the same unit as creatinine and must be a finite closed interval containing the measured value. The derived renal interval must fit a single rule fully. Without bounds, measurement uncertainty is unknown, not zero: only the point value is matched. The calculator has ordinary estimation error and results at clinical cutoffs require independent clinical review.
-
-Journal locking is fail closed: competing writers or a leftover lock after a crash stop output. Inspect the journal before manual lock recovery. Hash chains detect corruption and ordinary edits; complete rewriting or truncating whole events needs external anchoring to detect. The API adds transactional persistence and role-bound review; cryptographic human signatures, external anchoring and retention remain separate work. Local snapshot backup and restore verification are implemented; see `docs/release-recovery.md`.
-
-
-## Current status and next steps
-
-Phases 1, 3 and 6–9 are implemented and verified for the local academic application, including staff accounts, synthetic history, React UI and release/recovery. Phase 2 clinical validation remains open. Phase 4 has the manual ingestion/review slice; online text extraction and pending-candidate review are implemented; clinical validation and harder/OCR PDFs remain open. Phase 5 has lexical/hybrid retrieval infrastructure; independent clinical/retrieval gold sets and generative evaluation remain open. `docs/release-evidence.md` records current executed checks and limitations.
-
-Next clinical work: current Polish ChPL applicability, five independently reviewed product-specific rule sets and gold cases. Next AI work: configure the implemented OpenAI `gpt-5.4-mini` extraction workflow, then perform real-provider capability checks and independent labeling/table-fidelity review. The Qwen/MedGemma notebooks remain comparison experiments; guarded generative explanations remain gated. See `docs/ai-rule-extraction-plan.md`. Lossless passage splitting and an evaluation runner are now implemented; neither establishes model quality or clinical validation. No clinician identity or clinical validation result was invented.
-
-## Online document extraction
-
-Set `OPENAI_API_KEY` in the ignored local `.env` file, then rebuild with `docker compose up -d --build`. The default model is `gpt-5.4-mini`; `RENALSAFE_OPENAI_MODEL` can override it. Open **Documents → Extract rule suggestions** as a pharmacist or administrator. Review cited findings before saving PENDING candidates; pharmacist approval is separate. With no key, online extraction stays disabled. See [configuration, verification and limitations](docs/online-extraction-guide.md).
+Clinical validation, independently labeled model evaluation, and harder PDF / OCR fidelity remain open. See the [roadmap](.planning/ROADMAP.md) for project progress.

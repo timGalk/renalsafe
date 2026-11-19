@@ -1,7 +1,7 @@
 {
   "contract": "1.0.0",
   "flavor": "core",
-  "milestone": "v0.1 \u2014 verifiable core and main system",
+  "milestone": "v0.1 — verifiable core and main system",
   "phases": [
     {
       "number": "1",
@@ -50,9 +50,9 @@
     }
   ],
   "next": {
-    "command": "$gsd-execute-phase 4",
-    "label": "Implement local source-grounded extraction capability spike",
-    "reason": "Local application installation, migration and recovery gates verified; Phases 2/4/5 independent clinical and model evidence remain open"
+    "command": "$gsd-plan-phase 4",
+    "label": "Plan independent extraction and harder-PDF evaluation",
+    "reason": "Online OpenAI/NVIDIA extraction and PENDING review are implemented; independent clinical labels, extraction quality and harder-PDF fidelity remain open"
   },
-  "updated_at": "2026-11-05"
+  "updated_at": "2026-11-19"
 }

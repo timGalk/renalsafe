@@ -1,15 +1,10 @@
-# AI-assisted rule extraction: research and proposed implementation
+# Historical local extraction research — 2026-11-05
 
-**Direction update — 2026-11-09:** the user selected online models authenticated
-with an API key for the next implementation. See the current
-[online extraction plan](online-rule-extraction.md). This supersedes the local-only
-deployment decision below; local model research remains historical comparison
-material. The first OpenAI `gpt-5.4-mini` integration is now implemented; see the
-[runtime guide](online-extraction-guide.md). Clinical evaluation remains open.
+This proposal was superseded by the online extraction decision on 2026-11-09. It is retained as research evidence, not implementation instructions. Current configuration and limits: [online extraction guide](../../docs/online-extraction-guide.md). The application uses a Go worker with OpenAI or NVIDIA adapters; no Python extraction worker or local inference runtime is required.
 
-Research date: 2026-11-05. Status: planned local extraction pipeline, not an implemented extractor or selected clinical model. User confirmed local inference on 2026-11-05. The first target is this computer; usable GPU memory/runtime remains a preflight check. Design contract: ../.planning/phases/04-ingestion-review/04-AI-SPEC.md.
+Research date: 2026-11-05. Status: planned local extraction pipeline, not an implemented extractor or selected clinical model. User confirmed local inference on 2026-11-05. The first target is this computer; usable GPU memory/runtime remains a preflight check. Design contract: ../phases/04-ingestion-review/04-AI-SPEC.md.
 
-Standalone experiment update: an [uploadable Kaggle/Colab notebook](../experiments/model-comparison/README.md)
+Standalone experiment update: an [uploadable Kaggle/Colab notebook](../../experiments/model-comparison/README.md)
 now packages the text extraction comparison independently of the application. It includes
 synthetic software fixtures and unlabelled public source bundles; actual GPU execution,
 independent clinical labels and model selection remain open. This optional cloud notebook

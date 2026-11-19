@@ -1,12 +1,13 @@
 # Documentation
 
-Current implementation: Go deterministic engine/API, React workspace, PostgreSQL 18 with pgvector in Docker, local staff sessions and synthetic patient history. Phases 6–9 are implemented. Online GPT-5.4 Mini extraction produces cited suggestions for explicit PENDING saves; clinical approval and independent real-model evaluation remain open. Models cannot approve rules.
+Current implementation: Go deterministic engine/API, React workspace, PostgreSQL 18 with pgvector in Docker, local staff sessions and synthetic patient history. Phases 6–9 are implemented. Online OpenAI/NVIDIA extraction produces cited suggestions for explicit PENDING saves; clinical approval and independent real-model evaluation remain open. Models cannot approve rules.
 
 ## Current guides
 
 | Topic | Canonical document |
 |---|---|
-| Start/build/test | [Repository README](../README.md) |
+| Simple installation and first sign-in | [Repository README](../README.md) |
+| Host builds, tests, API regeneration and optional embeddings | [Development](development.md) |
 | Architecture, repository layout and database | [Architecture](architecture.md) |
 | Staff activation, roles and sessions | [Accounts](accounts.md) |
 | Routes, forms and browser behavior | [Workspace](final-workspace.md) |
@@ -17,15 +18,14 @@ Current implementation: Go deterministic engine/API, React workspace, PostgreSQL
 | Calculator references | [Calculator sources](calculator-sources.md) |
 | Pinned Polish source acquisition | [Source provenance](polish-chpl-acquisition.md) |
 | Retrieval baseline and evaluation | [Evaluation](evaluation-guide.md) |
-| Online GPT-5.4 Mini document extraction | [Configuration and review workflow](online-extraction-guide.md) |
-| Extraction design and historical model research | [AI extraction plan](ai-rule-extraction-plan.md) |
-| Uploadable Kaggle/Colab model comparison | [Experiment notebook and guide](../experiments/model-comparison/README.md) |
+| Online OpenAI/NVIDIA document extraction | [Configuration and review workflow](online-extraction-guide.md) |
+| Paired Kaggle/Colab model comparison and ChPL pilot | [Current experiment guide](../experiments/model-comparison-v2/README.md) |
 | Installation, migration and backup/recovery | [Release operations](release-recovery.md) |
 | Executed acceptance and thesis boundaries | [Release evidence](release-evidence.md) |
 
 ## Decisions and historical evidence
 
-[ADR-002](ADR-002-main-system.md) records the original persisted-API/extractive-RAG decision; its plain-browser choice has since been superseded by React. Dated verification and planning narrative are indexed under [.planning/history](../.planning/history/README.md). Historical counts/commands describe those checkpoints, not the current application. Phase plans, requirements and summaries remain in [.planning](../.planning/ROADMAP.md).
+[ADR-002](ADR-002-main-system.md) records the original persisted-API/extractive-RAG decision; its plain-browser choice has since been superseded by React. Dated verification and planning narrative are indexed under [.planning/history](../.planning/history/README.md). Historical counts/commands describe those checkpoints, not the current application. The superseded [local-model research](../.planning/history/local-extraction-research-2026-11-05.md) is retained there for provenance. Phase plans, requirements and summaries remain in [.planning](../.planning/ROADMAP.md).
 
 [materials-manifest.json](materials-manifest.json) records hashes of the original thesis/design inputs. Its paths are relative to the repository root and point to an external sibling project; these inputs are not runtime dependencies or bundled source files.
 

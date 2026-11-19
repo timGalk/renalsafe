@@ -7,3 +7,11 @@ outputs
 
 web/node_modules
 core/internal/httpapi/web/dist
+
+# Non-runtime research, documentation and local experiment results.
+.planning
+docs
+experiments
+renalsafe-synthetic-v1
+**/__pycache__
+**/*.pyc
