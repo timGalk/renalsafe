@@ -6,14 +6,7 @@ The running application now uses the React/TypeScript workspace. The Go calculat
 
 Open http://127.0.0.1:8080/login and sign in with a staff username and password. Activate a new/reset account at `/activate` using its private single-use activation secret. The browser no longer offers access-key login. Local service keys remain available to setup/demo/evaluation scripts during migration.
 
-For first setup, use `scripts/setup-accounts.py` as documented in `accounts.md`. If an existing account's activation has expired, an operator with the original active local administrator key can explicitly revoke its credentials and renew activation:
-
-```sh
-python3 scripts/setup-accounts.py workspace-admin --reset-existing \
-  --output .local/workspace-admin-renewed.json
-```
-
-The output must be a new private file; it cannot overwrite prior credentials. Open it locally and activate the named account with a chosen password. This operator action revokes that account's existing credentials. It is not an unauthenticated recovery path. Lost administrator credentials still require the Phase 9 operator-recovery procedure.
+For first-time setup or an expired activation, follow the [staff account guide](accounts.md#first-password-based-administrator). If all administrator credentials are lost, follow the [operator recovery procedure](release-recovery.md#actual-disaster-recovery-and-rollback).
 
 ## Pages and roles
 

@@ -4,7 +4,7 @@ For the Docker installation and first sign-in, start with the [repository README
 
 ## Test and regenerate contract
 
-Prerequisites for host tests: Go 1.25+, Node 22.12+ with npm, `pdftotext` (Poppler), Docker for integration tests. Build the embedded React assets before testing all Go packages. Docker builds them automatically.
+Build the embedded React assets before testing all Go packages. Docker builds them automatically.
 
 ```sh
 npm ci --prefix web

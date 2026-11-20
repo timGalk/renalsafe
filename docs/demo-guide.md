@@ -1,6 +1,6 @@
 # Synthetic demonstration and training
 
-Use synthetic data only. Start the application and activate staff accounts using [accounts.md](accounts.md). The demonstration shows software behavior; independent clinical validation remains open.
+Use fictional patient data for this walkthrough. Follow the [installation instructions](../README.md#installation), then choose [local demo sign-in](../README.md#first-sign-in) or [activate a staff account](accounts.md). Independent clinical validation remains open.
 
 ## Clinician and pharmacist walkthrough
 

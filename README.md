@@ -61,6 +61,8 @@ python3 scripts/bootstrap-local.py
 
 This creates `.env` and private credentials under `.local/`. Run it once on a fresh checkout. It refuses to overwrite existing configuration; keep those files when upgrading.
 
+For optional AI providers and demo sign-in, copy the settings you need from [.env.example](.env.example) into the generated `.env`.
+
 ### 3. ▶️ Build and start
 
 ```sh

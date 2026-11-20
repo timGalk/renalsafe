@@ -1,32 +1,28 @@
-# Documentation
+# RenalSafe documentation
 
-Current implementation: Go deterministic engine/API, React workspace, PostgreSQL 18 with pgvector in Docker, local staff sessions and synthetic patient history. Phases 6–9 are implemented. Online OpenAI/NVIDIA extraction produces cited suggestions for explicit PENDING saves; clinical approval and independent real-model evaluation remain open. Models cannot approve rules.
+For a first test, follow the [installation instructions](../README.md#installation), then open the [clinician and pharmacist walkthrough](demo-guide.md#clinician-and-pharmacist-walkthrough). The walkthrough uses fictional patient data and works without an AI provider. Clinical rules still await independent review.
 
 ## Current guides
 
-| Topic | Canonical document |
-|---|---|
-| Simple installation and first sign-in | [Repository README](../README.md) |
-| Host builds, tests, API regeneration and optional embeddings | [Development](development.md) |
-| Architecture, repository layout and database | [Architecture](architecture.md) |
-| Staff activation, roles and sessions | [Accounts](accounts.md) |
-| Routes, forms and browser behavior | [Workspace](final-workspace.md) |
-| Synthetic cases, labs and saved results | [Patient history](patient-history.md) |
-| Synthetic demonstration and isolated training | [Demonstration](demo-guide.md) |
-| ChPL-linked patient scenarios and decision/approval review | [User cases and logic review](user-cases-and-logic-review.md) |
-| Clinical review requirements | [Clinical review](clinical-review.md) |
-| Calculator references | [Calculator sources](calculator-sources.md) |
-| Pinned Polish source acquisition | [Source provenance](polish-chpl-acquisition.md) |
-| Retrieval baseline and evaluation | [Evaluation](evaluation-guide.md) |
-| Online OpenAI/NVIDIA document extraction | [Configuration and review workflow](online-extraction-guide.md) |
-| Paired Kaggle/Colab model comparison and ChPL pilot | [Current experiment guide](../experiments/model-comparison-v2/README.md) |
-| Installation, migration and backup/recovery | [Release operations](release-recovery.md) |
-| Executed acceptance and thesis boundaries | [Release evidence](release-evidence.md) |
+### Using the application
+
+- [Staff accounts](accounts.md) covers activation, roles and password recovery.
+- [Clinician workspace](final-workspace.md) describes the screens available to each role. [Patient history](patient-history.md) covers observations, corrections and saved assessments.
+- [AI extraction](online-extraction-guide.md) explains how to configure OpenAI or NVIDIA and review suggestions against the source document.
+
+### Clinical review and evaluation
+
+- [Clinical review checklist](clinical-review.md) describes the pending rule and what a pharmacist needs to verify. [The synthetic case guide](user-cases-and-logic-review.md) describes the 39 fictional scenarios and their expected software behavior.
+- [Calculator references](calculator-sources.md) and [Polish ChPL source records](polish-chpl-acquisition.md) document the equations and source documents used in the prototype.
+- [Retrieval evaluation](evaluation-guide.md) covers the baseline and independent labels. The [model comparison guide](../experiments/model-comparison-v2/README.md) covers the paired experiments and ChPL pilot.
+
+### Development and operations
+
+- [Architecture](architecture.md) maps the application and database. [Development](development.md) covers host builds, tests and API regeneration.
+- [Release and recovery](release-recovery.md) covers migration, backups and restore checks. [Release evidence](release-evidence.md) records which checks passed and which thesis questions remain open.
 
 ## Decisions and historical evidence
 
-[ADR-002](ADR-002-main-system.md) records the original persisted-API/extractive-RAG decision; its plain-browser choice has since been superseded by React. Dated verification and planning narrative are indexed under [.planning/history](../.planning/history/README.md). Historical counts/commands describe those checkpoints, not the current application. The superseded [local-model research](../.planning/history/local-extraction-research-2026-11-05.md) is retained there for provenance. Phase plans, requirements and summaries remain in [.planning](../.planning/ROADMAP.md).
-
-[materials-manifest.json](materials-manifest.json) records hashes of the original thesis/design inputs. Its paths are relative to the repository root and point to an external sibling project; these inputs are not runtime dependencies or bundled source files.
-
-Generated browser bundles, dependencies, reports, screenshots and local working copies are ignored. Private credentials and database backups belong under `.local/`; never commit them. Immutable migrations, source PDFs/text and original provenance manifests are retained even when old: they support audit and historical replay.
+- [Architecture decision ADR-002](ADR-002-main-system.md) explains the original API and retrieval design. The current interface uses React.
+- [Project roadmap](../.planning/ROADMAP.md) and [historical records](../.planning/history/README.md) track phases and dated verification, including the [earlier local-model research](../.planning/history/local-extraction-research-2026-11-05.md).
+- [Thesis materials manifest](materials-manifest.json) lists checksums for the original design files stored in the sibling thesis project.
