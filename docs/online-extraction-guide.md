@@ -72,12 +72,6 @@ input/output usage fields used by the review screen and comparison report. Do no
 assume NVIDIA supports the OpenAI-specific `store: false` setting; it is not sent.
 Only the public product document is transmitted, as in the OpenAI workflow.
 
-On 2026-11-17, local adapter tests passed, but the live requests returned HTTP 404.
-The configured key could list 32 NVIDIA models, with no Kimi entry; an additional
-tiny check of the underscore spelling also returned 404. No Kimi extraction or
-quality comparison completed. Account/model availability must be resolved before
-claiming a successful live test.
-
 ### Other NVIDIA models
 
 The same adapter can select these model IDs through `RENALSAFE_NVIDIA_MODEL` or
@@ -115,32 +109,6 @@ including when the model returned text that failed local validation. A failed
 validation has no successful completeness score; do not interpret an empty check
 map as passing. Token comparisons remain available for returned responses with
 the same source and returned model, even if their extracted content was rejected.
-
-On 2026-11-17, NVIDIA listed all three models, but each full-input and retrieval
-request reached the 90-second client limit without a response. A separate
-32-token Muse diagnostic with reasoning disabled also timed out after 30 seconds.
-No token usage, completeness score or quality comparison was obtained. The local
-extraction/model-configuration tests passed; inference availability/latency remains
-unresolved. The six extraction attempts and diagnostic are summarized under
-`outputs/extraction-comparison/nvidia-three-models-20261117/REPORT.md`.
-
-A subsequent user-supplied Mistral image example succeeded in both streaming
-(first event 0.76 seconds, completed in 22.6 seconds) and non-streaming mode
-(27.3 seconds). Thus the earlier document-request timeouts do not establish model
-unavailability or a requirement to use streaming. Large-document extraction
-latency and quality remain unresolved. Exact diagnostic inputs and timing are
-recorded in `outputs/nvidia-stream-diagnostic/REPORT.md`.
-
-Repeating the three models' full/retrieval comparisons with a test-only
-300-second HTTP limit also produced no responses for all six completed document
-requests. Sending the exact large Mistral request independently through curl
-reproduced the 300-second timeout, so changing HTTP clients alone did not resolve
-it. In separate user-supplied curl samples, Gemma 4 31B correctly returned 391 in
-52.8 seconds, Muse correctly selected 9.8 in 118.7 seconds, and GLM reached the
-300-second limit. These small-task successes do not validate document extraction;
-the document-request cause and clinical quality remain unresolved. Interrupted
-local attempts are recorded separately from completed timeout tests. See
-`outputs/extraction-comparison/nvidia-five-minute-20261117/REPORT.md`.
 
 ## Use
 
