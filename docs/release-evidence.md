@@ -1,5 +1,7 @@
 # Phase 9 release evidence — 2026-11-05
 
+> **Dated checkpoint.** These checks ran on 2026-11-05 against migrations 001–004. Migration 005 (online extraction jobs), the online OpenAI/NVIDIA extraction workflow and later React changes (including the 2026-11-18 saved-result and inline-source updates) were added afterwards and have not yet been covered by a repeated installation, recovery and all-role browser run. Re-run `scripts/check-installation.py`, `scripts/recovery.py verify … --browser` and `scripts/smoke-workspace.cjs` before citing these results for the current revision.
+
 This report records executed engineering checks for the local academic RenalSafe application. It is not evidence of clinical validation, model quality or production suitability. Implementation and installation instructions: `release-recovery.md`.
 
 ## Executed checks

@@ -36,7 +36,7 @@ Patient, observation and assessment lists use cursors (default 20, maximum 50 re
 
 ## Storage and API
 
-Migration 004 adds synthetic profiles, case access, append-only observations and append-only assessment links. Database triggers prevent reassignment of case identity, modification/deletion of observations and result links, wrong-patient observation association and cross-case predecessors. Existing assessments, engine inputs/outputs, source bytes and migrations 001–003 are unchanged.
+Migration 004 adds synthetic profiles, case access, append-only observations and append-only assessment links. Database triggers prevent reassignment of case identity, modification/deletion of observations and result links, wrong-patient observation association and cross-case predecessors. Existing assessments, engine inputs/outputs, source bytes and migrations 001–003 are unchanged. Later migration 005 adds online extraction jobs and does not alter patient-history tables.
 
 New patient assessment requests build the existing deterministic engine request using the selected stored creatinine, uncertainty, sample time and IDMS fields; submitted copies of those laboratory fields cannot override the selected observation. Current age/sex/weight/height, scope flags, medicines and regimen inputs remain explicit. The engine still owns calculation, eligibility, manual-review gates and cited decisions.
 

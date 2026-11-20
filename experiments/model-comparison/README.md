@@ -4,9 +4,14 @@ Upload **`renalsafe_model_comparison.ipynb`** to Kaggle Notebooks or Colab. It e
 required code and datasets; no GitHub permission, RenalSafe deployment, database, or
 local service is needed. The Python sources alongside it are the editable originals.
 
-Status: implemented experiment harness with offline regression tests. **Neither model
-has been run by this work.** Dependency pins are available registry versions checked
-2026-11-05, not a claim of successful GPU compatibility. There are no measured model
+> **Superseded.** This first harness is kept for reference. Use
+> [model-comparison-v2](../model-comparison-v2/README.md) for current paired experiments.
+
+Status: implemented experiment harness with offline regression tests. The Qwen and
+MedGemma notebook runs have since been completed outside the repository; their
+extracted outputs are not tracked and are not reported here as validated results.
+Dependency pins are available registry versions checked 2026-11-05, not a claim of
+successful GPU compatibility. There are no measured model
 scores, independent clinical labels, or approved rules in this package.
 
 ## First run

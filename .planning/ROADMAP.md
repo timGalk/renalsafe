@@ -76,11 +76,15 @@ Online extraction is implemented with in-process Go jobs and OpenAI/NVIDIA adapt
 | 3 | 2/2 | Software complete | 2026-10-19 |
 | 4 | 1/2 | Manual/online extraction implemented; evaluation open | — |
 | 5 | 1/2 | Retrieval slice complete | — |
+| 6 | 1/1 | Software complete | 2026-11-05 |
+| 7 | 1/1 | Software complete | 2026-11-05 |
+| 8 | 1/1 | Software complete | 2026-11-05 |
+| 9 | 1/1 | Release checkpoint complete | 2026-11-05 |
 
 Clinical validation, harder-PDF fidelity and independent model/gold-set evaluation are not claimed complete.
 
 
-## Final academic workspace extension — planned 2026-11-05
+## Final academic workspace extension — planned 2026-11-05, complete
 
 User confirmed clinician-managed synthetic patient history, without a patient portal. The original account/session login and React frontend scope is implemented in Phases 6 and 8. Detailed contract and research: [FINAL-VERSION-PLAN.md](FINAL-VERSION-PLAN.md), [FINAL-VERSION-RESEARCH.md](FINAL-VERSION-RESEARCH.md).
 

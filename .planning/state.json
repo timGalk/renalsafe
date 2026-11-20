@@ -50,9 +50,9 @@
     }
   ],
   "next": {
-    "command": "$gsd-plan-phase 4",
-    "label": "Plan independent extraction and harder-PDF evaluation",
+    "command": "$gsd-execute-phase 4",
+    "label": "Execute 04-02: independent extraction and harder-PDF evaluation",
     "reason": "Online OpenAI/NVIDIA extraction and PENDING review are implemented; independent clinical labels, extraction quality and harder-PDF fidelity remain open"
   },
-  "updated_at": "2026-11-19"
+  "updated_at": "2026-11-20"
 }

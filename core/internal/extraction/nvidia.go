@@ -48,7 +48,7 @@ func (n *NVIDIA) GenerationSettings() map[string]any {
 	switch n.model {
 	case "mistralai/mistral-large-4-1t-a52b":
 		settings["reasoning_effort"] = "high"
-	case "meta/muse-glimmer-30b", DefaultNVIDIAModel, "moonshotai/kimi-k3_1-pro":
+	case "meta/muse-glimmer-30b", DefaultNVIDIAModel:
 		settings["reasoning_effort"] = ReasoningEffort
 	}
 	return settings
